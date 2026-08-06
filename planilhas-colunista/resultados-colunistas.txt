@@ -1,0 +1,1267 @@
+--- Distribuição da Posição-sujeito na Categoria: 'CATEGORIA 1 — VERDADE COMO FUNDAMENTO IDENTITÁRIO, NORMATIVO E EPISTÊMICO DA PROFISSÃO' ---
+Total de textos únicos analisados: 128
+
+index,Index,Posição-sujeito / Autor,Quantidade,Porcentagem (%)
+0,0,1.1.5 - Comentarista,64,50.0
+1,0_a1,Carlos Alberto Di Franco,52,40.62
+2,0_a2,Míriam Leitão,4,3.12
+3,0_a3,José Henrique Mariante,3,2.34
+4,0_a4,FB,3,2.34
+5,0_a5,Cristina Tardáguila,1,0.78
+6,0_a6,Fabiana Moraes,1,0.78
+7,1,1.1.1 - Participante,12,9.38
+8,1_a1,Carlos Alberto Di Franco,7,5.47
+9,1_a2,Natália Viana,3,2.34
+10,1_a3,Cristina Tardáguila,1,0.78
+11,1_a4,Fabiana Moraes,1,0.78
+12,2,1.1.2 - Testemunha,1,0.78
+13,2_a1,Carlos Alberto Di Franco,1,0.78
+14,3,1.1.4 - Especialista,8,6.25
+15,3_a1,Carlos Alberto Di Franco,4,3.12
+16,3_a2,Cristina Tardáguila,1,0.78
+17,3_a3,Eugênio Bucci,1,0.78
+18,3_a4,Fabiana Moraes,1,0.78
+19,3_a5,José Henrique Mariante,1,0.78
+20,4,1.1.3 - Observador,43,33.59
+21,4_a1,Cristina Tardáguila,9,7.03
+22,4_a2,Míriam Leitão,9,7.03
+23,4_a3,José Henrique Mariante,6,4.69
+24,4_a4,Flávia Lima,5,3.91
+25,4_a5,Carlos Alberto Di Franco,4,3.12
+26,4_a6,Fabiana Moraes,4,3.12
+27,4_a7,Januária Cristina Alves,3,2.34
+28,4_a8,Natália Viana,2,1.56
+29,4_a9,FB,1,0.78
+
+
+
+
+---
+
+Distribuição do Papel Enunciativo na Categoria: 'CATEGORIA 1 — VERDADE COMO FUNDAMENTO IDENTITÁRIO, NORMATIVO E EPISTÊMICO DA PROFISSÃO' ---
+Total de textos únicos analisados: 128
+
+index,Index,Papel Enunciativo / Autor,Quantidade,Porcentagem (%)
+0,0,1.2.1 Observador-Intérprete (ou Analista),63,49.22
+1,0_a1,Carlos Alberto Di Franco,29,22.66
+2,0_a2,Míriam Leitão,11,8.59
+3,0_a3,Cristina Tardáguila,6,4.69
+4,0_a4,Fabiana Moraes,4,3.12
+5,0_a5,José Henrique Mariante,4,3.12
+6,0_a6,FB,3,2.34
+7,0_a7,Januária Cristina Alves,3,2.34
+8,0_a8,Eugênio Bucci,1,0.78
+9,0_a9,Flávia Lima,1,0.78
+10,0_a10,Natália Viana,1,0.78
+11,1,1.2.3 Crítico-Monitor (ou Cão de Guarda),52,40.62
+12,1_a1,Carlos Alberto Di Franco,29,22.66
+13,1_a2,Cristina Tardáguila,6,4.69
+14,1_a3,José Henrique Mariante,6,4.69
+15,1_a4,Flávia Lima,4,3.12
+16,1_a5,Fabiana Moraes,3,2.34
+17,1_a6,Natália Viana,3,2.34
+18,1_a7,Míriam Leitão,1,0.78
+19,2,1.2.5 Mobilizador,3,2.34
+20,2_a1,Carlos Alberto Di Franco,3,2.34
+21,3,1.2.4 Militante,7,5.47
+22,3_a1,Carlos Alberto Di Franco,6,4.69
+23,3_a2,Míriam Leitão,1,0.78
+24,4,1.2.2 Narrador-Testemunha,2,1.56
+25,4_a1,Carlos Alberto Di Franco,1,0.78
+26,4_a2,Natália Viana,1,0.78
+27,5,1.2.6 Historiador (ou Intérprete do “Tempo Duplo”),1,0.78
+28,5_a1,FB,1,0.78
+
+--- Distribuição das Estratégias na Categoria: 'CATEGORIA 1 — VERDADE COMO FUNDAMENTO IDENTITÁRIO, NORMATIVO E EPISTÊMICO DA PROFISSÃO' ---
+Total de textos únicos analisados: 128
+(Nota: A soma das porcentagens pode ultrapassar 100% pois um texto pode conter múltiplas estratégias)
+
+index,Index,Estratégia / Autor,Quantidade,Porcentagem (%)
+0,0,2.1 Ethos e fiador,119,92.97
+1,0_a1,Carlos Alberto Di Franco,68,53.12
+2,0_a2,José Henrique Mariante,10,7.81
+3,0_a3,Míriam Leitão,9,7.03
+4,0_a4,Cristina Tardáguila,8,6.25
+5,0_a5,Fabiana Moraes,7,5.47
+6,0_a6,Natália Viana,5,3.91
+7,0_a7,FB,4,3.12
+8,0_a8,Flávia Lima,4,3.12
+9,0_a9,Januária Cristina Alves,3,2.34
+10,0_a10,Eugênio Bucci,1,0.78
+11,1,2.2 Discurso relatado,93,72.66
+12,1_a1,Carlos Alberto Di Franco,37,28.91
+13,1_a2,Cristina Tardáguila,12,9.38
+14,1_a3,Míriam Leitão,11,8.59
+15,1_a4,José Henrique Mariante,10,7.81
+16,1_a5,Fabiana Moraes,7,5.47
+17,1_a6,Flávia Lima,5,3.91
+18,1_a7,Natália Viana,5,3.91
+19,1_a8,Januária Cristina Alves,3,2.34
+20,1_a9,FB,2,1.56
+21,1_a10,Eugênio Bucci,1,0.78
+22,2,2.4 Cenografia,22,17.19
+23,2_a1,Carlos Alberto Di Franco,16,12.5
+24,2_a2,Natália Viana,3,2.34
+25,2_a3,Míriam Leitão,2,1.56
+26,2_a4,FB,1,0.78
+27,3,2.5 Autoridade institucional,70,54.69
+28,3_a1,Carlos Alberto Di Franco,31,24.22
+29,3_a2,Cristina Tardáguila,11,8.59
+30,3_a3,José Henrique Mariante,8,6.25
+31,3_a4,Míriam Leitão,6,4.69
+32,3_a5,Flávia Lima,5,3.91
+33,3_a6,Fabiana Moraes,4,3.12
+34,3_a7,Natália Viana,3,2.34
+35,3_a8,Eugênio Bucci,1,0.78
+36,3_a9,Januária Cristina Alves,1,0.78
+37,4,2.3 Polifonia,86,67.19
+38,4_a1,Carlos Alberto Di Franco,48,37.5
+39,4_a2,Fabiana Moraes,7,5.47
+40,4_a3,José Henrique Mariante,7,5.47
+41,4_a4,Míriam Leitão,7,5.47
+42,4_a5,Cristina Tardáguila,5,3.91
+43,4_a6,Natália Viana,4,3.12
+44,4_a7,FB,3,2.34
+45,4_a8,Flávia Lima,3,2.34
+46,4_a9,Januária Cristina Alves,2,1.56
+
+--- Distribuição do Papel do Leitor na Categoria: 'CATEGORIA 1 — VERDADE COMO FUNDAMENTO IDENTITÁRIO, NORMATIVO E EPISTÊMICO DA PROFISSÃO' ---
+Total de textos únicos analisados: 128
+
+index,Index,Papel do Leitor / Autor,Quantidade,Porcentagem (%)
+0,0,3.1 Parceiro,24,18.75
+1,0_a1,Carlos Alberto Di Franco,20,15.62
+2,0_a2,Cristina Tardáguila,1,0.78
+3,0_a3,Fabiana Moraes,1,0.78
+4,0_a4,José Henrique Mariante,1,0.78
+5,0_a5,Natália Viana,1,0.78
+6,1,3.2 Aprendiz,11,8.59
+7,1_a1,Carlos Alberto Di Franco,4,3.12
+8,1_a2,Míriam Leitão,4,3.12
+9,1_a3,Eugênio Bucci,1,0.78
+10,1_a4,Fabiana Moraes,1,0.78
+11,1_a5,José Henrique Mariante,1,0.78
+12,2,3.3 Cidadão,75,58.59
+13,2_a1,Carlos Alberto Di Franco,33,25.78
+14,2_a2,Míriam Leitão,9,7.03
+15,2_a3,José Henrique Mariante,8,6.25
+16,2_a4,Cristina Tardáguila,7,5.47
+17,2_a5,Flávia Lima,5,3.91
+18,2_a6,Fabiana Moraes,4,3.12
+19,2_a7,FB,4,3.12
+20,2_a8,Natália Viana,3,2.34
+21,2_a9,Januária Cristina Alves,2,1.56
+22,3,3.6 Público a ser mobilizado,7,5.47
+23,3_a1,Carlos Alberto Di Franco,6,4.69
+24,3_a2,Januária Cristina Alves,1,0.78
+25,4,3.5 Vítima da desinformação,9,7.03
+26,4_a1,Carlos Alberto Di Franco,5,3.91
+27,4_a2,Cristina Tardáguila,4,3.12
+28,5,3.4 Cúmplice,2,1.56
+29,5_a1,Fabiana Moraes,1,0.78
+30,5_a2,Natália Viana,1,0.78
+
+--- Distribuição da Posição-sujeito na Subcategoria: '1.1 Verdade como missão profissional' ---
+Total de textos únicos analisados: 14
+
+index,Index,Posição-sujeito / Autor,Quantidade,Porcentagem (%)
+0,0,1.1.2 - Testemunha,1,7.14
+1,0_a1,Carlos Alberto Di Franco,1,7.14
+2,1,1.1.4 - Especialista,3,21.43
+3,1_a1,Carlos Alberto Di Franco,2,14.29
+4,1_a2,Cristina Tardáguila,1,7.14
+5,2,1.1.5 - Comentarista,5,35.71
+6,2_a1,Carlos Alberto Di Franco,3,21.43
+7,2_a2,Cristina Tardáguila,1,7.14
+8,2_a3,José Henrique Mariante,1,7.14
+9,3,1.1.1 - Participante,3,21.43
+10,3_a1,Carlos Alberto Di Franco,2,14.29
+11,3_a2,Natália Viana,1,7.14
+12,4,1.1.3 - Observador,2,14.29
+13,4_a1,Carlos Alberto Di Franco,1,7.14
+14,4_a2,Míriam Leitão,1,7.14
+
+--- Distribuição do Papel Enunciativo na Subcategoria: '1.1 Verdade como missão profissional' ---
+Total de textos únicos analisados: 14
+
+index,Index,Papel Enunciativo / Autor,Quantidade,Porcentagem (%)
+0,0,1.2.1 Observador-Intérprete (ou Analista),7,50.0
+1,0_a1,Carlos Alberto Di Franco,5,35.71
+2,0_a2,Cristina Tardáguila,1,7.14
+3,0_a3,Míriam Leitão,1,7.14
+4,1,1.2.3 Crítico-Monitor (ou Cão de Guarda),4,28.57
+5,1_a1,Carlos Alberto Di Franco,2,14.29
+6,1_a2,Cristina Tardáguila,1,7.14
+7,1_a3,José Henrique Mariante,1,7.14
+8,2,1.2.5 Mobilizador,1,7.14
+9,2_a1,Carlos Alberto Di Franco,1,7.14
+10,3,1.2.2 Narrador-Testemunha,2,14.29
+11,3_a1,Carlos Alberto Di Franco,1,7.14
+12,3_a2,Natália Viana,1,7.14
+
+--- Distribuição das Estratégias na Subcategoria: '1.1 Verdade como missão profissional' ---
+Total de textos únicos analisados: 14
+(Nota: A soma das porcentagens pode ultrapassar 100% pois um texto pode conter múltiplas estratégias)
+
+index,Index,Estratégia / Autor,Quantidade,Porcentagem (%)
+0,0,2.1 Ethos e fiador,12,85.71
+1,0_a1,Carlos Alberto Di Franco,9,64.29
+2,0_a2,Cristina Tardáguila,1,7.14
+3,0_a3,José Henrique Mariante,1,7.14
+4,0_a4,Natália Viana,1,7.14
+5,1,2.2 Discurso relatado,11,78.57
+6,1_a1,Carlos Alberto Di Franco,6,42.86
+7,1_a2,Cristina Tardáguila,2,14.29
+8,1_a3,José Henrique Mariante,1,7.14
+9,1_a4,Míriam Leitão,1,7.14
+10,1_a5,Natália Viana,1,7.14
+11,2,2.3 Polifonia,2,14.29
+12,2_a1,Carlos Alberto Di Franco,2,14.29
+13,3,2.4 Cenografia,4,28.57
+14,3_a1,Carlos Alberto Di Franco,3,21.43
+15,3_a2,Natália Viana,1,7.14
+16,4,2.5 Autoridade institucional,10,71.43
+17,4_a1,Carlos Alberto Di Franco,5,35.71
+18,4_a2,Cristina Tardáguila,2,14.29
+19,4_a3,José Henrique Mariante,1,7.14
+20,4_a4,Míriam Leitão,1,7.14
+21,4_a5,Natália Viana,1,7.14
+
+--- Distribuição do Papel do Leitor na Subcategoria: '1.1 Verdade como missão profissional' ---
+Total de textos únicos analisados: 14
+
+index,Index,Papel do Leitor / Autor,Quantidade,Porcentagem (%)
+0,0,3.1 Parceiro,4,28.57
+1,0_a1,Carlos Alberto Di Franco,4,28.57
+2,1,3.3 Cidadão,9,64.29
+3,1_a1,Carlos Alberto Di Franco,4,28.57
+4,1_a2,Cristina Tardáguila,2,14.29
+5,1_a3,José Henrique Mariante,1,7.14
+6,1_a4,Míriam Leitão,1,7.14
+7,1_a5,Natália Viana,1,7.14
+8,2,3.6 Público a ser mobilizado,1,7.14
+9,2_a1,Carlos Alberto Di Franco,1,7.14
+
+--- Distribuição da Posição-sujeito na Subcategoria: '1.2 Verdade como problema epistemológico' ---
+Total de textos únicos analisados: 60
+
+index,Index,Posição-sujeito / Autor,Quantidade,Porcentagem (%)
+0,0,1.1.1 - Participante,3,5.0
+1,0_a1,Natália Viana,2,3.33
+2,0_a2,Carlos Alberto Di Franco,1,1.67
+3,1,1.1.5 - Comentarista,25,41.67
+4,1_a1,Carlos Alberto Di Franco,17,28.33
+5,1_a2,Míriam Leitão,4,6.67
+6,1_a3,FB,3,5.0
+7,1_a4,Fabiana Moraes,1,1.67
+8,2,1.1.3 - Observador,30,50.0
+9,2_a1,Míriam Leitão,8,13.33
+10,2_a2,Cristina Tardáguila,6,10.0
+11,2_a3,Flávia Lima,5,8.33
+12,2_a4,José Henrique Mariante,4,6.67
+13,2_a5,Januária Cristina Alves,2,3.33
+14,2_a6,Fabiana Moraes,2,3.33
+15,2_a7,Carlos Alberto Di Franco,1,1.67
+16,2_a8,FB,1,1.67
+17,2_a9,Natália Viana,1,1.67
+18,3,1.1.4 - Especialista,2,3.33
+19,3_a1,Eugênio Bucci,1,1.67
+20,3_a2,Fabiana Moraes,1,1.67
+
+--- Distribuição do Papel Enunciativo na Subcategoria: '1.2 Verdade como problema epistemológico' ---
+Total de textos únicos analisados: 60
+
+index,Index,Papel Enunciativo / Autor,Quantidade,Porcentagem (%)
+0,0,1.2.5 Mobilizador,1,1.67
+1,0_a1,Carlos Alberto Di Franco,1,1.67
+2,1,1.2.1 Observador-Intérprete (ou Analista),39,65.0
+3,1_a1,Carlos Alberto Di Franco,12,20.0
+4,1_a2,Míriam Leitão,10,16.67
+5,1_a3,Cristina Tardáguila,5,8.33
+6,1_a4,Fabiana Moraes,3,5.0
+7,1_a5,FB,3,5.0
+8,1_a6,Januária Cristina Alves,2,3.33
+9,1_a7,José Henrique Mariante,2,3.33
+10,1_a8,Flávia Lima,1,1.67
+11,1_a9,Eugênio Bucci,1,1.67
+12,2,1.2.3 Crítico-Monitor (ou Cão de Guarda),18,30.0
+13,2_a1,Carlos Alberto Di Franco,6,10.0
+14,2_a2,Flávia Lima,4,6.67
+15,2_a3,Natália Viana,3,5.0
+16,2_a4,José Henrique Mariante,2,3.33
+17,2_a5,Cristina Tardáguila,1,1.67
+18,2_a6,Fabiana Moraes,1,1.67
+19,2_a7,Míriam Leitão,1,1.67
+20,3,1.2.6 Historiador (ou Intérprete do “Tempo Duplo”),1,1.67
+21,3_a1,FB,1,1.67
+22,4,1.2.4 Militante,1,1.67
+23,4_a1,Míriam Leitão,1,1.67
+
+--- Distribuição das Estratégias na Subcategoria: '1.2 Verdade como problema epistemológico' ---
+Total de textos únicos analisados: 60
+(Nota: A soma das porcentagens pode ultrapassar 100% pois um texto pode conter múltiplas estratégias)
+
+index,Index,Estratégia / Autor,Quantidade,Porcentagem (%)
+0,0,2.1 Ethos e fiador,54,90.0
+1,0_a1,Carlos Alberto Di Franco,19,31.67
+2,0_a2,Míriam Leitão,9,15.0
+3,0_a3,Cristina Tardáguila,4,6.67
+4,0_a4,FB,4,6.67
+5,0_a5,Fabiana Moraes,4,6.67
+6,0_a6,Flávia Lima,4,6.67
+7,0_a7,José Henrique Mariante,4,6.67
+8,0_a8,Natália Viana,3,5.0
+9,0_a9,Januária Cristina Alves,2,3.33
+10,0_a10,Eugênio Bucci,1,1.67
+11,1,2.2 Discurso relatado,49,81.67
+12,1_a1,Carlos Alberto Di Franco,12,20.0
+13,1_a2,Míriam Leitão,10,16.67
+14,1_a3,Cristina Tardáguila,6,10.0
+15,1_a4,Flávia Lima,5,8.33
+16,1_a5,José Henrique Mariante,4,6.67
+17,1_a6,Fabiana Moraes,4,6.67
+18,1_a7,Natália Viana,3,5.0
+19,1_a8,FB,2,3.33
+20,1_a9,Januária Cristina Alves,2,3.33
+21,1_a10,Eugênio Bucci,1,1.67
+22,2,2.5 Autoridade institucional,31,51.67
+23,2_a1,Carlos Alberto Di Franco,7,11.67
+24,2_a2,Cristina Tardáguila,5,8.33
+25,2_a3,Flávia Lima,5,8.33
+26,2_a4,Míriam Leitão,5,8.33
+27,2_a5,José Henrique Mariante,4,6.67
+28,2_a6,Fabiana Moraes,2,3.33
+29,2_a7,Eugênio Bucci,1,1.67
+30,2_a8,Januária Cristina Alves,1,1.67
+31,2_a9,Natália Viana,1,1.67
+32,3,2.3 Polifonia,40,66.67
+33,3_a1,Carlos Alberto Di Franco,13,21.67
+34,3_a2,Míriam Leitão,7,11.67
+35,3_a3,Fabiana Moraes,4,6.67
+36,3_a4,FB,3,5.0
+37,3_a5,Cristina Tardáguila,3,5.0
+38,3_a6,Flávia Lima,3,5.0
+39,3_a7,José Henrique Mariante,3,5.0
+40,3_a8,Natália Viana,3,5.0
+41,3_a9,Januária Cristina Alves,1,1.67
+42,4,2.4 Cenografia,8,13.33
+43,4_a1,Carlos Alberto Di Franco,3,5.0
+44,4_a2,Míriam Leitão,2,3.33
+45,4_a3,Natália Viana,2,3.33
+46,4_a4,FB,1,1.67
+
+--- Distribuição do Papel do Leitor na Subcategoria: '1.2 Verdade como problema epistemológico' ---
+Total de textos únicos analisados: 60
+
+index,Index,Papel do Leitor / Autor,Quantidade,Porcentagem (%)
+0,0,3.1 Parceiro,13,21.67
+1,0_a1,Carlos Alberto Di Franco,10,16.67
+2,0_a2,Cristina Tardáguila,1,1.67
+3,0_a3,Fabiana Moraes,1,1.67
+4,0_a4,Natália Viana,1,1.67
+5,1,3.3 Cidadão,37,61.67
+6,1_a1,Carlos Alberto Di Franco,8,13.33
+7,1_a2,Míriam Leitão,8,13.33
+8,1_a3,Flávia Lima,5,8.33
+9,1_a4,FB,4,6.67
+10,1_a5,Cristina Tardáguila,4,6.67
+11,1_a6,José Henrique Mariante,4,6.67
+12,1_a7,Fabiana Moraes,2,3.33
+13,1_a8,Januária Cristina Alves,1,1.67
+14,1_a9,Natália Viana,1,1.67
+15,2,3.2 Aprendiz,7,11.67
+16,2_a1,Míriam Leitão,4,6.67
+17,2_a2,Carlos Alberto Di Franco,1,1.67
+18,2_a3,Eugênio Bucci,1,1.67
+19,2_a4,Fabiana Moraes,1,1.67
+20,3,3.5 Vítima da desinformação,1,1.67
+21,3_a1,Cristina Tardáguila,1,1.67
+22,4,3.6 Público a ser mobilizado,1,1.67
+23,4_a1,Januária Cristina Alves,1,1.67
+24,5,3.4 Cúmplice,1,1.67
+25,5_a1,Natália Viana,1,1.67
+
+--- Distribuição da Posição-sujeito na Subcategoria: '1.3 Verdade, valores profissionais e fronteiras do campo' ---
+Total de textos únicos analisados: 54
+
+index,Index,Posição-sujeito / Autor,Quantidade,Porcentagem (%)
+0,0,1.1.5 - Comentarista,34,62.96
+1,0_a1,Carlos Alberto Di Franco,32,59.26
+2,0_a2,José Henrique Mariante,2,3.7
+3,1,1.1.1 - Participante,6,11.11
+4,1_a1,Carlos Alberto Di Franco,4,7.41
+5,1_a2,Cristina Tardáguila,1,1.85
+6,1_a3,Fabiana Moraes,1,1.85
+7,2,1.1.4 - Especialista,3,5.56
+8,2_a1,Carlos Alberto Di Franco,2,3.7
+9,2_a2,José Henrique Mariante,1,1.85
+10,3,1.1.3 - Observador,11,20.37
+11,3_a1,Cristina Tardáguila,3,5.56
+12,3_a2,Carlos Alberto Di Franco,2,3.7
+13,3_a3,Fabiana Moraes,2,3.7
+14,3_a4,José Henrique Mariante,2,3.7
+15,3_a5,Januária Cristina Alves,1,1.85
+16,3_a6,Natália Viana,1,1.85
+
+--- Distribuição do Papel Enunciativo na Subcategoria: '1.3 Verdade, valores profissionais e fronteiras do campo' ---
+Total de textos únicos analisados: 54
+
+index,Index,Papel Enunciativo / Autor,Quantidade,Porcentagem (%)
+0,0,1.2.1 Observador-Intérprete (ou Analista),17,31.48
+1,0_a1,Carlos Alberto Di Franco,12,22.22
+2,0_a2,José Henrique Mariante,2,3.7
+3,0_a3,Fabiana Moraes,1,1.85
+4,0_a4,Januária Cristina Alves,1,1.85
+5,0_a5,Natália Viana,1,1.85
+6,1,1.2.3 Crítico-Monitor (ou Cão de Guarda),30,55.56
+7,1_a1,Carlos Alberto Di Franco,21,38.89
+8,1_a2,Cristina Tardáguila,4,7.41
+9,1_a3,José Henrique Mariante,3,5.56
+10,1_a4,Fabiana Moraes,2,3.7
+11,2,1.2.4 Militante,6,11.11
+12,2_a1,Carlos Alberto Di Franco,6,11.11
+13,3,1.2.5 Mobilizador,1,1.85
+14,3_a1,Carlos Alberto Di Franco,1,1.85
+
+--- Distribuição das Estratégias na Subcategoria: '1.3 Verdade, valores profissionais e fronteiras do campo' ---
+Total de textos únicos analisados: 54
+(Nota: A soma das porcentagens pode ultrapassar 100% pois um texto pode conter múltiplas estratégias)
+
+index,Index,Estratégia / Autor,Quantidade,Porcentagem (%)
+0,0,2.1 Ethos e fiador,53,98.15
+1,0_a1,Carlos Alberto Di Franco,40,74.07
+2,0_a2,José Henrique Mariante,5,9.26
+3,0_a3,Cristina Tardáguila,3,5.56
+4,0_a4,Fabiana Moraes,3,5.56
+5,0_a5,Januária Cristina Alves,1,1.85
+6,0_a6,Natália Viana,1,1.85
+7,1,2.2 Discurso relatado,33,61.11
+8,1_a1,Carlos Alberto Di Franco,19,35.19
+9,1_a2,José Henrique Mariante,5,9.26
+10,1_a3,Cristina Tardáguila,4,7.41
+11,1_a4,Fabiana Moraes,3,5.56
+12,1_a5,Januária Cristina Alves,1,1.85
+13,1_a6,Natália Viana,1,1.85
+14,2,2.4 Cenografia,10,18.52
+15,2_a1,Carlos Alberto Di Franco,10,18.52
+16,3,2.5 Autoridade institucional,29,53.7
+17,3_a1,Carlos Alberto Di Franco,19,35.19
+18,3_a2,Cristina Tardáguila,4,7.41
+19,3_a3,José Henrique Mariante,3,5.56
+20,3_a4,Fabiana Moraes,2,3.7
+21,3_a5,Natália Viana,1,1.85
+22,4,2.3 Polifonia,44,81.48
+23,4_a1,Carlos Alberto Di Franco,33,61.11
+24,4_a2,José Henrique Mariante,4,7.41
+25,4_a3,Fabiana Moraes,3,5.56
+26,4_a4,Cristina Tardáguila,2,3.7
+27,4_a5,Januária Cristina Alves,1,1.85
+28,4_a6,Natália Viana,1,1.85
+
+--- Distribuição do Papel do Leitor na Subcategoria: '1.3 Verdade, valores profissionais e fronteiras do campo' ---
+Total de textos únicos analisados: 54
+
+index,Index,Papel do Leitor / Autor,Quantidade,Porcentagem (%)
+0,0,3.1 Parceiro,7,12.96
+1,0_a1,Carlos Alberto Di Franco,6,11.11
+2,0_a2,José Henrique Mariante,1,1.85
+3,1,3.2 Aprendiz,4,7.41
+4,1_a1,Carlos Alberto Di Franco,3,5.56
+5,1_a2,José Henrique Mariante,1,1.85
+6,2,3.3 Cidadão,29,53.7
+7,2_a1,Carlos Alberto Di Franco,21,38.89
+8,2_a2,José Henrique Mariante,3,5.56
+9,2_a3,Fabiana Moraes,2,3.7
+10,2_a4,Cristina Tardáguila,1,1.85
+11,2_a5,Januária Cristina Alves,1,1.85
+12,2_a6,Natália Viana,1,1.85
+13,3,3.6 Público a ser mobilizado,5,9.26
+14,3_a1,Carlos Alberto Di Franco,5,9.26
+15,4,3.5 Vítima da desinformação,8,14.81
+16,4_a1,Carlos Alberto Di Franco,5,9.26
+17,4_a2,Cristina Tardáguila,3,5.56
+18,5,3.4 Cúmplice,1,1.85
+19,5_a1,Fabiana Moraes,1,1.85
+
+--- Distribuição da Posição-sujeito na Categoria: 'CATEGORIA 2 — VERDADE, SOCIEDADE E DEMOCRACIA' ---
+Total de textos únicos analisados: 24
+
+index,Index,Posição-sujeito / Autor,Quantidade,Porcentagem (%)
+0,0,1.1.5 - Comentarista,8,33.33
+1,0_a1,Carlos Alberto Di Franco,5,20.83
+2,0_a2,Míriam Leitão,2,8.33
+3,0_a3,Fabiana Moraes,1,4.17
+4,1,1.1.1 - Participante,5,20.83
+5,1_a1,Fabiana Moraes,2,8.33
+6,1_a2,Carlos Alberto Di Franco,1,4.17
+7,1_a3,Míriam Leitão,1,4.17
+8,1_a4,Natália Viana,1,4.17
+9,2,1.1.3 - Observador,10,41.67
+10,2_a1,Cristina Tardáguila,4,16.67
+11,2_a2,José Henrique Mariante,2,8.33
+12,2_a3,FB,1,4.17
+13,2_a4,Januária Cristina Alves,1,4.17
+14,2_a5,Míriam Leitão,1,4.17
+15,2_a6,Natália Viana,1,4.17
+16,3,1.1.4 - Especialista,1,4.17
+17,3_a1,FB,1,4.17
+
+--- Distribuição do Papel Enunciativo na Categoria: 'CATEGORIA 2 — VERDADE, SOCIEDADE E DEMOCRACIA' ---
+Total de textos únicos analisados: 24
+
+index,Index,Papel Enunciativo / Autor,Quantidade,Porcentagem (%)
+0,0,1.2.3 Crítico-Monitor (ou Cão de Guarda),9,37.5
+1,0_a1,Carlos Alberto Di Franco,3,12.5
+2,0_a2,Míriam Leitão,3,12.5
+3,0_a3,Cristina Tardáguila,1,4.17
+4,0_a4,Fabiana Moraes,1,4.17
+5,0_a5,Natália Viana,1,4.17
+6,1,1.2.1 Observador-Intérprete (ou Analista),11,45.83
+7,1_a1,Cristina Tardáguila,3,12.5
+8,1_a2,Carlos Alberto Di Franco,2,8.33
+9,1_a3,FB,2,8.33
+10,1_a4,Fabiana Moraes,1,4.17
+11,1_a5,Januária Cristina Alves,1,4.17
+12,1_a6,José Henrique Mariante,1,4.17
+13,1_a7,Míriam Leitão,1,4.17
+14,2,1.2.5 Mobilizador,1,4.17
+15,2_a1,Carlos Alberto Di Franco,1,4.17
+16,3,1.2.4 Militante,2,8.33
+17,3_a1,Fabiana Moraes,1,4.17
+18,3_a2,Natália Viana,1,4.17
+19,4,1.2.3 - Crítico-Monitor (ou Cão de Guarda),1,4.17
+20,4_a1,José Henrique Mariante,1,4.17
+
+--- Distribuição das Estratégias na Categoria: 'CATEGORIA 2 — VERDADE, SOCIEDADE E DEMOCRACIA' ---
+Total de textos únicos analisados: 24
+(Nota: A soma das porcentagens pode ultrapassar 100% pois um texto pode conter múltiplas estratégias)
+
+index,Index,Estratégia / Autor,Quantidade,Porcentagem (%)
+0,0,2.1 Ethos e fiador,20,83.33
+1,0_a1,Carlos Alberto Di Franco,6,25.0
+2,0_a2,Míriam Leitão,4,16.67
+3,0_a3,Fabiana Moraes,3,12.5
+4,0_a4,FB,2,8.33
+5,0_a5,Cristina Tardáguila,2,8.33
+6,0_a6,Natália Viana,2,8.33
+7,0_a7,José Henrique Mariante,1,4.17
+8,1,2.3 Polifonia,19,79.17
+9,1_a1,Carlos Alberto Di Franco,5,20.83
+10,1_a2,Míriam Leitão,4,16.67
+11,1_a3,Cristina Tardáguila,3,12.5
+12,1_a4,Fabiana Moraes,3,12.5
+13,1_a5,FB,2,8.33
+14,1_a6,Januária Cristina Alves,1,4.17
+15,1_a7,José Henrique Mariante,1,4.17
+16,2,2.2 Discurso relatado,22,91.67
+17,2_a1,Carlos Alberto Di Franco,4,16.67
+18,2_a2,Cristina Tardáguila,4,16.67
+19,2_a3,Míriam Leitão,4,16.67
+20,2_a4,Fabiana Moraes,3,12.5
+21,2_a5,FB,2,8.33
+22,2_a6,José Henrique Mariante,2,8.33
+23,2_a7,Natália Viana,2,8.33
+24,2_a8,Januária Cristina Alves,1,4.17
+25,3,2.4 Cenografia,1,4.17
+26,3_a1,Carlos Alberto Di Franco,1,4.17
+27,4,2.5 Autoridade institucional,9,37.5
+28,4_a1,Fabiana Moraes,2,8.33
+29,4_a2,José Henrique Mariante,2,8.33
+30,4_a3,Natália Viana,2,8.33
+31,4_a4,Cristina Tardáguila,1,4.17
+32,4_a5,Januária Cristina Alves,1,4.17
+33,4_a6,Míriam Leitão,1,4.17
+
+--- Distribuição do Papel do Leitor na Categoria: 'CATEGORIA 2 — VERDADE, SOCIEDADE E DEMOCRACIA' ---
+Total de textos únicos analisados: 24
+
+index,Index,Papel do Leitor / Autor,Quantidade,Porcentagem (%)
+0,0,3.3 Cidadão,17,70.83
+1,0_a1,Míriam Leitão,4,16.67
+2,0_a2,Carlos Alberto Di Franco,3,12.5
+3,0_a3,Cristina Tardáguila,3,12.5
+4,0_a4,FB,2,8.33
+5,0_a5,José Henrique Mariante,2,8.33
+6,0_a6,Fabiana Moraes,1,4.17
+7,0_a7,Januária Cristina Alves,1,4.17
+8,0_a8,Natália Viana,1,4.17
+9,1,3.6 Público a ser mobilizado,4,16.67
+10,1_a1,Carlos Alberto Di Franco,3,12.5
+11,1_a2,Fabiana Moraes,1,4.17
+12,2,3.2 Aprendiz,1,4.17
+13,2_a1,Cristina Tardáguila,1,4.17
+14,3,3.1 Parceiro,2,8.33
+15,3_a1,Fabiana Moraes,1,4.17
+16,3_a2,Natália Viana,1,4.17
+
+--- Distribuição da Posição-sujeito na Categoria: 'CATEGORIA 3 — VERDADE E MÉTODOS DE APURAÇÃO' ---
+Total de textos únicos analisados: 16
+
+index,Index,Posição-sujeito / Autor,Quantidade,Porcentagem (%)
+0,0,1.1.4 - Especialista,2,12.5
+1,0_a1,Cristina Tardáguila,2,12.5
+2,1,1.1.3 - Observador,10,62.5
+3,1_a1,Cristina Tardáguila,8,50.0
+4,1_a2,Flávia Lima,1,6.25
+5,1_a3,Míriam Leitão,1,6.25
+6,2,1.1.1 - Participante,2,12.5
+7,2_a1,Cristina Tardáguila,2,12.5
+8,3,1.1.5 - Comentarista,2,12.5
+9,3_a1,FB,1,6.25
+10,3_a2,Natália Viana,1,6.25
+
+--- Distribuição do Papel Enunciativo na Categoria: 'CATEGORIA 3 — VERDADE E MÉTODOS DE APURAÇÃO' ---
+Total de textos únicos analisados: 16
+
+index,Index,Papel Enunciativo / Autor,Quantidade,Porcentagem (%)
+0,0,1.2.1 Observador-Intérprete (ou Analista),10,62.5
+1,0_a1,Cristina Tardáguila,7,43.75
+2,0_a2,FB,1,6.25
+3,0_a3,Flávia Lima,1,6.25
+4,0_a4,Míriam Leitão,1,6.25
+5,1,1.2.3 Crítico-Monitor (ou Cão de Guarda),3,18.75
+6,1_a1,Cristina Tardáguila,3,18.75
+7,2,1.2.2 Narrador-Testemunha,1,6.25
+8,2_a1,Cristina Tardáguila,1,6.25
+9,3,1.2.4 Militante,2,12.5
+10,3_a1,Cristina Tardáguila,1,6.25
+11,3_a2,Natália Viana,1,6.25
+
+--- Distribuição das Estratégias na Categoria: 'CATEGORIA 3 — VERDADE E MÉTODOS DE APURAÇÃO' ---
+Total de textos únicos analisados: 16
+(Nota: A soma das porcentagens pode ultrapassar 100% pois um texto pode conter múltiplas estratégias)
+
+index,Index,Estratégia / Autor,Quantidade,Porcentagem (%)
+0,0,2.1 Ethos e fiador,7,43.75
+1,0_a1,Cristina Tardáguila,5,31.25
+2,0_a2,FB,1,6.25
+3,0_a3,Flávia Lima,1,6.25
+4,1,2.2 Discurso relatado,14,87.5
+5,1_a1,Cristina Tardáguila,11,68.75
+6,1_a2,Flávia Lima,1,6.25
+7,1_a3,Míriam Leitão,1,6.25
+8,1_a4,Natália Viana,1,6.25
+9,2,2.5 Autoridade institucional,13,81.25
+10,2_a1,Cristina Tardáguila,11,68.75
+11,2_a2,FB,1,6.25
+12,2_a3,Natália Viana,1,6.25
+13,3,2.3 Polifonia,8,50.0
+14,3_a1,Cristina Tardáguila,5,31.25
+15,3_a2,FB,1,6.25
+16,3_a3,Flávia Lima,1,6.25
+17,3_a4,Natália Viana,1,6.25
+18,4,2.4 Cenografia,2,12.5
+19,4_a1,Cristina Tardáguila,2,12.5
+
+--- Distribuição do Papel do Leitor na Categoria: 'CATEGORIA 3 — VERDADE E MÉTODOS DE APURAÇÃO' ---
+Total de textos únicos analisados: 16
+
+index,Index,Papel do Leitor / Autor,Quantidade,Porcentagem (%)
+0,0,3.2 Aprendiz,2,12.5
+1,0_a1,Cristina Tardáguila,2,12.5
+2,1,3.3 Cidadão,8,50.0
+3,1_a1,Cristina Tardáguila,5,31.25
+4,1_a2,FB,1,6.25
+5,1_a3,Míriam Leitão,1,6.25
+6,1_a4,Natália Viana,1,6.25
+7,2,3.1 Parceiro,1,6.25
+8,2_a1,Cristina Tardáguila,1,6.25
+9,3,3.5 Vítima da desinformação,5,31.25
+10,3_a1,Cristina Tardáguila,4,25.0
+11,3_a2,Flávia Lima,1,6.25
+
+--- Tabela: Posição-sujeito na Categoria 4 do Conteúdo ---
+Total de textos únicos analisados: 479
+
+index,Index,Posição-sujeito,Quantidade,Porcentagem (%)
+0,0,1.1.3 - Observador,290,60.54
+1,0_a1,Míriam Leitão,156,32.57
+2,0_a2,Cristina Tardáguila,50,10.44
+3,0_a3,Fabiana Moraes,27,5.64
+4,0_a4,Natália Viana,16,3.34
+5,0_a5,José Henrique Mariante,15,3.13
+6,0_a6,Flávia Lima,13,2.71
+7,0_a7,FB,8,1.67
+8,0_a8,Januária Cristina Alves,3,0.63
+9,0_a9,Carlos Alberto Di Franco,2,0.42
+10,1,1.1.5 - Comentarista,129,26.93
+11,1_a1,Míriam Leitão,64,13.36
+12,1_a2,Carlos Alberto Di Franco,25,5.22
+13,1_a3,FB,23,4.8
+14,1_a4,José Henrique Mariante,5,1.04
+15,1_a5,Fabiana Moraes,5,1.04
+16,1_a6,Cristina Tardáguila,2,0.42
+17,1_a7,Natália Viana,2,0.42
+18,1_a8,Eugênio Bucci,1,0.21
+19,1_a9,Flávia Lima,1,0.21
+20,1_a10,Januária Cristina Alves,1,0.21
+21,2,1.1.1 - Participante,46,9.6
+22,2_a1,FB,17,3.55
+23,2_a2,Fabiana Moraes,13,2.71
+24,2_a3,Cristina Tardáguila,6,1.25
+25,2_a4,Carlos Alberto Di Franco,4,0.84
+26,2_a5,Natália Viana,4,0.84
+27,2_a6,Januária Cristina Alves,1,0.21
+28,2_a7,Míriam Leitão,1,0.21
+29,3,1.1.4 - Especialista,4,0.84
+30,3_a1,Carlos Alberto Di Franco,2,0.42
+31,3_a2,Natália Viana,2,0.42
+32,4,1.1.2 - Testemunha,10,2.09
+33,4_a1,Míriam Leitão,5,1.04
+34,4_a2,FB,4,0.84
+35,4_a3,Flávia Lima,1,0.21
+
+--- Distribuição do Papel Enunciativo na Categoria de Conteúdo: 'CATEGORIA 4' ---
+Total de textos únicos analisados: 479
+
+index,Index,Papel Enunciativo / Autor,Quantidade,Porcentagem (%)
+0,0,1.2.1 Observador-Intérprete (ou Analista),334,69.73
+1,0_a1,Míriam Leitão,196,40.92
+2,0_a2,Cristina Tardáguila,42,8.77
+3,0_a3,FB,35,7.31
+4,0_a4,Fabiana Moraes,20,4.18
+5,0_a5,Natália Viana,14,2.92
+6,0_a6,Carlos Alberto Di Franco,10,2.09
+7,0_a7,Flávia Lima,6,1.25
+8,0_a8,José Henrique Mariante,6,1.25
+9,0_a9,Januária Cristina Alves,5,1.04
+10,1,1.2.4 Militante,33,6.89
+11,1_a1,Carlos Alberto Di Franco,13,2.71
+12,1_a2,Fabiana Moraes,11,2.3
+13,1_a3,Natália Viana,3,0.63
+14,1_a4,FB,2,0.42
+15,1_a5,Cristina Tardáguila,2,0.42
+16,1_a6,Eugênio Bucci,1,0.21
+17,1_a7,Míriam Leitão,1,0.21
+18,2,1.2.3 Crítico-Monitor (ou Cão de Guarda),98,20.46
+19,2_a1,Míriam Leitão,26,5.43
+20,2_a2,Fabiana Moraes,14,2.92
+21,2_a3,José Henrique Mariante,14,2.92
+22,2_a4,Cristina Tardáguila,11,2.3
+23,2_a5,Carlos Alberto Di Franco,10,2.09
+24,2_a6,Flávia Lima,9,1.88
+25,2_a7,FB,8,1.67
+26,2_a8,Natália Viana,6,1.25
+27,3,1.2.5 Mobilizador,3,0.63
+28,3_a1,Cristina Tardáguila,3,0.63
+29,4,1.2.6 Historiador (ou Intérprete do “Tempo Duplo”),4,0.84
+30,4_a1,FB,3,0.63
+31,4_a2,Míriam Leitão,1,0.21
+32,5,1.2.2 Narrador-Testemunha,7,1.46
+33,5_a1,FB,4,0.84
+34,5_a2,Míriam Leitão,2,0.42
+35,5_a3,Natália Viana,1,0.21
+
+--- Distribuição de Estratégias de Legitimação na Categoria de Conteúdo: 'CATEGORIA 4' ---
+Total de textos únicos analisados: 478
+(Nota: Como um mesmo texto pode usar mais de uma estratégia, a soma geral das porcentagens pode ultrapassar 100%)
+
+index,Index,Estratégia / Autor,Quantidade,Porcentagem (%)
+0,0,2.1 Ethos e fiador,366,76.57
+1,0_a1,Míriam Leitão,152,31.8
+2,0_a2,FB,52,10.88
+3,0_a3,Fabiana Moraes,41,8.58
+4,0_a4,Cristina Tardáguila,35,7.32
+5,0_a5,Carlos Alberto Di Franco,31,6.49
+6,0_a6,Natália Viana,22,4.6
+7,0_a7,José Henrique Mariante,17,3.56
+8,0_a8,Flávia Lima,10,2.09
+9,0_a9,Januária Cristina Alves,5,1.05
+10,0_a10,Eugênio Bucci,1,0.21
+11,1,2.2 Discurso relatado,406,84.94
+12,1_a1,Míriam Leitão,191,39.96
+13,1_a2,Cristina Tardáguila,51,10.67
+14,1_a3,Fabiana Moraes,43,9.0
+15,1_a4,FB,30,6.28
+16,1_a5,Carlos Alberto Di Franco,28,5.86
+17,1_a6,Natália Viana,24,5.02
+18,1_a7,José Henrique Mariante,19,3.97
+19,1_a8,Flávia Lima,14,2.93
+20,1_a9,Januária Cristina Alves,5,1.05
+21,1_a10,Eugênio Bucci,1,0.21
+22,2,2.3 Polifonia,297,62.13
+23,2_a1,Míriam Leitão,127,26.57
+24,2_a2,FB,49,10.25
+25,2_a3,Fabiana Moraes,36,7.53
+26,2_a4,Carlos Alberto Di Franco,22,4.6
+27,2_a5,Cristina Tardáguila,21,4.39
+28,2_a6,José Henrique Mariante,15,3.14
+29,2_a7,Natália Viana,15,3.14
+30,2_a8,Flávia Lima,8,1.67
+31,2_a9,Januária Cristina Alves,3,0.63
+32,2_a10,Eugênio Bucci,1,0.21
+33,3,2.5 Autoridade institucional,189,39.54
+34,3_a1,Míriam Leitão,65,13.6
+35,3_a2,Cristina Tardáguila,42,8.79
+36,3_a3,Fabiana Moraes,25,5.23
+37,3_a4,Natália Viana,14,2.93
+38,3_a5,Carlos Alberto Di Franco,13,2.72
+39,3_a6,José Henrique Mariante,13,2.72
+40,3_a7,Flávia Lima,10,2.09
+41,3_a8,FB,6,1.26
+42,3_a9,Januária Cristina Alves,1,0.21
+43,4,2.4 Cenografia,53,11.09
+44,4_a1,FB,16,3.35
+45,4_a2,Fabiana Moraes,13,2.72
+46,4_a3,Míriam Leitão,9,1.88
+47,4_a4,Cristina Tardáguila,7,1.46
+48,4_a5,Natália Viana,3,0.63
+49,4_a6,Carlos Alberto Di Franco,3,0.63
+50,4_a7,Flávia Lima,1,0.21
+51,4_a8,Januária Cristina Alves,1,0.21
+
+--- Distribuição do Papel do Leitor na Categoria de Conteúdo: 'CATEGORIA 4' ---
+Total de textos únicos analisados: 475
+
+index,Index,Papel do Leitor / Autor,Quantidade,Porcentagem (%)
+0,0,3.2 Aprendiz,62,13.05
+1,0_a1,Míriam Leitão,41,8.63
+2,0_a2,Carlos Alberto Di Franco,4,0.84
+3,0_a3,Cristina Tardáguila,4,0.84
+4,0_a4,Fabiana Moraes,4,0.84
+5,0_a5,FB,3,0.63
+6,0_a6,Natália Viana,3,0.63
+7,0_a7,Flávia Lima,1,0.21
+8,0_a8,José Henrique Mariante,1,0.21
+9,0_a9,Januária Cristina Alves,1,0.21
+10,1,3.3 Cidadão,330,69.47
+11,1_a1,Míriam Leitão,178,37.47
+12,1_a2,FB,32,6.74
+13,1_a3,Cristina Tardáguila,30,6.32
+14,1_a4,Fabiana Moraes,28,5.89
+15,1_a5,Carlos Alberto Di Franco,17,3.58
+16,1_a6,José Henrique Mariante,17,3.58
+17,1_a7,Natália Viana,13,2.74
+18,1_a8,Flávia Lima,12,2.53
+19,1_a9,Januária Cristina Alves,2,0.42
+20,1_a10,Eugênio Bucci,1,0.21
+21,2,3.6 Público a ser mobilizado,18,3.79
+22,2_a1,Carlos Alberto Di Franco,7,1.47
+23,2_a2,Fabiana Moraes,5,1.05
+24,2_a3,Cristina Tardáguila,4,0.84
+25,2_a4,FB,1,0.21
+26,2_a5,Natália Viana,1,0.21
+27,3,3.4 Cúmplice,7,1.47
+28,3_a1,Fabiana Moraes,4,0.84
+29,3_a2,Carlos Alberto Di Franco,1,0.21
+30,3_a3,FB,1,0.21
+31,3_a4,Míriam Leitão,1,0.21
+32,4,3.1 Parceiro,40,8.42
+33,4_a1,FB,15,3.16
+34,4_a2,Natália Viana,7,1.47
+35,4_a3,Carlos Alberto Di Franco,4,0.84
+36,4_a4,Fabiana Moraes,4,0.84
+37,4_a5,Cristina Tardáguila,3,0.63
+38,4_a6,José Henrique Mariante,2,0.42
+39,4_a7,Januária Cristina Alves,2,0.42
+40,4_a8,Míriam Leitão,2,0.42
+41,4_a9,Flávia Lima,1,0.21
+42,5,3.5 Vítima da desinformação,18,3.79
+43,5_a1,Cristina Tardáguila,17,3.58
+44,5_a2,Flávia Lima,1,0.21
+
+--- Distribuição da Posição-sujeito na Subcategoria: '4.1 Verdade contra mentira e desinformação' ---
+Total de textos únicos analisados: 70
+
+index,Index,Posição-sujeito / Autor,Quantidade,Porcentagem (%)
+0,0,1.1.3 - Observador,40,57.14
+1,0_a1,Cristina Tardáguila,16,22.86
+2,0_a2,Míriam Leitão,15,21.43
+3,0_a3,Natália Viana,3,4.29
+4,0_a4,Fabiana Moraes,2,2.86
+5,0_a5,Flávia Lima,2,2.86
+6,0_a6,Carlos Alberto Di Franco,1,1.43
+7,0_a7,Januária Cristina Alves,1,1.43
+8,1,1.1.5 - Comentarista,21,30.0
+9,1_a1,Míriam Leitão,13,18.57
+10,1_a2,Carlos Alberto Di Franco,5,7.14
+11,1_a3,FB,1,1.43
+12,1_a4,Januária Cristina Alves,1,1.43
+13,1_a5,José Henrique Mariante,1,1.43
+14,2,1.1.4 - Especialista,2,2.86
+15,2_a1,Carlos Alberto Di Franco,1,1.43
+16,2_a2,Natália Viana,1,1.43
+17,3,1.1.1 - Participante,6,8.57
+18,3_a1,Natália Viana,3,4.29
+19,3_a2,Carlos Alberto Di Franco,2,2.86
+20,3_a3,Cristina Tardáguila,1,1.43
+21,4,1.1.2 - Testemunha,1,1.43
+22,4_a1,Flávia Lima,1,1.43
+
+--- Distribuição do Papel Enunciativo na Subcategoria: '4.1 Verdade contra mentira e desinformação' ---
+Total de textos únicos analisados: 70
+
+index,Index,Papel Enunciativo / Autor,Quantidade,Porcentagem (%)
+0,0,1.2.1 Observador-Intérprete (ou Analista),51,72.86
+1,0_a1,Míriam Leitão,22,31.43
+2,0_a2,Cristina Tardáguila,14,20.0
+3,0_a3,Natália Viana,5,7.14
+4,0_a4,Carlos Alberto Di Franco,3,4.29
+5,0_a5,Flávia Lima,3,4.29
+6,0_a6,Januária Cristina Alves,2,2.86
+7,0_a7,FB,1,1.43
+8,0_a8,Fabiana Moraes,1,1.43
+9,1,1.2.3 Crítico-Monitor (ou Cão de Guarda),13,18.57
+10,1_a1,Míriam Leitão,5,7.14
+11,1_a2,Carlos Alberto Di Franco,3,4.29
+12,1_a3,Cristina Tardáguila,3,4.29
+13,1_a4,Fabiana Moraes,1,1.43
+14,1_a5,José Henrique Mariante,1,1.43
+15,2,1.2.4 Militante,6,8.57
+16,2_a1,Carlos Alberto Di Franco,3,4.29
+17,2_a2,Natália Viana,2,2.86
+18,2_a3,Míriam Leitão,1,1.43
+
+--- Distribuição das Estratégias na Subcategoria: '4.1 Verdade contra mentira e desinformação' ---
+Total de textos únicos analisados: 70
+
+index,Index,Estratégia / Autor,Quantidade,Porcentagem (%)
+0,0,2.1 Ethos e fiador,55,78.57
+1,0_a1,Míriam Leitão,23,32.86
+2,0_a2,Cristina Tardáguila,9,12.86
+3,0_a3,Carlos Alberto Di Franco,8,11.43
+4,0_a4,Natália Viana,7,10.0
+5,0_a5,Flávia Lima,3,4.29
+6,0_a6,Januária Cristina Alves,2,2.86
+7,0_a7,Fabiana Moraes,2,2.86
+8,0_a8,FB,1,1.43
+9,1,2.2 Discurso relatado,61,87.14
+10,1_a1,Míriam Leitão,21,30.0
+11,1_a2,Cristina Tardáguila,16,22.86
+12,1_a3,Carlos Alberto Di Franco,8,11.43
+13,1_a4,Natália Viana,7,10.0
+14,1_a5,Flávia Lima,3,4.29
+15,1_a6,Januária Cristina Alves,2,2.86
+16,1_a7,Fabiana Moraes,2,2.86
+17,1_a8,FB,1,1.43
+18,1_a9,José Henrique Mariante,1,1.43
+19,2,2.5 Autoridade institucional,29,41.43
+20,2_a1,Cristina Tardáguila,11,15.71
+21,2_a2,Míriam Leitão,6,8.57
+22,2_a3,Carlos Alberto Di Franco,5,7.14
+23,2_a4,Natália Viana,5,7.14
+24,2_a5,Januária Cristina Alves,1,1.43
+25,2_a6,Flávia Lima,1,1.43
+26,3,2.3 Polifonia,42,60.0
+27,3_a1,Míriam Leitão,20,28.57
+28,3_a2,Cristina Tardáguila,6,8.57
+29,3_a3,Carlos Alberto Di Franco,5,7.14
+30,3_a4,Natália Viana,5,7.14
+31,3_a5,Fabiana Moraes,2,2.86
+32,3_a6,Flávia Lima,1,1.43
+33,3_a7,FB,1,1.43
+34,3_a8,José Henrique Mariante,1,1.43
+35,3_a9,Januária Cristina Alves,1,1.43
+36,4,2.4 Cenografia,7,10.0
+37,4_a1,Carlos Alberto Di Franco,1,1.43
+38,4_a2,Cristina Tardáguila,1,1.43
+39,4_a3,FB,1,1.43
+40,4_a4,Flávia Lima,1,1.43
+41,4_a5,Fabiana Moraes,1,1.43
+42,4_a6,Míriam Leitão,1,1.43
+43,4_a7,Natália Viana,1,1.43
+
+--- Distribuição do Papel do Leitor na Subcategoria: '4.1 Verdade contra mentira e desinformação' ---
+Total de textos únicos analisados: 69
+
+index,Index,Papel do Leitor / Autor,Quantidade,Porcentagem (%)
+0,0,3.3 Cidadão,48,69.57
+1,0_a1,Míriam Leitão,24,34.78
+2,0_a2,Cristina Tardáguila,8,11.59
+3,0_a3,Carlos Alberto Di Franco,7,10.14
+4,0_a4,Natália Viana,3,4.35
+5,0_a5,Januária Cristina Alves,2,2.9
+6,0_a6,Flávia Lima,2,2.9
+7,0_a7,Fabiana Moraes,1,1.45
+8,0_a8,José Henrique Mariante,1,1.45
+9,1,3.6 Público a ser mobilizado,2,2.9
+10,1_a1,Carlos Alberto Di Franco,1,1.45
+11,1_a2,Natália Viana,1,1.45
+12,2,3.1 Parceiro,6,8.7
+13,2_a1,Cristina Tardáguila,2,2.9
+14,2_a2,Natália Viana,2,2.9
+15,2_a3,Carlos Alberto Di Franco,1,1.45
+16,2_a4,FB,1,1.45
+17,3,3.5 Vítima da desinformação,7,10.14
+18,3_a1,Cristina Tardáguila,6,8.7
+19,3_a2,Flávia Lima,1,1.45
+20,4,3.2 Aprendiz,6,8.7
+21,4_a1,Míriam Leitão,3,4.35
+22,4_a2,Cristina Tardáguila,1,1.45
+23,4_a3,Fabiana Moraes,1,1.45
+24,4_a4,Natália Viana,1,1.45
+
+--- Distribuição da Posição-sujeito na Subcategoria: '4.1 Verdade contra mentira e desinformação' ---
+Total de textos únicos analisados: 409
+
+index,Index,Posição-sujeito / Autor,Quantidade,Porcentagem (%)
+0,0,1.1.3 - Observador,250,61.12
+1,0_a1,Míriam Leitão,141,34.47
+2,0_a2,Cristina Tardáguila,34,8.31
+3,0_a3,Fabiana Moraes,25,6.11
+4,0_a4,José Henrique Mariante,15,3.67
+5,0_a5,Natália Viana,13,3.18
+6,0_a6,Flávia Lima,11,2.69
+7,0_a7,FB,8,1.96
+8,0_a8,Januária Cristina Alves,2,0.49
+9,0_a9,Carlos Alberto Di Franco,1,0.24
+10,1,1.1.5 - Comentarista,108,26.41
+11,1_a1,Míriam Leitão,51,12.47
+12,1_a2,FB,22,5.38
+13,1_a3,Carlos Alberto Di Franco,20,4.89
+14,1_a4,Fabiana Moraes,5,1.22
+15,1_a5,José Henrique Mariante,4,0.98
+16,1_a6,Cristina Tardáguila,2,0.49
+17,1_a7,Natália Viana,2,0.49
+18,1_a8,Flávia Lima,1,0.24
+19,1_a9,Eugênio Bucci,1,0.24
+20,2,1.1.1 - Participante,40,9.78
+21,2_a1,FB,17,4.16
+22,2_a2,Fabiana Moraes,13,3.18
+23,2_a3,Cristina Tardáguila,5,1.22
+24,2_a4,Carlos Alberto Di Franco,2,0.49
+25,2_a5,Januária Cristina Alves,1,0.24
+26,2_a6,Míriam Leitão,1,0.24
+27,2_a7,Natália Viana,1,0.24
+28,3,1.1.4 - Especialista,2,0.49
+29,3_a1,Carlos Alberto Di Franco,1,0.24
+30,3_a2,Natália Viana,1,0.24
+31,4,1.1.2 - Testemunha,9,2.2
+32,4_a1,Míriam Leitão,5,1.22
+33,4_a2,FB,4,0.98
+
+--- Distribuição do Papel Enunciativo na Subcategoria: '4.2 Verdade como clausura do debate e mobilização do público' ---
+Total de textos únicos analisados: 409
+
+index,Index,Papel Enunciativo / Autor,Quantidade,Porcentagem (%)
+0,0,1.2.1 Observador-Intérprete (ou Analista),283,69.19
+1,0_a1,Míriam Leitão,174,42.54
+2,0_a2,FB,34,8.31
+3,0_a3,Cristina Tardáguila,28,6.85
+4,0_a4,Fabiana Moraes,19,4.65
+5,0_a5,Natália Viana,9,2.2
+6,0_a6,Carlos Alberto Di Franco,7,1.71
+7,0_a7,José Henrique Mariante,6,1.47
+8,0_a8,Flávia Lima,3,0.73
+9,0_a9,Januária Cristina Alves,3,0.73
+10,1,1.2.4 Militante,27,6.6
+11,1_a1,Fabiana Moraes,11,2.69
+12,1_a2,Carlos Alberto Di Franco,10,2.44
+13,1_a3,Cristina Tardáguila,2,0.49
+14,1_a4,FB,2,0.49
+15,1_a5,Eugênio Bucci,1,0.24
+16,1_a6,Natália Viana,1,0.24
+17,2,1.2.3 Crítico-Monitor (ou Cão de Guarda),85,20.78
+18,2_a1,Míriam Leitão,21,5.13
+19,2_a2,Fabiana Moraes,13,3.18
+20,2_a3,José Henrique Mariante,13,3.18
+21,2_a4,Flávia Lima,9,2.2
+22,2_a5,Cristina Tardáguila,8,1.96
+23,2_a6,FB,8,1.96
+24,2_a7,Carlos Alberto Di Franco,7,1.71
+25,2_a8,Natália Viana,6,1.47
+26,3,1.2.5 Mobilizador,3,0.73
+27,3_a1,Cristina Tardáguila,3,0.73
+28,4,1.2.6 Historiador (ou Intérprete do “Tempo Duplo”),4,0.98
+29,4_a1,FB,3,0.73
+30,4_a2,Míriam Leitão,1,0.24
+31,5,1.2.2 Narrador-Testemunha,7,1.71
+32,5_a1,FB,4,0.98
+33,5_a2,Míriam Leitão,2,0.49
+34,5_a3,Natália Viana,1,0.24
+
+--- Distribuição das Estratégias na Subcategoria: '4.2 Verdade como clausura do debate e mobilização do público' ---
+Total de textos únicos analisados: 409
+(Nota: A soma das porcentagens pode ultrapassar 100% pois um texto pode conter múltiplas estratégias)
+
+index,Index,Estratégia / Autor,Quantidade,Porcentagem (%)
+0,0,2.1 Ethos e fiador,311,76.04
+1,0_a1,Míriam Leitão,129,31.54
+2,0_a2,FB,51,12.47
+3,0_a3,Fabiana Moraes,39,9.54
+4,0_a4,Cristina Tardáguila,26,6.36
+5,0_a5,Carlos Alberto Di Franco,23,5.62
+6,0_a6,José Henrique Mariante,17,4.16
+7,0_a7,Natália Viana,15,3.67
+8,0_a8,Flávia Lima,7,1.71
+9,0_a9,Januária Cristina Alves,3,0.73
+10,0_a10,Eugênio Bucci,1,0.24
+11,1,2.2 Discurso relatado,345,84.35
+12,1_a1,Míriam Leitão,170,41.56
+13,1_a2,Fabiana Moraes,41,10.02
+14,1_a3,Cristina Tardáguila,35,8.56
+15,1_a4,FB,29,7.09
+16,1_a5,Carlos Alberto Di Franco,20,4.89
+17,1_a6,José Henrique Mariante,18,4.4
+18,1_a7,Natália Viana,17,4.16
+19,1_a8,Flávia Lima,11,2.69
+20,1_a9,Januária Cristina Alves,3,0.73
+21,1_a10,Eugênio Bucci,1,0.24
+22,2,2.3 Polifonia,255,62.35
+23,2_a1,Míriam Leitão,107,26.16
+24,2_a2,FB,48,11.74
+25,2_a3,Fabiana Moraes,34,8.31
+26,2_a4,Carlos Alberto Di Franco,17,4.16
+27,2_a5,Cristina Tardáguila,15,3.67
+28,2_a6,José Henrique Mariante,14,3.42
+29,2_a7,Natália Viana,10,2.44
+30,2_a8,Flávia Lima,7,1.71
+31,2_a9,Januária Cristina Alves,2,0.49
+32,2_a10,Eugênio Bucci,1,0.24
+33,3,2.5 Autoridade institucional,160,39.12
+34,3_a1,Míriam Leitão,59,14.43
+35,3_a2,Cristina Tardáguila,31,7.58
+36,3_a3,Fabiana Moraes,25,6.11
+37,3_a4,José Henrique Mariante,13,3.18
+38,3_a5,Flávia Lima,9,2.2
+39,3_a6,Natália Viana,9,2.2
+40,3_a7,Carlos Alberto Di Franco,8,1.96
+41,3_a8,FB,6,1.47
+42,4,2.4 Cenografia,46,11.25
+43,4_a1,FB,15,3.67
+44,4_a2,Fabiana Moraes,12,2.93
+45,4_a3,Míriam Leitão,8,1.96
+46,4_a4,Cristina Tardáguila,6,1.47
+47,4_a5,Carlos Alberto Di Franco,2,0.49
+48,4_a6,Natália Viana,2,0.49
+49,4_a7,Januária Cristina Alves,1,0.24
+
+--- Distribuição do Papel do Leitor na Subcategoria: '4.2 Verdade como clausura do debate e mobilização do público' ---
+Total de textos únicos analisados: 406
+
+index,Index,Papel do Leitor / Autor,Quantidade,Porcentagem (%)
+0,0,3.2 Aprendiz,56,13.79
+1,0_a1,Míriam Leitão,38,9.36
+2,0_a2,Carlos Alberto Di Franco,4,0.99
+3,0_a3,Cristina Tardáguila,3,0.74
+4,0_a4,Fabiana Moraes,3,0.74
+5,0_a5,FB,3,0.74
+6,0_a6,Natália Viana,2,0.49
+7,0_a7,Flávia Lima,1,0.25
+8,0_a8,José Henrique Mariante,1,0.25
+9,0_a9,Januária Cristina Alves,1,0.25
+10,1,3.3 Cidadão,282,69.46
+11,1_a1,Míriam Leitão,154,37.93
+12,1_a2,FB,32,7.88
+13,1_a3,Fabiana Moraes,27,6.65
+14,1_a4,Cristina Tardáguila,22,5.42
+15,1_a5,José Henrique Mariante,16,3.94
+16,1_a6,Carlos Alberto Di Franco,10,2.46
+17,1_a7,Flávia Lima,10,2.46
+18,1_a8,Natália Viana,10,2.46
+19,1_a9,Eugênio Bucci,1,0.25
+20,2,3.6 Público a ser mobilizado,16,3.94
+21,2_a1,Carlos Alberto Di Franco,6,1.48
+22,2_a2,Fabiana Moraes,5,1.23
+23,2_a3,Cristina Tardáguila,4,0.99
+24,2_a4,FB,1,0.25
+25,3,3.4 Cúmplice,7,1.72
+26,3_a1,Fabiana Moraes,4,0.99
+27,3_a2,Carlos Alberto Di Franco,1,0.25
+28,3_a3,FB,1,0.25
+29,3_a4,Míriam Leitão,1,0.25
+30,4,3.1 Parceiro,34,8.37
+31,4_a1,FB,14,3.45
+32,4_a2,Natália Viana,5,1.23
+33,4_a3,Fabiana Moraes,4,0.99
+34,4_a4,Carlos Alberto Di Franco,3,0.74
+35,4_a5,Januária Cristina Alves,2,0.49
+36,4_a6,José Henrique Mariante,2,0.49
+37,4_a7,Míriam Leitão,2,0.49
+38,4_a8,Flávia Lima,1,0.25
+39,4_a9,Cristina Tardáguila,1,0.25
+40,5,3.5 Vítima da desinformação,11,2.71
+41,5_a1,Cristina Tardáguila,11,2.71
+
+--- Distribuição da Posição-sujeito na Categoria: 'CATEGORIA 5' ---
+Total de textos únicos analisados: 3
+
+index,Index,Posição-sujeito / Autor,Quantidade,Porcentagem (%)
+0,0,1.1.3 - Observador,3,100.0
+1,0_a1,Cristina Tardáguila,2,66.67
+2,0_a2,Míriam Leitão,1,33.33
+
+Categoria Principal: "CATEGORIA 1 — VERDADE COMO FUNDAMENTO IDENTITÁRIO, NORMATIVO E EPISTÊMICO DA PROFISSÃO"
+Total de textos geral nesta categoria: 128
+
+index,Subcategoria,Autor / Nível,Quantidade de Textos
+0,1.1 Verdade como missão profissional,[TOTAL DA SUBCATEGORIA],14
+1,1.1 Verdade como missão profissional,Carlos Alberto Di Franco,9
+2,1.1 Verdade como missão profissional,Cristina Tardáguila,2
+3,1.1 Verdade como missão profissional,José Henrique Mariante,1
+4,1.1 Verdade como missão profissional,Míriam Leitão,1
+5,1.1 Verdade como missão profissional,Natália Viana,1
+6,1.2 Verdade como problema epistemológico,[TOTAL DA SUBCATEGORIA],60
+7,1.2 Verdade como problema epistemológico,Carlos Alberto Di Franco,19
+8,1.2 Verdade como problema epistemológico,Míriam Leitão,12
+9,1.2 Verdade como problema epistemológico,Cristina Tardáguila,6
+10,1.2 Verdade como problema epistemológico,Flávia Lima,5
+11,1.2 Verdade como problema epistemológico,Fabiana Moraes,4
+12,1.2 Verdade como problema epistemológico,FB,4
+13,1.2 Verdade como problema epistemológico,José Henrique Mariante,4
+14,1.2 Verdade como problema epistemológico,Natália Viana,3
+15,1.2 Verdade como problema epistemológico,Januária Cristina Alves,2
+16,1.2 Verdade como problema epistemológico,Eugênio Bucci,1
+17,"1.3 Verdade, valores profissionais e fronteiras do campo",[TOTAL DA SUBCATEGORIA],54
+18,"1.3 Verdade, valores profissionais e fronteiras do campo",Carlos Alberto Di Franco,40
+19,"1.3 Verdade, valores profissionais e fronteiras do campo",José Henrique Mariante,5
+20,"1.3 Verdade, valores profissionais e fronteiras do campo",Cristina Tardáguila,4
+21,"1.3 Verdade, valores profissionais e fronteiras do campo",Fabiana Moraes,3
+22,"1.3 Verdade, valores profissionais e fronteiras do campo",Januária Cristina Alves,1
+23,"1.3 Verdade, valores profissionais e fronteiras do campo",Natália Viana,1
+
+Categoria Principal: "CATEGORIA 2 — VERDADE, SOCIEDADE E DEMOCRACIA"
+
+index,Categoria,Autor / Nível,Quantidade de Textos
+0,"CATEGORIA 2 — VERDADE, SOCIEDADE E DEMOCRACIA",[TOTAL DA CATEGORIA],24
+1,"CATEGORIA 2 — VERDADE, SOCIEDADE E DEMOCRACIA",Carlos Alberto Di Franco,6
+2,"CATEGORIA 2 — VERDADE, SOCIEDADE E DEMOCRACIA",Cristina Tardáguila,4
+3,"CATEGORIA 2 — VERDADE, SOCIEDADE E DEMOCRACIA",Míriam Leitão,4
+4,"CATEGORIA 2 — VERDADE, SOCIEDADE E DEMOCRACIA",Fabiana Moraes,3
+5,"CATEGORIA 2 — VERDADE, SOCIEDADE E DEMOCRACIA",FB,2
+6,"CATEGORIA 2 — VERDADE, SOCIEDADE E DEMOCRACIA",José Henrique Mariante,2
+7,"CATEGORIA 2 — VERDADE, SOCIEDADE E DEMOCRACIA",Natália Viana,2
+8,"CATEGORIA 2 — VERDADE, SOCIEDADE E DEMOCRACIA",Januária Cristina Alves,1
+
+Categoria Principal: "CATEGORIA 3 — VERDADE E MÉTODOS DE APURAÇÃO"
+
+index,Categoria,Autor / Nível,Quantidade de Textos
+0,CATEGORIA 3 — VERDADE E MÉTODOS DE APURAÇÃO,[TOTAL DA CATEGORIA],16
+1,CATEGORIA 3 — VERDADE E MÉTODOS DE APURAÇÃO,Cristina Tardáguila,12
+2,CATEGORIA 3 — VERDADE E MÉTODOS DE APURAÇÃO,FB,1
+3,CATEGORIA 3 — VERDADE E MÉTODOS DE APURAÇÃO,Flávia Lima,1
+4,CATEGORIA 3 — VERDADE E MÉTODOS DE APURAÇÃO,Míriam Leitão,1
+5,CATEGORIA 3 — VERDADE E MÉTODOS DE APURAÇÃO,Natália Viana,1
+
+Categoria Principal: "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO"
+Total de textos geral nesta categoria: 479
+
+index,Subcategoria,Autor / Nível,Quantidade de Textos
+0,4.1 Verdade contra mentira e desinformação,[TOTAL DA SUBCATEGORIA],70
+1,4.1 Verdade contra mentira e desinformação,Míriam Leitão,28
+2,4.1 Verdade contra mentira e desinformação,Cristina Tardáguila,17
+3,4.1 Verdade contra mentira e desinformação,Carlos Alberto Di Franco,9
+4,4.1 Verdade contra mentira e desinformação,Natália Viana,7
+5,4.1 Verdade contra mentira e desinformação,Flávia Lima,3
+6,4.1 Verdade contra mentira e desinformação,Januária Cristina Alves,2
+7,4.1 Verdade contra mentira e desinformação,Fabiana Moraes,2
+8,4.1 Verdade contra mentira e desinformação,FB,1
+9,4.1 Verdade contra mentira e desinformação,José Henrique Mariante,1
+10,4.2 Verdade como clausura do debate e mobilização do público,[TOTAL DA SUBCATEGORIA],409
+11,4.2 Verdade como clausura do debate e mobilização do público,Míriam Leitão,198
+12,4.2 Verdade como clausura do debate e mobilização do público,FB,51
+13,4.2 Verdade como clausura do debate e mobilização do público,Fabiana Moraes,43
+14,4.2 Verdade como clausura do debate e mobilização do público,Cristina Tardáguila,41
+15,4.2 Verdade como clausura do debate e mobilização do público,Carlos Alberto Di Franco,24
+16,4.2 Verdade como clausura do debate e mobilização do público,José Henrique Mariante,19
+17,4.2 Verdade como clausura do debate e mobilização do público,Natália Viana,17
+18,4.2 Verdade como clausura do debate e mobilização do público,Flávia Lima,12
+19,4.2 Verdade como clausura do debate e mobilização do público,Januária Cristina Alves,3
+20,4.2 Verdade como clausura do debate e mobilização do público,Eugênio Bucci,1
+
+Categoria Principal: "CATEGORIA 5 — VERDADE E MEDIAÇÃO PEDAGÓGICA COM O PÚBLICO"
+
+index,Categoria,Autor / Nível,Quantidade de Textos
+0,CATEGORIA 5 — VERDADE E MEDIAÇÃO PEDAGÓGICA COM O PÚBLICO,[TOTAL DA CATEGORIA],3
+1,CATEGORIA 5 — VERDADE E MEDIAÇÃO PEDAGÓGICA COM O PÚBLICO,Cristina Tardáguila,2
+2,CATEGORIA 5 — VERDADE E MEDIAÇÃO PEDAGÓGICA COM O PÚBLICO,Míriam Leitão,1

@@ -1,0 +1,1849 @@
+[
+  {
+    "id": "tr-1",
+    "resposta_json": [
+      {
+        "palavra": "VERDADE",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é empregado em um contexto de embate e denúncia política, funcionando como uma oposição direta e adversarial a 'MENTINDO' e 'FRAUDES', no qual o autor busca desmascarar narrativas de opositores.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O enunciado estrutura a realidade na oposição 'verdade × mentira', usando tom de combate, caixa alta e adjetivação forte para desmentir um setor político específico ('parte da esquerda').",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-2",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de embate discursivo e político, retratando a tentativa de imposição de uma narrativa por adversários em um ambiente polarizado.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O enunciado apresenta a declaração de um grupo político rival ('a verdade do 8 de janeiro é que foi tudo armação do Lula') em uma estrutura de denúncia de falsidade e hipocrisia, caracterizando polarização explícita e disputa de narrativas.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-3",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra 'verdade' aparece na expressão 'na verdade', sendo mobilizada como um marcador discursivo de correção enfática para contrapor a narrativa do comercial e redefinir a realidade da situação.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O termo é empregado na forma 'na verdade' para introduzir uma correção enfática no fluxo do discurso, reorientando o sentido dos fatos sem explicitar uma justificativa metodológica de apuração ou detalhamento técnico.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-4",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada estrategicamente no embate público para convocar a audiência ao engajamento e compartilhamento, sem justificativa metodológica ou foco na identidade profissional.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O enunciado utiliza imperativos diretos de engajamento (\"REPASSE A VERDADE!!!\") para convocar a audiência a compartilhar o conteúdo.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-5",
+    "resposta_json": [
+      {
+        "palavra": "Verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é empregada isoladamente como uma declaração assertiva e enfática, visando ratificar um ponto e encerrar o debate ou manifestar concordância categórica no ambiente interativo, característico do registro de autoridade/mobilização da Categoria 4.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Trata-se de uma interjeição/afirmação isolada (\"Verdade!\") usada como marcador discursivo para chancelar ou encerrar uma afirmação sem apresentar justificativa metodológica nem dirigir um ataque/combate a um adversário nomeado específico.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-6",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é utilizado em um contexto de disputa discursiva e adversarial contra um veículo de imprensa (a Globo), buscando capturar a autoridade sobre o tema e prometendo revelações que seriam omitidas pela mídia tradicional.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Trata-se de uma estratégia de convocação e atração do público por meio do uso da verdade como revelação decisiva e chamativa (\"TODA A VERDADE\"), articulada em tom apelativo para engajar a audiência.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-7",
+    "resposta_json": [
+      {
+        "palavra": "VERDADE",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada de forma estratégica e categórica no debate público para encerrar a discussão, corrigir o sentido comum de circulação e apresentar uma afirmação como fato inquestionável, sem embasamento metodológico ou jornalístico.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "A palavra aparece na expressão 'UMA VERDADE que poucos têm coragem de dizer', funcionando como um marcador discursivo enfático para encerrar o debate e impor autoridade sobre um tema polemizado, sem nomear um adversário específico de forma direta para desmentir um enunciado pontual anterior.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-8",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é utilizado em um contexto de combate e denúncia contra a imprensa/jornalismo (especificamente o Jornal Nacional) e opositores políticos (Bolsonaro), com o objetivo direto de desmascarar o que o autor classifica como desinformação e omissão.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O enunciado contrapõe explicitamente a alegação de desinformação do veículo de imprensa à 'verdade', buscando corrigir uma narrativa rival identificável sobre as contas do governo.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-9",
+    "resposta_json": [
+      {
+        "palavra": "VERDADE",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de embate e disputa política polarizada para defender a declaração do presidente Lula contra ataques de adversários nomeados (Carla Zambelli, Bolsonaro, Bia Kicis) e da mídia (Globo).",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O enunciado contrapõe explicitamente a 'VERDADE' afirmada por Lula às ações da 'corja golpista' e da 'imprensa tóxica', utilizando linguagem de combate, adjetivação desqualificadora e tom de denúncia política.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-10",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é usada como arma simbólica e recurso de engajamento para convocar o público à ação no contexto de um embate político polarizado.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O termo aparece associado a um comando imperativo de engajamento direto ('Dissemine a verdade, comente'), convocando a audiência a compartilhar e reagir.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-11",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O trecho mobiliza a palavra 'verdade' em um contexto adversarial e de combate direto para desmentir uma acusação/fakenews atribuída a um grupo político adversário nomeado ('bolsoninions').",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "Apresenta uma oposição explícita entre a verdade e a mentira/fakenews associada a um rival político identificável, utilizando linguagem de denúncia e correção.",
+        "valor": null
+      },
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é usada como uma convocação direta em caixa alta ('ESPALHE A VERDADE') para que o público engaje, compartilhe e dissemine o conteúdo.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Contém imperativo direto de engajamento e compartilhamento voltado à mobilização da audiência.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-12",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de embate político e polarizado, com linguagem de denúncia e enfrentamento contra um adversário político específico (Bolsonaro).",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O enunciado estrutura a realidade em oposição à mentira/fraude (certificado de vacinação falso), utilizando tom de denúncia, combate e almejando a responsabilização do adversário.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-13",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O trecho mobiliza a palavra 'verdade' em um registro adversarial e de denúncia, opondo-a diretamente ao termo 'mentirosa' para apontar um erro ou acobertamento em uma fala e a atuação do veículo de imprensa.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O enunciado está estruturado em uma oposição explícita entre verdade e mentira ('verdade a fala mentirosa dele'), utilizando linguagem de combate e denúncia em relação a um enunciado e ator rival identificável.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-14",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de embate e denúncia política, acusando um grupo ('gente de esquerda') de tomar uma falsa informação como fato absoluto em um cenário polarizado.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O enunciado contrapõe a 'verdade' à 'fakenews' com tom acusatório, de combate e desqualificação contra um adversário político/ideológico definido.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-15",
+    "resposta_json": [
+      {
+        "palavra": "VERDADE",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de engajamento político e mobilização, convocando o público a agir em prol de uma narrativa no debate público.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O enunciado apresenta imperativos de engajamento ('comenta aí') e convoca a audiência para reestabelecer a verdade em tom de mobilização, sem nomear diretamente um rival ou adversário específico.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-16",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de disputa política e mobilização discursiva em redes sociais, visando diferenciar quem apoia legitimamente uma pauta daqueles acusados de 'sequestrá-la'.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "É empregada na expressão 'de verdade' para enfatizar a autenticidade do apoio a uma pauta, buscando fechar o debate sobre quem realmente defende a proposta sem atacar um adversário nomeado diretamente na mesma oração.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-17",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de confronto e acusação contra um veículo de imprensa (a Globo), alegando que o meio trata uma narrativa como inquestionável em meio a uma disputa discursiva polarizada.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "A palavra aparece inserida em uma estrutura de combate/denúncia contra um ator e grupo específicos (sionistas/Globo), acusando a emissora de validar e propagar acriticamente uma versão contestada.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-18",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de disputa discursiva e crítica política adversarial contra veículos da imprensa tradicional.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O trecho estrutura a realidade em uma oposição explícita entre desinformação/fakenews e verdade, acusando a mídia de transformar uma fakenews em 'verdade absoluta' para atacar um ator político rival.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-19",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é utilizado em um contexto de embate público e acusação direta contra um agente específico (uma jornalista e um veículo de imprensa), com linguagem alarmista e tom de denúncia contra o que se alega ser uma informação falsa.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O trecho opõe diretamente 'verdade' e 'FAKE-NEWS', empregando léxico de combate e adjetivação desqualificadora para desmascarar a atuação da jornalista e do jornal frente a declarações desmentidas por autoridades.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-20",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de embate e mobilização do público no ambiente digital, visando convocar o leitor a compartilhar uma narrativa e rebater o discurso opositor.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O trecho utiliza um imperativo direto de engajamento e compartilhamento ('REPASSE A VERDADE!!') focado em convocar a audiência a disseminar o conteúdo.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-21",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto polarizado de embate discursivo, com tom adversarial e adjetivação desqualificadora de adversários político-institucionais, funcionando como uma afirmação categórica para desmascarar/contrapor uma narrativa rival no debate público.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O enunciado estrutura a realidade em uma oposição explícita de ataque/desmascaramento contra atores rivais identificáveis (Sérgio Moro e Bolsonaro), utilizando tom de denúncia, combate e linguagem desqualificadora.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-22",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de disputa discursiva e denúncia política contundente, contrapondo a ação do governo contra a desinformação veiculada por adversários (bolsonaristas) e veículos de imprensa (Estadão).",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "A palavra aparece na estrutura 'Governo desmente e mostra a verdade', inserida em uma narrativa explícita de combate e oposição direta a 'fake-news' e mentiras com alvos e adversários identificáveis.",
+        "valor": null
+      },
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é empregada em um contexto de denúncia contra um veículo de imprensa (Estadão) no âmbito de um embate sobre narrativas e desinformação.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "A expressão 'ESTADÃO IGNORA A VERDADE e insiste na mentira' estabelece uma oposição direta de combate entre a verdade e a mentira, visando deslegitimar a conduta do veículo no embate público.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-23",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O trecho mobiliza a palavra em um contexto de disputa discursiva e denúncia para corrigir e confrontar a narrativa da imprensa e do ex-juiz Sergio Moro, usando linguagem de marcadores de correção em registro adversarial.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "A palavra aparece na locução 'na verdade', funcionando como um marcador discursivo de correção enfática para contrapor a versão divulgada pela imprensa à realidade apresentada pelo autor do texto.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-24",
+    "resposta_json": [
+      {
+        "palavra": "VERDADE",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é mobilizada de forma estratégica no embate público e político polarizado, servindo de ferramenta discursiva para contra-atacar enunciados adversários e convocar o engajamento da militância.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O trecho estabelece uma oposição direta e adversarial entre a 'verdade' e 'fake-news bolsonaristas', desqualificando o discurso de um grupo rival claramente identificado.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-25",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada no contexto de uma postagem engajada em redes sociais que opõe o governo atual a um grupo adversário ('bolsominions'), associando a promoção da 'verdade' ao combate e desmentido de 'fake-news' e mentiras atribuídas ao grupo rival.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O enunciado contrapõe explicitamente a 'verdade' ao combate contra 'fake-news' e ao desespero de adversários políticos identificados ('bolsominions'), empregando tom de denúncia, polarização política e confronto discursivo.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-26",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de embate e denúncia política em ambiente digital, contrapondo diretamente o discurso de um ator/veículo nomeado (a Globo) com uma oposição entre o argumento considerado enganoso e a realidade dos fatos.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O enunciado contrapõe explicitamente a tese de um rival/adversário nomeado (a argumentação pró-privatização da Globo) à 'verdade', adotando tom de denúncia, combate e desmascaramento do argumento oposto.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-27",
+    "resposta_json": [
+      {
+        "palavra": "Verdade",
+        "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO IDENTITÁRIO, NORMATIVO E EPISTÊMICO DA PROFISSÃO",
+        "justificativa": "O termo aparece isolado como título/conceito abstrato associado ao campo e à reflexão sobre o jornalismo e seus fundamentos, sem contexto de combate direto (Categoria 4), apuração prática (Categoria 3), função social democrática (Categoria 2) ou mediação com público (Categoria 5).",
+        "subcategoria": "1.2 Verdade como problema epistemológico",
+        "subcategoria_justificativa": "A apresentação da palavra em sua forma pura e abstrata remete ao debate conceitual sobre o estatuto e a natureza da verdade no âmbito do conhecimento e do jornalismo.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-28",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de embate, ataque e desqualificação de um adversário no ambiente digital, assumindo um tom adversarial e agressivo.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O trecho emprega adjetivação desqualificadora (\"covarde da pior espécie\") e estabelece uma oposição implícita entre o que é autêntico/verdadeiro e a falsidade/dissimulação da imagem do interlocutor rival.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-29",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de embate, denúncia e confronto discursivo com um veículo de imprensa (a Globo), acusando-o de omitir os fatos e adotar uma postura dissimulada.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O trecho estabelece um combate direto e uma oposição entre a atuação da imprensa (\"dar a matéria SEM DIZER A VERDADE\") e a realidade dos fatos, adjetivando e denunciando o procedimento do adversário nomeado.",
+        "valor": null
+      },
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é mobilizado para expor e desqualificar a estratégia discursiva do rival (a Globo), que estaria rebaixando o estatuto do fato ao chamá-lo de mera \"narrativa\".",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "Trata-se de uma crítica com viés de denúncia e combate à manipulação da informação por parte de um ator/veículo identificável.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-30",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em uma locução adjetiva (\"de verdade\") em um registro informal de redes sociais para corrigir uma percepção e categorizar/qualificar um sujeito sem apresentar métodos explícitos de apuração nem apelo moral/profissional.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "A expressão serve como um marcador discursivo de correção da realidade para enfatizar que a pessoa não pertence à categoria de lutador profissional real, encerrando a dúvida sobre a identidade da pessoa no debate.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-31",
+    "resposta_json": [
+      {
+        "palavra": "Verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é mobilizado estrategicamente no debate público como um marcador discursivo de correção para reivindicar a primazia de uma informação e atestar a autoridade e antecipação de um furo jornalístico/fato.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "A palavra aparece na expressão idiomática 'Verdade seja dita', funcionando como um marcador discursivo de correção enfática para introduzir um fato assertivo sem focar em um embate direto de mentira/desinformação contra um adversário nomeado.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-32",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O enunciado faz um apelo ao público com tom de mobilização e engajamento discursivo ('espalhem a verdade!!') para combater informações veiculadas pela imprensa, enquadrando a situação em um registro de disputa e convocação à ação.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O trecho utiliza um imperativo direto de compartilhamento e engajamento ('espalhem a verdade!!'), característico da convocação da audiência para reagir e disseminar determinado conteúdo.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-33",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada estrategicamente no embate público para desqualificar um ator de mídia específico (a TV Globo) e questionar sua legitimidade/autoridade discursiva, em um tom irônico e adversarial.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O trecho adota uma linguagem de combate e desqualificação direcionada a um adversário e veículo rival nomeado ('A mesma Globo que...'), alertando o público de forma crítica ('Cuidado').",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-34",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em uma convocação direta ao público para engajamento e compartilhamento em redes sociais, visando intervir no debate.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O trecho utiliza tom imperativo ('Espalhe a verdade') para convocar a audiência a engajar-se e difundir o conteúdo em grupos de mensagens.",
+        "valor": null
+      },
+      {
+        "palavra": "VERDADE",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é mobilizada em registro adversarial, em oposição direta e combate à atuação de um adversário político específico.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O texto contrapõe explicitamente a 'VERDADE' à prática de 'espalhar fakenews' atribuída a um grupo rival identificável ('bolsominions').",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-35",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é empregada dentro de um marcador discursivo de correção enfática para reorientar a interpretação do interlocutor e fechar o debate sobre a estimativa apresentada, sem haver um adversário nominalmente atacado no trecho.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O trecho utiliza a expressão 'Na verdade...' exatamente como um recurso de correção epistêmica para ajustar um sentido/estimativa em circulação, enquadrando-se nos marcadores discursivos previstos nesta subcategoria.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-36",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é mobilizado estrategicamente em tom de combate e denúncia contra a cobertura da imprensa, exigindo a exposição de uma versão tida como factual em um contexto altamente polarizado e adversarial.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "A palavra está inserida em um enunciado de contestação direta, que contrapõe uma narrativa tida como enganosa (o impeachment) à tese defendida como real (inocência e golpe).",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-37",
+    "resposta_json": [
+      {
+        "palavra": "VERDADE",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é utilizado em um contexto de disputa política e denúncia, em registro adversarial, com adjetivação desqualificadora do adversário ('BOLSOMINION') para contrapor uma acusação considerada falsa ('disseminando fakenews').",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O enunciado opõe diretamente 'VERDADE' a 'fakenews' / mentira, utilizando linguagem de combate e denúncia contra um rival político claramente identificado.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-38",
+    "resposta_json": [
+      {
+        "palavra": "VERDADE",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de disputa discursiva e combate, associada diretamente ao ato de desmentir fake news e mobilizar o público com linguagem exclamativa e imperativa.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O trecho estrutura explicitamente uma oposição entre verdade e mentira/desinformação ('desmentir fakenews e espalhar a VERDADE'), utilizando uma linguagem de combate e denúncia.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-39",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O trecho mobiliza a palavra em um contexto nitidamente adversarial, de combate direto e desmascaramento de desinformação em ambiente digital polarizado, contra um grupo adversário nominalmente citado.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O enunciado contrapõe explicitamente a 'verdade' à disseminação de 'fakenews' por um grupo rival ('Bolsominions'), utilizando linguagem e léxico característicos de combate e contraposição discursiva.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-40",
+    "resposta_json": [
+      {
+        "palavra": "VERDADE",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é utilizado como arma simbólica em um contexto de disputa política e polarizada, visando combater a narrativa do grupo adversário e engajar a audiência.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O trecho apresenta uma oposição direta entre verdade e mentira ('fakenews'), fazendo uso de tom de denúncia, adjetivação desqualificadora do adversário ('Minions') e linguagem de combate político.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-41",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada estrategicamente no embate público para convocar o público à ação e engajamento em um registro de denúncia.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O enunciado faz uso explícito de imperativo direto ('Comente várias vezes!') convocando a audiência a engajar e reagir à publicação ('Todos têm de saber a verdade'), sem foco em metodologias de apuração ou identidade profissional.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-42",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de mobilização e disputa discursiva no embate público, funcionando como um recurso de autoridade simbólica sem respaldo em métodos de apuração ou fundamentação epistemológica.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O trecho usa a expressão 'de verdade' para afirmar categoricamente a legitimidade de uma figura pública e encerrar a discussão/expressar entusiasmo sem nomear diretamente um adversário a ser desmentido.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-43",
+    "resposta_json": [
+      {
+        "palavra": "Verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo aparece isolado como um enunciado sem contextualização filosófica, metodológica ou explicativa, funcionando como uma afirmação categórica ou marcador de autoridade discursiva típico da mobilização e clausura do debate.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Trata-se do uso da palavra 'Verdade' isolada para assinalar autoridade, correção de sentido ou encerramento do debate, sem que haja um adversário nomeado no trecho.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-44",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é empregada em um contexto de embate político e denúncia, usando linguagem de combate e tom irônico/sarcástico para desqualificar o discurso da imprensa e de adversários políticos.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O trecho estabelece uma oposição direta entre a 'velha imprensa' (associada a 'fascistas e bandidos') e a realidade, denunciando de forma irônica que a verdade teria sido abandonada em favor de narrativas falsas dos adversários.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-45",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em uma publicação de engajamento em redes sociais para estabelecer uma oposição direta e polarizada entre governos, usando linguagem de combate e adjetivação desqualificadora do adversário ('desgoverno GENOCIDA CRIMINOSO').",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "A palavra insere-se em um enunciado polarizado de forte apelo ideológico e tom adversarial, contrapondo explicitamente o governo atual a um 'desgoverno' rival claramente identificável.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-46",
+    "resposta_json": [
+      {
+        "palavra": "VERDADE",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada estrategicamente no debate público para convocar a audiência ao engajamento direto e ao compartilhamento de um enunciado de contraposição político-ideológica, atuando como arma discursiva no ambiente digital.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O trecho utiliza uma ordem imperativa expressa para o engajamento do público ('ESPALHE A VERDADE'), convocando os usuários a compartilharem e disseminarem a informação.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-47",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de embate e denúncia política, acusando diretamente uma figura pública de mentira e desinformação no evento do 8 de janeiro, operando em tom adversarial.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O trecho estabelece uma oposição explícita e desqualificadora de combate (opondo a mentira declarada do governador à 'verdade' revelada pelas mensagens e números reduzidos de homens), caracterizando denúncia contra um alvo identificável.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-48",
+    "resposta_json": [
+      {
+        "palavra": "VERDADE",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é mobilizado em um contexto político polarizado para corrigir uma desinformação espalhada por um adversário político e convocar a audiência ao engajamento.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "A palavra é usada acompanhada de um verbo imperativo de engajamento e compartilhamento ('Compartilhe a VERDADE!'), convocando o público a disseminar a mensagem.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-49",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é empregado na expressão 'PRESIDENTE DE VERDADE' em um registro adversarial, estabelecendo uma oposição e contraste direto com a conduta de um rival político nomeado no texto.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O trecho utiliza linguagem de combate e polarização explícita entre atores políticos identificáveis.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-50",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de embate discursivo no debate público para desmascarar a narrativa de adversários políticos nomeados e mobilizar o engajamento da rede.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O trecho estrutura a realidade em uma oposição explícita entre verdade e mentira ('fakenews' / 'narrativa fake'), direcionando o combate a um grupo adversário identificável ('robôs bolsonaristas').",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-51",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de elogio e engajamento no embate político/público, reconhecendo a fala de um ator político (Ministro Paulo Pimenta) em contraponto a discursos rivais, sem haver detalhamento metodológico de apuração ou discussão sobre a função democrática/institucional abstrata do jornalismo.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O enunciado funciona como uma validação e manifestação de apoio/engajamento ('Que bom', 'PARABÉNS'), legitimando e reiterando a fala do ministro como a versão correta dos fatos para o público, sem nomear diretamente um adversário no trecho.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-52",
+    "resposta_json": [
+      {
+        "palavra": "Verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é empregada no início do enunciado como um marcador discursivo e conversacional de asserção/correção para reafirmar enfaticamente um fato sobre o acesso à informação, visando fechar o debate e corrigir o sentido da discussão sem apresentar uma justificativa metodológica.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Trata-se de um uso de 'verdade' como marcador discursivo de correção enfática ('Verdade, é que...') para assinalar a realidade da situação e respaldar a afirmação, sem nomear um adversário ou alvo direto para ataque.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-53",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O enunciado mobiliza a palavra 'verdade' de forma irônica e adversarial para desqualificar e confrontar uma afirmação paralela (comparando-a às delações da Lava Jato), usando a verdade como recurso de disputa de sentido sem explicação de método ou função democrática.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "A palavra é empregada em um tom de denúncia, ironia e desmascaramento em relação a um enunciado ou ator rival com o qual estabelece oposição.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-54",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada estrategicamente para denunciar e desacreditar a postura do interlocutor em um contexto adversarial, estabelecendo uma oposição direta entre a versão correta dos fatos e a atitude do adversário.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O enunciado adota uma linguagem de denúncia e correção enfática em relação a um ator rival identificável, alinhando a estrutura do trecho ao combate de uma manifestação considerada infundada/falsa.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-55",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra 'verdade' aparece no contexto da locução adverbial 'de verdade', utilizada como recurso discursivo de ênfase para demonstrar que a ameaça de falência do banco não precisa se concretizar efetivamente, enquadrando-se no uso estratégico do termo sem fundamentação metodológica ou apelo às missões normativas do jornalismo.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "A locução funciona como marcador discursivo de correção e ênfase sobre o que é real/efetivo no enunciado, sem nomear um adversário específico a ser desmentido por fake news/desinformação.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-56",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O trecho mobiliza a palavra 'verdade' acompanhada de um verbo imperativo de engajamento ('espalhar') com o intuito de convocar a audiência à ação e ao compartilhamento, sem fundamentação metodológica ou explicação conceitual.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O enunciado utiliza um imperativo direto de compartilhamento ('Ajude a espalhar a verdade!!'), visando à mobilização da audiência para que dissemine a mensagem, o que se enquadra perfeitamente nos indicadores da subcategoria 4.2.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-57",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é mobilizada em uma frase imperativa e direta que convoca o público ao engajamento e compartilhamento, sem justificativa metodológica ou tom pedagógico.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O trecho contém um imperativo direto de compartilhamento ('Compartilhe a verdade!!') com o objetivo de mobilizar a audiência sem nomear um adversário específico.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-58",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é mobilizada em um registro adversarial e engajado, convocando diretamente a audiência para a ação de propagar um conteúdo, sem fundamentação metodológica ou explicação pedagógica.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O trecho utiliza um tom imperativo e uma frase de convocação ('Vamos espalhar...') com o objetivo claro de engajar e mobilizar o público a compartilhar a mensagem.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-59",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra aparece em um contexto de disputa política e denúncia, inserida em uma citação bíblica usada como arma simbólica/discursiva no embate entre atores políticos (Janones e Bolsonaro).",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O trecho compõe uma publicação com viés de denúncia política em tom de confronto, inserido em um contexto explícito de acusação e acusação de censura contra um adversário político.",
+        "valor": null
+      },
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "Trata-se da segunda ocorrência da palavra na citação de João 8:32 ('e a verdade vos libertará'), mobilizada em um contexto de disputa política e confronto discursivo.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "Enquadra-se na oposição discursiva e combate político onde a verdade é usada estrategicamente para confrontar o adversário nomeado no texto.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-60",
+    "resposta_json": [
+      {
+        "palavra": "VERDADE",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de embate e polarização discursiva para contrastar com as 'mentiras' atribuídas ao veículo/jornalista, empregando linguagem de denúncia e tom adversarial.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O enunciado estrutura a realidade na oposição 'VERDADE' versus 'mentira', com linguagem de combate e desmascaramento de uma narrativa prévia.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-61",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O trecho mobiliza a verdade de forma estratégica no embate público, em tom adversarial, com o objetivo de enfrentar a desinformação e contrapor a narrativa de um adversário político.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "A palavra é utilizada em uma oposição direta entre verdade e mentira ('desmentindo a fakenews'), apresentando linguagem de combate contra um ator político nomeado ('Bolsonaro').",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-62",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é mobilizada estrategicamente no embate público para convocar o público à ação e combater narrativas de adversários políticos, apresentando linguagem de combate e tom adversarial.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O enunciado estrutura a realidade em uma oposição explícita entre a verdade e as mentiras/desinformação de um grupo ou ator rival identificado ('fakenews bolsonaristas'), utilizando tom de denúncia e combate.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-63",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de engajamento e convocação do público/figura política na rede social para expor um fato e confrontar o discurso de um adversário.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O enunciado faz uma convocação direta ao engajamento ('Marquem o @AndreJanonesAdv aqui!!') e apelo para espalhar a informação ('O Brasil precisa saber a verdade!!').",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-64",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de mobilização do público e combate/correção de desinformação disseminada por adversários, em um tom imperativo e polarizado.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "A palavra é empregada acompanhada de imperativos de engajamento ('Compartilhe'), convocando a audiência a disseminar a informação.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-65",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra aparece em um contexto de confronto político polarizado e uso de linguagem de combate com o objetivo de desmascarar, desqualificar e criticar um adversário político nominalmente identificado (Bolsonaro).",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O enunciado utiliza a noção de 'cristão de verdade' para apontar uma contradição/falsa conduta moral de um ator político rival, inserindo-se em uma lógica adversarial e de adjetivação desqualificadora do adversário.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-66",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto polarizado de embate discursivo, com o objetivo de confrontar uma narrativa rival e desmascarar o que o autor classifica como 'fake-news'.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O trecho estrutura a realidade na oposição explícita entre verdade e mentira/desinformação ('disseminar fake-news' x 'tá aí a verdade'), atacando diretamente o posicionamento e o discurso de um interlocutor/adversário rival.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-67",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada estrategicamente em um tom de combate, convocação e denúncia em um contexto político polarizado e adversarial, visando desmascarar ou expor supostos crimes do governo anterior (adversário político identificável).",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O enunciado adota uma linguagem de combate e desmascaramento, direcionando a busca da verdade contra ações e crimes atribuídos a um ator rival nomeado (Bolsonaro).",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-68",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra 'verdade' é utilizada em tom adversarial, com adjetivação desqualificadora contra um adversário político específico (Bolsonaro).",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O trecho apresenta linguagem de desqualificação contra um ator rival identificável, caracterizando um ataque e rotulação em contexto polarizado.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-69",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra aparece na expressão adjetivada 'balas de verdade' em um contexto adversarial, altamente polarizado e de denúncia/combate, contrapondo a postura tolerante com certos grupos em relação à repressão violenta com armas reais que seria aplicada contra outros manifestantes.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O enunciado estrutura a realidade a partir do combate e da denúncia política em relação a atores rivais (as Forças Armadas), usando a oposição do que é real/verdadeiro (munição letal) para desmascarar e combater a parcialidade institucional.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-70",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é mobilizado em um enunciado direto e opinativo para redefinir o enquadramento de uma situação e impor uma consequência factual/jurídica imediata, funcionando como um recurso de mobilização no debate público sem embasamento metodológico ou reflexão epistêmica.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "A palavra aparece em uma construção condicional ('Se for verdade...') que busca orientar e direcionar o entendimento do público para uma ação/consequência lógica e enfática, sem focar no combate a um adversário nomeado específico de desinformação nem detalhar métodos de apuração.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-71",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é mobilizada em um contexto de disputa discursiva no ambiente digital, sendo usada como convocação direta do público ao engajamento e ao compartilhamento para contrapor uma narrativa adversária.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O trecho utiliza a expressão 'Compartilhe a verdade!', caracterizando um imperativo direto de compartilhamento e engajamento da audiência sem a apresentação de justificativa metodológica ou apuração detalhada.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-72",
+    "resposta_json": [
+      {
+        "palavra": "VERDADE",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra aparece em uma expressão figurada/metafórica de denúncia e combate policial (\"BALA DE VERDADE\"), utilizada no texto para construir um contraste adversarial de indignação política contra a ação das forças de segurança diante de manifestantes rivalizados.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "A ocorrência insere-se em um enunciado polarizado de combate e denúncia explícita a atores políticos e institucionais rivalizados (a polícia e os golpistas).",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-73",
+    "resposta_json": [
+      {
+        "palavra": "VERDADE",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é mobilizado em um contexto de disputa política acirrada e polarizada (\"GUERRA DE NARRATIVAS\"), sendo utilizado como ferramenta de mobilização de público e engajamento em redes sociais.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O trecho convoca explicitamente a audiência para engajar, propagar e compartilhar o conteúdo em diversas plataformas (\"precisamos mostrar a VERDADE no WhatsApp, TikTok e Facebook!!\"), caracterizando o uso do termo com imperativo de mobilização e engajamento do público.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-74",
+    "resposta_json": [
+      {
+        "palavra": "VERDADE",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de embate e combate político contra um adversário nomeado (Bolsonaro e a gestão da pandemia), visando desmascarar e atacar uma narrativa opositora com linguagem adjetivada e de denúncia.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O trecho estabelece uma oposição direta e explícita entre a 'VERDADE' anunciada e a mentira/atuação do adversário político ('BOLSONARO MENTE'), operando no léxico de denúncia e polarização.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-75",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é utilizado em tom de cobrança e confronto direto a um veículo de imprensa (Globo), insinuando que este costuma omitir os fatos ('passar pano') e exigindo a revelação da verdade em tom adversarial.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "A palavra aparece em uma oposição explícita entre a mentira/omissão ('PASSAR PANO') e a 'verdade', visando desmascarar a atitude do veículo de mídia cobrado.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-76",
+    "resposta_json": [
+      {
+        "palavra": "Verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é mobilizada de forma categórica e apelativa para convocar a atenção do público e encerrar o debate em um tom de revelação e engajamento.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O trecho recorre a um tom de proclamação enfática e uso de exclamação para convocar a audiência (\"pra todos verem\"), sem citar ou desmascarar explicitamente um adversário nomeado.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-77",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de confronto e denúncia direta contra uma figura política (Bolsonaro), caracterizando o uso da verdade como arma simbólica para desmentir uma declaração.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O trecho estabelece uma oposição direta entre a declaração do político (fala no JN) e os vídeos apresentados para desmascará-lo, utilizando linguagem de denúncia e correção contra um adversário nomeado.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-78",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é utilizado em um contexto de embate público adversarial, com linguagem de combate e denúncia contra um alvo acusado de propagar desinformação.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "Estrutura a realidade em uma oposição explícita entre verdade e mentira/desinformação ('fakenews'), visando desmascarar ou expor um adversário rival identificável.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-79",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é mobilizado no contexto de disputa política e mobilização do público para rebater a imagem publicada por um adversário político (Bolsonaro), conclamando o engajamento e o compartilhamento do público ('Vamos espalhar a verdade').",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O trecho utiliza o imperativo de engajamento ('Vamos espalhar') para convocar o público a compartilhar e disseminar o conteúdo em um registro de mobilização direta da audiência.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-80",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é mobilizado de forma reativa e adversarial para chancelar uma declaração agressiva (\"ATACOU não\") e validar um discurso no embate público.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "Estrutura o enunciado em tom de combate e polarização, utilizando a verdade para defender uma fala contra acusações de ataque e desqualificar a interpretação do interlocutor rival.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-81",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de embate, apoio moral e torcida, servindo como uma arma simbólica de mobilização e esperança de vitória da causa em questão, sem fundamentação metodológica ou reflexão sobre a profissão.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O trecho estabelece um cenário de combate implícito em que a verdade prevalecerá contra acusações, injustiças ou narrativas adversárias (\"a verdade vencerá\"), em linguagem de enfrentamento e polarização.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-82",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada estrategicamente para introduzir uma afirmação conclusiva no debate público sobre o resultado eleitoral, operando como um marcador discursivo de autoridade para fechar a discussão sem embasamento em métodos formais de apuração.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O trecho mobiliza a expressão \"A verdade é que...\" como marcador discursivo de correção enfática para estabelecer um fato sobre a votação sem nomear ou atacar diretamente um adversário específico.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-83",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O enunciado mobiliza a palavra 'verdade' de forma enfática no embate público/digital para validar uma declaração/fato em oposição a discursos anteriores, atuando como encerramento de debate e validação/mobilização de sentido.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Trata-se de uma reação e correção de sentido sem nomear diretamente um adversário ou apresentar método técnico de apuração, funcionando como um marcador de afirmação enfática sobre a realidade trazida à tona.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-84",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em tom de denúncia e combate dentro de uma disputa política polarizada, apontando diretamente um adversário político (Bolsonaro/bolsonaristas) e acusando-os de violência.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O enunciado faz uso da verdade como arma discursiva de ataque e denúncia contra um ator rival identificável (Bolsonaro e terroristas bolsonaristas) em registro adversarial.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-85",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é empregada em um contexto de reação visceral e emotiva no ambiente digital, funcionando como arma simbólica e disparador de indignação/engajamento diante de um enunciado em circulação, sem qualquer fundamentação metodológica ou reflexão epistemológica sobre a prática profissional.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O termo é utilizado como marcador discursivo de reação e engajamento sem nomear ou acusar diretamente um adversário específico (o que enquadraria o trecho na subcategoria 4.1).",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-86",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é mobilizada no contexto de embate político em redes sociais para combater desinformação de adversários e convocar o público à ação.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O trecho recorre a um imperativo direto de engajamento ('Compartilhe a verdade') para convocar a audiência a compartilhar a informação.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-87",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada estrategicamente em um tom adversarial e de ataque a um adversário político específico (Bolsonaro), com linguagem de denúncia e exclamativa, sem fundamentação metodológica ou foco pedagógico.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O enunciado apresenta um tom explícito de combate e denúncia direcionado a um rival politico nomeado ('Bolsonaro'), caracterizando uma oposição direta e desqualificadora.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-88",
+    "resposta_json": [
+      {
+        "palavra": "VERDADE",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O trecho mobiliza a palavra 'verdade' de forma estratégica em um embate público com tom adversarial, estruturando o enunciado em uma oposição explícita e em tom de combate contra a mentira.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O enunciado apresenta linguagem de combate e polarização direta ao afirmar que a 'VERDADE vencerá a mentira!!', opondo explicitamente verdade versus mentira.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-89",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra 'verdade' é utilizada em tom de disputa e embate discursivo/polarizado, servindo para opor uma concordância factual com o enunciado ao 'discurso mentiroso' atribuído ao grupo adversário.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O enunciado estabelece uma oposição direta entre 'verdade' e 'discurso mentiroso', adjetivando o grupo rival pejorativamente ('gado') em uma clara linguagem de combate e denúncia.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-91",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada como um marcador discursivo/interjeição de confirmação e concordância no contexto de uma postagem/comentário em rede social com forte tom de engajamento e mobilização política.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O termo atua como confirmação e assentimento para validar o discurso e selar o sentido da mensagem antes de convocar/anunciar o conteúdo para a audiência ('já já vídeo no Plantão Brasil'), sem explicitar um alvo nominal para ataque ou desmentido direto.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-92",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é utilizado em um contexto de denúncia e indignação para enfatizar a gravidade real de uma situação (um fuzil de fato/real) em contraste com a seletividade e violência policial baseadas em raça e classe social.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O trecho estabelece um contraponto crítico e um combate discursivo direto contra a assimetria na atuação das forças policiais, denunciando a diferença de tratamento dispensada a brancos ricos versus pessoas pretas e pobres.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-93",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra aparece em um contexto de disputa política e ideológica, onde o termo é utilizado para deslegitimar um grupo adversário (classificado como \"delinquentes, financiados pela extrema-direita\") e opô-los ao grupo legítimo (\"ambientalistas de verdade\").",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O trecho adota uma estrutura adversarial e polarizada, com adjetivação desqualificadora do adversário para denunciar a falsa imagem criada por ele em oposição ao grupo autêntico.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-94",
+    "resposta_json": [
+      {
+        "palavra": "Verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é utilizado como um marcador discursivo/interjeição afirmativa no debate para introduzir e validar um dado, buscando assentado de realidade sem o desenvolvimento de reflexão epistemológica, metodológica ou identitária.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "A palavra é usada como um marcador discursivo de asserção/confirmação ('na verdade' / 'é verdade'), servindo para corroborar o sentido em circulação no debate sobre as pesquisas eleitorais, sem direcionar um ataque ou denúncia a um adversário específico.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-95",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de embate e exaltação do discurso de uma figura pública (Benedita) em oposição ao silêncio/omissão de outros, operando como uma validação de autoridade sem fundamentação metodológica ou epistemológica.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "A expressão é mobilizada para endossar categoricamente a fala de Benedita e engajar o público na validação do discurso, funcionando em registro de apoio e mobilização sem citar ou atacar um adversário nominalmente acusado de mentira ou desinformação.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-96",
+    "resposta_json": [
+      {
+        "palavra": "verdadeiro",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é empregado em um contexto de denúncia política e tom acusatório contra um adversário político específico, visando adjetivar e destacar a gravidade de uma conduta ilícita.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "A palavra é usada com adjetivação desqualificadora e tom de denúncia em relação a um ator político rival identificável.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-97",
+    "resposta_json": [
+      {
+        "palavra": "verdadeiro",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é utilizado como um selo de autenticidade para legitimar a informação do vídeo de forma direta no ambiente digital, sem apresentar justificativa metodológica.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "A expressão 'Vídeo verdadeiro aqui' atua como uma afirmação enfática de autoridade para guiar a atenção da audiência e atestar a veracidade da mídia apresentada.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-98",
+    "resposta_json": [
+      {
+        "palavra": "verdadeiro",
+        "categoria": "CATEGORIA 3 — VERDADE E MÉTODOS DE APURAÇÃO",
+        "justificativa": "O termo é empregado para indicar a veracidade e consistência do depoimento prestado à Polícia Federal com base na existência de indícios e evidências apuradas pelas autoridades (STF).",
+        "subcategoria": null,
+        "subcategoria_justificativa": null,
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-99",
+    "resposta_json": [
+      {
+        "palavra": "verdadeiro",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é empregado em um contexto de denúncia política adversarial, visando desqualificar e apontar a gravidade das ações atribuídas a adversários nomeados.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "A palavra é utilizada em uma estrutura de combate e denúncia contra um adversário político e grupo identificável (governo Bolsonaro e pastores).",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-100",
+    "resposta_json": [
+      {
+        "palavra": "verdadeiro",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de disputa de engajamento e visibilidade nas redes sociais, usando o termo como forma de enaltecer e qualificar a autoridade/alcance de uma figura política em tom de mobilização e exaltação.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O trecho mobiliza o termo em tom opinativo e de afirmação enfática para a audiência, buscando corroborar o engajamento e alcance do candidato frente ao público sem fundamentação metodológica.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-101",
+    "resposta_json": [
+      {
+        "palavra": "verdadeiro",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de denúncia política e combate adversarial contra o governo Bolsonaro e as Forças Armadas, servindo para enfatizar a gravidade dos fatos na disputa discursiva contra o adversário.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O trecho mobiliza uma oposição explícita para desmascarar a narrativa do adversário político com tom de combate, denúncia e adjetivação desqualificadora.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-102",
+    "resposta_json": [
+      {
+        "palavra": "verdadeiro(a)",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é empregado de forma adjetivada em um contexto fortemente polarizado e de combate discursivo, visando desqualificar e denunciar a ação de um adversário/ator político no conflito.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "A palavra insere-se em um enunciado que utiliza linguagem de denúncia, combate e adjetivação polarizada/desqualificadora contra o lado rival ('terroristas israelenses').",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-103",
+    "resposta_json": [
+      {
+        "palavra": "verdadeiro",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de denúncia e combate político adversarial contra um ator político nomeado (Flávio Bolsonaro), articulada na oposição entre valor maquiado/fraudulento (subfaturado) e a realidade oculta (preço verdadeiro) para desmascarar um suposto esquema de lavagem de dinheiro.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O enunciado adota tom de denúncia e combate direto contra um adversário político identificado, utilizando o preço verdadeiro para confrontar a adulteração (subfaturamento) no suposto esquema.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-104",
+    "resposta_json": [
+      {
+        "palavra": "verdadeiro",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de embate e provocação política em redes sociais, onde o autor exige uma prova de autenticidade/veracidade da ação do adversário político em um tom de desacreditação e desafio adversarial.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O enunciado utiliza uma linguagem de combate e desafio explícito direcionada a um ator político rival (Bolsonaro), visando desmascarar ou colocar em dúvida a autenticidade do medicamento/comportamento.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-105",
+    "resposta_json": [
+      {
+        "palavra": "verdadeiro",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de denúncia e combate discursivo, visando enfatizar de forma dramática a gravidade da decisão criticada.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O termo atua como adjetivo intensificador ('verdadeiro GENOCÍDIO') no contexto de denúncia explícita e adjetivação desqualificadora da ação dos adversários.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-106",
+    "resposta_json": [
+      {
+        "palavra": "verdadeiro",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de embate e denúncia política, servindo como uma crítica sarcástica para expor e desmascarar as divergências na trajetória do ministro, estabelecendo um tom de confronto contra uma fala adversária (a justificativa de 'inadequações curriculares').",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O termo articula uma oposição direta entre a declaração/versão defendida pelo adversário político e a realidade dos fatos, visando deslegitimar a narrativa rivais em tom de denúncia e correção pública.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-107",
+    "resposta_json": [
+      {
+        "palavra": "VERDADEIRO",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um tom adversarial e de denúncia/combate no debate público em contexto político polarizado, contrapondo um conteúdo real a 'fakenews' e criticando a atuação do TSE.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O termo é empregado diretamente em oposição simétrica às 'fakenews' e no combate/denúncia da atuação de um ator específico (TSE) em ambiente de disputa política.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-108",
+    "resposta_json": [
+      {
+        "palavra": "verdadeiro",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é empregado em um contexto adversarial, com linguagem de ataque e denúncia verbalizada ('COVARDE, FASCISTA ENRUSTIDA'), visando desqualificar o discurso/atitude do interlocutor.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "Apresenta léxico de combate e adjetivação desqualificadora direcionada a um alvo rival identificável, opondo a omissão do interlocutor à indicação do responsável real.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-109",
+    "resposta_json": [
+      {
+        "palavra": "verdadeiro",
+        "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO IDENTITÁRIO, NORMATIVO E EPISTÊMICO DA PROFISSÃO",
+        "justificativa": "A palavra aparece em uma expressão figurada no texto, qualificando uma pessoa como 'verdadeiro guerreiro', associando-se a atributos morais e heroicos.",
+        "subcategoria": "1.1 Verdade como missão profissional",
+        "subcategoria_justificativa": "O termo é empregado na metáfora heroica 'verdadeiro guerreiro', relacionando-se à exaltação moral e autodefinição identitária.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-110",
+    "resposta_json": [
+      {
+        "palavra": "verdadeiro",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de embate e denúncia política para atacar um ator e um veículo de imprensa (Bolsonaro e O Globo), identificando explicitamente um culpado e acusando o meio de comunicação de desviar o foco.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O trecho estabelece uma oposição direta entre a narrativa do veículo ('tentando desviar o foco') e a realidade apontada pelo autor ('verdadeiro culpado'), adotando adjetivação desqualificadora e linguagem adversarial com alvos nomeados.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-112",
+    "resposta_json": [
+      {
+        "palavra": "verdadeiro",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra aparece em um contexto de denúncia e combate discursivo contra a cobertura da imprensa (TV Globo/Fantástico), acusando o veículo de omitir o responsável real pela guerra e gerar desinformação.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O termo é mobilizado para apontar ocultação de dados por parte de um ator/veículo rival e acusá-lo de promover desinformação ao omitir quem seria o autor real/culpado.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-113",
+    "resposta_json": [
+      {
+        "palavra": "verdadeiro",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de disputa discursiva e combate político polarizado, com adjetivação desqualificadora do adversário ('JUIZ LADRÃO') e oposição a um governo que é considerado ilegítimo ou falso.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O enunciado contesta a realidade/autoridade vigente atribuindo a condição de 'verdadeiro' a um ator político rival em tom de denúncia, combate e oposição direta.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-114",
+    "resposta_json": [
+      {
+        "palavra": "verdadeiro",
+        "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO IDENTITÁRIO, NORMATIVO E EPISTÊMICO DA PROFISSÃO",
+        "justificativa": "O termo aparece em um contexto de reflexão sobre a evolução tecnológica (deepfakes) e os limites da percepção da realidade, discutindo a capacidade de distinguir o que é fato do que é simulado.",
+        "subcategoria": "1.2 Verdade como problema epistemológico",
+        "subcategoria_justificativa": "O trecho aborda o estatuto da verdade e a relação entre percepção e realidade diante do avanço das tecnologias, expressando a incerteza epistêmica sobre a impossibilidade de diferenciar o que é real/falso.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-115",
+    "resposta_json": [
+      {
+        "palavra": "verdadeiro",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é utilizado estrategicamente em um contexto adversarial e de embate público ('Bandido tem de ter o nome verdadeiro divulgado'), opondo a 'verdade' ao codinome da pessoa citada para marcá-la e desqualificá-la no debate.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "Estrutura o enunciado com adjetivação e léxico de denúncia/combate em relação a um indivíduo e enunciado rival (nome verdadeiro contra o codinome escolhido).",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-116",
+    "resposta_json": [
+      {
+        "palavra": "verdadeiro",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de disputa política e polarização, no qual se busca desqualificar e confrontar adversários políticos (em oposição aos 'trastes' e 'lixos'), afirmando a legitimidade e a autoridade de um líder em detrimento de outro.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O termo é empregado com linguagem de combate e adjetivação polarizada para contrapor e afirmar quem é o 'verdadeiro' presidente frente aos opositores caracterizados de forma pejorativa.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-117",
+    "resposta_json": [
+      {
+        "palavra": "verdadeiro",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é mobilizada de forma estratégica em um embate público e político, assumindo um registro adversarial para contestar uma narrativa específica (a série da Netflix) e atacar adversários (Moro e Lava Jato).",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O termo é usado com claro tom de denúncia e combate para desmascarar o que o autor considera uma farsa, estruturando uma oposição direta contra atores rivais identificáveis (a Netflix, Moro e a Lava Jato) ao apontar quem seria o 'verdadeiro' culpado.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-119",
+    "resposta_json": [
+      {
+        "palavra": "verdadeira",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é empregado com linguagem enfática e tom de denúncia política para adjetivar e desqualificar um grupo/adversário nomeado (\"bancada do crime\", \"bolsonaristas\"), caracterizando o uso da verdade como arma simbólica em um contexto polarizado.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O trecho possui léxico de combate/denúncia com alvos políticos identificáveis (\"bolsonaristas\", \"Carla Zambelli\", \"Jorginho Mello\"), adjetivando diretamente a atuação do grupo opositor para desmascará-lo no debate público.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-120",
+    "resposta_json": [
+      {
+        "palavra": "verdadeira",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é empregado com função enfática e de autoridade para encerrar/corrigir o debate em um contexto de disputa política, ressaltando o enquadramento do discurso proferido em relação ao interlocutor.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "A palavra funciona como um marcador discursivo de correção enfática ('uma verdadeira AULA') para chancelar a exposição feita e sobrepor a autoridade do argumento no debate público sem necessariamente nomear uma desinformação específica a ser desmascarada tecnicamente.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-121",
+    "resposta_json": [
+      {
+        "palavra": "verdadeira",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é mobilizado em um registro tático de apelo e denúncia política em redes sociais, visando gerar forte impacto e repercussão no embate público sem o emprego de fundamentação metodológica ou deontológica.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "A palavra 'verdadeira' funciona como um intensificador discursivo para dar caráter definitivo à revelação ('verdadeira DELAÇÃO') e mobilizar a atenção do público, sem estar contraposta a uma mentira explicitamente enunciada por um adversário.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-122",
+    "resposta_json": [
+      {
+        "palavra": "verdadeira",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é mobilizado em um contexto de disputa discursiva e combate político para questionar a fala/dado de um adversário nomeado (governo Bolsonaro / Ricardo Barros), sem embasamento metodológico ou reflexão deontológica.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "A palavra aparece em tom de desconfiança e denúncia ('Se a porcentagem é verdadeira (duvido)'), opondo o enunciado à suspeita de fraude/mentira de atores políticos rivalizados em uma estrutura adversarial.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-123",
+    "resposta_json": [
+      {
+        "palavra": "verdadeira",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é empregada em um contexto de denúncia e combate político, usando tom acusatório para enfatizar e desmascarar a 'farra de gastos' de adversários públicos (procuradores da Lava Jato).",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O termo é usado com carga expressiva e adjetivação desqualificadora para desmascarar e denunciar condutas de um grupo/ator rival identificável (Deltan Dallagnol e procuradores da Lava Jato).",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-124",
+    "resposta_json": [
+      {
+        "palavra": "verdadeira",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de disputa política e ideológica polarizada nas redes sociais para atacar e desqualificar um grupo rival (\"webrevolucionários\"), contrapondo-o e desmascarando sua coerência no debate público.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O enunciado adota uma linguagem de combate e denúncia em relação a um ator rival identificável, usando a expressão de forma irônica/desqualificadora e associando a atuação do grupo oposto a \"FAKE-NEWS\".",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-125",
+    "resposta_json": [
+      {
+        "palavra": "verdadeira",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é utilizado de forma estratégica no embate político/ideológico para qualificar e delimitar discursivamente um grupo adversário/aliado ('verdadeira esquerda'), estabelecendo um juízo de valor em oposição aos que estariam fora dessa definição legítima.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "A palavra opera na polarização direta e na adjetivação desqualificadora dos grupos de oposição discursiva, contrapondo quem seria a 'esquerda autêntica' àqueles considerados 'falsos' ou 'demagogos'.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-126",
+    "resposta_json": [
+      {
+        "palavra": "VERDADEIRA",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de disputa discursiva e política polarizada, onde o autor busca desqualificar e confrontar um grupo rival (ciristas) afirmando a legitimidade do PT em tom adversarial.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O termo estrutura uma oposição explícita e desqualificadora contra adversários politicamente nomeados no debate público.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-127",
+    "resposta_json": [
+      {
+        "palavra": "verdadeira",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é utilizado em um contexto polarizado e adversarial para opor um grupo a outro no debate político, servindo como marcador de autoridade discursiva e desqualificação de adversários sem fundamentação metodológica.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "A palavra é usada em oposição à dita 'frente ampla' para adjetivar e qualificar a 'esquerda', operando uma polarização explícita no debate ideológico público.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-128",
+    "resposta_json": [
+      {
+        "palavra": "verdadeira",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é empregada em um tom enfático, adversarial e de indignação no debate público, funcionando como um recurso de intensificação e desqualificação da atitude de um agente político/jurídico (Mendonça/STF).",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O termo é articulado com léxico de ataque e adjetivação desqualificadora (\"PALHAÇADA\", \"circo\") direcionada a um adversário/ator público nomeado (Mendonça).",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-129",
+    "resposta_json": [
+      {
+        "palavra": "verdadeira",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de embate e disputa discursiva sobre quem realmente representa a oposição no campo político, desqualificando ou delimitando adversários em um tom adversarial.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O termo é empregado na expressão 'verdadeira oposição' como forma de reivindicar legitimidade política em oposição direta e confrontacional aos seus rivais.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-130",
+    "resposta_json": [
+      {
+        "palavra": "verdadeira",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O trecho mobiliza a palavra em um contexto estritamente adversarial, focado em confronto político contra adversários nomeados ('bolsonaristas') e com tom de comemoração de embate/disputa pública.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "A palavra aparece inserida em uma estrutura de combate político e polarização explícita, associada à desqualificação da 'narrativa' do grupo rival em um cenário de disputa discursiva.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-131",
+    "resposta_json": [
+      {
+        "palavra": "verdadeira",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de confronto e polarização política digital, mobilizada estrategicamente para desqualificar o grupo adversário ('gabinete do ódio') em um tom altamente adversarial.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O trecho estabelece uma oposição direta e desqualificadora contra um adversário político claramente identificado, empregando linguagem de denúncia e embate sobre o uso de 'robôs' e engajamento artificial.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-132",
+    "resposta_json": [
+      {
+        "palavra": "verdadeira",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é empregado em tom de combate e demarcação ideológica/política para diferenciar uma 'esquerda verdadeira' de outros grupos, funcionando como disputa discursiva e de legitimidade entre adversários/grupos políticos.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "A palavra é usada como adjetivação polarizadora e demarcadora para validar uma vertente política em oposição/contraste a outras dentro do debate público.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-133",
+    "resposta_json": [
+      {
+        "palavra": "Verdadeira",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada de forma coloquial e enfática para qualificar uma pessoa, reforçando uma autoridade de julgamento sobre sua postura de combate e resiliência diante de uma situação adversa de saúde.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O termo é empregado como um marcador discursivo de correção e enfática confirmação em tom de engajamento e afetividade com a pessoa citada, sem desmascarar um adversário ou mentira específica.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-134",
+    "resposta_json": [
+      {
+        "palavra": "verdadeira",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em um contexto de disputa política e polarizada para desqualificar um grupo adversário (os 'ciristas') e reafirmar, em tom de combate e denúncia, a legitimidade e identidade de oposição do PT frente a outro enunciado.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O termo articula uma linguagem de combate político, opondo explicitamente a 'verdadeira oposição' à narrativa ou postura praticada pelos adversários políticos indicados no texto.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-135",
+    "resposta_json": [
+      {
+        "palavra": "verdadeira",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é mobilizada em contexto adversarial no embate público para demarcar autenticidade e disputar sentidos no campo político.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "A ocorrência opera uma adjetivação e polarização explícita ao qualificar o grupo político legítimo ('esquerda verdadeira') em oposição discursiva a outros atores.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-136",
+    "resposta_json": [
+      {
+        "palavra": "verdadeira",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é usada em um contexto de embate e denúncia política polarizada, servindo como reforço enfático para deslegitimar a ação de adversários e caracterizar as investigações como perseguição injusta.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O trecho apresenta uma linguagem de combate, adjetivação desqualificadora e oposição discursiva em relação a atuações e narrativas de grupos políticos rivais.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-137",
+    "resposta_json": [
+      {
+        "palavra": "verdadeira",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra aparece em um contexto de oposição polarizada e rotulação direta de tipos morais e intelectuais em um debate público/político, caracterizando um registro adversarial e de combate.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O enunciado estrutura a realidade em um esquema de oposição binarizada e qualificação moral entre o 'inteligente e verdadeiro' versus o 'burro e mentiroso'.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-138",
+    "resposta_json": [
+      {
+        "palavra": "verdadeira",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O trecho mobiliza o termo em um registro adversarial e crítico para apontar e desqualificar a conduta de adversários/grupos políticos ('esquerda liberal') no momento decisivo da eleição.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "Trata-se de um enunciado com adjetivação desqualificadora e tom de denúncia/combate direcionado a um grupo e comportamento político rival explicitamente nomeado.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-139",
+    "resposta_json": [
+      {
+        "palavra": "verdadeira",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada estrategicamente para criar uma oposição política e ideológica polarizada entre quem é a \"esquerda real\" e quem seria \"direita mascarada\", desqualificando os adversários políticos em tom adversarial.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O trecho estrutura a realidade numa oposição direta entre a \"verdadeira esquerda\" e os demais atores políticos que seriam mascarados (falsos/mentirosos), utilizando adjetivação desqualificadora no embate de narrativas políticas.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-140",
+    "resposta_json": [
+      {
+        "palavra": "VERDADEIRA",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada estrategicamente no debate político em tom adversarial para desqualificar adversários e impor uma autoridade discursiva na oposição ao governo.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O termo é empregado em tom de denúncia e combate com léxico e adjetivação polarizada para confrontar e desqualificar outros grupos políticos (o 'pessoal do centro/direita' e o 'PDT') em relação à sua autodeclaração de oposição.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-141",
+    "resposta_json": [
+      {
+        "palavra": "verdadeira",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é empregado em um contexto nitidamente adversarial e de disputa política entre setores da esquerda, buscando desqualificar um grupo rival em favor de um ideal autêntico.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "A palavra é usada como adjetivação desqualificadora para marcar uma oposição no debate político e acusar os adversários de atuar como 'linha auxiliar da direita' (falsa esquerda vs. esquerda verdadeira).",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "tr-142",
+    "resposta_json": [
+      {
+        "palavra": "verdadeira",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é utilizado em um contexto de embate e denúncia contra agências de checagem, buscando comprovar a veracidade de uma informação anterior para desmascarar a narrativa dessas agências e de grandes veículos de imprensa.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O enunciado estrutura a realidade na oposição entre o que é dito ser verdade (confirmado pelo Papa) e a suposta mentira/desinformação praticada pelas agências de checagem e pela mídia tradicional (Globo, Estadão, Veja, Folha), utilizando linguagem de denúncia e combate.",
+        "valor": null
+      }
+    ]
+  }
+]

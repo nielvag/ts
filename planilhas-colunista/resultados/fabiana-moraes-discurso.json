@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "fm-1",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O jornalista/autor constrói o texto mobilizando investigações, levantamento de depoimentos de fontes, análises legislativas e memórias de coberturas para construir um panorama sobre o fenômeno da revitimização nas esferas pública, judicial, de saúde e nas redes sociais."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto recorre intensamente ao uso de falas diretas e indiretas de vítimas, advogados e peritos (discurso relatado), citação de artigos jurídicos e legislações (autoridade institucional), bem como a um tom analítico, indignado e comprometido (ethos)."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O leitor é interpelado de maneira a compreender a complexidade de um problema público-institucional e social, situando-se no papel de cidadão consciente diante do sistema de direitos, da previdência e da justiça."
+        }
+      ],
+      "posicao-sujeito": "1.1.3 - Observador",
+      "posicao-sujeito-justificativa": "O jornalista atua primordialmente como Observador, pois constrói a narrativa a partir de acompanhamento distanciado, apuração ativa, checagem de leis, consultas a especialistas/fontes e resgate de reportagens/casos emblemáticos, em vez de alegar testemunho de um instante específico ou ser agente direto do fato.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "Predomina o papel de Observador-Intérprete (Analista), uma vez que o jornalista identifica, seleciona e conecta múltiplos casos e legislações para contextualizar, organizar e dar sentido ao conceito de revitimização em diferentes estruturas da sociedade.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.5 Autoridade institucional"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Utiliza o Discurso Relatado (2.2) ao trazer depoimentos explícitos de vítimas e especialistas ('ele me disse', aspas do advogado e de fontes); recorre à Autoridade Institucional (2.5) pela menção às leis estaduais/federais (Lei Mariana Ferrer, Lei 14.321), artigos acadêmicos e ao veículo de imprensa (Intercept Brasil); e sustenta um Ethos e fiador (2.1) sóbrio, crítico e comprometido com a dignidade das vítimas.",
+      "papel-do-leitor": "3.3 Cidadão"
+    }
+  },
+  {
+    "id": "fm-2",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto é articulado por uma perspectiva jornalística opinativa/analítica. O enunciador assume a palavra para narrar, apurar e avaliar acontecimentos específicos (Mianmar, caso MC Livinho e a tragédia em Frei Miguelinho), construindo sua autoridade por meio do acompanhamento factual e da análise crítica da conduta social."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O jornalista utiliza diversos recursos para conferir autoridade e força argumentativa ao seu discurso, destacando-se a construção de um tom de indignação moral (ethos), a citação de depoimentos e falas diretas dos envolvidos (discurso relatado) e o embasamento em legislação formal como o Código de Trânsito Brasileiro (autoridade institucional)."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O jornalista estabelece uma relação com o leitor focada na discussão da esfera pública, dos direitos coletivos e da degradação das relações sociais, interpelando-o enquanto membro da sociedade diante de atos de incivilidade e violência."
+        }
+      ],
+      "posicao-sujeito": "1.1.3 - Observador",
+      "posicao-sujeito-justificativa": "O jornalista constrói seu relato por meio de acompanhamento distanciado dos cenários narrados e de apuração ativa (checagem de vídeos, consulta a fontes e entrevistas diretas com Marcílio e Terezinha), sem ter presenciado pontualmente os eventos no instante do fato.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "Predomina a função de organizar diferentes fatos (Mianmar, o caso de MC Livinho e o atropelamento em PE) para interpretá-los de forma conjunta, atribuindo-lhes o sentido de uma crescente 'barbárie' e insensibilidade social na era digital.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia",
+        "2.5 Autoridade institucional"
+      ],
+      "estrategias-de-legitimacao-justificativa": "2.1 Ethos e fiador: constrói um tom grave e indignado que projeta autoridade moral; 2.2 Discurso relatado: traz aspas e falas diretas do socorrista Marcílio, da testemunha Terezinha e menção a dados da ONU; 2.3 Polifonia: rebate comentários da internet ('Não, não são “animais”...'); 2.5 Autoridade institucional: mobiliza os artigos 29 e 189 do Código de Trânsito Brasileiro para respaldar o julgamento das condutas relativas às ambulâncias.",
+      "papel-do-leitor": "3.3 Cidadão"
+    }
+  },
+  {
+    "id": "fm-3",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "A autora constrói o relato a partir do acompanhamento das repercussões do caso de assédio, consultando múltiplos pronunciamentos públicos, artigos, postagens de intelectuais e mensagens de seu circuito para analisar o panorama. Ela atua organizando, confrontando e interpretando esses fatos e opiniões, assumindo uma postura crítica e analítica sobre a crise no movimento negro e o debate público."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza extensivamente o discurso relatado de diversas intelectuais e ativistas negras (Bárbara Carine, Carla Akotirene, Eliana Alves Cruz, Flávia Oliveira, Marilene Felinto, Elisa Lucinda, Ana Lira) para dar sustentação e autoridade ao argumento. Além disso, utiliza a polifonia ao responder e ponderar visões contrárias (como a ideia de 'fim do movimento' ou 'retrocesso'), adota uma cenografia de conversa/diálogo aberto com o leitor e convocação de parceria, e constrói um ethos de reflexão responsável e engajada."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "A jornalista estabelece um diálogo direto e horizontal com o leitor desde as primeiras linhas ('E aí, o que é que você acha?', 'E agora, o que vamos fazer?'), convidando o público a pensar junto, acolhendo dissenso e construindo uma reflexão compartilhada em tom de cooperação e debate comunitário."
+        }
+      ],
+      "posicao-sujeito": "1.1.3 - Observador",
+      "posicao-sujeito-justificativa": "A jornalista atua como Observadora: constrói a reflexão mediante acompanhamento e apuração distanciada/sistemática das reações públicas e de mensagens de seu circuito (lendo artigos, postagens e ouvindo declarações), organizando esse panorama sem ter presenciado o fato original nem figurado como agente do escândalo narrado.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "A autora atua predominantemente como Observadora-Intérprete (Analista), pois reúne os fatos e as manifestações públicas sobre as denúncias, seleciona e estrutura as diferentes opiniões de intelectuais negras e atribui sentido ao acontecimento, propondo chaves interpretativas sobre raça, gênero e representatividade.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia",
+        "2.4 Cenografia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Apresenta Discurso relatado (2.2) pela citação direta e indireta marcada de diversas autoras (ex: Bárbara Carine, Eliana Alves Cruz, Marilene Felinto); Polifonia (2.3) ao simular e rebater visões do senso comum ou de correntes do movimento ('não é verdade que retrocedemos 100 anos', negação da ideia de 'tudo homem'); Ethos e fiador (2.1) pelo tom honesto, reflexivo e ponderado diante de um tema espinhoso; e Cenografia (2.4) ao encenar o texto como uma roda de conversa e um espaço de escuta/construção coletiva de um 'documento'.",
+      "papel-do-leitor": "3.1 Parceiro"
+    }
+  },
+  {
+    "id": "fm-4",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O jornalista assume de forma explícita o processo de apuração, conduzindo entrevistas, referenciando matérias prévias de sua autoria e de outros jornalistas, além de organizar os fatos e depoimentos para interpretar o cenário político dentro do Conselho Federal de Medicina."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto sustenta suas afirmações por meio da imagem de rigor e engajamento do jornalista (ethos), do uso constante de falas diretas/aspas de médicos e conselheiros eleitos (discurso relatado), do embate implícito e explícito com discursos negacionistas (polifonia) e pela menção a dados estatísticos, resoluções legais e cargos institucionais (autoridade institucional)."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto constrói a figura de um leitor engajado na defesa da ciência, dos direitos humanos e da democracia, interpelando-o como parte de uma esfera pública consciente sobre a importância de combater o negacionismo nas instituições de saúde."
+        }
+      ],
+      "posicao-sujeito": "1.1.3 - Observador",
+      "posicao-sujeito-justificativa": "O jornalista atua como Observador ao construir a matéria fundamentando-se em apuração ativa, checagem, dados eleitorais e na realização de entrevistas à distância com os envolvidos ('Conversei remotamente com Eduardo e Leila', 'Falei sobre isso em coluna recente'), sem alegar ter testemunhado presencialmente um evento pontual nem atuar como agente político/participante direto dos pleitos citados.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "O papel predominante é o de Observador-Intérprete (ou Analista), pois o jornalista seleciona fatos, contextualiza o resultado das eleições do CFM com acontecimentos históricos/pandêmicos e organiza as falas das fontes para conferir sentido e analisar a disputa política e ideológica no campo da medicina.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia",
+        "2.5 Autoridade institucional"
+      ],
+      "estrategias-de-legitimacao-justificativa": "A legitimação ocorre via: 2.1 Ethos e fiador pela postura crítica, analítica e fundamentada em defesa da ciência e da lei; 2.2 Discurso relatado por meio da citação extensa das aspas dos médicos eleitos (ex: Leila Katz, Eduardo Jorge, Arruda Bastos) e trecho de entrevista antiga; 2.3 Polifonia pelo contraponto e negação de discursos do grupo 'Médicos Pela Vida' e comentários de opositores no Instagram; e 2.5 Autoridade institucional ao referenciar órgãos oficiais como CFM, STF, leis federais (como o artigo do Código Penal de 1940) e estatísticas de votação.",
+      "papel-do-leitor": "3.3 Cidadão"
+    }
+  },
+  {
+    "id": "fm-5",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto investiga os lugares discursivos ocupados pelo jornalista ao enunciar reflexões sobre a polícia e a obra cinematográfica, articulando uma posição-sujeito e um papel enunciativo analítico ao apresentar a entrevista."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto utiliza diversos recursos discursivos para conferir autoridade e credibilidade ao seu enunciado, como a citação direta de falas (discurso relatado), a menção a autoridades intelectuais/institucionais e a construção de um tom analítico."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto constrói uma relação com o leitor ao abordar temas de interesse público (segurança, direitos, Estado e sociedade), projetando um lugar de recepção e reflexão crítica sobre a realidade social."
+        }
+      ],
+      "posicao-sujeito": "1.1.3 - Observador",
+      "posicao-sujeito-justificativa": "O jornalista constrói o relato por meio de acompanhamento distanciado do cenário e apuração ativa (entrevista com o diretor, contextualização de dados e citações), sem reivindicar presença sensorial direta no momento dos fatos narrados nem limitar-se a mero juízo sem base de apuração.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "O jornalista seleciona e organiza os fatos e o conteúdo do documentário, atribuindo-lhes sentido social e político ao problematizar a atuação policial e conduzir as perguntas de forma analítica e reflexiva.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.5 Autoridade institucional"
+      ],
+      "estrategias-de-legitimacao-justificativa": "O texto recorre ao Discurso relatado (2.2) ao trazer a fala transcrita do entrevistado e citações de pensadores como Luiz Eduardo Soares e Hannah Arendt; sustenta-se no Ethos e fiador (2.1) por meio de um tom sóbrio, grave e conceitualmente elaborado; e aciona a Autoridade institucional (2.5) pela publicação no veículo Intercept Brasil e menção a cargos e credenciais (capitão, sociólogo, antropólogo, cineasta).",
+      "papel-do-leitor": "3.3 Cidadão"
+    }
+  },
+  {
+    "id": "fm-6",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto é narrado e construído a partir do relato pessoal e visceral da própria autora, que foi vítima de abuso sexual na infância, conectando sua experiência individual ao debate público sobre o PL 1904/2024. O discurso combina essa memória subjetiva e engajada com a análise e denúncia da atuação de parlamentares e instituições."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "A autora mobiliza múltiplos recursos discursivos para construir a autoridade do seu relato e de sua argumentação, incluindo o relato da própria vivência (ethos/fiador), a inclusão de dados oficiais e estatísticas do IPEA e Ministério dos Direitos Humanos, a citação direta/indireta de falas de parlamentares e autoridades (discurso relatado), além do confronto de discursos implícitos (polifonia) e a emolduração do texto como uma carta/manifesto de denúncia endereçada aos deputados (cenografia)."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "A autora interpela o público não apenas como leitor passivo, mas projeta diferentes papéis ao longo do texto: constrói um laço de cumplicidade e parceria com outras mulheres e vítimas de abuso ('esse texto não é só meu, mas segue escrito por milhões de crianças'), ao mesmo tempo em que convoca a sociedade a ficar atenta e atuar politicamente ('Estamos atentas ao que vocês farão... Esse assunto não vai esfriar')."
+        }
+      ],
+      "posicao-sujeito": "1.1.1 - Participante",
+      "posicao-sujeito-justificativa": "A jornalista se coloca explicitamente como participante e agente do trauma narrado desde a infância ('Eu tinha seis anos de idade quando fui abusada...'), utilizando a sua própria vivência de ter sido vítima para construir o lugar de fala e legitimar seu posicionamento contra o projeto de lei.",
+      "papel-enunciativo": "1.2.4 Militante",
+      "papel-enunciativo-justificativa": "A autora rompe com a neutralidade jornalística tradicional e assume um engajamento político, social e moral explícito em defesa dos direitos das mulheres e crianças contra o PL 1904/2024, confrontando abertamente o poder legislativo e denunciando o que considera uma violência institucional.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia",
+        "2.4 Cenografia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "O texto mobiliza a persona do fiador doloroso e fortalecido (2.1 Ethos e fiador); recorre ao discurso relatado ao citar declarações do presidente do CFM, o versículo bíblico e requerimentos de parlamentares (2.2 Discurso relatado); opera polifonicamente ao ironizar e refutar a ideia de que o PL é 'pauta de costumes' ou 'defesa da família' (2.3 Polifonia); e instaura uma cenografia de manifesto/carta aberta direta de interpelação e confronto aos deputados nominados (2.4 Cenografia).",
+      "papel-do-leitor": "3.6 Público a ser mobilizado"
+    }
+  },
+  {
+    "id": "fm-7",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto apresenta a enunciação de um jornalista/colunista opinativo que reflete sobre o papel do jornalismo, analisa dados e pesquisas, expressa concordância/discordância com especialistas e posiciona-se criticamente sobre a atuação da imprensa e da desinformação."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O enunciador constrói sua autoridade por meio do tom analítico e engajado, além de recorrer ostensivamente a citações de pesquisadoras e especialistas (discurso relatado), dados, e diálogos implícitos com o jornalismo tradicional e a desinformação (polifonia)."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto estabelece um contrato com o leitor convocando-o a refletir, entender o problema da desinformação e buscar novos caminhos para a ação e formação crítica."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O jornalista atua primordialmente como Comentarista. Ele constrói seu artigo a partir do seu próprio juízo, avaliação e concordância crítica com dados e pesquisadores (\"Concordo completamente com as pesquisadoras...\", \"A sensação é que estamos vivendo...\"), sem alegar presença física nos fatos do RS ou apresentar-se como especialista técnico de uma disciplina específica.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "Desempenha o papel de Observador-Intérprete (ou Analista). O autor organiza o cenário de crise e desinformação no Rio Grande do Sul e a atuação da imprensa, selecionando estudos acadêmicos e falas de especialistas para interpretar a realidade e propor sentidos para o combate às fake news.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "2.1 Ethos e fiador: Adota um tom indignado, provocativo e analítico ao mesmo tempo (ex: \"vagalhão de canalhice\", \"chafurdando para receber atenção\"), construindo uma imagem de jornalista crítico e comprometido. 2.2 Discurso relatado: Utiliza amplamente aspas e citações diretas de pesquisadoras (Patrícia Schuster, Cristiane Lindemann) e da jornalista Mariana Filgueiras para respaldar suas teses. 2.3 Polifonia: Dialoga criticamente com discursos vigentes, rebatendo frases implícitas ou explícitas de influenciadores, políticos e da grande imprensa (como a manchete da Folha de S.Paulo).",
+      "papel-do-leitor": "3.1 Parceiro"
+    }
+  },
+  {
+    "id": "fm-8",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto apresenta marcada presença da voz do jornalista, que constrói sua autoridade a partir de vivências pessoais e de apuração ativa, além de exercer vigilância crítica sobre o poder público e assumir engajamento em defesa do patrimônio histórico."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O jornalista mobiliza estratégias para conferir autoridade ao seu discurso, combinando um ethos/tom crítico e indignado, o uso de discurso relatado (notas de órgãos oficiais e fontes) e polifonia (ironia e contraposição a discursos oficiais e de redes sociais)."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto projeta um leitor participante e consciente da esfera pública, interpelando-o tanto na condição de cidadão prejudicado pelo desmonte histórico quanto convocando sua postura crítica diante da propaganda política."
+        }
+      ],
+      "posicao-sujeito": "1.1.3 - Observador",
+      "posicao-sujeito-justificativa": "Ainda que mencione uma vivência pessoal em Recife (\"Isso ficou muito evidente para mim em uma recente caminhada...\"), o jornalista atua predominantemente como Observador, sustentando a matéria em acompanhamento do cenário urbano e apuração ativa (consultando notas oficiais do Governo de Pernambuco, Fundarpe, Porto Digital, Prefeitura do Recife, dados do Ipea/INE e perfis de monitoramento).",
+      "papel-enunciativo": "1.2.3 Crítico-Monitor (ou Cão de Guarda)",
+      "papel-enunciativo-justificativa": "Predomina a função de Crítico-Monitor (Cão de Guarda), já que o jornalista exerce forte vigilância sobre governantes (como o prefeito João Campos e a governadora Raquel Lyra) e instituições, denunciando o abandono do patrimônio público, o mau uso de verbas publicitárias e a ineficiência administrativa.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "O texto utiliza (2.1 Ethos e fiador) ao adotar tom indignado, irônico e incisivo que molda uma postura de guardião do interesse público; (2.2 Discurso relatado) ao citar expressamente trechos de notas oficiais enviadas ao veículo (Fundarpe, Porto Digital, Prefeitura do Recife) e declarações de fontes; e (2.3 Polifonia) ao ironizar e refutar a imagem de 'cidade incrível' e o 'mundo feérico' veiculados nas redes sociais do prefeito.",
+      "papel-do-leitor": "3.3 Cidadão"
+    }
+  },
+  {
+    "id": "fm-9",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto apresenta marcada presença do jornalista/colunista, que se posiciona de forma analítica, crítica e opinativa a respeito da 'camarotização' da vida pública, intercalando dados de apuração e pesquisas acadêmicas com relatos de experiência própria e reflexões morais/sociais."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O enunciador mobiliza diversos recursos discursivos para fundamentar sua tese, tais como citações diretas e indiretas de pesquisas/estudos acadêmicos, relatos de terceiros, autoridade institucional e variações de tom (ethos) que combinam indignação, ironia e postura analítica."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O jornalista dialoga com o leitor interpelando-o enquanto integrante da sociedade afetado pela desestruturação dos serviços públicos e pelas desigualdades sociais, convocando reflexões sobre a cidadania, direitos de acesso e a dinâmica do consumo na esfera pública."
+        }
+      ],
+      "posicao-sujeito": "1.1.3 - Observador",
+      "posicao-sujeito-justificativa": "Ainda que o autor inclua uma breve digressão pessoal, a posição predominante ao longo do texto é de Observador. O jornalista constrói seu panorama crítico a partir de um acompanhamento distanciado da realidade social, respaldado por apuração ativa (casos de repercussão, pesquisas acadêmicas de Bruna Lopes, Juliana Tavares Marinho, Sylvia da Silveira Nunes, Jocélio dos Santos) e análise sociológica dos fatos.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "O papel dominante é o de Observador-Intérprete (Analista). O jornalista reúne dados do cotidiano (salas VIP, cartões black, camarotes no Carnaval e São João) e pesquisas acadêmicas para atribuir sentido social e político ao fenômeno do consumo e da segregação, analisando as causas e consequências da busca por distinção no capitalismo atual.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia",
+        "2.5 Autoridade institucional"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Ethos e fiador (2.1) está presente na escolha de um tom ironicamente crítico e reflexivo que constrói uma postura de guardião consciente da igualdade e dos bens públicos. Discurso relatado (2.2) ocorre nas citações de trechos de falas de internautas, depoimento de entrevistada no estudo sobre racismo e trechos da canção de Candeia. Polifonia (2.3) manifesta-se no uso de ironia e de vozes implícitas (por exemplo, ao discutir a ilusão de ser 'exclusive' ou a retórica dos serviços 'prime'). Autoridade institucional (2.5) apoia-se na evocação da autoridade de pesquisas e teses acadêmicas formais e dados de veículos de imprensa.",
+      "papel-do-leitor": "3.3 Cidadão"
+    }
+  },
+  {
+    "id": "fm-10",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "A autora constrói o texto a partir de sua vivência direta de 10 anos em redações, combinando relatos pessoais com a apuração de depoimentos de outras jornalistas e análise de pesquisas e episódios do campo jornalístico."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto emprega diversas estratégias para dar credibilidade e autoridade ao argumento, incluindo a construção de um ethos engajado, citação direta de depoimentos de outras profissionais (discurso relatado), refutação de discursos implícitos do meio e invocação de dados de pesquisas institucionais (FGV, Abraji) e obras acadêmicas."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "A autora interpela o leitor como um sujeito crítico, autônomo e membro da sociedade civil, convidando-o a refletir sobre os impactos das desigualdades de gênero e raça no jornalismo para além da mera fofoca de bastidores, posicionando-o como cidadão atento à esfera pública."
+        }
+      ],
+      "posicao-sujeito": "1.1.1 - Participante",
+      "posicao-sujeito-justificativa": "A jornalista se coloca explicitamente como participante do universo narrado, trazendo trechos de sua própria trajetória profissional e pessoal em redações ('Trabalhei justamente no periódico...', 'desenvolvi a película com o tempo', 'descobri que... recebia o menor salário'), atuando como agente afetada pelas dinâmicas de machismo e racismo que analisa.",
+      "papel-enunciativo": "1.2.3 Crítico-Monitor (ou Cão de Guarda)",
+      "papel-enunciativo-justificativa": "A autora atua com papel crítico e fiscalizador em relação às estruturas de poder e às assimetrias do próprio campo jornalístico, denunciando práticas de assédio, machismo, racismo e precarização profissional mesmo em veículos de grande prestígio.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia",
+        "2.5 Autoridade institucional"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Mobiliza Ethos e Fiador (2.1) ao adotar tom indignado, reflexivo e de denúncia fundamentada; Discurso Relatado (2.2) ao trazer depoimentos extensos e identificados de colegas como Alcione Ferreira, Maria do Carmo, Agnes Sofia e Assunção Santos; Polifonia (2.3) ao discutir criticamente premissas implícitas sobre o 'jornalismo como profissão do super-homem' e a dita normalidade de comportamentos abusivos; e Autoridade Institucional (2.5) ao citar pesquisas da FGV, da Abraji e dados de veículos jornalísticos e acadêmicos para sustentar sua tese.",
+      "papel-do-leitor": "3.3 Cidadão"
+    }
+  },
+  {
+    "id": "fm-11",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto é um artigo opinativo em que a autora constrói sua autoridade combinando análise crítica, vivência pessoal e referências ao seu trabalho e trajetória profissional para interpretar casos de racismo estrutural e julgamentos morais na mídia e na política."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "A autora utiliza diversas estratégias discursivas para legitimar suas teses, como a construção de um tom indignado e pessoal, citação direta e indireta de terceiros, incorporação e refutação do discurso da imprensa/oposição e embasamento em sua autoridade profissional e acadêmica."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto estabelece um diálogo direto e próximo com o leitor, interpelando-o diretamente para conscientizá-lo sobre o racismo estrutural, a assimetria do julgamento moral e convocando a uma postura reflexiva e crítica."
+        }
+      ],
+      "posicao-sujeito": "1.1.1 - Participante",
+      "posicao-sujeito-justificativa": "Embora atue predominantemente analisando fatos externos, a jornalista se inscreve como participante direta da situação discursiva e do contexto abordado ao relatar um episódio pessoal de racismo/injustiça vivenciado na redação do Jornal do Commercio ('Quando li isso, lembrei imediatamente do day em que um ex-chefe meu...'), usando sua própria vivência como parte ativa e afetada do problema narrado.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "A autora atua prioritariamente como Observadora-Intérprete, selecionando os casos recentes (Anielle Franco, Marcelle Decothé, Andrey Lemos) e dados históricos/científicos para organizar o sentido dos acontecimentos, atribuindo-lhes significado sob a ótica do racismo estrutural, do moralismo de ocasião e da disputa política de narrativas.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia",
+        "2.5 Autoridade institucional"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Mobiliza '2.1 Ethos e fiador' ao adotar um tom crítico, engajado e confessional ('Nesse texto, quero te apontar três questões'); '2.2 Discurso relatado' ao citar falas e trechos de Raull Santiago, Ronilso Pacheco e seu ex-chefe Ivanildo Sampaio; '2.3 Polifonia' ao responder a um discurso implícito e refutar máximas da imprensa/oposição ('não basta ser honesta, tem que parecer honesta'); e '2.5 Autoridade institucional' ao invocar seu trabalho como colunista de jornal e a autoria de artigo científico sobre deshumanização.",
+      "papel-do-leitor": "3.3 Cidadão"
+    }
+  },
+  {
+    "id": "fm-12",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "A autora constrói o relato mesclando marcas explícitas de sua própria vivência e subjetividade com uma postura investigativa, apuração própria (entrevistas com fontes especializadas como Marcelo Soares e Tai Nalon) e denúncia fiscalizadora do modelo de negócios da imprensa comercial."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza múltiplos recursos de legitimação, como o discurso relatado de especialistas, o recurso à autoridade de pesquisas e veículos reconhecidos, a polifonia através da citação e ironização de anúncios caça-cliques, além da construção de um ethos crítico e indignado."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto estabelece constante diálogo direto e de cumplicidade com o leitor, interpelando-o como cúmplice de uma experiência cotidiana compartilhada na navegação digital e como cidadão afetado por desinformação e quebra de privacidade."
+        }
+      ],
+      "posicao-sujeito": "1.1.1 - Participante",
+      "posicao-sujeito-justificativa": "A jornalista se descreve como participante e agente afetada pelos fatos narrados ao compartilhar experiências pessoais vividas como usuária e leitora, além de explicitar suas marcadores sociais ('professora e jornalista preta nordestina'), integrando a narrativa não apenas como observadora, mas como sujeito que vivencia diretamente o problema.",
+      "papel-enunciativo": "1.2.3 Crítico-Monitor (ou Cão de Guarda)",
+      "papel-enunciativo-justificativa": "A autora atua prioritariamente de forma fiscalizadora e vigilante sobre as instituições jornalísticas comerciais e plataformas de publicidade digital, denunciando o descompasso ético, a propagação de preconceitos e a mercantilização da informação.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia",
+        "2.5 Autoridade institucional"
+      ],
+      "estrategias-de-legitimacao-justificativa": "A legitimação ocorre pela convocação direta da fala de fontes nomeadas (2.2 Discurso relatado), pelo recurso a pesquisas acadêmicas e dados institucionais (2.5 Autoridade institucional), pela incorporação e refutação irônica do discurso dos anúncios caça-cliques (2.3 Polifonia) e pela construção de um tom de indignação moral e responsabilidade ética frente ao jornalismo (2.1 Ethos e fiador).",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "fm-13",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto investiga o lugar discursivo ocupado pela jornalista, que reflete sobre a misoginia a partir de suas próprias vivências, pesquisas e análises de episódios socioculturais."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza diversos recursos para conferir autoridade à argumentação, incluindo citações diretas de afetadas, dados de pesquisas acadêmicas e resgate histórico de eventos."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto constrói uma relação com o público leitor ao discutir temas de interesse coletivo, direitos humanos, esfera pública e cidadania."
+        }
+      ],
+      "posicao-sujeito": "1.1.1 - Participante",
+      "posicao-sujeito-justificativa": "A jornalista se descreve como agente e parte afetada do fato narrado, relatando episódios pessoais em que sofreu condutas misóginas por parte de homens gays e citando pesquisas que ela mesma realizou.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "A jornalista reúne a observação da realidade cotidiana, exemplos da cultura pop, depoimentos e resgates históricos para analisar, organizar e atribuir sentido ao fenômeno da misoginia no meio homossexual masculino.",
+      "estrategias-de-legitimacao": [
+        "2.2 Discurso relatado",
+        "2.3 Polifonia",
+        "2.5 Autoridade institucional"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Utiliza discurso relatado ao trazer asfalas de entrevistadas e ativistas; polifonia ao citar frases marcantes do senso comum e de personagens da TV para refutá-las; e autoridade institucional ao respaldar a análise em pesquisas acadêmicas e produções teóricas.",
+      "papel-do-leitor": "3.3 Cidadão"
+    }
+  },
+  {
+    "id": "fm-14",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto investiga os lugares discursivos ocupados pela própria jornalista ao enunciar a verdade, articulando sua experiência profissional de apuração com a reflexão opinativa e analítica sobre a produção e repercussão da notícia."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "A autora mobiliza recursos linguístico-discursivos para construir autoridade, incluindo a construção de uma imagem autorreflexiva e honesta (ethos), a citação literal de comentários de leitores (discurso relatado), o enquadramento do relato em tom de bastidor/alerta (cenografia) e o respaldo no veículo e na carreira acadêmica/profissional (autoridade institucional)."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto estabelece uma relação assimétrica e didática com os leitores, interpelando o público como alguém que precisa superar a leitura superficial de redes sociais e preencher lacunas de compreensão sobre a complexidade do jornalismo e dos sujeitos retratados."
+        }
+      ],
+      "posicao-sujeito": "1.1.1 - Participante",
+      "posicao-sujeito-justificativa": "A jornalista se inscreve como agente ativa dos fatos narrados: ela realizou a apuração e a entrevista com a fonte, escreveu a matéria original que gerou o debate, acompanhou e interveio na moderação dos comentários das redes sociais do veículo.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "A autora seleciona e organiza os acontecimentos (a polêmica em torno do nome da vítima) e lhes atribui sentido, extrapolando o fato pontual para analisar fenômenos mais amplos, como a dinâmica de apressamento das redes sociais, os estereótipos sobre populações vulneráveis e a conduta ética no jornalismo.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.4 Cenografia",
+        "2.5 Autoridade institucional"
+      ],
+      "estrategias-de-legitimacao-justificativa": "A autora constrói um ethos de responsabilidade e autocrítica ao admitir falhas ('Erramos – e aprendemos') (2.1); utiliza aspas e transcrição direta das reações do público no Instagram como discurso relatado (2.2); encena o texto a partir de uma narrativa pessoal e confessional do cotidiano ('Estava na sala de espera de um consultório médico...') (2.4); e evoca sua posição institucional no Intercept e como autora de livro sobre jornalismo para fundamentar seu julgamento (2.5).",
+      "papel-do-leitor": "3.2 Aprendiz"
+    }
+  },
+  {
+    "id": "fm-15",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "A jornalista constrói sua fala marcando tanto sua relação de acompanhamento do fato/relacionamento contínuo com a personagem narrada ao longo do tempo (\"Eu conheço Severina há mais de uma década. Fui até sua casa... no primeiro semestre de 2012...\") quanto assumindo postura crítica e analítica sobre a imprensa, as redes sociais e o sensacionalismo."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto utiliza diversas estratégias para legitimar sua verdade, como o tom indignado e comprometido (Ethos e fiador), depoimentos diretos da vítima e de especialista (Discurso relatado), refutação de discursos de senso comum sobre 'caridade' e 'monetização' (Polifonia) e embasamento na autoridade de sua atuação profissional (Autoridade institucional)."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "A jornalista interpela o leitor como um sujeito consciente sobre direitos, políticas públicas e ética midiática, além de convocá-lo a uma reflexão moral e postura de responsabilidade sobre a superexploração do sofrimento alheio nas redes."
+        }
+      ],
+      "posicao-sujeito": "1.1.3 - Observador",
+      "posicao-sujeito-justificativa": "A jornalista fala a partir do acompanhamento continuado ao longo dos anos (conhece Severina há mais de uma década, reportou sobre ela em 2012, ouviu fontes, analisou documentos/leis e conversou novamente com a personagem), marcando apuração ativa e vigilância distanciada/prolongada sobre a história, e não mero flagrante passivo ou participação nos fatos originais.",
+      "papel-enunciativo": "1.2.3 Crítico-Monitor (ou Cão de Guarda)",
+      "papel-enunciativo-justificativa": "O papel sobressalente é de fiscalização e denúncia crítica (Crítico-Monitor) em relação às engrenagens do sensacionalismo, à irresponsabilidade do jornalismo tradicional e das redes sociais, às plataformas digitais e ao desamparo do Estado.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia",
+        "2.5 Autoridade institucional"
+      ],
+      "estrategias-de-legitimacao-justificativa": "O texto mobiliza: 2.1 Ethos e fiador através de tom grave e indignado que constrói postura de guardiã da ética; 2.2 Discurso relatado via citações diretas de Severina, Karinny Oliveira e Marcelo Soares; 2.3 Polifonia ao incorporar e contestar discursos vigentes sobre a cultura da vaquinha e do entretenimento sobre a dor alheia; e 2.5 Autoridade institucional ao mencionar a apuração especial realizada para o Jornal do Commercio e a publicação no Intercept Brasil.",
+      "papel-do-leitor": "3.3 Cidadão"
+    }
+  },
+  {
+    "id": "fm-16",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto investiga o lugar discursivo do jornalista ao analisar o debate público e a comunicação digital, construindo uma posição-sujeito por meio de acompanhamento e apuração, além de assumir um papel enunciativo analítico ao atribuir sentido aos fatos."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza diversos recursos para conferir autoridade e credibilidade à fala, como tom e estilo próprios (ethos), citações diretas e indiretas de especialistas (discurso relatado) e a invocação de credenciais acadêmicas e institucionais das entrevistadas (autoridade institucional)."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O jornalista estabelece uma relação com o público leitor ao convocá-lo para a reflexão sobre as estratégias digitais de comunicação política, projetando um lugar e um papel específico para esse interlocutor."
+        }
+      ],
+      "posicao-sujeito": "1.1.3 - Observador",
+      "posicao-sujeito-justificativa": "O jornalista constrói seu relato por meio do acompanhamento distanciado dos acontecimentos virtuais e da apuração ativa de dados e falas de especialistas (fontes ouvidas), sem reivindicar presença física/sensorial no instante do fato nem ter atuado como agente dele.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "O jornalista reúne a observação da realidade (a postagem do PowerPoint pela Secom e as reações) com a interpretação desses fatos, organizando os dados e trazendo especialistas para atribuir sentido ao fenômeno da disputa digital.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.5 Autoridade institucional"
+      ],
+      "estrategias-de-legitimacao-justificativa": "O texto constrói um Ethos e fiador (2.1) através de tom conversacional, analítico e irônico ('Peguei a pipoca', 'peço licença aqui'); utiliza Discurso relatado (2.2) ao citar explicitamente as aspas das pesquisadoras; e recorre à Autoridade institucional (2.5) ao validar essas falas mencionando os vínculos formais e cargos das entrevistadas em universidades federais (UFSC, UFPE, UFPel/UFRGS) e livros publicados.",
+      "papel-do-leitor": "3.1 Parceiro"
+    }
+  },
+  {
+    "id": "fm-17",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "A jornalista se coloca como participante do fato no início da narrativa (interagindo diretamente com estudantes no banheiro da universidade) e atua ao longo do texto interpretando e correlacionando o acontecimento com questões políticas, culturais e sociais."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto utiliza tom engajado e de indignação para construir um ethos defensora dos direitos/respeito ao envelhecimento; recorre ao discurso relatado ao citar falas das estudantes, comentários do Instagram trazidos por Jeff Benício, e menções a pesquisas/autores; emprega a polifonia para confrontar o discurso velhofóbico e reacionário; utiliza autoridade de pesquisas e dados eleitorais/institucionais; e constrói a cenografia de um relato pessoal/alerta conversacional."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "A autora interpela ativamente o leitor, tratando-o como um igual em reflexão e, em especial, convidando-o à conscientização, alerta e revisão de comportamentos e discursos preconceituosos cotidianos."
+        }
+      ],
+      "posicao-sujeito": "1.1.1 - Participante",
+      "posicao-sujeito-justificativa": "No início do relato, a jornalista descreve sua intervenção direta no episódio dentro do banheiro da universidade ('não me aguento: \"Olha esse preconceito com a velhice, gente…\"'), tornando-se parte ativa e agente do próprio fato que desencadeia a crônica/reflexão.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "Ao longo de todo o texto, a jornalista seleciona episódios recentes (Madonna, Xuxa, pesquisas acadêmicas, dados eleitorais) e os organiza para analisar e interpretar o fenômeno social e cultural da velhofobia no Brasil contemporâneo.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia",
+        "2.4 Cenografia",
+        "2.5 Autoridade institucional"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Mobiliza o ethos (2.1) de indignação e acolhimento; o discurso relatado (2.2) ao citar falas de estudantes, comentários do Instagram e pesquisas (como o TCC de Thalyta de Souza); a polifonia (2.3) para confrontar de forma irônica/crítica discursos velhofóbicos; a cenografia (2.4) de confidência/alerta direto ao leitor ('Meu alerta vermelho... acendeu'); e a autoridade institucional (2.5) por meio de dados do TSE, estatísticas populacionais, leis/projetos e citações de pesquisas acadêmicas.",
+      "papel-do-leitor": "3.6 Público a ser mobilizado"
+    }
+  },
+  {
+    "id": "fm-18",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "A autora constrói o texto a partir do relato de suas vivências pessoais no Carnaval, combinando a experiência vivida e observada com a análise crítica de aspectos sociais, econômicos e políticos."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza múltiplos recursos de legitimação, incluindo escolhas de tom e postura reflexiva/indignada (ethos), dados econômicos/reportagens (discurso relatado), embate velado com narrativas corporativas/políticas (polifonia) e autoridade institucional ao citar artigos próprios e vínculos jornalísticos prévios."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "A jornalista interpela o leitor diretamente, construindo um chamamento à conscientização crítica sobre as desigualdades estruturais expostas nos acontecimentos cotidianos e festivos."
+        }
+      ],
+      "posicao-sujeito": "1.1.1 - Participante",
+      "posicao-sujeito-justificativa": "A autora se coloca como participante dos fatos descritos, relatando ativamente sua presença e vivência afetiva no Carnaval de Recife e Olinda ('fui atrás de blocos', 'encontro outra enorme mostra', 'passei um bom tempo ali observando'), utilizando suas experiências de campo para disparar a reflexão analítica.",
+      "papel-enunciativo": "1.2.3 Crítico-Monitor (ou Cão de Guarda)",
+      "papel-enunciativo-justificativa": "Predomina o papel do Crítico-Monitor (Cão de Guarda), uma vez que a jornalista exerce fiscalização analítica e adversarial sobre corporações (Ambev/Brahma), figuras do poder político tradicional (dinastias de Pernambuco/Pedro Campos) e omissões do Estado perante as desigualdades de classe e raça.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia",
+        "2.5 Autoridade institucional"
+      ],
+      "estrategias-de-legitimacao-justificativa": "2.1 Ethos e fiador: Constrói uma persona reflexiva, indignada e socialmente consciente; 2.2 Discurso relatado: Utiliza dados do IBGE/INPC, falas de pesquisador (Valdênio Meneses) e dados de reportagens do TIB/O Joio e o Trigo; 2.3 Polifonia: Dialoga ironicamente com o discurso publicitário e de 'responsabilidade social' das empresas para desconstruí-lo; 2.5 Autoridade institucional: Menciona matérias anteriores assinadas por ela própria no mesmo veículo ('como já escrevi aqui') e invoca a credencial de colunista/jornalista investigativa.",
+      "papel-do-leitor": "3.3 Cidadão"
+    }
+  },
+  {
+    "id": "fm-19",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O jornalista assume uma postura abertamente opinativa e crítica em relação à cobertura de outros veículos de imprensa e ao ambiente político, articulando análises históricas com o seu próprio ponto de vista."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto utiliza de forma contundente recursos estilísticos (tom indignado e engajado), citações diretas de falas e postagens de terceiros, negações e refutações de discursos opositores, além de convocar a autoridade institucional do campo jornalístico e acadêmico para fundamentar seus argumentos."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O enunciador interpela o leitor utilizando bordões e perguntas retóricas para trazê-lo para o seu lado da reflexão sobre a gravidade da conjuntura política e da ética midiática."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "Ainda que traga elementos analíticos, o jornalista fala predominantemente a partir do seu próprio juízo de valor, indignação política e interpretação crítica da capa do jornal e da conjuntura, sem reivindicar atuação direta no fato, testemunho presencial ou chancela estritamente técnica/acadêmica de especialista.",
+      "papel-enunciativo": "1.2.3 Crítico-Monitor (ou Cão de Guarda)",
+      "papel-enunciativo-justificativa": "O jornalista assume um papel fortemente vigilante e fiscalizador direcionado aos grandes veículos de comunicação (Folha de S.Paulo, Veja, Estadão, O Globo), denunciando o papel da grande imprensa no fomento do discurso de violência e cobrando responsabilidade editorial e ética das instituições jornalísticas.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia",
+        "2.5 Autoridade institucional"
+      ],
+      "estrategias-de-legitimacao-justificativa": "2.1 Ethos e fiador: Constrói uma persona incisiva e indignada com o esquecimento/alienação do debate público por meio do bordão recorrente 'tu tava fora do Brasil, irmão?'. 2.2 Discurso relatado: Transcreve áudios gravados por bolsonaristas, reportagens, capas de revistas/jornais e o manual de redação da Folha para embasar suas denúncias. 2.3 Polifonia: Utiliza negações e concessões para responder diretamente aos discursos que tratavam a foto apenas como 'arte' ou atribuíam as críticas a 'militância cega'. 2.5 Autoridade institucional: Recorre à autoridade de manuais de redação, do Observatório de Ética Jornalística (Objethos/UFSC) e a artigos acadêmicos que ele próprio publicou para sustentar suas teses sobre o campo jornalístico.",
+      "papel-do-leitor": "3.1 Parceiro"
+    }
+  },
+  {
+    "id": "fm-20",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto é escrito a partir do engajamento e da experiência direta da enunciadora com o tema, inserindo relatos pessoais (como a ocasião do Prêmio Esso), sua própria trajetória profissional e curatorial ('exposição Negros na Piscina, que desenhei'), além de assumir um posicionamento moral e político explícito sobre o racismo e as formas de representação."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza múltiplos recursos de legitimação: constrói um tom apaixonado e engajado (ethos/fiador), cita falas diretas e trechos de redes sociais e literatura (discurso relatado), dialoga e confronta visões hegemônicas implícitas (polifonia) e evoca sua experiência na imprensa e no meio cultural (autoridade institucional e intelectual)."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "A autora constrói uma interlocução constante e direta com o leitor, usando a segunda pessoa ('se quiser saber mais', 'como eu e você'), fazendo perguntas provocativas e convocando o público a compartilhar do mesmo olhar transformador e a tomar posição ética e política ao final do texto."
+        }
+      ],
+      "posicao-sujeito": "1.1.1 - Participante",
+      "posicao-sujeito-justificativa": "A jornalista se coloca como participante dos fatos relatados: compartilha episódios de sua própria vida em que sofreu racismo ('ao me ver chegar na redação... gritou: Esso, Esso, Esso: a neguinha é um sucesso'), atua diretamente como curadora da exposição 'Negros na Piscina' e interage ativamente com as personagens mencionadas no relato.",
+      "papel-enunciativo": "1.2.4 Militante",
+      "papel-enunciativo-justificativa": "A enunciadora rompe explicitamente com a neutralidade ao adotar um forte tom militante e antirracista. Defende uma causa de emancipação política e moral, convocando o amor-próprio, o combate ao preconceito de raça/classe e a mudança nas formas de representação da população negra.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia",
+        "2.5 Autoridade institucional"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Mobiliza o 'Ethos e fiador' (2.1) através de um tom de indignação e afeto indignado/emancipatório; o 'Discurso relatado' (2.2) ao citar falas de Maxwell Alexandre, livros de Carolina Maria de Jesus e relatos de Camilla Requião; a 'Polifonia' (2.3) ao antecipar e refutar a mentalidade racista do 'tu se acha'; e a 'Autoridade institucional' (2.5) ao mencionar seus mais de 20 anos de experiência em redações e o recebimento do Prêmio Esso.",
+      "papel-do-leitor": "3.6 Público a ser mobilizado"
+    }
+  },
+  {
+    "id": "fm-21",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "A autora se coloca explicitamente no texto utilizando marcas de experiência pessoal (relata sua infância na Escola Monsenhor Viana), de apuração/análise factual e de pertencimento social (declara fazer parte do grupo de professoras negras no ensino superior), articulando sua escrita opinativa e analítica a partir desse lugar."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto utiliza diversas estratégias para conferir autoridade à sua tese, como citação de dados e pesquisas oficiais, uso de discurso relatado/referenciamento de notícias, construção de um tom moral e crítico ostensivo, e marcas de ironia e negação polêmica para desconstruir discursos adversários."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "A jornalista estabelece uma relação direta com o leitor ao convocá-lo para uma reflexão e tomada de posição ética/política, estimulando o engajamento e a denúncia frente à violência nas escolas e ao desmonte da educação."
+        }
+      ],
+      "posicao-sujeito": "1.1.1 - Participante",
+      "posicao-sujeito-justificativa": "A autora se descreve não apenas como observadora, mas como participante e afetada diretamente pelo tema: evoca suas memórias de infância na escola e inscreve sua própria identidade de gênero, raça e profissão na discussão ('Eu faço parte desse time de poucas e hoje, dentro de uma instituição de ensino superior...').",
+      "papel-enunciativo": "1.2.4 Militante",
+      "papel-enunciativo-justificativa": "O texto assume um engajamento político, social e moral explícito (defesa do feminismo, combate ao racismo e à misoginia, crítica ao armamento e a governos de extrema-direita), abandonando a neutralidade estrita e denunciando as contradições da sociedade.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "A autora mobiliza o Ethos (2.1 Ethos e fiador) por meio de um tom indignado, visceral e provocador; recorre ao Discurso Relatado (2.2 Discurso relatado) citando dados do Fórum Brasileiro de Segurança Pública, Inep, Censo Escolar, Instituto Sou da Paz e matérias jornalísticas; e utiliza a Polifonia (2.3 Polifonia) por meio de ironia e negações polêmicas para rebater discursos hegemônicos ou conservadores ('Nunca foi pelo Brasil com educação de qualidade, sejamos sinceras').",
+      "papel-do-leitor": "3.6 Público a ser mobilizado"
+    }
+  },
+  {
+    "id": "fm-22",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto é um artigo de opinião/coluna analítica em que a autora constrói expressamente a autoridade discursiva do jornalista, problematiza a postura da imprensa e adota uma posição reflexiva de avaliação histórica, política e mediática sobre os acontecimentos."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto recorre amplamente a diversos recursos linguístico-discursivos para construir autoridade, como o resgate histórico de capas de jornais, citações de intelectuais, economistas, postagens de leitores e um tom indignado e engajado para sustentar suas teses."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "A enunciadora estabelece um vínculo direto de aliança e provocação com o público leitor, convocando-o a refletir sobre o papel da imprensa e a atuar criticamente frente às narrativas hegemônicas do mercado e do jornalismo."
+        }
+      ],
+      "posicao-sujeito": "1.1.3 - Observador",
+      "posicao-sujeito-justificativa": "A jornalista fala primariamente como Observadora. Ela constrói seu discurso com base em acompanhamento analítico, apuração histórica (resgate de jornais antigos de 1884, 1962 e 2022 por Marcelo Moutinho), dados de estudos (World Inequality Lab), episódios jornalísticos e falas de terceiros (pesquisa em redes sociais e podcasts), sem alegar ter sido agente direta nem testemunha presencial dos fatos centrais narrados.",
+      "papel-enunciativo": "1.2.4 Militante",
+      "papel-enunciativo-justificativa": "O papel predominante é o de Militante. A autora rompe explicitamente com a suposta neutralidade jornalística para assumir um engajamento político e social irrestrito contra a 'militância pró-mercado', defendendo abertamente os direitos das populações vulneráveis, pobres e negras contra o sistema financeiro e a grande imprensa.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Recorre ao Ethos e fiador por meio de um tom indignado, incisivo e moralmente comprometido com as pautas sociais; ao Discurso relatado ao citar explicitamente matérias históricas, falas de Monica de Bolle, Chico Alves e publicações de leitores (Gabi da Pele Preta, Cássia Andrade); e à Polifonia ao trazer de forma irônica ou confrontacional as vozes do mercado e do jornalismo tradicional ('Citi diz que mercado...', 'desastroso') para refutá-las diretamente.",
+      "papel-do-leitor": "3.6 Público a ser mobilizado",
+      "papel-do-leitor-justificativa": "O papel do leitor projetado no texto é o de Público a ser mobilizado. A autora incita expressamente a tomada de posição e a ação ativa do leitor (apontando como a sociedade atenta pode e deve pressionar a mídia para alterar o discurso hegemônico, assim como ocorreu no caso do jornal Aqui PE)."
+    }
+  },
+  {
+    "id": "fm-23",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto se constrói a partir da perspectiva analítica e investigativa da colunista/jornalista, que combina apuração jornalística (entrevistas com pesquisadores, consulta a cartilhas e dados da Justiça Eleitoral) com a formulação de diagnósticos políticos e avaliações críticas sobre a atuação do agronegócio nos bloqueios golpistas."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O discurso emprega múltiplos recursos para fundar sua autoridade e validez, incluindo a construção de um ethos crítico e engajado, a mobilização abundante de discurso relatado (aspas e falas de especialistas/entrevistados), elementos polifônicos (refutação do discurso do 'agro sustentável') e respaldo em dados formais e institucionais."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto estabelece uma postura explicitamente pedagógica ao desconstruir mitos publicitários ('agro é pop', 'agro verde') e explicar as divisões internas e os impactos socioambientais do setor, convocando o leitor a compreender a complexidade do cenário político e a manter vigilância ('precisamos ficar muito atentas')."
+        }
+      ],
+      "posicao-sujeito": "1.1.3 - Observador",
+      "posicao-sujeito-justificativa": "A jornalista atua como Observador: constrói o relato por acompanhamento e apuração ativa, realizando entrevistas diretas com especialistas (Maureen Santos e Bruno Bassi), levantando dados oficiais de campanhas no TSE, dados da Human Rights Watch e citando estudos de institutos/ONGs (De Olho nos Ruralistas e Fase), sem alegar vivência/presença sensorial no momento dos bloqueios nem se limitar a meros juízos de valor sem embasamento de apuração.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "A enunciadora desempenha o papel de Observador-Intérprete (Analista): seleciona, organiza e contextualiza os fatos (a vitória de Lula, os bloqueios nas estradas, o financiamento de campanha) e os analisa criticamente à luz de dados e teorias, atribuindo sentido político aos acontecimentos e explicando ao leitor as estruturas por trás do fenômeno do 'agro bolsonarista'.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Em '2.1 Ethos e fiador', a jornalista adota um tom analítico, indignado e contundente (uso de termos como 'tratoraço de grana', 'derrame de veneno', 'baderna'), construindo um ethos de vigilância crítica e compromisso com o interesse público. Em '2.2 Discurso relatado', há uso ostensivo de falas atribuídas e aspas de especialistas entrevistados ('diz ela', 'Bruno aponta', 'escreveu Marcos Pedlowski') e de notas oficiais (CNTTL) para embasar as teses do texto. Em '2.3 Polifonia', o texto dialoga e refuta enunciados implícitos e explícitos da propaganda do agronegócio e do discurso bolsonarista (como a ideia do 'agro mais sustentável do mundo' ou de que os bloqueios seriam 'manifestações espontâneas de caminhoneiros'), desconstruindo-os discursivamente.",
+      "papel-do-leitor": "3.2 Aprendiz"
+    }
+  },
+  {
+    "id": "fm-24",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O autor constrói sua autoridade enunciativa criticando a atuação da imprensa e o discurso político dominante a partir de seu próprio julgamento analítico, memórias pessoais e acompanhamento dos fatos."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza recursos para validar suas críticas, recorrendo ao tom indignado/moral (ethos), a citações diretas/referências a outros autores e estudos (discurso relatado) e à contestação de premissas implícitas do debate público (polifonia)."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O enunciador estabelece uma relação direta e politizada com o leitor, convocando-o a refletir sobre direitos, xenofobia, o papel das instituições e a defesa da democracia na esfera pública."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O enunciador atua predominantemente como comentarista, sustentando a autoridade de sua fala em seus juízos de valor, interpretações e posicionamentos críticos sobre o jornalismo e a política.",
+      "papel-enunciativo": "1.2.3 Crítico-Monitor (ou Cão de Guarda)",
+      "papel-enunciativo-justificativa": "Ejerce o papel de Crítico-Monitor (Cão de Guarda), fiscalizando e denunciando a conduta ética e editorial dos grandes veículos de imprensa e dos ocupantes do poder político.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Constrói um ethos indignado e comprometido (2.1), apoia-se em dados, especialistas e matérias citadas (2.2) e desconstrói discursos adversários e noções de falsa isenção por meio de ironia e negação polêmica (2.3).",
+      "papel-do-leitor": "3.3 Cidadão"
+    }
+  },
+  {
+    "id": "fm-25",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto é um artigo opinativo/analítico no qual a jornalista se posiciona diretamente perante o fato, a produção do conhecimento (pesquisas) e o público, assumindo um papel de interpretação das dinâmicas comunicacionais da política contemporânea."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "A autora recorre ostensivamente a citações de pesquisadores (discurso relatado), refuta/incorpora pontos de vista do debate político (polifonia) e constrói um tom reflexivo e pessoal, como no trecho 'Confesso que senti alívio' (ethos e cenografia)."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "A jornalista dirige-se explicitamente aos leitores com marcas de interlocução direta ('Vocês lembram quando...', 'Percebam que tem um nó delicado aí'), estabelecendo uma relação de parceria e condução reflexiva."
+        }
+      ],
+      "posicao-sujeito": "1.1.3 - Observador",
+      "posicao-sujeito-justificativa": "A jornalista atua como Observadora. Ela constrói sua análise a partir do acompanhamento distanciado dos fatos, da apuração e, principalmente, do exame de fontes qualificadas (pesquisa acadêmica dos cientistas citados e notícias sobre o cenário político), sem ter participado diretamente nem presenciado os eventos como testemunha física no momento da ocorrência.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "O papel predominante é o de Observador-Intérprete (Analista). O texto identifica e organiza fenômenos da comunicação política e das redes sociais, atribuindo-lhes sentido analítico ao articular teoria semiótica, fatos políticos e a conjuntura eleitoral para o leitor.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia",
+        "2.4 Cenografia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "O texto utiliza Discurso Relatado (2.2) como recurso central ao citar extensamente as análises dos pesquisadores Yvana Fechine e Paolo Demuru; aplica Polifonia (2.3) ao trazer e contestar a ideia do 'ratiosupremacismo' e o discurso da 'velha política'; emprega Ethos e Fiador (2.1) pelo tom confessional, crítico e refinado; e utiliza Cenografia (2.4) ao instaurar uma cena de diálogo franco e reflexivo com o leitor.",
+      "papel-do-leitor": "3.1 Parceiro"
+    }
+  },
+  {
+    "id": "fm-26",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto apresenta a jornalista (Fabiana Moraes) atuando como mediadora e entrevistadora que conduz um diálogo analítico, posicionando-se de forma ativa e interpretativa através de perguntas formuladas com arcabouço teórico e analítico."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto utiliza de forma marcante a autoridade do entrevistado (discurso relatado), a bagagem acadêmica e institucional dele (autoridade institucional) e um tom analítico/didático (ethos/fiador) para conferir credibilidade e sustentação às teses debatidas."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto projeta o leitor como um sujeito crítico envolvido no debate sociopolítico sobre o cenário brasileiro contemporâneo, convidando-o à reflexão teórica e conceitual."
+        }
+      ],
+      "posicao-sujeito": "1.1.3 - Observador",
+      "posicao-sujeito-justificativa": "A jornalista atua como Observadora: constrói a entrevista e o debate através de acompanhamento distanciado e apuração/leitura das obras e do contexto político, realizando perguntas reflexivas sem ter atuado como participante direta ou testemunha sensorial dos fatos citados.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "A jornalista assume o papel de Observadora-Intérprete (Analista), pois suas perguntas não são meramente neutras; elas contextualizam dados, propõem conceitos, organizam os fatos sociopolíticos relevantes e provocam a interpretação teórica dos acontecimentos junto ao entrevistado.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.5 Autoridade institucional"
+      ],
+      "estrategias-de-legitimacao-justificativa": "2.1 Ethos e fiador: tom sóbrio, acadêmico e intelectualmente denso que constrói uma postura de rigor analítico; 2.2 Discurso relatado: a própria estrutura de entrevista traz a fala direta e estendida do filósofo/professor Rodrigo Nunes como fonte central de autoridade; 2.5 Autoridade institucional: o texto explicita as credenciais institucionais do entrevistado ('professor da Pontifícia Universidade Católica do Rio de Janeiro, a PUC-Rio', autor do livro publicado pela Ubu Editora).",
+      "papel-do-leitor": "3.1 Parceiro"
+    }
+  },
+  {
+    "id": "fm-27",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto é um artigo de opinião/análise jornalística no qual o jornalista assume um lugar discursivo para analisar fatos históricos, dados sociológicos e o discurso da imprensa sobre a racialização do Nordeste e a figura de Lula."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O autor mobiliza ativamente diversos recursos para dar autoridade à sua tese e conferir credibilidade ao seu enunciado, recorrendo a análises acadêmicas, citações de jornais históricos e imagens de época."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O jornalista estabelece uma postura didática e explicativa em relação ao seu leitor, guiando-o na compreensão de conceitos sociológicos complexos (como racialização e interseccionalidade) e convidando-o a refletir criticamente sobre o presente."
+        }
+      ],
+      "posicao-sujeito": "1.1.4 - Especialista",
+      "posicao-sujeito-justificativa": "O jornalista fala predominantemente a partir da posição de Especialista. Sua autoridade discursiva baseia-se no domínio de conhecimento teórico/conceitual (conceitos de racialização, interseccionalidade) e no uso de referências bibliográficas, pesquisas acadêmicas (teses, livros de autores como Sueli Carneiro, Carla Akotirene, Pedro Vítor Gadelha Mendes), dados estatísticos e resgate histórico rigoroso, e não na vivência pessoal imediata do fato narrado.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "O jornalista atua como Observador-Intérprete (ou Analista). Ele seleciona fatos históricos, capas e matérias de jornais, dados estatísticos e declarações políticas para contextualizar, organizar e atribuir sentido à rejeição/estigmatização das populações nordestinas e da figura de Lula na grande imprensa brasileira.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "O texto utiliza: 2.1 Ethos e fiador pelo tom professoral, explicativo e analítico, convidando o leitor a compreender o fenômeno ('Mas entremos na piscina da discussão', 'Explico melhor'); 2.2 Discurso relatado por meio de citações diretas de falas de Lula, trechos de jornais históricos (Estado de S. Paulo, Correio Paulistano, Diário da Noite) e citações de pesquisas acadêmicas; e 2.3 Polifonia ao contestar, por meio de negações e refutações polêmicas, enunciados implícitos ou explícitos da elite e da grande mídia (ex.: contestar a fala conciliadora de Lula sobre 'somos todos humanos' ou a lógica binária de que apenas classe explica a desigualdade).",
+      "papel-do-leitor": "3.2 Aprendiz"
+    }
+  },
+  {
+    "id": "fm-28",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "A jornalista constrói sua autoridade enunciativa combinando o acompanhamento empírico do cotidiano (presenciou o fato inicial no Parque da Jaqueira), a mediação analítico-acadêmica (menciona sua atuação como professora e pesquisadora na UFPE) e o resgate da experiência direta de terceiros para interpretar e problematizar a carga de estigma e ressignificação social do uniforme escolar."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza múltiplos recursos discursivos para validar sua tese sobre o uniforme escolar como marcador de classe e raça, destacando-se a postura/tom da autora, o uso ostensivo de relatos/depoimentos de fontes e a convocação da autoridade institucional conectada à sua formação acadêmica."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto constrói um diálogo que interpela o leitor enquanto indivíduo consciente e inserido na esfera social, convidando-o a refletir analiticamente sobre a desigualdade estrutural, os estigmas de raça/classe e a violência institucional expressos pelo uso da farda escolar."
+        }
+      ],
+      "posicao-sujeito": "1.1.3 - Observador",
+      "posicao-sujeito-justificativa": "Embora a autora presencie um momento inicial no parque, ela atua predominantemente como observadora-pesquisadora que conduz uma apuração ativa, trazendo relatos em profundidade, dados de redes sociais e referências artísticas/noticiosas para analisar o panorama amplo do fenômeno ao longo do tempo.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "A jornalista organiza, seleciona e interpreta acontecimentos cotidianos e culturais (relatos de estudantes, trend do TikTok, obras de arte, episódios policiais) para atribuir-lhes sentido analítico-social, aproximando-se da função de gatekeeper e analista sociocultural.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.5 Autoridade institucional"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Em 2.1 Ethos e fiador, o tom reflexivo, sóbrio e sensível constrói um ethos de guardiã responsável do debate social; em 2.2 Discurso relatado, o texto utiliza extensos relatos de terceiros (a aluna Sarah, a professora Jaqueline, a fala da mãe do jovem Marcos Vinicius) com aspas e atribuição clara para respaldar os argumentos; em 2.5 Autoridade institucional, a enunciadora valida sua capacidade analítica mencionando explicitamente seu papel de professora e pesquisadora no curso de Comunicação Social da UFPE.",
+      "papel-do-leitor": "3.3 Cidadão"
+    }
+  },
+  {
+    "id": "fm-29",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "A autora constrói o texto a partir do questionamento crítico sobre como os jornalistas atuam e se posicionam frente aos fatos políticos, demarcando abertamente o seu próprio lugar de fala de jornalista engajada contra a dita 'neutralidade/objetividade' da imprensa."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza múltiplos recursos de legitimação discursiva, como a construção de um ethos crítico e indignado, a listagem de fatos/notícias como evidências empíricas (discurso relatado) e a constante negação e refutação das posições de outros jornalistas (polifonia e autoridade institucional criticada)."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto estabelece uma relação pedagógica e crítica com o leitor ao desconstruir preceitos jornalísticos tradicionais, convocando-o a enxergar a assimetria política e a responsabilidade da mídia na barbárie social."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "A jornalista fala essencialmente a partir de um lugar de interpretação crítica e juízo de valor sobre a própria imprensa e o cenário político, construindo sua autoridade a partir de seu posicionamento crítico-analítico e não de testemunho ocular de um fato isolado ou de uma apuração factual pontual inédita.",
+      "papel-enunciativo": "1.2.3 Crítico-Monitor (ou Cão de Guarda)",
+      "papel-enunciativo-justificativa": "Desempenha a função de fiscalizar e criticar não apenas o poder político (o governo Bolsonaro), mas principalmente a própria imprensa/mídia tradicional ('cão de guarda da imprensa'), denunciando o papel desta na manutenção e normalização da barbárie política.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Utiliza um tom (ethos) indignado e incisivo (2.1); recupera matérias, citações e fatos amplamente noticiados para fundamentar seus argumentos (2.2); e recorre intensamente à polifonia ao citar e rebater diretamente trechos de colunas (Folha, IstoÉ) e a fala da 'imprensa objetiva' para desconstruí-los (2.3).",
+      "papel-do-leitor": "3.2 Aprendiz"
+    }
+  },
+  {
+    "id": "fm-30",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "A jornalista se coloca diretamente no acontecimento narrado como participante da interação com o motorista de aplicativo, utilizando suas memórias e vivências pessoais para enunciar a verdade e interpretar a realidade social."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza diversos recursos linguísticos para conferir autoridade à fala, incluindo tom reflexivo (ethos), citações explícitas do motorista e de músicas (discurso relatado), embate com vozes sociais implícitas (polifonia) e emolduramento em tom confessional (cenografia)."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "A jornalista constrói uma relação com o público que problematiza a esfera pública, o Estado, as questões de raça, classe e direitos, interpelando o leitor no horizonte dos interesses coletivos."
+        }
+      ],
+      "posicao-sujeito": "1.1.1 - Participante",
+      "posicao-sujeito-justificativa": "A jornalista interage ativamente com o motorista, afeta e é afetada pelo diálogo, tomando parte direta no evento que narra antes de transformá-lo em reflexão.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "A jornalista reúne a observação da cena concreta com a interpretação crítica dos acontecimentos, organizando fatos e vivências para atribuir sentido aos dilemas políticos e sociais do Brasil contemporâneo.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia",
+        "2.4 Cenografia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Mobiliza 2.1 Ethos e fiador ao adotar tom sóbrio e autocrítico; 2.2 Discurso relatado ao citar falas diretas do motorista e trechos dos Racionais MC's; 2.3 Polifonia ao responder a discursos implícitos (como o conceito de 'liberdade' e a idealização do militante negro); e 2.4 Cenografia ao construir uma cena de diálogo íntimo em um carro que se converte em debate sociológico.",
+      "papel-do-leitor": "3.3 Cidadão"
+    }
+  },
+  {
+    "id": "fm-31",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O jornalista assume uma postura abertamente analítica e crítica sobre um fato cultural e político (o conflito curatorial no MASP e as incoerências da pauta decolonial na instituição), combinando acompanhamento detalhado dos acontecimentos e apuração com uma interpretação dos sentidos políticos das ações do museu."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza múltiplos recursos de linguagem e enunciação para fundamentar seu ponto de vista, como estilo provocativo/irônico (ethos), ampla citação de terceiros e documentos (discurso relatado) e confrontação implícita com discursos institucionais (polifonia)."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto interpela o leitor desde o início como um sujeito participante do debate social/cultural e busca discutir a esfera pública, instituições e direitos coletivos de grupos historicamente marginalizados."
+        }
+      ],
+      "posicao-sujeito": "1.1.3 - Observador",
+      "posicao-sujeito-justificativa": "O jornalista constrói seu texto a partir de apuração ativa e acompanhamento distanciado dos fatos (ouvindo fotógrafo envolvido, citando notas oficiais, e-mails, comunicados de curadores e manifestações em redes sociais), sem alegar ter testemunhado presencialmente os bastidores no instante em que o veto ocorreu.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "O jornalista atua como um Observador-Intérprete (Analista): seleciona fatos do campo das artes, encadeia eventos recentes e históricos (caso Caio Blinder, Boulos, exposição de Abdias Nascimento, Queermuseu) e atribui sentido às contradições institucionais do MASP, analisando o conceito de 'decolonialidade' frente às práticas do museu.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "O texto emprega Ethos e fiador por meio de um tom irônico e crítico refinado ('Caio Blinder Decolonial', 'vejam só'); utiliza Discurso relatado ao citar trechos das notas de repúdio da editora, comunicados das curadoras, declarações do fotógrafo André Vilaron, posts de artistas e notas oficiais do MASP; e utiliza Polifonia ao trazer perguntas retóricas e contrapor discursos institucionais sobre 'isenção' e 'neutralidade'.",
+      "papel-do-leitor": "3.3 Cidadão"
+    }
+  },
+  {
+    "id": "fm-32",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O jornalista posiciona-se mediante acompanhamento analítico e apuração ativa da realidade (menção a estudos, busca de fontes médicas, envio de e-mail a criadores de conteúdo e escuta de ativistas), além de desempenhar um papel crítico, interpretativo e analítico ao problematizar os impactos dos filtros de beleza em questões de raça, dismorfia corporal, saúde pública e opressões estruturais."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza intensamente estratégias para construir autoridade, recorrendo ao estilo crítico e investigativo do veículo (ethos), a citações formais de médicos, ativistas e pesquisas (discurso relatado), a contrapontos sobre o que é vendido versus a realidade (polifonia) e a títulos/dados de instituições reconhecidas como a Sociedade Brasileira de Cirurgia Plástica e o Congresso Nacional (autoridade institucional)."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O jornalista projeta um leitor dotado de discernimento e autonomia crítica, interpelando-o como cidadão sujeito de direitos para debater pautas de interesse público, racismo, regulação de mídias e saúde mental coletiva."
+        }
+      ],
+      "posicao-sujeito": "1.1.3 - Observador",
+      "posicao-sujeito-justificativa": "O jornalista fala predominantemente como Observador, pois constrói sua análise a partir da apuração ativa, checagem de dados, análise de vídeos no YouTube, consulta a pesquisas e entrevistas com especialistas (médicos, ativistas), sem ter participado diretamente dos fatos nem ter vivenciado presencialmente um evento pontual no instante da enunciação.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "Predomina o papel de Observador-Intérprete (ou Analista), visto que o jornalista reúne fatos e dados dispersos (estatísticas de plásticas, vídeos de tutoriais, projetos de lei) e os organiza de forma interpretativa para atribuir sentido social, racial e político ao fenômeno dos filtros de redes sociais.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia",
+        "2.5 Autoridade institucional"
+      ],
+      "estrategias-de-legitimacao-justificativa": "O texto emprega: 2.1 Ethos e fiador por meio do tom crítico, analítico e preocupado com causas sociais; 2.2 Discurso relatado através de citações diretas e indiretas de dermatologistas, clínicos e da ativista Magô Tonhon; 2.3 Polifonia com a refutação implícita dos discursos de 'perfeição' e 'harmonização' que circulam na internet; e 2.5 Autoridade institucional por meio de dados da Sociedade Brasileira de Cirurgia Plástica, estudos da AAFPRS, artigos da lei francesa e projetos de lei do Congresso Nacional.",
+      "papel-do-leitor": "3.3 Cidadão"
+    }
+  },
+  {
+    "id": "fm-33",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O jornalista assume uma postura enunciativa forte, construindo sua autoridade a partir do resgate de sua experiência de mais de 20 anos como repórter e do trabalho de apuração/análise crítica dos fatos e da mídia, atuando como um observador e crítico das instituições e dos atores políticos."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza múltiplos recursos de legitimação, incluindo discurso relatado (citações explícitas de especialistas/historiadoras), autoridade institucional (referências ao exercício profissional de repórter e órgãos oficiais), polifonia e construção de um ethos indignado e crítico perante a exploração da vulnerabilidade social."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto interpela o leitor como um sujeito consciente e reflexivo na esfera pública, instigando o discernimento crítico quanto ao desmonte de políticas públicas e ao uso oportunista da caridade no cenário político e social brasileiro."
+        }
+      ],
+      "posicao-sujeito": "1.1.3 - Observador",
+      "posicao-sujeito-justificativa": "O jornalista constrói sua autoridade combinando o resgate de sua trajetória profissional de apuração continuada ('Em mais de 20 anos trabalhando como repórter...', 'Estive na cidade há quase 10 anos') com o acompanhamento distanciado dos acontecimentos, documentos e denúncias veiculadas na mídia, sem ter sido participante ativo dos atos denunciados nem atuar primordialmente por credencial técnica disciplinar fora do jornalismo.",
+      "papel-enunciativo": "1.2.3 Crítico-Monitor (ou Cão de Guarda)",
+      "papel-enunciativo-justificativa": "O enunciador exerce papel de fiscalização e denúncia sobre figuras públicas e instituições (o vereador, o presidente, prefeitos, a justiça/órgãos de controle), denunciando a apatia institucional e os abusos cometidos sob o pretexto da 'caridade-espetáculo' (tradição do cão de guarda/watchdog).",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia",
+        "2.5 Autoridade institucional"
+      ],
+      "estrategias-de-legitimacao-justificativa": "A legitimação ocorre via Ethos (2.1), construído por um tom indignado, crítico e analítico; Discurso Relatado (2.2), com falas explícitas das pesquisadoras Tânia Hoff e Wania Sant'Anna; Polifonia (2.3), ao resgatar títulos de vídeos, comentários de redes sociais e falas de adversários para refutá-los; e Autoridade Institucional (2.5), ancorada no histórico de atuação do jornalista pelo próprio veículo (Intercept) e dados/relatórios oficiais do governo e decisões do STF.",
+      "papel-do-leitor": "3.3 Cidadão"
+    }
+  },
+  {
+    "id": "fm-34",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto apresenta um posicionamento explícito da jornalista em relação ao tema da permanência universitária. Ela declara abertamente ser docente da instituição (UFPE, campus Caruaru) e utiliza sua experiência pessoal e observação direta do cotidiano acadêmico para construir o diagnóstico e fundamentar a narrativa."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O discurso recorre a dados oficiais (Inep, IBGE), citações de autoridade técnica/acadêmica (pesquisador da UFMG) e relatórios de gestão da universidade (declarações da Pró-Reitoria) para certificar as dificuldades de permanência dos alunos de baixa renda."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto projeta o leitor como um membro da esfera pública interessado nas políticas sociais e no papel do Estado, discutindo a desigualdade no ensino superior, cortes orçamentários e direitos educacionais."
+        }
+      ],
+      "posicao-sujeito": "1.1.1 - Participante",
+      "posicao-sujeito-justificativa": "A jornalista se inscreve no texto como agente do ambiente narrado ao afirmar: 'Posso contar várias estando posicionada de dentro: faço parte do corpo docente da mesma UFPE, justamente do campus de Caruaru...'. Ela não é mera observadora externa, mas participante direta do cotidiano da universidade.",
+      "papel-enunciativo": "1.2.3 Crítico-Monitor (ou Cão de Guarda)",
+      "papel-enunciativo-justificativa": "A jornalista atua principalmente com a função de fiscalizar as políticas públicas de ensino superior e denunciar o impacto negativo dos cortes orçamentários na permanência de estudantes vulneráveis ('Com corte nos auxílios, universidade vai sendo silenciosamente devolvida às elites').",
+      "estrategias-de-legitimacao": [
+        "2.2 Discurso relatado",
+        "2.5 Autoridade institucional"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Mobiliza discurso relatado (2.2) ao citar diretamente pesquisas, dados do Inep/IBGE e a fala do pesquisador Gustavo Bruno de Paula e do representante da Pró-Reitoria (Jônatas Felix). Além disso, recorre à autoridade institucional (2.5) ao se legitimar a partir de seu cargo como professora da UFPE e pesquisadora responsável pela agência experimental Aveloz.",
+      "papel-do-leitor": "3.3 Cidadão"
+    }
+  },
+  {
+    "id": "fm-35",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto é um artigo de opinião marcado em primeira pessoa ('Estava no caixa', 'Lembrei desse episódio', 'Percebam', 'Eu não consigo pensar'), em que a jornalista utiliza relato de vivência pessoal e apuração com fontes (pesquisadores, notas oficiais e representantes) para fundamentar um juízo crítico e analítico sobre o racismo estrutural e as ações da prefeitura do Rio no Caso Moïse."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "A jornalista mobiliza múltiplos recursos de legitimação: constrói um tom indignado e reflexivo (ethos), cita especialistas, órgãos oficiais e advogados (discurso relatado), engaja-se em negações polêmicas e ironias para rebater discursos vigentes (polifonia) e faz menção direta ao veículo e ao trabalho jornalístico/de apuração para sustentar a credibilidade do texto."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto interpela o leitor chamando-o à reflexão e à conscientização sobre a cidadania, o racismo estrutural e os direitos das populações negras e refugiadas, assumindo uma postura de mediação crítica frente a instâncias de poder."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "Embora a autora inicie com um relato pessoal de testemunha informal em um supermercado e traga dados apurados, a posição estruturante do texto é a de Comentarista: ela mobiliza seu próprio juízo crítico, valores e interpretações ético-políticas para julgar a conduta do poder público e a reação da sociedade diante da tragédia.",
+      "papel-enunciativo": "1.2.3 Crítico-Monitor (ou Cão de Guarda)",
+      "papel-enunciativo-justificativa": "O texto desempenha primordialmente o papel de Crítico-Monitor (Cão de Guarda), fiscalizando, questionando e denunciando a atitude da Prefeitura do Rio de Janeiro e do prefeito Eduardo Paes, classificando a proposta institucional como 'perversidade' e 'marketing da solidariedade', além de finalizar com cobranças diretas de responsabilização de agentes públicos.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "A autora constrói um ethos de vigilância moral e indignação reflexiva através de um tom grave e provocativo (2.1); utiliza o discurso relatado de especialistas (psicanalista Érico Andrade, antropólogo Kabengele Munanga), advogados e órgãos oficiais para respaldar suas teses (2.2); e emprega recursos polifônicos, como ironias e repetições irônicas ('Ah, mas eles são fortes. Foram mais de 30 pauladas.'), para simular e desconstruir o discurso do senso comum e a lógica liberal (2.3).",
+      "papel-do-leitor": "3.3 Cidadão"
+    }
+  },
+  {
+    "id": "fm-36",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto é um artigo opinativo/analítico assinado por um jornalista que articula apuração (relato do caso de Letícia, entrevistas com especialista e pró-reitor) com análise e interpretação crítica das políticas de cotas, bancas de heteroidentificação e interseccionalidade no Brasil."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O jornalista mobiliza estratégias para conferir credibilidade e sustentação ao seu discurso sobre o tema, incluindo a construção de um tom analítico-reflexivo, o uso de citações diretas de fontes qualificadas e referências a marcos conceituais e institucionais."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O jornalista interpela o leitor convidando-o a refletir sobre a complexidade das relações raciais, de classe e gênero no Brasil, abordando o leitor no âmbito do debate público, da cidadania e da formação de opinião crítica."
+        }
+      ],
+      "posicao-sujeito": "1.1.3 - Observador",
+      "posicao-sujeito-justificativa": "O jornalista atua como Observador ao construir o relato mediante apuração ativa (recebimento de e-mails de leitores, checagem do caso de Letícia Lacerda, entrevistas com o pró-reitor de Ações Afirmativas e com uma pesquisadora da Unicamp), apresentando um panorama fundamentado em documentos, leis e fontes ouvidas pelo veículo.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "O jornalista desempenha o papel de Observador-Intérprete (Analista), pois seleciona e organiza o fato concreto (a expulsão da aluna) e o contextualiza com embasamento teórico, conceitual (conceito de preconceito de marca, dados do IBGE, interseccionalidade) e entrevistas para interpretar a complexidade e os dilemas do sistema de heteroidentificação no Brasil.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.5 Autoridade institucional"
+      ],
+      "estrategias-de-legitimacao-justificativa": "O texto emprega a estratégia 2.1 Ethos e fiador através de um tom reflexivo, grave e ponderado sobre um tema sensível; utiliza a estratégia 2.2 Discurso relatado ao dar voz longa e direta à personagem afetada e transcrever depoimentos do pró-reitor e da pesquisadora da Unicamp; e recorre à 2.5 Autoridade institucional ao vincular sua enunciação ao veículo (The Intercept Brasil), citando resoluções de universidades públicas (UFSB, Unifesp, UFRGS), decisões do STF (ADC 41/DF) e dados do IBGE.",
+      "papel-do-leitor": "3.3 Cidadão"
+    }
+  },
+  {
+    "id": "fm-37",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto é um artigo de opinião marcado por forte subjetividade, no qual a autora se coloca no centro da enunciação para analisar e ironizar a figura de Jair Bolsonaro e o contexto sociocultural do país, construindo um posicionamento político e social explícito ao longo de todo o relato."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "A autora recorre a uma variedade de recursos discursivos para sustentar sua crítica, incluindo a construção de um tom irônico marcante, citação de discursos e dados, antecipação/neutralização de vozes de opositores e a encenação do texto no formato de uma carta ou manifesto de 'agradecimento' público."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto interpela o leitor convidando-o a partilhar da mesma ironia, indignação e visão crítica, estabelecendo um pacto com o público sobre contradições conhecidas da sociedade brasileira."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O texto é predominantemente focado na avaliação, julgamento de valor e ironia da autora em relação ao governo e à sociedade, operando sem a alegação de testemunho direto no instante de um fato pontual, apuração jornalística factual objetiva ou credencial técnica/acadêmica declarada.",
+      "papel-enunciativo": "1.2.4 Militante",
+      "papel-enunciativo-justificativa": "A autora rompe abertamente com a neutralidade jornalística para assumir um engajamento político, social e moral explícito, denunciando o racismo, a desigualdade, o militarismo e o conservadorismo, defendendo valores progressistas e causas sociais ao longo de todo o texto.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia",
+        "2.4 Cenografia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "2.1 Ethos e fiador: Constrói um tom ácido, sarcástico e indignado que sustenta uma persona crítica e engajada. 2.3 Polifonia: Utiliza negações polêmicas, concessões e ironia (como a repetição da figura 'Eu agradeço a Bolsonaro') para trazer e desconstruir discursos bolsonaristas, da imprensa e de elites liberais. 2.4 Cenografia: O texto encena a estrutura de um discurso público/manifesto de 'gratidão' e acerto de contas coletivo ('Obrigada, Bolsonaro').",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "fm-38",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto apresenta uma análise crítica e opinativa sobre a contradição entre o discurso de representatividade em campanhas publicitárias e o apoio político a pautas conservadoras/bolsonaristas por empresários. O jornalista assume um papel de apuração e reflexão analítica para atribuir sentido aos fatos."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza diversos recursos discursivos para fundamentar sua tese, como o tom crítico e refinado (ethos/fiador), falas de especialistas e pesquisadores (discurso relatado), confrontação com discursos opostos (polifonia) e resgate de posições/fatos institucionais de figuras políticas e empresariais."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O jornalista dialoga com o público sobre como a publicidade e as redes sociais funcionam, convidando o leitor a olhar além da superfície das campanhas de influencers e a compreender as estruturas de mercado e de poder envolvidas."
+        }
+      ],
+      "posicao-sujeito": "1.1.3 - Observador",
+      "posicao-sujeito-justificativa": "O jornalista constrói o texto por meio de acompanhamento distanciado, compilação de dados, apuração e interlocução com pesquisas/pesquisadores (Janaisa Viscardi, Izabela Domingues, Roberto Guerra) e documentos/decretos, sem alegar vivência/testemunho pessoal e sem se limitar a um simples comentário opinativo sem fundamentação factual.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "O autor atua predominantemente como Observador-Intérprete (Analista), pois seleciona, organiza e cruza dados do mercado publicitário, decisões políticas e declarações públicas para atribuir sentido e interpretar as contradições da campanha de moda.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "2.1 Ethos e fiador: Adota tom analítico, irônico e de alerta analítico ('O que se pode entender desse riscado todo...'). 2.2 Discurso relatado: Utiliza declarações diretas de pesquisadores e especialistas (Janaisa Viscardi, Izabela Domingues, Roberto Guerra) para embasar sua crítica. 2.3 Polifonia: Traz declarações de figuras como o bispo Rodovalho, o ministro Milton Ribeiro e discursos de terceiros para rebatê-los e expor as contradições discursivas.",
+      "papel-do-leitor": "3.2 Aprendiz"
+    }
+  },
+  {
+    "id": "fm-39",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O jornalista assume a enunciação e a condução da entrevista, introduzindo a entrevistada com uma contextualização analítica sobre a guerra cultural no Brasil, definindo a teóloga como um 'farol' e emoldurando criticamente o fenômeno do antifeminismo cristão."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto utiliza tanto a citação de autoridade/discurso direto da entrevistada quanto referências às suas pesquisas e livros acadêmicos para conferir autoridade e legitimidade à reflexão sobre o tema."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "A enunciação convoca o leitor a compreender criticamente um fenômeno social amplo (violência doméstica, machismo e guerra cultural), tratando o público na perspectiva da cidadania, dos direitos humanos e do interesse coletivo."
+        }
+      ],
+      "posicao-sujeito": "1.1.3 - Observador",
+      "posicao-sujeito-justificativa": "O jornalista atua a partir do acompanhamento distanciado e da apuração/entrevista com uma especialista, sem alegação de presença sensorial/testemunhal no fato nem atuação direta como agente dos acontecimentos relatos.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "O jornalista organiza os fatos, enquadra o cenário da 'guerra cultural' e conduz as perguntas atribuindo sentido e problematizando o fenômeno do antifeminismo cristão junto com a entrevistada.",
+      "estrategias-de-legitimacao": [
+        "2.2 Discurso relatado",
+        "2.5 Autoridade institucional"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Utiliza o discurso relatado por meio de aspas e da transcrição na íntegra das falas da especialista, combinando com a autoridade institucional obtida ao referenciar a formação teológica, livros e pesquisas acadêmicas da entrevistada.",
+      "papel-do-leitor": "3.3 Cidadão"
+    }
+  },
+  {
+    "id": "fm-40",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto apresenta um marcante posicionamento do sujeito jornalista ao construir a narrativa a partir do acompanhamento e apuração direta da realidade das personagens, além de assumir um tom de crítica e engajamento social evidente no contraste entre a elite política/econômica e a classe trabalhadora."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "A jornalista utiliza diversos recursos para legitimar seu discurso, recorrendo a escolhas de tom irônico e indignado (ethos/fiador) e à polifonia para confrontar visões de mundo da elite e de setores da grande imprensa."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "A enunciação interpela o leitor para enxergar as gritantes desigualdades sociais e contradições do país, tratando o público como um cidadão que compartilha dessa reflexão sobre a esfera pública e os interesses coletivos."
+        }
+      ],
+      "posicao-sujeito": "1.1.3 - Observador",
+      "posicao-sujeito-justificativa": "A jornalista atua como Observadora (1.1.3), pois constrói a narrativa baseando-se em apuração ativa, registros fotográficos de sua autoria (indicando ter ouvido a personagem e documentado seu cotidiano) e checagem de dados/documentos históricos (dados de desemprego, processos e dívidas de Nahas), sem ter atuado no fato original como participante ou testemunha em tempo real de um flagrante único.",
+      "papel-enunciativo": "1.2.4 Militante",
+      "papel-enunciativo-justificativa": "O papel desempenhado é o de Militante (1.2.4), pois a autora rompe com a neutralidade estrita e assume um engajamento social e moral explícito, denunciando o racismo de classe, a impunidade das elites e a precarização das trabalhadoras domésticas.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "A autora recorre a Ethos e fiador (2.1) por meio do uso da ironia fina e do tom sarcástico/indignado que constrói sua postura crítica perante a desigualdade. Também emprega Polifonia (2.3) ao fazer ecoar e desconstruir discursos implícitos da elite e da grande imprensa (como a concepção de que pessoas ricas possuem boa índole ou a visão preconceituosa sobre o Nordeste).",
+      "papel-do-leitor": "3.3 Cidadão"
+    }
+  },
+  {
+    "id": "fm-41",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto é escrito a partir do lugar da própria jornalista, que inicia resgatando uma experiência pessoal de reportagem em primeira pessoa ('Lembro bem da cena: estava fazendo uma entrevista...') e assume uma postura abertamente crítica e engajada contra as violações promovidas pelos programas policiais e a omissão estatal."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "A jornalista mobiliza diferentes recursos discursivos para fundamentar e conferir autoridade à sua crítica, como o ethos indignado e irônico, o discurso relatado por meio de aspas da vítima e de uma especialista/pesquisadora, além do uso da polifonia."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto interpela o leitor diretamente por meio do uso do pronome de segunda pessoa ('você sabe', 'não preciso mostrar aqui... para você'), estabelecendo um laço de ironia, subentendidos e conivência crítica sobre o tema."
+        }
+      ],
+      "posicao-sujeito": "1.1.1 - Participante",
+      "posicao-sujeito-justificativa": "A jornalista inicia o texto na posição de Participante ao descrever uma vivência pessoal direta no exercício do trabalho jornalístico ('Lembro bem da cena: estava fazendo uma entrevista...'), inserindo-se na própria cena inicial como sujeito afetado pelo acontecimento narrado.",
+      "papel-enunciativo": "1.2.4 Militante",
+      "papel-enunciativo-justificativa": "A jornalista atua no papel de Militante, pois rompe com a neutralidade estrita e assume engajamento político, social e moral explícito ao denunciar ativamente o racismo, o classismo e as violações de direitos humanos em programas policialescos.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "O texto emprega o Ethos e fiador (2.1) por meio de um tom indignado, irônico e combativo que constrói a imagem de uma enunciadora engajada e crítica; recorre ao Discurso relatado (2.2) ao citar aspas diretas da fala da vítima descrita pela Defensoria Pública e da pesquisadora Ticiane Perdigão Cabral; e mobiliza a Polifonia (2.3) com ironia e negações polêmicas que fazem ecoar discursos alheios para desconstruí-los ('não é a mãe gritando... é a população LGBTQIA+ quem realmente está destruindo a família brasileira').",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "fm-42",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto é um ensaio opinativo/crítico no qual a jornalista se coloca de forma ativa perante os fatos e a polêmica. Ela utiliza marcas de primeira pessoa (\"puxo respeitosamente uma cadeira e me sento à sua frente\", \"confesso que me causa surpresa\", \"lembrei de Patrícia e Bianca, irmãs que acompanhei\"), constrói o relato mesclando apuração com memórias de reportagem e assume uma postura engajada de confronto ao discurso da deputada e defesa dos vulneráveis."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "A autora mobiliza múltiplos recursos linguísticos e discursivos para fundamentar sua autoridade e validar sua tese, recorrendo à ironia e ao tom sarcástico/provocativo (ethos), citações explícitas de dados e outros autores (discurso relatado), confrontação teórica de premissas implícitas da adversária (polifonia) e montagem de uma cena de interlocução direta/conversa (cenografia)."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "A jornalista estabelece um vínculo de convocação coletiva e responsabilização compartilhada com o leitor, tratando o público como participante de uma formação social e cidadã que deve encarar a falência coletiva em relação à vulnerabilidade social e aos direitos humanos."
+        }
+      ],
+      "posicao-sujeito": "1.1.3 - Observador",
+      "posicao-sujeito-justificativa": "A jornalista constrói a enunciação articulando apuração ativa (dados da Unifesp/Uniad, relatórios do Despejo Zero, reportagens da Folha, artigos acadêmicos) e acompanhamento continuado dos cenários de vulnerabilidade (relembrando casos de pessoas que acompanhou no passado), situando-se como quem investigou e compreende o panorama geral além da reação imediata.",
+      "papel-enunciativo": "1.2.4 Militante",
+      "papel-enunciativo-justificativa": "O texto rompe de forma explícita com a neutralidade ao adotar uma postura de engajamento social, político e moral em defesa das populações em situação de rua, do padre Julio Lancellotti e da dignidade humana, combatendo o discurso considerado simplista e desumanizador da deputada.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia",
+        "2.4 Cenografia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "O texto usa um tom incisivo, irônico e indignado para construir uma autoridade moral consciente (2.1 Ethos e fiador); cita dados da Unifesp, matérias jornalísticas e o professor José Sacchetta Ramos Mendes para conferir embasamento empírico (2.2 Discurso relatado); dialoga e desconstrói discursos implícitos e conceitos como 'honestidade' e 'Jesus coach' da deputada (2.3 Polifonia); e constrói o enquadramento de uma conversa direta em que puxa uma cadeira para sentar e debater de frente com a parlamentar (2.4 Cenografia).",
+      "papel-do-leitor": "3.3 Cidadão"
+    }
+  },
+  {
+    "id": "fm-43",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O jornalista/autor adota uma postura abertamente opinativa e interpretativa em relação aos eventos do texto, combinando apuração jornalística (dados do IBGE, Anuário de Segurança Pública, matérias de referência) com forte juízo de valor, ironia e enquadramento analítico/fiscalizador."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto faz uso expressivo de estratégias como o tom irônico e indignado (ethos), a citação direta de envolvidos e matérias de referência (discurso relatado), a negação e o diálogo com vozes sociais implícitas (polifonia), a simulação de conversa/crônica informal (cenografia) e a invocação de dados do IBGE, anuários e órgãos oficiais (autoridade institucional)."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O jornalista estabelece uma relação de cumplicidade e compartilhamento de visões de mundo com o leitor, utilizando vocabulário informal, ironia, referências culturais e provocando um julgamento crítico conjunto."
+        }
+      ],
+      "posicao-sujeito": "1.1.3 - Observador",
+      "posicao-sujeito-justificativa": "O jornalista fala a partir do acompanhamento distanciado dos acontecimentos, da compilação de fatos noticiados, da checagem e do cruzamento de documentos/dados oficiais (IBGE, Anuário de Segurança Pública), sem alegar ter estado presente no momento exato das festas.",
+      "papel-enunciativo": "1.2.3 Crítico-Monitor (ou Cão de Guarda)",
+      "papel-enunciativo-justificativa": "O texto atua predominantemente exercendo papel fiscalizador e de denúncia (watchdog), apontando a conivência institucional, a desigualdade na atuação policial, os privilégios de classe e o desacato a normas de saúde pública.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia",
+        "2.4 Cenografia",
+        "2.5 Autoridade institucional"
+      ],
+      "estrategias-de-legitimacao-justificativa": "2.1 Ethos e fiador: constrói um ethos irônico, crítico e indignado por meio do tom e vocabulário; 2.2 Discurso relatado: cita as falas explícitas dos envolvidos ('vai tomar no cu', 'você para mim não vale nada') e fontes jornalísticas; 2.3 Polifonia: ironiza discursos da 'direita gratiluz' e do privilégio sem necessariamente citar diretamente um enunciador único; 2.4 Cenografia: emolda o texto como uma conversa/crônica de observação de costumes ('Percebam: temos uma mulher...'); 2.5 Autoridade institucional: mobiliza dados do IBGE, Anuário de Segurança Pública e decisões do poder público para respaldar os argumentos.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "fm-44",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto analisa e critica explicitamente a atuação e os enquadramentos da imprensa na cobertura do caso Lázaro Barbosa, assumindo uma posição analítica com forte carga avaliativa e moral."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O autor utiliza diversos recursos discursivos para fundamentar sua crítica ao jornalismo tradicional, como o tom indignado e crítico (ethos), a citação de matérias e relatos de vítimas (discurso relatado), além de ironias e contrapontos com discursos vigentes (polifonia) e resgate histórico."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O jornalista estabelece uma relação de conscientização política e social com o leitor, tratando-o como um membro da sociedade capaz de compreender o papel do jornalismo na defesa do interesse coletivo e na crítica às instituições."
+        }
+      ],
+      "posicao-sujeito": "1.1.3 - Observador",
+      "posicao-sujeito-justificativa": "O jornalista fala como Observador. Ele constrói seu relato por meio do acompanhamento e da apuração ativa das coberturas de múltiplos veículos (Metrópoles, G1, Jornal do Commercio) e do resgate de pesquisas acadêmicas (artigo sobre os jornais de Maceió entre 1905 e 1940), sem ter participado diretamente ou presenciado sensorialmente os eventos do caso Lázaro.",
+      "papel-enunciativo": "1.2.3 Crítico-Monitor (ou Cão de Guarda)",
+      "papel-enunciativo-justificativa": "O papel predominante é o de Crítico-Monitor (ou Cão de Guarda), aplicado aqui de forma reflexiva sobre o próprio campo jornalístico e as instituições de mídia. O autor exerce uma vigilância e fiscalização adversarial contra a imprensa tradicional, denunciando práticas racistas, sensacionalistas e a falta de senso crítico dos veículos.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "2.1 Ethos e fiador: Constrói uma persona discursiva indignada, crítica e ironicamente provocativa ('mas não dá para justificar [...] apenas por conta do lucro, bebê', 'Sejam todas e todos vocês bem-vindos a 1637!'), posicionando-se como um guardião ético do verdadeiro papel social do jornalismo.\n2.2 Discurso relatado: Utiliza citações diretas de depoimentos (como do pai de santo André Vicente), trechos de manchetes de jornais antigos (Jornal de Alagoas, 1912) e citações de editoriais (National Geographic) para dar sustentação factual ao argumento de que a imprensa reproduz o racismo religioso.\n2.3 Polifonia: Mobiliza marcas de ironia e negação polêmica para confrontar e desconstruir discursos implícitos de neutralidade da imprensa ('negadas pelo jornalismo que insiste em se dizer \"neutro\" e \"imparcial\"') e termos policiais incorporados acriticamente.",
+      "papel-do-leitor": "3.3 Cidadão"
+    }
+  },
+  {
+    "id": "fm-45",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto apresenta um marcante posicionamento do jornalista ao abordar a apuração do aumento do auxílio-alimentação concedido aos juízes do TJPE. Ele se inscreve ativamente no enunciado, relatando os passos de sua investigação, ao mesmo tempo em que tece críticas severas e engajadas de cunho moral e social sobre o privilégio das elites do Judiciário."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "A reportagem constrói sua credibilidade e autoridade argumentativa recorrendo a múltiplas estratégias: adota um tom indignado e reflexivo, cita trechos do Código de Ética, dados oficiais e declarações de especialistas, confronta discursos implícitos e contradições do Judiciário e invoca dados coletados pelo próprio veículo de imprensa."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O jornalista interpela o leitor de maneira direta e constante, convocando-o a refletir, ler documentos anexos com atenção, indignar-se diante das assimetrias sociais e assumir uma postura crítica perante as instituições públicas."
+        }
+      ],
+      "posicao-sujeito": "1.1.3 - Observador",
+      "posicao-sujeito-justificativa": "Apesar do forte tom opinativo, a autoridade do relato assenta-se no acompanhamento distanciado e na apuração ativa dos fatos, com checagem de dados em portais da transparência, leitura de Diário Oficial, pedidos de entrevista via assessoria de imprensa (\"Pedi entrevista através da assessoria do órgão, mas fui informada...\") e consulta a documentos e especialistas.",
+      "papel-enunciativo": "1.2.3 Crítico-Monitor (ou Cão de Guarda)",
+      "papel-enunciativo-justificativa": "O papel sobressalente é de Crítico-Monitor (Cão de Guarda), uma vez que o texto é estruturado precipuamente para fiscalizar, expor e denunciar os privilégios financeiros e a conduta corporativa do Poder Judiciário em contraste com a pobreza e o desemprego da população.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia",
+        "2.5 Autoridade institucional"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Encaixa-se em '2.1 Ethos e fiador' pelo tom indignado, irônico e inquisitivo com que constrói seu ethos crítico; em '2.2 Discurso relatado' pelas citações diretas do Presidente da OAB-PE, de professores de Direito e do presidente do Sindicato; em '2.3 Polifonia' pelo uso de ironias e negações polêmicas que tensionam o discurso oficial do TJPE; e em '2.5 Autoridade institucional' pelas menções à apuração jornalística do veículo e às fontes oficiais consultadas (e-Fisco, Portal da Transparência).",
+      "papel-do-leitor": "3.3 Cidadão"
+    }
+  },
+  {
+    "id": "fm-46",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto apresenta a estruturação discursiva de uma entrevista jornalística, onde o jornalista enuncia a partir de um lugar de mediação e investigação factual/analítica, exercendo vigilância crítica sobre o Poder Judiciário e orientando as perguntas para tensionar a conduta e os privilégios das elites judiciais."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza múltiplos recursos de legitimação, incluindo o uso de discurso relatado (citações do entrevistado e trechos de artigos), polifonia (incorporação das notas oficiais dos tribunais para rebatê-las), convocação de autoridade institucional/acadêmica (professores e doutores em Direito) e um ethos/fiador de jornalismo investigativo e combativo."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto constrói um papel claro para o leitor ao abordar criticamente as estruturas de poder e desigualdade no Judiciário, interpelando o público enquanto parte afetada pelas decisões e custos do Estado, necessitando de informação para a formação de consciência crítica e cidadã."
+        }
+      ],
+      "posicao-sujeito": "1.1.3 - Observador",
+      "posicao-sujeito-justificativa": "O jornalista atua como Observador, pois constrói as perguntas e a introdução com base em acompanhamento distanciado, leitura de dados/documentos, apuração prévia da investigação e consulta a especialistas, sem alegar presença sensorial direta no fato nem atuar como parte dele.",
+      "papel-enunciativo": "1.2.3 Crítico-Monitor (ou Cão de Guarda)",
+      "papel-enunciativo-justificativa": "O jornalista assume predominantemente o papel de Crítico-Monitor (ou Cão de Guarda), exercendo fiscalização adversarial sobre as instituições do Judiciário, questionando aumentos de benefícios durante a pandemia, opacidade do CNJ, falta de diversidade e a manutenção de privilégios corporativos.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia",
+        "2.5 Autoridade institucional"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Encaixa-se em 2.1 Ethos e fiador pelo tom sóbrio e inquisitivo que constrói uma postura de jornalismo investigativo e vigilante; em 2.2 Discurso relatado pelo uso de citações diretas do entrevistado e do artigo acadêmico; em 2.3 Polifonia ao trazer e contestar os discursos implícitos e explícitos dos órgãos de classe (TJPE, CNJ, Amepe); e em 2.5 Autoridade institucional ao ancorar a credibilidade das análises nas credenciais acadêmicas do entrevistado (doutor pela UFMG e professor da UFERSA) e no uso de dados oficiais de pesquisa (Plataforma Justa).",
+      "papel-do-leitor": "3.3 Cidadão"
+    }
+  },
+  {
+    "id": "fm-47",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O jornalista assume uma posição discursiva ao conduzir a reportagem em campo, entrevistando as fontes, interpretando o comportamento e as falas de Marta e Mirtes, e realizando análise e fiscalização das instituições de poder e das desigualdades de raça e classe no caso narrado."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza um tom grave e crítico (ethos), falas diretas e atribuídas às entrevistadas (discurso relatado), confrontação com discursos implícitos de defesa e da 'cordialidade' patronal (polifonia) e uma cena de enunciação de escuta atenta em campo (cenografia)."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto projeta o leitor como um sujeito crítico inserido na esfera pública ao expor contradições judiciais, impunidade e racismo estrutural no Estado e na sociedade."
+        }
+      ],
+      "posicao-sujeito": "1.1.3 - Observador",
+      "posicao-sujeito-justificativa": "O jornalista constrói seu relato por meio do acompanhamento e da apuração ativa na casa das entrevistadas ('Durante a entrevista na casa na qual elas vivem...', 'Perguntei...'), registrando detalhes do cenário e depoimentos, sem alegar presença no momento exato dos fatos narrados nem figurar como agente dos acontecimentos.",
+      "papel-enunciativo": "1.2.3 Crítico-Monitor (ou Cão de Guarda)",
+      "papel-enunciativo-justificativa": "O jornalista atua fiscalizando e denunciando atuações do Poder Judiciário, da gestão municipal e dos empregadores, apontando o viés de classe e de raça nas instituições de poder e adotando uma postura vigilante e adversarial.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia",
+        "2.4 Cenografia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "2.1 Ethos e fiador: Adota tom sóbrio, grave e indignado para construir autoridade moral na desconstrução da 'cordialidade' patronal; 2.2 Discurso relatado: Utiliza aspas e verbos de elocução para introduzir depoimentos de Marta e Mirtes, conferindo veracidade factual ao relato; 2.3 Polifonia: Ecoa e refuta discursos contrários implícitos ou explícitos, como os argumentos da defesa de que a criança era 'complicada de lidar'; 2.4 Cenografia: Emoldura a enunciação sob o enquadramento de uma grande reportagem humanizada e intimista na casa das entrevistadas.",
+      "papel-do-leitor": "3.3 Cidadão"
+    }
+  },
+  {
+    "id": "fm-48",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto é um artigo opinativo/ensaio no qual a jornalista constrói explicitamente a sua voz e a sua trajetória no interior da narrativa para discutir a universidade e responder a uma crítica do influenciador Felipe Neto."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "A autora mobiliza múltiplos recursos de legitimação para fundamentar seu argumento, incluindo a constituição de uma persona autoral (ethos), a citação explícita de fontes/especialistas (discurso relatado), o diálogo com visões de terceiros (polifonia) e o uso de dados de pesquisas/instituições e do seu próprio papel de docente (autoridade institucional)."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "A jornalista interpela e projeta o leitor de maneira muito clara ao longo do texto, estabelecendo cumplicidade através do tom informal, dirigindo-se ao leitor como cidadão que precisa defender a universidade pública e engajando o público em torno de uma causa social e política."
+        }
+      ],
+      "posicao-sujeito": "1.1.1 - Participante",
+      "posicao-sujeito-justificativa": "A jornalista fala como Participante do processo que analisa: relata sua própria vivência de ter sido a primeira da família a entrar na universidade, ter enfrentado o ambiente elitista na pós-graduação e hoje ser uma das poucas professoras pretas na universidade pública, utilizando sua experiência pessoal direta como agente desse processo de transformação da academia para sustentar seu ponto de vista.",
+      "papel-enunciativo": "1.2.4 Militante",
+      "papel-enunciativo-justificativa": "A autora assume o papel de Militante ao defender abertamente a universidade pública, as políticas de cotas e de permanência estudantil, criticando posições elitistas e posicionando-se de forma engajada em defesa de causas sociais, raciais e políticas contra o desmonte e a estigmatização do ambiente acadêmico.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia",
+        "2.4 Cenografia",
+        "2.5 Autoridade institucional"
+      ],
+      "estrategias-de-legitimacao-justificativa": "2.1 Ethos e fiador: A autora adota um tom irreverente e confessional (usando peixeira, catuaba e referências à literatura de massa/cultura pop) misturado ao rigor analítico, construindo um ethos de acadêmica popular e autêntica. 2.2 Discurso relatado: Utiliza citação direta e indireta de falas do Reitor da UFPE (Alfredo Gomes) e da pesquisadora/youtuber Dimitra Vulcana. 2.3 Polifonia: Negocia e refuta o discurso implícito de que a academia é puramente academicista ou inútil, além de antecipar objeções e citar indiretamente a fala de Paulo Guedes. 2.4 Cenografia: Enquadra o texto na cenografia de um desabafo/resposta direta e informal (interpelando o 'caro Felipe'), quase como um bate-papo de bar ou de redes sociais. 2.5 Autoridade institucional: Recorre aos dados da Seção Igualdades da piauí, dados orçamentários do MEC/Capes/CNPq e ao seu próprio lugar de fala como professora de universidade federal.",
+      "papel-do-leitor": "3.3 Cidadão"
+    }
+  },
+  {
+    "id": "fm-49",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "A jornalista constrói seu discurso através da observação e investigação ativa de dados, postagens e depoimentos em redes sociais (Instagram, Facebook, YouTube), interpretando o fenômeno da 'direita gratiluz' e suas implicações políticas e sociais."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto utiliza diversas estratégias discursivas para sustentar suas análises, incluindo tom irônico e crítico (ethos), citações explícitas de figuras analisadas (discurso relatado), refutação e eco de discursos conservadores/holísticos (polifonia) e apoio em conceitos acadêmicos e falas da pesquisadora Letícia Cesarino (autoridade institucional)."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "A jornalista interpela o leitor tratando-o como um cidadão autônomo, crítico e participante da esfera pública, visando desconstruir e analisar criticamente o impacto social, político e democrático de discursos conspiratórios e antissistema."
+        }
+      ],
+      "posicao-sujeito": "1.1.3 - Observador",
+      "posicao-sujeito-justificativa": "A jornalista atua como Observadora: constrói a análise mediante acompanhamento e apuração ativa distanciada das redes sociais, perfis, livros e palestras das figuras analisadas ('Durante algumas semanas, naveguei por perfis...', 'Acompanhei palestras, vi algumas entrevistas...'), sem ter presenciado fatos no momento em que ocorreram nem se apoiar primordialmente em autoridade técnica de sua especialidade.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "Atua como Observadora-Intérprete (Analista), pois reúne fatos, postagens e falas coletadas durante sua apuração, selecionando-os e contextualizando-os com conceitos teóricos (como a 'metáfora da ferradura' e 'conspirituality') para dar sentido e explicação ao fenômeno social/político analisado.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia",
+        "2.5 Autoridade institucional"
+      ],
+      "estrategias-de-legitimacao-justificativa": "2.1 Ethos e fiador: adota tom irônico, sarcástico e indignado ('espancamento cerebral', 'deep web que por pouco não queimou meu computador') que estabelece uma postura crítica e vigilante; 2.2 Discurso relatado: cita diretamente trechos de falas de Robson Pinheiro, Marcela Moreira e declarações da antropóloga Letícia Cesarino; 2.3 Polifonia: faz eco a bordões da direita e de grupos esotéricos ('homens de bem', 'energia YIN', 'nem à direita, nem à esquerda') para refutá-los e expor suas contradições; 2.5 Autoridade institucional: recorre à fala e aos estudos acadêmicos da antropóloga e pesquisadora Letícia Cesarino (UFSC) para conferir embasamento científico-teórico ao seu diagnóstico.",
+      "papel-do-leitor": "3.3 Cidadão"
+    }
+  },
+  {
+    "id": "fm-50",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto estrutura sua autoridade e enunciação centralizando a figura do jornalista na coordenação das análises, seleção de evidências e condução da investigação sobre o sistema de saúde."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza intensamente recursos de legitimação, combinando relatos diretos de fontes (profissionais da saúde), prints/comprovantes em polifonia e acionamento de autoridades institucionais e estudos científicos para sustentar suas denúncias."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto interpela o leitor posicionando-o em um debate de interesse público, revelando os bastidores do colapso sanitário e chamando atenção para a cidadania, direitos e o impacto das escolhas de gestão estatal."
+        }
+      ],
+      "posicao-sujeito": "1.1.3 - Observador",
+      "posicao-sujeito-justificativa": "O jornalista atua como Observador, pois constrói a narrativa por meio de apuração ativa e acompanhamento continuado do cenário — colhendo depoimentos de fontes sob sigilo (Felipe, Adriana, Tiago), analisando documentos/estudos do IESS/UFMG, checando dados oficiais e obtendo registros de grupos de WhatsApp, sem alegar presença física própria no momento exato das UTIs.",
+      "papel-enunciativo": "1.2.3 Crítico-Monitor (ou Cão de Guarda)",
+      "papel-enunciativo-justificativa": "O papel predominante é o de Crítico-Monitor (Cão de Guarda), pois a matéria exerce uma vigilância ativa e fiscalizadora sobre as instâncias de poder e governos (governo federal, Presidência da República, Secretaria Estadual de Saúde) e corporações privadas, denunciando a ausência de plano nacional, o desabastecimento de UTIs, o assédio moral e o silenciamento de profissionais.",
+      "estrategias-de-legitimacao": [
+        "2.2 Discurso relatado",
+        "2.3 Polifonia",
+        "2.5 Autoridade institucional"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Mobiliza '2.2 Discurso relatado' através de depoimentos explícitos e aspas de médicos intensivistas, enfermeiros e porta-vozes institucionais; '2.3 Polifonia' pela exibição das capturas de tela (prints) das conversas no grupo de WhatsApp dos profissionais de saúde, expondo vozes e o cotidiano dramático sem citação formal; e '2.5 Autoridade institucional' ao fundamentar os argumentos em dados oficiais da SES-PE, estatísticas do estudo do IESS/UFMG e dados da AMIB.",
+      "papel-do-leitor": "3.3 Cidadão"
+    }
+  },
+  {
+    "id": "fm-51",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto analisa e se posiciona explicitamente em relação aos discursos sobre a fome e a pobreza no Brasil. A jornalista fala a partir do seu lugar de apuração, pertencimento regional e análise crítica da imprensa, mesclando apuração e dados com uma forte voz opinativa e interpretativa."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "A autora mobiliza múltiplos recursos para legitimar seu diagnóstico discursivo e factual: constrói um tom irônico e crítico, cita falas de jornalistas e relatos de campo, contrapõe-se a opiniões de outros veículos de imprensa e apoia-se em dados institucionais e bibliográficos para validar sua tese."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto interpela o leitor em sua condição cidadã, criticando o cinismo e a passividade diante da fome, ao mesmo tempo em que aborda o papel das políticas públicas e a responsabilidade da esfera pública frente às desigualdades sociais."
+        }
+      ],
+      "posicao-sujeito": "1.1.3 - Observador",
+      "posicao-sujeito-justificativa": "A jornalista atua como Observadora. Ela constrói seu relato e análise através do acompanhamento distanciado do cenário e da apuração ativa, trazendo dados estatísticos (IBGE, Ministério da Cidadania), referências acadêmicas, análise de cobertura de imprensa e a história apurada da agricultora Maria de Fátima, sem reivindicar presença física no momento factual original do surgimento da fome.",
+      "papel-enunciativo": "1.2.3 Crítico-Monitor (ou Cão de Guarda)",
+      "papel-enunciativo-justificativa": "Desempenha o papel de Crítico-Monitor, exercendo vigilância fiscalizadora e adversarial não apenas sobre figuras públicas, mas precipuamente sobre o próprio campo jornalístico e a elite intelectual/mídia tradicional (Estadão, Folha de S.Paulo, My News, TV Globo), denunciando enquadramentos preconceituosos, o racismo de classe e a espetacularização da pobreza.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia",
+        "2.5 Autoridade institucional"
+      ],
+      "estrategias-de-legitimacao-justificativa": "2.1 Ethos e fiador: Adota tom irônico, indignado e incisivo que constrói uma postura de vigilância crítica e autoridade moral.\n2.2 Discurso relatado: Utiliza aspas e citações explícitas atribuídas à agricultora Maria de Fátima, a Thaís Oyama, ao editorial do Estadão, a Gilberto Dimenstein e a estudiosos como Durval Muniz de Albuquerque.\n2.3 Polifonia: Ecoa e refuta discursos implícitos e explícitos da mídia tradicional e da elite sobre os 'grotões miseráveis' e os beneficiários do Bolsa Família para desconstruir tais noções.\n2.5 Autoridade institucional: Mobiliza dados e levantamentos formais do IBGE e do Ministério da Cidadania para sustentar o panorama da pobreza.",
+      "papel-do-leitor": "3.3 Cidadão"
+    }
+  },
+  {
+    "id": "fm-52",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "A autora constrói o discurso a partir da sua própria condição de jornalista que analisa criticamente a imprensa, posicionando-se no debate público para exercer vigilância sobre as instituições e defender a democracia de forma engajada."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto utiliza intensamente a construção do ethos profissional (fiador), além de discursos relatados, referências a manuais de redação, ombudsmans, dados e polifonia para conferir autoridade e validar o diagnóstico crítico apresentado."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "A enunciação estabelece um diálogo contínuo de convocação e interpelação, visando engajar o leitor e os colegas de profissão em uma postura crítica ativa na defesa da ordem democrática."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "Predomina a posição de Comentarista, na qual a autoridade enunciativa do texto repousa sobre a interpretação, a valoração política e os juízos da autora a respeito do papel da imprensa frente ao bolsonarismo.",
+      "papel-enunciativo": "1.2.4 Militante",
+      "papel-enunciativo-justificativa": "O texto assume um papel nitidamente Militante, rompendo com a neutralidade ao convocar a imprensa a assumir um lado explícito na defesa da democracia contra o autoritarismo e o negacionismo.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia",
+        "2.4 Cenografia",
+        "2.5 Autoridade institucional"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Mobiliza Ethos/Fiador (2.1 Ethos e fiador) pelo tom indignado e didático; Discurso relatado (2.2 Discurso relatado) ao citar falas de ombudsmans e políticos; Polifonia (2.3 Polifonia) ao ironizar e rebater teses sobre 'neutralidade'; Cenografia (2.4 Cenografia) ao simular uma conversa direta com a 'grande imprensa' e colegas de profissão; e Autoridade institucional (2.5 Autoridade institucional) ao evocar o próprio estatuto do jornalismo e menções acadêmicas/editoriais.",
+      "papel-do-leitor": "3.6 Público a ser mobilizado"
+    }
+  },
+  {
+    "id": "fm-53",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "A autora constrói o texto integrando sua própria trajetória de vida, memórias familiares e posição como mulher negra e intelectual aos acontecimentos narrados e ao debate crítico. O texto oscila entre a reflexão identitária autobiográfica e a análise crítica/militante da recepção e do mercado editorial."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto utiliza diversas estratégias discursivas para sustentar suas teses e autoridade, tais como o tom confessional e de denúncia (ethos), a menção a interações reais e citações diretas de mensagens, autores e dados (discurso relatado), além do constante diálogo com discursos implícitos do senso comum e do mercado (polifonia)."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "A autora interpela o leitor e os interlocutores (como o próprio escritor citado) propondo uma reflexão coletiva sobre estruturas de poder, racialização e liberdade de crítica no espaço público e editorial."
+        }
+      ],
+      "posicao-sujeito": "1.1.1 - Participante",
+      "posicao-sujeito-justificativa": "A enunciadora se coloca como agente ativa da própria história e do embate narrado (a controvérsia crítica), trazendo suas vivências pessoais, familiares e profissionais como elemento constitutivo do argumento, sendo diretamente afetada e engajada na situação descrita.",
+      "papel-enunciativo": "1.2.4 Militante",
+      "papel-enunciativo-justificativa": "O texto assume um engajamento político, social e moral explícito em relação às pautas de raça, gênero e disputas no mercado editorial, defendendo a liberdade da crítica feita por mulheres negras e denunciando o silenciamento e as atitudes autoritárias.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia",
+        "2.4 Cenografia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "2.1 Ethos e fiador: Adota tom intimista, firme e reflexivo que projeta postura de integridade e coragem moral. 2.2 Discurso relatado: Utiliza citação direta do tweet próprio, frases da avó e de referências intelectuais (bell hooks, Neon Cunha, Silvio Almeida). 2.3 Polifonia: Reagrupa e refuta discursos implícitos da elite e do mercado sobre o que se espera de pessoas negras. 2.4 Cenografia: O texto se encena como uma carta-resposta aberta e uma conversa/desabafo com o leitor e o interlocutor específico.",
+      "papel-do-leitor": "3.3 Cidadão"
+    }
+  },
+  {
+    "id": "fm-54",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto investiga o lugar discursivo ocupado pela jornalista ao enunciar a verdade, articulando suas vivências pessoais com a análise crítica da cobertura midiática e dos papéis profissionais do jornalismo."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza diversos recursos linguístico-discursivos para conferir autoridade ao relato, incluindo tom crítico/indignado, extensa citação de fontes e intelectuais, além de enquadramentos conceituais."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "A jornalista estabelece uma relação de proximidade e conivência com o leitor ao apelar para saberes prévios, repertórios compartilhados e ironias sobre as dinâmicas de classe no Brasil."
+        }
+      ],
+      "posicao-sujeito": "1.1.1 - Participante",
+      "posicao-sujeito-justificativa": "A jornalista se descreve como agente/parte ativa de situações narradas no texto (como ao trabalhar na montagem de uma exposição na região da Luz ou ao conversar com o trabalhador em Japaratinga), mostrando-se pessoalmente afetada pelos fatos e usando essa vivência direta para fundamentar sua análise.",
+      "papel-enunciativo": "1.2.4 Militante",
+      "papel-enunciativo-justificativa": "A autora rompe com a neutralidade estrita e assume um engajamento social, político e moral explícito na denúncia do preconceito de classe, da aporofobia e da exclusão social, posicionando-se abertamente contra o discurso hegemônico.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Utiliza 2.1 Ethos e fiador através do tom indignado e crítico que constrói um ethos de vigilância moral e responsabilidade social; 2.2 Discurso relatado pela citação explícita e atribuída de teóricos (Adela Cortina, Maria Eduarda da Mota Rocha), artistas (Alfredo Jaar), políticos e populares; e 2.3 Polifonia ao ecoar e refutar discursos implícitos e visões do senso comum sobre pobreza e elite no Brasil.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "fm-55",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O jornalista assume uma postura de acompanhamento direto e apuração no ambiente narrado, posicionando-se explicitamente no texto por meio da primeira pessoa ('Na apuração deste texto, eu não cheguei a deixar a rua de minha casa', 'percebi que Fábio estava ansioso'). Além disso, utiliza a observação e a interpretação das trajetórias sociais e econômicas dos sujeitos entrevistados para construir seu relato."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto faz uso acentuado de estratégias linguístico-discursivas para conferir autoridade e veracidade aos fatos. Mobiliza o discurso relatado por meio de depoimentos diretos e citações das frases escritas nas placas, além de construir um ethos e um fiador comprometido e engajado e recorrer à polifonia e à autoridade de sua própria atuação investigativa."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto projeta o leitor no papel de um cidadão ao tratar da desigualdade social, da fome e da gestão pública (como o auxílio emergencial e a atuação do presidente) no contexto da pandemia, interpelando a consciência do público sobre direitos básicos e o espaço urbano."
+        }
+      ],
+      "posicao-sujeito": "1.1.3 - Observador",
+      "posicao-sujeito-justificativa": "O jornalista atua como Observador: constrói a narrativa a partir de uma apuração ativa no entorno do seu bairro (entrevistando pessoas, checando detalhes de suas vidas e acompanhando suas rotinas), sem se colocar como agente central do fato social relatado (Participante), nem se restringir a um flagrante pontual/passivo (Testemunha).",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "Encaixa-se como Observador-Intérprete (ou Analista): o enunciador observa a realidade local (as placas de pedintes nos sinais de trânsito) e interpreta o fenômeno, ligando-o a dados mais amplos (fome, preço do botijão de gás, pandemia, auxílio emergencial) e atribuindo sentido social à cena observada.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Usa Ethos e fiador (2.1) ao adotar tom sensível, reflexivo e crítico que constrói uma postura de responsabilidade social; utiliza Discurso relatado (2.2) através da citação direta das falas dos entrevistados (ex: '– O senhor já escutou coisas ruins, aqui na rua? / – Já, já') e transcrição das placas; e mobiliza Polifonia (2.3) ao trazer a fala de Adriano que ecoa criticamente o discurso político oficial ('Ele tá todo errado, tá dizendo que se a vacina não der certo, ele não tem culpa').",
+      "papel-do-leitor": "3.3 Cidadão"
+    }
+  }
+]

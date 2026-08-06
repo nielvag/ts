@@ -1,0 +1,62 @@
+[
+  {
+    "id": "eb-25",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto é escrito por um docente/pesquisador que analisa uma publicação acadêmica e discute o conceito de objetividade jornalística, apoiando-se em seu domínio teórico sobre o tema e na sua própria obra prévia para emitir uma análise crítica e interpretativa."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O enunciador mobiliza citações explícitas de um documento técnico-acadêmico e de autores consagrados, bem como trecho de seu próprio livro publicado, além de adotar um tom professoral e de autoridade acadêmica para sustentar a tese desenvolvida."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O autor interpela o leitor em um tom de aula/orientação didática e explicativa sobre as transformações teóricas e práticas do jornalismo, estabelecendo uma assimetria pedagógica de compartilhamento de conhecimento."
+        }
+      ],
+      "posicao-sujeito": "1.1.4 - Especialista",
+      "posicao-sujeito-justificativa": "O enunciador fala a partir do lugar de Especialista (professor da ECA-USP e autor de livro sobre ética e imprensa), fundamentando sua autoridade no domínio teórico/disciplinar sobre o tema, e não na vivência direta de um fato específico.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "Atua como Observador-Intérprete (Analista), pois seleciona um relatório acadêmico recente, interpreta as mudanças conceituais do jornalismo (da objetividade à intersubjetividade) e atribui sentido a esse movimento no cenário contemporâneo.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.5 Autoridade institucional"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Utiliza '2.1 Ethos e fiador' pelo tom professoral, analítico e seguro; '2.2 Discurso relatado' ao citar diretamente conclusões e frases de Leonard Downie Jr., Andrew Hayward e de sua própria obra do ano 2000; e '2.5 Autoridade institucional' ao explicitar e chancelar suas credenciais profissionais e acadêmicas (Professor da ECA-USP).",
+      "papel-do-leitor": "3.2 Aprendiz"
+    }
+  },
+  {
+    "id": "eb-29",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O jornalista assume uma postura abertamente analítica e interpretativa, mesclando conceitos filosóficos e educacionais com reflexão política e engajamento moral/democrático ao avaliar a transição de ano (2022-2023)."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza múltiplos recursos para construir credibilidade e sustentação argumentativa, incluindo tom reflexivo/sócio-político (ethos), citações explícitas de autoridades intelectuais (discurso relatado) e negações/ironias dirigidas a discursos opostos (polifonia)."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O jornalista projeta um leitor ativo no processo político democrático, interpelando-o diretamente a assumir um papel autônomo, crítico e participante nas ações coletivas."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "A autoridade da enunciação repousa primariamente sobre o próprio juízo de valor, interpretação conceitual e avaliação política do jornalista sobre a conjuntura, sem se fiar em apuração factual direta de fatos do momento (observador), testemunho de cena pontual ou credencial técnica/especializada formal declarada.",
+      "papel-enunciativo": "1.2.4 Militante",
+      "papel-enunciativo-justificativa": "O texto assume um engajamento político, social e moral explícito em defesa da 'militância democrática' e em oposição aberta ao autoritarismo, negacionismo e golpismo, rompendo com a neutralidade estrita para defender o projeto de reconstrução democrática do país.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "2.1 Ethos e fiador: Constrói um tom professoral, reflexivo e indignado ('Quanta birutice!', 'inflamáveis idiotas') sustentando uma autoridade moral de defensor da razão e da democracia; 2.2 Discurso relatado: Convoca explicitamente as autoridades intelectuais de Paulo Freire e Baruch de Spinoza para fundamentar conceitualmente a crítica à 'esperança' e a defesa da 'confiança'; 2.3 Polifonia: Utiliza negações polêmicas e ironias para confrontar e desconstruir vozes adversárias (ex.: a crítica ao 'mito/mitômano', a rejeição ao 'salvador da Pátria' e o deboche dos que pedem golpe).",
+      "papel-do-leitor": "3.3 Cidadão"
+    }
+  }
+]

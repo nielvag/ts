@@ -1,0 +1,66 @@
+[
+  {
+    "id": "eb-25",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO IDENTITÁRIO, NORMATIVO E EPISTÊMICO DA PROFISSÃO",
+        "justificativa": "O trecho aborda o limite da apuração factual e o debate sobre a natureza e a complexidade do conhecimento jornalístico, indicando que arrolar fatos isolados não basta para alcançar a totalidade da realidade.",
+        "subcategoria": "1.2 Verdade como problema epistemológico",
+        "subcategoria_justificativa": "Trata do estatuto da verdade e dos fatos, problematizando como a verdade é construída para além da simples contagem ou listagem de fatos brutos.",
+        "valor": null
+      },
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO IDENTITÁRIO, NORMATIVO E EPISTÊMICO DA PROFISSÃO",
+        "justificativa": "A palavra aparece articulada diretamente a outro valor jornalístico ('acurácia'/exatidão) no âmbito da autoimagem das novas gerações de jornalistas e da redefinição dos padrões de excelência do campo.",
+        "subcategoria": "1.3 Verdade, valores profissionais e fronteiras do campo",
+        "subcategoria_justificativa": "Articula a verdade com o valor 'exatidão' (representado pela busca de acurácia), operando a legitimação e redefinição dos critérios normativos da profissão.",
+        "valor": {
+          "nome": [
+            "exatidão"
+          ],
+          "relacao": "1.3.3 Relação de equivalência",
+          "valor_justificativa": "No corpus, a relação predominante entre verdade e exatidão é de equivalência, sendo tratadas como conceitos análogos na busca das novas gerações de jornalistas."
+        }
+      },
+      {
+        "palavra": "verdadeiro(a)",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "No trecho ('O texto jornalístico só é bom de verdade quando...'), a expressão 'de verdade' é utilizada como um marcador discursivo de intensidade e correção para reforçar um critério categórico sobre a qualidade do jornalismo.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Funciona como um marcador de afirmação e correção enfática sobre o dever ser do texto jornalístico, sem nomear um adversário direto.",
+        "valor": null
+      },
+      {
+        "palavra": "veracidade",
+        "categoria": "CATEGORIA 2 — VERDADE, SOCIEDADE E DEMOCRACIA",
+        "justificativa": "A palavra é empregada no contexto do compromisso do jornalismo com o público e com as fontes, fortalecendo a relação de confiança, o pacto social e o diálogo civilizado no debate público.",
+        "subcategoria": null,
+        "subcategoria_justificativa": null,
+        "valor": null
+      },
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO IDENTITÁRIO, NORMATIVO E EPISTÊMICO DA PROFISSÃO",
+        "justificativa": "A expressão 'verdade factual' é utilizada para discutir o estatuto epistêmico do fato no jornalismo, afirmando a persistência e centralidade da realidade concreta frente a discursos militantes.",
+        "subcategoria": "1.2 Verdade como problema epistemológico",
+        "subcategoria_justificativa": "Discute a primazia da verdade factual enquanto dimensão da realidade e do conhecimento que o jornalismo busca captar e interpretar.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "eb-29",
+    "resposta_json": [
+      {
+        "palavra": "verdadeiro",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra 'verdadeiro' é empregada no fecho do texto em um contexto de disputa política e discurso engajado, opondo a autenticidade de um novo ciclo à falsidade e à desinformação vigentes.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O termo funciona como um fecho enfático da reflexão política, mobilizando o leitor e encerrando o texto com um voto de compromisso e engajamento coletivo sem apelar para um método formal de apuração ou autodefinição profissional.",
+        "valor": null
+      }
+    ]
+  }
+]

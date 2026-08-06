@@ -1,0 +1,993 @@
+[
+  {
+    "id": "fb-3",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra aparece na locução 'Na verdade', sendo utilizada como um marcador discursivo de transição e correção para reorientar a atenção do leitor sobre o que o autor está lendo/escrevendo no momento.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "A ocorrência se enquadra como o uso da expressão 'na verdade' exercendo uma função de transição/correção pragmática do enunciado sem atacar um interlocutor ou adversário nomeado.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-4",
+    "resposta_json": [
+      {
+        "palavra": "Na verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é mobilizado como marcador discursivo de correção enfática para introduzir um fato histórico contextualizador, sem envolver disputas diretas com adversários nomeados nem justificativa metodológica.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Trata-se do uso do marcador discursivo 'na verdade' exercendo função de correção enfática para reposicionar a origem do termo na narrativa.",
+        "valor": null
+      },
+      {
+        "palavra": "Na verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A expressão atua como recurso de transição e correção discursiva para introduzir a análise do esforço humano de atenuar imperfeições da mente.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Uso do conector 'na verdade' para assinalar uma transição e correção de sentido sem alvo específico nomeado.",
+        "valor": null
+      },
+      {
+        "palavra": "Na verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O marcador discursivo é empregado para apresentar uma explicação direta sobre a atração por teorias conspiratórias, reorientando a perspectiva do leitor.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Emprego da expressão 'na verdade' como correção enfática dentro da argumentação do autor.",
+        "valor": null
+      },
+      {
+        "palavra": "na verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo funciona como expressão de ressalva e correção discursiva para nuançar o estado dos sujeitos que enfrentam a situação descrita ('alguns sobreviventes').",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Trata-se do uso da locução 'na verdade' atuando como marcador de correção de sentido dentro da reflexão do texto.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-5",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra aparece na locução 'Na verdade' e é mobilizada no embate discursivo como recurso enfático de correção para desmistificar a declaração anterior de parlamentares franceses e contestar a narrativa contrária à carne brasileira.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "A expressão 'Na verdade' é utilizada como marcador discursivo de correção enfática ('Na verdade, se nos fixamos apenas na carne, são produtos tão bons quanto os de lá...'), atuando para reorientar o sentido da discussão sem ter justificativa metodológica ou foco na identidade profissional.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-7",
+    "resposta_json": [
+      {
+        "palavra": "veracidade",
+        "categoria": "CATEGORIA 3 — VERDADE E MÉTODOS DE APURAÇÃO",
+        "justificativa": "A palavra aparece associada diretamente a procedimentos técnicos e profissionais do jornalismo, nomeadamente aos atos de apurar e confirmar informações para garantir sua precisão metodológica.",
+        "subcategoria": null,
+        "subcategoria_justificativa": null,
+        "valor": null
+      },
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é empregado na locução 'a verdade é que', funcionando como um marcador discursivo de correção para introduzir um fato e fechar a discussão sobre a exploração do trabalho da imprensa pelas plataformas.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "A expressão 'a verdade é que' atua como uma correção enfática da realidade/situação sem nomear um adversário direto ou expor um método de checagem.",
+        "valor": null
+      },
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO IDENTITÁRIO, NORMATIVO E EPISTÊMICO DA PROFISSÃO",
+        "justificativa": "O trecho reflete de modo geral sobre o estatuto epistemológico do que é a verdade e sua relação com os limites da realidade e das disputas políticas/eleitorais.",
+        "subcategoria": "1.2 Verdade como problema epistemológico",
+        "subcategoria_justificativa": "O texto discute o caráter da verdade (a 'outra verdade' vs. a 'verdade de que são os vencedores'), tratando das gradações e do significado conceitual da verdade no contexto da vitória eleitoral.",
+        "valor": null
+      },
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO IDENTITÁRIO, NORMATIVO E EPISTÊMICO DA PROFISSÃO",
+        "justificativa": "A palavra é utilizada na discussão sobre a definição e os limites do estatuto da vitória e do fato real frente a disputas de narrativas.",
+        "subcategoria": "1.2 Verdade como problema epistemológico",
+        "subcategoria_justificativa": "A expressão 'verdade de que são os vencedores' coloca em questão a natureza do fato e sua interpretação, tratando da dimensão interpretativa e factual da realidade do resultado eleitoral.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-9",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra aparece na locução 'na verdade', utilizada pelo autor como um recurso discursivo de correção enfática para introduzir uma síntese e conclusão sobre a importância da família retratada.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Trata-se do uso do marcador discursivo de correção 'na verdade' para enfatizar um sentido e concluir a reflexão, sem nomear um alvo ou adversário específico.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-11",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada no trecho 'Na verdade, elas ocupam hoje muita atenção...', atuando como um marcador discursivo de transição e correção enfática no embate de opiniões, sem nomear um adversário direto ou apresentar métodos de checagem.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Encaixa-se no uso do marcador discursivo de correção ('na verdade'), utilizado para reorientar a atenção do leitor e enfatizar um ponto de vista sem citar um alvo específico.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-13",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é mobilizado como um marcador discursivo de transição e correção para introduzir uma afirmação conclusiva sobre a mudança da política presencial para as redes sociais, sem apresentar fundamentação metodológica ou epistemológica.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "A expressão 'A verdade é que...' é empregada como 'Na verdade...' (correção enfática), funcionando como marcador discursivo para reorientar a interpretação e constatação do autor sem alvejar diretamente um adversário nomeado.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-14",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é mobilizada no trecho 'Na verdade' como um recurso discursivo de correção para redefinir o argumento sobre a destruição ambiental, sem direcionar o ataque a um adversário específico nomeado.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O termo é utilizado como marcador discursivo de correção enfática ('Na verdade, é resultado do gozo desenfreado...'), ajustando o sentido do debate sem nomear um alvo específico.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-16",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada como um marcador discursivo de correção enfática para introduzir o desenvolvimento e ajuste de uma ideia/análise feita pelo próprio autor, sem apresentar justificativa metodológica de apuração ou foco na identidade profissional.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "A expressão 'na verdade' aparece no trecho ('Sinto que avancei alguns milímetros nesse tema, na verdade continuação da coluna de segunda-feira passada...') atuando como marcador discursivo de correção enfática, sem alvo ou adversário específico sendo desmentido.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-18",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é utilizado como um marcador discursivo de correção enfática para fechar o debate e reorientar a atenção para a realidade, sem a indicação de justificativa metodológica ou um adversário nomeado diretamente.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "A palavra aparece na locução 'A verdade é que...', funcionando como um recurso de correção e clareza analítica que encerra a discussão anterior e assinala o fato de que as medidas preventivas já falharam.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-22",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 2 — VERDADE, SOCIEDADE E DEMOCRACIA",
+        "justificativa": "O termo é mobilizado para definir a função social e o compromisso da vida pública no continente, associando a verdade à transparência, à democracia e à avaliação de direitos/instituições sem foco em valores estritamente corporativos jornalísticos ou métodos de apuração.",
+        "subcategoria": null,
+        "subcategoria_justificativa": null,
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-26",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra aparece no marcador discursivo 'Na verdade', sendo utilizada para fazer uma correção enfática no fluxo do texto e reorientar o argumento do autor sobre as metas de redução de temperatura, sem nomear um adversário direto.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O uso de 'Na verdade' funciona como um marcador discursivo de correção para enfatizar um diagnóstico realista sobre as mudanças climáticas e fechar a discussão sobre a viabilidade das metas de temperatura, sem focar em um alvo específico.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-30",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra 'verdade' é empregada na expressão 'a verdade é que' como um recurso discursivo de ênfase para impor uma constatação e reorientar a discussão pública sobre as instituições, sem fundamentação metodológica de apuração ou debate sobre a missão ética da profissão.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "A expressão 'a verdade é que' funciona como um marcador discursivo de correção enfática sem nomear ou atacar diretamente um adversário rival específico.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-31",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra aparece em uma nota de errata ao final do texto ('Na verdade,...') para corrigir uma informação veiculada incorretamente na versão anterior, ajustando o sentido do enunciado no espaço público sem tom de combate a um adversário nomeado.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "A ocorrência utiliza o marcador discursivo 'Na verdade' como uma correção enfática de sentido sobre os fatos relatados, sem o envolvimento de um alvo ou adversário rival identificável.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-32",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra aparece na locução 'Na verdade', sendo utilizada como um marcador discursivo de transição e correção enfática para introduzir uma justificativa/esclarecimento no texto, sem tom de combate ou alvo nomeado.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Aparece como expressão de correção/ajuste discursivo ('Na verdade...'), usada para esclarecer o sentido do trecho anterior sem apontar um adversário específico.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-34",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada estrategicamente no embate discursivo para reforçar a gravidade de uma situação e encerrar/enquadrar a discussão por meio de uma asserção enfática.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O enunciado utiliza o marcador discursivo de correção ('A verdade é que...') para enfatizar a realidade da situação do país sem direcionar ataque a um rival identificável.",
+        "valor": null
+      },
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é empregada como recurso discursivo de transição e enquadramento para sintetizar a complexidade de um problema no debate público.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Trata-se do uso do marcador discursivo de correção enfática ('Na verdade,...') para dimensionar os desafios de planejamento, sem combate ou denúncia a adversários nomeados.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-35",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra aparece em um recurso estilístico/discursivo de transição e correção de sentido para enfatizar uma afirmação sobre a trajetória do escritor, sem tom de combate direcionado a um adversário ou justificativa metodológica.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O termo é usado na expressão fixa 'na verdade' para introduzir uma correção/ênfase sobre a 'segunda chance' de Salman Rushdie na vida, funcionando como marcador discursivo sem alvo específico.",
+        "valor": null
+      },
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O vocábulo é empregado como expressão enfática para constatar e reforçar fatos inevitáveis da realidade (a morte e a doença de amigos do autor).",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Trata-se do uso do marcador 'A verdade é que...' como uma correção enfática ou constatação taxativa para assinalar a realidade dos fatos sem interlocutor ou alvo específico nomeado.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-37",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO IDENTITÁRIO, NORMATIVO E EPISTÊMICO DA PROFISSÃO",
+        "justificativa": "A palavra é utilizada para expressar uma conclusão reflexiva sobre o estatuto de um fato e a realidade da condição humana e das nações.",
+        "subcategoria": "1.2 Verdade como problema epistemológico",
+        "subcategoria_justificativa": "Aparece no contexto 'Isso é verdade, pois nenhuma nação detém todas as virtudes...', atuando como uma modalização epistêmica que valida uma constatação sobre a realidade geopolítica e suas limitações.",
+        "valor": null
+      },
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é empregada em uma estrutura discursiva de transição e correção para reorientar a argumentação sobre a democracia.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Aparece na locução 'Na verdade, a democracia não é a única forma de governo...', atuando como um marcador discursivo de correção enfática sem nomear um adversário específico.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-40",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada no contexto discursivo como um recurso de ajuste e reorientação do sentido da afirmação, sem fundamentação metodológica ou conceitual sobre o fazer jornalístico.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "A palavra aparece na expressão 'Na verdade', atuando explicitamente como um marcador discursivo de correção enfática para introduzir um adendo explicativo, sem nomear ou atacar um adversário específico.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-42",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é empregado na expressão 'A verdade é que...', atuando como um marcador discursivo de correção para desfazer a falsa associação politizada entre a briga de vizinhas e a política partidária, desmistificando o conflito sem nomear ou atacar um adversário político específico.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "A palavra funciona como o marcador discursivo de correção enfática 'na verdade / a verdade é que', visando reorientar o sentido da discussão e esclarecer os fatos de forma categórica, sem alvo ou adversário identificável sendo corrigido.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-44",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A expressão 'Na verdade' é mobilizada como um marcador discursivo de transição e correção enfática no fluxo do texto, sem embasamento metodológico ou caráter de formação identitária profissional.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Corresponde ao uso do marcador discursivo 'Na verdade...' para reorientar a atenção e corrigir sentidos no texto, operando sem um adversário ou alvo nominalmente declarado.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-46",
+    "resposta_json": [
+      {
+        "palavra": "na verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é utilizado como recurso de autoridade e marcador discursivo para reinterpretar e corrigir o sentido da declaração da cantora no debate público.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Trata-se do uso da expressão 'na verdade' como marca discursiva de correção enfática sem um alvo ou adversário político direto nomeado.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-47",
+    "resposta_json": [
+      {
+        "palavra": "Verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada como uma expressão de afirmação para introduzir uma reflexão do autor sobre como percebeu o sentido da letra da música ao longo do tempo.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Trata-se do uso de um marcador discursivo de afirmação/correção enfática ('Verdade é que...'), sem a presença de um adversário nomeado ou de intenção de combate à desinformação.",
+        "valor": null
+      },
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é empregado na locução 'Na verdade' para introduzir um contraponto explicativo em relação à reação dos moradores com o carnaval de rua.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Atua estritamente como marcador discursivo de correção ('Na verdade...'), reconfigurando o sentido do argumento apresentado sem alvejar um adversário específico.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-48",
+    "resposta_json": [
+      {
+        "palavra": "verdadeiro",
+        "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO IDENTITÁRIO, NORMATIVO E EPISTÊMICO DA PROFISSÃO",
+        "justificativa": "A palavra aparece na expressão 'verdadeiro quadro', em um contexto de discussão sobre a compreensão da realidade e dimensão dos fatos referentes ao garimpo, sem foco em dever moral ou combate adversarial.",
+        "subcategoria": "1.2 Verdade como problema epistemológico",
+        "subcategoria_justificativa": "Trata-se da discussão e busca pelo acesso à realidade e ao estado de coisas factual em um cenário de incerteza.",
+        "valor": null
+      },
+      {
+        "palavra": "Verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é empregado na expressão 'Verdade é que...' como marcador discursivo enfático para encerrar a discussão e asseverar o fato de que o presidente não sabia dos acontecimentos.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Funciona como 'Na verdade...' para realizar uma correção enfática no fluxo do texto e selar o sentido da afirmação sem nomear ou atacar diretamente um adversário.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-51",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada estrategicamente no fluxo argumentativo como recurso discursivo de concessão e enquadramento do debate sobre as medidas adotadas em El Salvador.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Funciona como um marcador discursivo de correção e concessão (\"É verdade que...\") para limitar e orientar o debate público, sem haver acusação direta ou combate contra um adversário nominalmente identificado.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-53",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é empregado em um contexto de ajuste discursivo e retórico, funcionando como uma transição reflexiva no texto sem respaldo em justificativa metodológica, missão moral ou função democrática do jornalismo.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "A palavra integra a locução 'Na verdade', que atua exatamente como um marcador discursivo de correção enfática e readequação de sentido na transição do argumento, sem nomear um alvo ou adversário específico.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-59",
+    "resposta_json": [
+      {
+        "palavra": "verdadeira",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra aparece para qualificar uma afirmação categórica sobre a inexistência histórica de uma ordem mundial unificada, atuando como um elemento que busca fechar o sentido do argumento sobre a realidade geopolítica.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O termo é usado em 'nunca houve uma verdadeira ordem mundial' como um recurso para demarcar categoricamente uma constatação de fato e sustentar a tese do autor, atuando na clausura do debate sem justificativa metodológica ou foco na identidade profissional.",
+        "valor": null
+      },
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada na locução 'na verdade', funcionando como um marcador discursivo de correção enfática em relação ao papel do Conselho de Segurança.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O uso do marcador 'na verdade' serve para introduzir uma correção/constatação enfática ('que, na verdade, sempre nos assegura que nada ou muito pouco será feito'), exatamente como discriminado na descrição e indicadores da subcategoria 4.2.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-63",
+    "resposta_json": [
+      {
+        "palavra": "Verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é empregado na expressão 'Verdade é que' como um recurso discursivo para introduzir uma correção, ajuste ou desdobramento de uma afirmação anterior do próprio autor, sem embasamento metodológico ou finalidade pedagógica/democrática.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O uso de 'Verdade é que' funciona como um marcador discursivo de transição e correção enfática ('na verdade'), visando reorientar o sentido da discussão sem nomear um adversário específico.",
+        "valor": null
+      },
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo aparece inserido na expressão 'na verdade', funcionando estritamente como um marcador discursivo para matizar e corrigir a interpretação sobre a postura de Israel em relação ao Hamas.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Trata-se do uso da expressão 'na verdade' como conector de correção enfática de sentido em circulação, sem direcionamento direto de ataque a um adversário nomeado nem explicação técnica/metodológica.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-64",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra aparece na locução discursiva 'Na verdade', que funciona como uma correção e reorientação de sentido sobre como o cenário vinha sendo percebido, sem nomear um adversário direto nem apresentar método de checagem.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O termo é empregado no formato do marcador discursivo 'Na verdade...', atuando como uma correção enfática para introduzir uma observação sobre o equívoco dos defensores da paz e países ocidentais.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-65",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra aparece na locução 'Na verdade', sendo empregada como um marcador discursivo de transição e correção enfática para introduzir um novo argumento/ponto de vista sem citar um adversário nominal específico.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O uso de 'Na verdade' atua exatamente como um marcador discursivo de correção para reorientar a discussão e introduzir um complemento analítico ('é preciso também haver novas políticas de droga').",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-66",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A expressão é utilizada como um marcador discursivo para reconfigurar a discussão e introduzir uma correção enfática à narrativa colocada pela extrema-direita, sem uma justificação metodológica ou foco na identidade profissional.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O termo opera como recurso analítico e corretivo ('Na verdade...') para reposicionar o sentido do debate público de forma assertiva sem nomear um alvo específico sendo desmentido pontualmente naquele exato momento do argumento.",
+        "valor": null
+      },
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O trecho mobiliza a oposição entre a fantasia/narrativa ideológica do grupo político e o fato concreto, atuando em registro de combate ao discurso do adversário.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "A palavra é usada no contexto de desmascarar a fantasia e o discurso de um grupo político identificável ('extrema direita'), apontando para a 'terrível realidade'.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-67",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é mobilizada como marcador discursivo de correção enfática no trecho ('Na verdade, segundo alguns autores...'), ajustando o sentido do debate sem recorrer à fundamentação metodológica.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Trata-se do uso da expressão 'Na verdade...' como correção enfática sem que haja um alvo ou adversário rival especificamente nomeado.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-68",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é empregado para refutar uma ideia incorreta na frase 'o que não é verdade', atuando como um corretivo enfático sobre a percepção da obrigação do entregador.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Funciona como um marcador discursivo de correção enfática de um sentido em circulação, sem focar em um adversário específico nomeado ou em fundamentação metodológica.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-69",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada como um marcador discursivo de correção enfática para introduzir um contraponto crítico a respeito da relação entre ideologia, ciência e governabilidade, sem apresentar justificativa metodológica ou foco no papel moral do jornalista.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Trata-se do uso do marcador discursivo de correção 'A verdade é que...' para organizar o sentido e redirecionar a perspectiva do debate sem alvo ou adversário especificamente nomeado sendo corrigido.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-72",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada como um marcador discursivo de correção enfática para introduzir um contraponto e reorientar a interpretação sobre a modernização das técnicas de golpe, sem apresentar embasamento metodológico de apuração ou combate a um adversário nomeado.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O termo aparece na expressão fixa 'Na verdade', funcionando como elemento de transição e correção de sentido na argumentação do autor.",
+        "valor": null
+      },
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é empregada para afirmar uma premissa conclusiva sobre a modernização da técnica do golpe de Estado, operando como oposição/correção em relação à ideia anterior de que o golpe seria algo ultrapassado ou ridículo.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O vocábulo integra a expressão 'A verdade é que', usada para introduzir uma asserção enfática que busca encerrar o questionamento anterior e estabelecer o fato real do ponto de vista do autor.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-81",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra aparece na locução 'na verdade', utilizada como marcador discursivo de correção para contradizer e desacreditar o argumento da defesa de Bolsonaro de que a cerimônia foi 'apenas uma troca de ideias'.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Corresponde ao uso de 'na verdade' como correção enfática sem nomear diretamente um adversário no plano de embate polarizado, visando redefinir o sentido do fato narrado.",
+        "valor": null
+      },
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é empregada na expressão 'é na verdade' para reinterpretar e corrigir o sentido da tentativa de golpe de 8 de janeiro, atribuindo-a como consequência direta da pregação contra as urnas.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Ocorre como marcador discursivo de correção enfática para estabelecer a interpretação definitiva sobre a origem dos fatos.",
+        "valor": null
+      },
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra surge na locução 'na verdade' para introduzir uma ressalva e correção contextual sobre a premissa da análise política apresentada.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Utiliza 'na verdade' como recurso de transição e correção de sentido no próprio raciocínio do autor.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-82",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra aparece na expressão 'Na verdade' utilizada como recurso discursivo para corrigir sentidos e reinterpretar uma situação no embate público, sem fundamentação metodológica nem autodefinição moral da profissão.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O termo atua como marcador discursivo de correção ('Na verdade, os ministros que pediram vista são...'), reorientando o sentido dos fatos sem explicitar um adversário específico para desmascarar diretamente.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-83",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo 'Na verdade' é empregado no texto como um marcador discursivo enfático para corrigir o sentido sobre os motivos do voto da população contra Bolsonaro, sem se referir a uma metodologia de checagem ou identidade profissional.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Trata-se do uso da expressão 'Na verdade' com a função discursiva de correção enfática sem um alvo ou adversário especificamente nomeado a ser desmentido.",
+        "valor": null
+      },
+      {
+        "palavra": "verdadeiro(a)",
+        "categoria": "CATEGORIA 2 — VERDADE, SOCIEDADE E DEMOCRACIA",
+        "justificativa": "A palavra surge na expressão 'democratas de verdade', mobilizando a noção de genuína adesão aos valores democráticos no âmbito da cidadania e da esfera pública.",
+        "subcategoria": null,
+        "subcategoria_justificativa": null,
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-84",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra aparece na locução 'na verdade', utilizada pelo autor como um marcador discursivo de correção para desfazer a ilusão e ajustar o sentido em circulação, sem direcionar um ataque ou desqualificação a um adversário específico nomeado.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Trata-se de um uso discursivo da expressão 'na verdade' para introduzir uma correção enfática no texto ('quando, na verdade, depende da luta de todos'), visando alinhar a interpretação da realidade pelo público leitor sem citar um alvo específico.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-86",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é empregado na expressão 'na verdade' como um marcador discursivo de correção enfática e reorientação argumentativa do próprio autor sobre suas atividades de férias, sem um alvo nomeado.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Trata-se do uso da expressão 'na verdade' para introduzir uma correção enfática sobre o próprio comportamento do autor, sem embate direto ou desmascaramento de um adversário nomeado.",
+        "valor": null
+      },
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é usada no marcador discursivo 'na verdade' para fazer uma contraposição explícita e denunciar a postura de um ator rival nomeado.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O trecho estabelece um combate direto contra um ator rival e nomeado (Telegram), acusando-o de mentir sobre o Projeto das Fake News e atacar a democracia.",
+        "valor": null
+      },
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 2 — VERDADE, SOCIEDADE E DEMOCRACIA",
+        "justificativa": "A verdade é mobilizada para definir a preservação da vida pública, dos direitos coletivos e das instituições democráticas diante das ameaças de desinformação e discursos de ódio.",
+        "subcategoria": null,
+        "subcategoria_justificativa": null,
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-87",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra aparece no trecho 'é, na verdade, um desses atores políticos a quem chamamos de aloprado', em que a expressão é utilizada como um marcador discursivo de correção para requadrar e enfatizar o sentido sobre o ator político sem recorrer a justificativa metodológica.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Uso do marcador discursivo 'na verdade' como recurso de correção enfática sem nomear/atacar diretamente um adversário nem apresentar apuração técnica.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-88",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada como um marcador discursivo de transição e correção contextual ('Na verdade, quando jovem vi reportagens...'), sem envolver justificativa metodológica ou discussão da identidade profissional.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Trata-se do uso do marcador discursivo 'na verdade' para introduzir um elemento de correção/ajuste relacional no fluxo da narrativa, sem nomear um adversário específico.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-89",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada no trecho como um marcador discursivo de correção para contrapor e ajustar uma afirmação anterior.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O uso da locução 'na verdade' funciona como uma correção enfática no contexto do debate ('Se isso acontecesse, na verdade, os ucranianos estariam resistindo hoje com paus e pedras'), sem caracterizar uma denúncia direta a um adversário nomeado e sem fundamentação metodológica de apuração.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-93",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO IDENTITÁRIO, NORMATIVO E EPISTÊMICO DA PROFISSÃO",
+        "justificativa": "A palavra é utilizada pelo autor para refletir sobre o estatuto e os limites do seu próprio conhecimento e discurso, apresentando uma atitude de modéstia epistemológica sem atacar adversários, apelar a métodos específicos de apuração ou invocar missão moral explícita.",
+        "subcategoria": "1.2 Verdade como problema epistemológico",
+        "subcategoria_justificativa": "O trecho ('Não tenho nenhuma pretensão de deter a verdade') expressa o reconhecimento dos limites e da não absolutização do próprio saber, caracterizando uma modalização e reflexão sobre a natureza e o alcance epistêmico da sua análise.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-94",
+    "resposta_json": [
+      {
+        "palavra": "pós-verdade",
+        "categoria": "CATEGORIA 2 — VERDADE, SOCIEDADE E DEMOCRACIA",
+        "justificativa": "O termo é utilizado para contextualizar uma condição política da esfera pública e a crise democrática diante do avanço de fake news e desinformação, sem tom de embate ou combate adversarial a atores nomeados.",
+        "subcategoria": null,
+        "subcategoria_justificativa": null,
+        "valor": null
+      },
+      {
+        "palavra": "pós-verdade",
+        "categoria": "CATEGORIA 2 — VERDADE, SOCIEDADE E DEMOCRACIA",
+        "justificativa": "A palavra é associada ao impacto das bolhas de internet na corrosão do mundo comum de fatos e no estado de crise da democracia liberal contemporânea.",
+        "subcategoria": null,
+        "subcategoria_justificativa": null,
+        "valor": null
+      },
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 2 — VERDADE, SOCIEDADE E DEMOCRACIA",
+        "justificativa": "A palavra integra o título de um artigo citado (“O chão tremendo aos nossos pés: verdade, política e solidão”) que reflete sobre o papel dos fatos, da política e dos fundamentos filosóficos da democracia.",
+        "subcategoria": null,
+        "subcategoria_justificativa": null,
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-95",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada em uma oração condicional ('se for verdade a história do ex-ministro Bento Albuquerque...') inserida em um trecho de tom opinativo/crítico que analisa uma polêmica política concreta e desmascara/tensiona a narrativa dada por atores envolvidos no escândalo.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Funciona como um marcador discursivo de checagem/condição da narrativa posta em circulação para corrigir e orientar os desdobramentos políticos do debate público sem se focar em um método sistemático de apuração jornalística ou em um ataque direto adversarial.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-96",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é empregada na locução 'a verdade é que', funcionando como um marcador discursivo enfático para corrigir e introduzir uma constatação sobre a perda do glamour dos carros.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Trata-se do uso da expressão 'a verdade é que' como marcador de correção e asserção enfática, sem um alvo/adversário específico sendo atacado ou contestado.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-97",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra aparece no marcador discursivo 'Na verdade', utilizado para introduzir um enquadramento analítico que reorienta e corrige a perspectiva sobre o problema das tragédias climáticas no litoral brasileiro.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O trecho emprega o marcador 'Na verdade' como um recurso de correção e reorientação de sentido ('Na verdade, se olharmos de uma perspectiva histórica...'), sem nomear um adversário direto para ataque no trecho imediato, ajustando a interpretação do leitor sobre os fatos.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-98",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra 'verdade' aparece na expressão 'Na verdade', sendo utilizada como um marcador discursivo de correção enfática e redirecionamento do tema na argumentação do autor, sem nomear um adversário direto.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O trecho emprega 'Na verdade' como recurso de transição/correção pragmática para focalizar a atenção do leitor em seu ponto principal ('Na verdade, estou esperando o momento...').",
+        "valor": null
+      },
+      {
+        "palavra": "verdadeiro(a)",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra 'verdadeira' adjetiva o termo 'recuperação' ('verdadeira recuperação e desenvolvimento sustentável da Amazônia') para enfatizar e qualificar o sentido real/efetivo de um processo no debate público.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "A adjetivação é mobilizada para dar ênfase e ajustar a interpretação do debate público sobre o desenvolvimento sustentável da Amazônia, sem expor métodos de verificação ou combater um adversário direto.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-99",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra aparece na locução discursiva 'Na verdade', sendo empregada como um marcador conversacional/textual para fazer uma transição enfática de correção e introduzir um fato categórico para fechar o debate sobre a real consequência do afundamento do navio.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "A expressão 'Na verdade' atua exatamente como um marcador discursivo de correção enfática sem nomear diretamente um adversário ou enunciado rival específico no trecho exato em que ocorre.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-101",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A expressão 'Na verdade' é utilizada como um marcador discursivo de transição e correção para enfatizar a gravidade da situação das crianças, sem fundamentação metodológica ou debate sobre a natureza da verdade.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Trata-se do uso do marcador discursivo 'Na verdade...' como uma correção enfática no texto, sem um alvo específico nomeado.",
+        "valor": null
+      },
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A locução 'Para dizer a verdade' é empregada como recurso discursivo de correção e ênfase para ressaltar o histórico antigo de denúncias do líder indígena Davi Kopenawa.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Corresponde ao uso do marcador discursivo de correção enfática sem direcionamento a um adversário específico e sem justificativa metodológica.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-102",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra aparece na expressão 'a verdade é que', sendo mobilizada como um recurso discursivo enfático para afirmar o estado da realidade e contextualizar o debate, sem apresentar justificativa metodológica ou foco na identidade profissional do jornalista.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Funciona como um marcador discursivo de correção/afirmação enfática ('a verdade é que...'), sem um alvo ou adversário específico sendo corrigido e sem fundamentação metodológica.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-104",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra aparece em uma expressão idiomática de correção e transição discursiva ('na verdade'), sem justificativa metodológica de apuração ou foco na missão profissional.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O termo é empregado no trecho 'Mas, na verdade, a grande inspiração aqui ainda é a extrema direita americana', funcionando como um marcador discursivo de correção enfática para redirecionar o argumento sem nomear diretamente um adversário no trecho.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-106",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra aparece em um contexto de oposição direta entre mentira e verdade, associada a 'notícias falsas' e à crítica de posturas de desinformação no cenário pós-eleitoral.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "O trecho estabelece uma polarização explícita entre a mentira e a verdade ('separar a mentira da verdade') ao criticar pessoas que se deixam levar por notícias falsas.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-107",
+    "resposta_json": [
+      {
+        "palavra": "verdadeira",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é utilizado com um marcador discursivo de correção enfática para apresentar uma tese explicativa e conclusiva sobre o pragmatismo político, sem embasamento em método técnico de apuração nem foco na autodefinição da profissão jornalística.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "A palavra atua como um recurso de clausura do debate (\"A verdadeira lição...\"), corrigindo sentidos em circulação para impor uma interpretação enfática dos fatos sem direcionar um ataque ou desmentido a um adversário nomeado específico.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-109",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra aparece na locução 'na verdade', utilizada como um recurso discursivo de correção e ênfase para explicar a dimensão do modelo educacional na Finlândia, sem um tom de combate direto a um adversário nomeado.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "A ocorrência enquadra-se no uso de 'na verdade' como marcador discursivo de correção enfática, sem alvo ou adversário identificável sendo corrigido.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-110",
+    "resposta_json": [
+      {
+        "palavra": "verdades",
+        "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO IDENTITÁRIO, NORMATIVO E EPISTÊMICO DA PROFISSÃO",
+        "justificativa": "A palavra é utilizada no contexto de uma discussão sobre epistemologia, a natureza dos fatos, o consenso da realidade e a formação de premissas básicas para o debate.",
+        "subcategoria": "1.2 Verdade como problema epistemológico",
+        "subcategoria_justificativa": "O trecho aborda a verdade em sua dimensão de fatos básicos consensuais (como a forma da Terra e a matemática), discutindo a necessidade de premissas epistêmicas mínimas sobre a realidade para que haja debate público.",
+        "valor": null
+      },
+      {
+        "palavra": "Verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra aparece na expressão 'Ministério da Verdade', mobilizada para alertar e criticar a imposição autoritária de um sentido oficial do que é correto no combate discursivo público.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "Insere-se na discussão de enfrentamento a notícias falsas e desinformação, opondo a necessidade de combater a mentira ao risco da criação de um controle estatal da 'verdade'.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-111",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é empregada como um marcador discursivo de correção para transicionar, ajustar o tom e introduzir um fato novo na narrativa, em tom direto, sem justificativa metodológica ou foco no papel institucional do jornalismo.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O trecho utiliza o marcador discursivo de correção 'Na verdade,...' para introduzir o fato de que torcedores já chegaram ao Catar, sem citar um adversário/alvo específico a ser desmascarado.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "fb-115",
+    "resposta_json": [
+      {
+        "palavra": "Na verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada como marcador discursivo para corrigir enfaticamente a imagem pública/narrativa do adversário político (Bolsonaro) e reafirmar a leitura do autor sobre os fatos.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Trata-se do uso da expressão 'Na verdade...' como correção enfática de sentido, sem que haja justificativa metodológica de apuração jornalística no trecho.",
+        "valor": null
+      },
+      {
+        "palavra": "Na verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é empregado para contrapor a narrativa idealizada/moral do adversário com seus comportamentos reais e reincidentes, atuando como correção discursiva no debate público.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Atua como marcador discursivo de correção enfática ('Na verdade...') para reafirmar a interpretação do autor sem explicitar métodos de apuração técnica.",
+        "valor": null
+      },
+      {
+        "palavra": "na verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A expressão é mobilizada em tom de denúncia contra o projeto/discurso do grupo político adversário, caracterizando a narrativa política religiosa como uma farsa.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "Apresenta léxico de combate e denúncia contra a narrativa do adversário nomeado, enquadrando o discurso político oposto no polo da falsidade/farsa.",
+        "valor": null
+      },
+      {
+        "palavra": "na verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "Utilizada para alertar e convocar o público a reconhecer a gravidade da aceitação da postura de um líder político e a consequência disso para a sociedade.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Funciona como marcador de correção e alerta enfático ao leitor/público sobre o sentido e o impacto dos atos no debate público.",
+        "valor": null
+      }
+    ]
+  }
+]

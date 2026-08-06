@@ -1,0 +1,2414 @@
+[
+  {
+    "id": "kp-1",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto apresenta um enquadramento opinativo e interpretativo do cenário político, visando atribuir sentido aos fatos sem apresentar vínculos de apuração primária ou expertise técnica explícita."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O enunciado mobiliza recursos expressivos (uso de CAIXA ALTA) para construir um tom de revelação e gravidade, além de tensionar diferentes vozes no jogo político ('Esquerda' e 'Direita')."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "A construção do título busca um forte engajamento da audiência ao sugerir o acesso a um conhecimento exclusivo ou oculto ('Que NINGUÉM Viu')."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O enunciador fala a partir da posição de Comentarista, pois o título se apoia em um juízo de valor e enquadramento opinativo sobre a cena política, sem marcas de ter sido participante, testemunha direta, observador de apuração documental ou especialista.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "Atua como Observador-Intérprete, pois organiza os fatos políticos ('problemas' e 'vitórias') para dar-lhes um sentido e explicar os bastidores para o público.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Mobiliza '2.1 Ethos e fiador' ao adotar um tom urgente e revelador por meio da caixa alta ('ABRE o Jogo', 'VERDADE'), construindo a persona de quem traz a realidade nua e crua; e '2.3 Polifonia' ao fazer ecoar e confrontar a posição atribuída à 'Esquerda' em relação à 'Direita'.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-2",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciado apresenta posicionamento explícito do autor ao julgar e ironizar acontecimentos políticos e econômicos, atribuindo juízo de valor direto sem recorrer a dados técnicos formais, apuração jornalística de bastidor, testemunho presencial ou atuação como agente do fato."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza o tom provocativo e irônico (ethos/fiador) e dialoga com vozes implícitas e discursos adversários prévios por meio da ironia e da negação polêmica (polifonia) para legitimar sua crítica."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O autor interpela diretamente o interlocutor ('Brunão') estabelecendo uma relação de intimidade, ironia e conivência prévia baseada em saberes compartilhados."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O enunciador fala a partir da posição de Comentarista, uma vez que a autoridade do texto repousa inteiramente sobre seu próprio juízo de valor, ironia e avaliação opinativa, sem apresentar marcas de testemunho, apuração jornalística (observador), conhecimento técnico especializado ou participação direta nos fatos.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "Atua como Observador-Intérprete (ou Analista) de forma opinativa/crítica, pois seleciona atos políticos (votações, propostas sobre salário mínimo e BPC) e atribui-lhes sentido e interpretação analítica sobre a atuação dos atores políticos envolvidos.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Em 2.1 Ethos e fiador, o tom irônico e informal ('sorrisinho maroto', 'arrepiou pra cima') constrói uma postura de franqueza sem travas institucionais. Em 2.3 Polifonia, a utilização de aspas em 'extrema-direita', a ironia e a negação no enunciado final ('Quem VOTOU NÃO foi a direita') fazem ecoar discursos alheios/opositores para refutá-los sem citação direta.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-3",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciado apresenta uma posição claríssima de avaliação e juízo de valor sobre o retorno dos usuários à rede social X (Twitter) e os impactos políticos decorrentes, operando discursivamente mediante engajamento e tomada de posição explícita."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto constrói sua legitimação apelando para o estilo, tom e uso de marcas polifônicas/ironias que instauram uma atitude de superioridade/ironia militante e adesão a um grupo específico."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O enunciador constrói uma relação de cumplicidade direta com o seu público leitor ao empregar gírias, jargões políticos/da internet e saberes prévios não explicitados."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O jornalista/enunciador atua como Comentarista, pois o trecho é composto por avaliações e juízos morais/políticos pessoais sem indicar vivência em primeira pessoa (testemunha/participante), apuração jornalística com fontes/documentos (observador) ou credencial técnica/teórica declarada (especialista).",
+      "papel-enunciativo": "1.2.4 Militante",
+      "papel-enunciativo-justificativa": "Encaixa-se como Militante, pois rompe inteiramente com a neutralidade ao adotar engajamento e alinhamento político explícitos (comemoração da reaproximação com Bolsonaro e triunfo das 'Tias e Tios do Zap'), utilizando termos depreciativos para opositores ('catinguentos').",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Emprega Ethos e fiador por meio de um tom irônico, informal e provocativo que projeta uma postura de 'audácia' e pertencimento a um determinado polo ideológico; e Polifonia, ao evocar e ironizar o discurso de opositores/críticos ('catinguentos', 'intergaláticos pautados pelo like') sem os citar formalmente, mas reagindo aos seus discursos e comportamentos.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-4",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciador assume um papel opinativo e crítico direto sobre a postura do jornalismo/imprensa e o comportamento do público."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza recursos discursivos de tom e polifonia/pressuposição para conferir autoridade à sua crítica."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto estabelece um laço de conivência e cumplicidade com o público ao tomar como dado pressuposto um saber compartilhado."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O enunciador fala a partir da posição de Comentarista, emitindo um juízo de valor e uma avaliação geral sobre a conduta da mídia e a reação da sociedade ('O Brasil fica chocado', 'acostumado com as mentiras'), sem apresentar marcas de vivência, testemunho, apuração ou credencial técnica declarada.",
+      "papel-enunciativo": "1.2.3 Crítico-Monitor (ou Cão de Guarda)",
+      "papel-enunciativo-justificativa": "Encaixa-se como Crítico-Monitor (ou Cão de Guarda), pois exerce uma função de vigilância e postura adversarial em relação a uma grande instituição de mídia (Globo), apontando e denunciando uma suposta prática recorrente de desinformação.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Ethos e fiador (2.1) manifesta-se no tom irônico, direto e assertivo que constrói uma persona de desmascarador da realidade. A Polifonia (2.3) atua pela pressuposição e negação implícita contida na afirmação de que a emissora raramente diz a verdade, fazendo ecoar e neutralizar o discurso do veículo sem citá-lo formalmente.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-6",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto busca desmentir e confrontar narrativas da imprensa (notadamente a Globo) e cobranças do público/opositores por meio de um formato de confronto direto entre alegações/perguntas e os fatos observados/apurados."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto utiliza o confronto entre o discurso alheio e os fatos para construir sua autoridade factual, recorrendo à ironia e negação do discurso adversário."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O autor encerra o texto com uma provocação/conclusão explícita direcionada ao entendimento do leitor sobre as verdadeiras intenções por trás de certas cobranças."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O enunciador fala como Comentarista ao emitir um juízo direto e sintético sobre declarações e checagens pontuais, sem apresentar marcas formais de apuração jornalística aprofundada, reportagem de campo, vivência como testemunha/participante ou credencial técnica declarada.",
+      "papel-enunciativo": "1.2.3 Crítico-Monitor (ou Cão de Guarda)",
+      "papel-enunciativo-justificativa": "O autor atua como Crítico-Monitor, exercendo papel fiscalizador em tom adversarial contra o discurso da imprensa tradicional ('Globo diz...') e cobranças políticas, expondo o que considera contradições ou falsidades nessas narrativas.",
+      "estrategias-de-legitimacao": [
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "A estratégia predominante é a Polifonia, construída pelo formato pergunta/resposta e pela negação polêmica: o texto evoca as falas/perguntas dos adversários ou da mídia ('Bolsonaro não vai falar...', 'Globo diz...') para em seguida rebatê-las, culminando na ironia da frase final ('Algumas perguntas e cobranças, não são perguntas nem cobranças').",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-7",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciador adota uma postura fortemente opinativa e avaliativa sobre a postura de figuras públicas (Lira, Huck, governadores e a 'direita corajosa') em um acontecimento factual, sem apresentar marcas de vivência pessoal, presença sensorial, apuração técnica/documental ou credencial de especialista."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza estratégias de tom (ethos de denúncia e contraponto) e faz uso de vozes/posições implícitas ou resgatadas de maneira polêmica e irônica para desqualificar o comportamento de certos atores políticos."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto interpela o leitor convidando-o a compartilhar de uma visão irônica e crítica sobre a suposta incoerência da 'direita corajosa', demandando saberes prévios sobre o cenário político para a plena compreensão do deboche/crítica."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "A autoridade do enunciador repousa estritamente sobre seu próprio juízo de valor e avaliação crítica da conduta dos políticos citados, sem apresentar vínculos de testemunho, participação, apuração jornalística de fontes/documentos ou expertise técnica declarada.",
+      "papel-enunciativo": "1.2.3 Crítico-Monitor (ou Cão de Guarda)",
+      "papel-enunciativo-justificativa": "O enunciador atua em tom crítico e de cobrança/fiscalização em relação às atitudes de lideranças políticas e figuras públicas frente a um fato de relevância pública.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "O tom contundente, irônico e categórico (iniciado pela expressão 'VERDADE DURA:') constrói um ethos de revelador/militante da verdade (2.1). Além disso, há polifonia (2.3) na ironia applied ao termo 'direita corajosa' e na menção implícita às cobranças feitas a JB por não ter postado no Twitter, ecoando e ironizando discursos alheios sem citá-los diretamente.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-8",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto emite um juízo categórico e direto sobre um tema político-econômico sem apresentar marcas de vivência, apuração, testemunho ou autoridade técnica explícita, atua em uma função interpretativa/analítica sobre a relação entre esquerda e banqueiros."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto utiliza recursos discursivos enfáticos para conferir autoridade à declaração, construindo um tom direto e rebatendo pontos de vista opostos implícitos."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "Ao anunciar uma 'verdade dura', o texto estabelece uma postura didática perante o leitor, interpelando-o como alguém que necessita compreender uma realidade que lhe está sendo apresentada."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O jornalista/enunciador expressa uma avaliação e juízo direto de forma categórica ('Verdade dura =...'), sem fundamentar sua fala em vivência pessoal (participante/testemunha), apuração com fontes/documentos (observador) ou credencial técnica declarada (especialista).",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "Atua no sentido de interpretar a realidade política e econômica, pretendendo atribuir sentido e 'revelar' o funcionamento das relações entre a esquerda e os banqueiros.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Encaixa-se em '2.1 Ethos e fiador' pelo uso de um tom provocativo e contundente ('Verdade dura =') para projetar uma imagem de franqueza; e em '2.3 Polifonia' pelo uso da caixa alta na negação ('NÃO existe...'), que rebate e refuta um discurso implícito contrário.",
+      "papel-do-leitor": "3.2 Aprendiz"
+    }
+  },
+  {
+    "id": "kp-9",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciador avalia antecipadamente a reação ou percepção do público sobre a relação/interação exposta, baseando-se apenas em seu próprio juízo, sem recorrer a apurações, conhecimentos técnicos ou relatar um fato de forma distanciada."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O enunciado mobiliza a ironia/antecipação da fala do outro para desmentir preventivamente um possível mal-entendido ('achando que nós brigamos de verdade'), ecoando um ponto de vista alheio implícito para neutralizá-lo."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "Constrói uma relação de conivência e proximidade com o leitor por meio do tom informal ('Já já') e da ironia, inserindo o público em um círculo de 'iniciados' que entendem o contexto real da interação em contraste com o 'alguém' que não entenderia."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "A fala baseia-se unicamente no juízo e na avaliação do próprio enunciador sobre uma situação, sem que haja marcas de apuração jornalística, expertise técnica ou relato de fatos como testemunha/participante.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "O sujeito atua interpretando antecipadamente o sentido da cena exposta para o público, atribuindo sentido e prevenindo julgamentos errôneos.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia",
+        "2.4 Cenografia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Apresenta tom coloquial e descontraído que constrói uma persona acessível (2.1 Ethos e fiador), utiliza polifonia/ironia ao antecipar e descartar a leitura de terceiros sobre a 'briga' (2.3 Polifonia) e instaura uma cenografia de conversa/comentário informal (2.4 Cenografia).",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-10",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciador fala a partir de uma postura essencialmente avaliativa e provocativa, sem marcas de testemunho, apuração ou credencial técnica, e assume abertamente um engajamento político e moral."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto faz uso acentuado de ironia e linguagem informal para construir um ethos informal/provocativo e evoca diálogos e vozes do campo político e midiático."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O enunciado apela expressamente para um grupo político ('A esquerda') buscando provocar reflexão e adesão à necessidade de 'ouvir a verdade'."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O autor expressa opiniões e juízos de valor sem apresentar apuração jornalística, presença no fato ou autoridade técnica explícita.",
+      "papel-enunciativo": "1.2.4 Militante",
+      "papel-enunciativo-justificativa": "O enunciador assume abertamente uma posição dentro do debate político ('A esquerda precisa...'), abandonando a neutralidade para tomar partido no debate ideológico.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia",
+        "2.4 Cenografia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Constrói um tom/persona de cumplicidade e ironia (Ethos e fiador); utiliza a ironia e interpelação indireta ao mencionar marcas e figuras como 'Companheiro Ruizão' e '@AttuchLeonardo' (Polifonia); e emoldura a enunciação como se estivesse em uma conversa/apelo público e direto via redes sociais (Cenografia).",
+      "papel-do-leitor": "3.6 Público a ser mobilizado",
+      "papel-do-leitor-justificativa": "Interpela o público (a esquerda/espectadores) incitando uma tomada de atitude e conscientização ('precisa ouvir a verdade')."
+    }
+  },
+  {
+    "id": "kp-11",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciador expressa uma avaliação/juízo especulativo sobre o comportamento de terceiros ('vão achar', 'já já aparece alguém'), sem marcas de apuração factual, conhecimento técnico ou vivência/testemunho de um evento real."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto faz uso de antecipação discursiva e tom irônico (polifonia), além de emoldurar o enunciado como uma fala/comentário informal com o interlocutor (cenografia)."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O enunciado estabelece uma relação de conivência e cumplicidade informal com o leitor ao pressupor um contexto e saber compartilhado não explicitado."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O trecho se limita a uma projeção e juízo do enunciador sem apresentar marcas de vivência (participante/testemunha), de acompanhamento/apuração (observador) ou de domínio disciplinar (especialista).",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "O enunciador interpreta e atribui sentido a uma conduta/reação futura do público de forma especulativa ('vão achar', 'já já aparece alguém').",
+      "estrategias-de-legitimacao": [
+        "2.3 Polifonia",
+        "2.4 Cenografia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Apresenta polifonia ao fazer ecoar e antecipar o discurso de terceiros para descartá-lo/ironizá-lo ('Vão achar que brigamos de verdade'), e constrói uma cenografia de conversa/comentário informal com o leitor.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-12",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciado apresenta um julgamento de valor direto, passional e sem suporte empírico, técnico ou de apuração presencial."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto faz uso expressivo do tom e de vocabulário informal/de ataque para construir um ethos de indignação, além de recorrer à polifonia ao ecoar/validar a fala de um terceiro."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O leitor é interpelado através do uso de atitude informal e agressiva, criando um laço de conivência e cumplicidade com quem compartilha da mesma visão."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "Trata-se da posição de Comentarista, pois o autor emite opiniões e juízos de valor sem apresentar marcas de vivência, testemunho, apuração ou credencial técnica declarada.",
+      "papel-enunciativo": "1.2.4 Militante",
+      "papel-enunciativo-justificativa": "Atua como Militante, pois rompe com a neutralidade estrita e assume engajamento e combate político/moral explícito contra a figura mencionada.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Encaixa-se em Ethos e fiador pela escolha do tom indignado e agressivo que constrói uma persona de atrito e autenticidade. Encaixa-se em Polifonia ao ecoar/resgatar o discurso alheio (o 'liberal' que disse a verdade e o histórico do 'avô') para sustentar seu julgamento sem citar diretamente.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-13",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciador adota uma postura direta de cobrança e julgamento em relação a posições e fatos políticos prévios, fundamentando sua autoridade unicamente no seu próprio juízo e opinião prévia, além de assumir um tom abertamente engajado e convocatório."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto constrói legitimidade por meio do Ethos e fiador (tom provocativo e moralmente incisivo) e da Cenografia (uma interlocução direta, em estilo de cobrança informal ou confronto de redes sociais)."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto incita ativamente o interlocutor/leitor a realizar um gesto ou tomada de posição explícita ('manda em alto e bom som: LULA VASSALO DO BIDEN')."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O enunciador não apresenta provas técnicas, apuração com fontes ou relatos de testemunha/participante; sua fala baseia-se puramente na reafirmação de seu próprio juízo e em cobrança pessoal ('todas as vezes que eu vim aqui te alertar').",
+      "papel-enunciativo": "1.2.5 Mobilizador",
+      "papel-enunciativo-justificativa": "O texto ordena/convoca explicitamente o interlocutor a emitir uma mensagem específica no 'próximo tweet', buscando induzir uma ação concreta e performativa do receptor.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.4 Cenografia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "O tom indignado, desafiador e assertivo estabelece um ethos de quem se considera dono da verdade prévia ('trazer a verdade sobre Lula'), enquanto a emolduração do discurso como uma cobrança direta em ambiente de rede social constrói a cenografia de confrontação informal.",
+      "papel-do-leitor": "3.6 Público a ser mobilizado"
+    }
+  },
+  {
+    "id": "kp-14",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto adota um tom estritamente opinativo, emitindo juízos diretos e cobranças sobre atuações políticas sem apresentar dados técnicos, apuração factual distanciada, vivência do fato ou testemunho presencial."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza uma cenografia de interpelação e provocação direta e constrói um ethos de indignação moral para fundamentar suas afirmações e convocar adesão."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O discurso busca engajar e direcionar o público a tomar uma postura ativa e de oposição ('junte-se ao povo contra os banqueiros')."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O enunciador fala a partir do seu próprio juízo de valor e avaliação política, sem recorrer à autoridade de uma apuração, experiência presencial ou credencial técnica.",
+      "papel-enunciativo": "1.2.5 Mobilizador",
+      "papel-enunciativo-justificativa": "O texto tem forte dimensão conativa e performativa, convocando explicitamente o interlocutor e os leitores a agirem e tomarem lado ('junte-se ao povo').",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.4 Cenografia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "A legitimação ocorre pela construção de um ethos de indignação e coragem moral (2.1) e pela sustentação de uma cenografia de provocação e apelo direto ao interlocutor/público (2.4).",
+      "papel-do-leitor": "3.6 Público a ser mobilizado"
+    }
+  },
+  {
+    "id": "kp-15",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciador se coloca como parte de um grupo político/ideológico articulado ('Juntos aos companheiros Ruizão, Jones Manoel e outros, iremos mostrar a verdade'), atuando ativamente e engajando-se na defesa de uma causa."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto utiliza termos como 'companheiro' para construir um tom de proximidade e aliança partidária (Ethos e fiador) e se estrutura com vocativo de agradecimento direto ('Obrigado companheiro Loola'), encenando uma aliança informal/militante (Cenografia)."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto projeta o leitor/povo como sujeito que precisa ser convocado ou engajado na revelação da 'verdade sobre o que está sendo feito com o povo brasileiro', convocando para a adesão a uma causa comum."
+        }
+      ],
+      "posicao-sujeito": "1.1.1 - Participante",
+      "posicao-sujeito-justificativa": "O enunciador se apresenta como Participante, pois se inclui no grupo de ação ('iremos mostrar') e se alinha como agente direto no processo descrito, usando a primeira pessoa do plural.",
+      "papel-enunciativo": "1.2.4 Militante",
+      "papel-enunciativo-justificativa": "Encaixa-se como Militante, pois rompe totalmente com qualquer neutralidade estrita, assumindo engajamento político e aliança declarada ('companheiro Loola', 'Jones Manoel').",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.4 Cenografia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "2.1 Ethos e fiador: O uso ostensivo da palavra 'companheiro' e o tom afetivo-militante constroem um ethos de solidariedade e pertencimento a um grupo político. 2.4 Cenografia: O texto é encenado como uma mensagem direta de saudação e pacto entre pares ('Obrigado... Juntos... iremos').",
+      "papel-do-leitor": "3.6 Público a ser mobilizado"
+    }
+  },
+  {
+    "id": "kp-16",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciador fala na primeira pessoa ('me acusam', 'seguidores meus', 'penso de verdade'), adotando uma postura defensiva e reativa sobre seu próprio posicionamento e seu histórico em uma rede social (Twitter)."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto utiliza o tom de justificativa/esclarecimento para construir seu ethos, além de recorrer à polifonia ao responder a discursos e acusações de terceiros."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O enunciador dirige-se diretamente ao leitor/interlocutor ('Vc deve ter chegado no Twitter...'), pressupondo uma bagagem histórica de conhecimento por parte do interlocutor para validar a conversa."
+        }
+      ],
+      "posicao-sujeito": "1.1.1 - Participante",
+      "posicao-sujeito-justificativa": "O enunciador se coloca como participante direto e afetado do fato/conflito relatado (sendo alvo de acusações, acionando seus próprios seguidores e referindo-se a tentativas de cancelamento sofridas por ele próprio).",
+      "papel-enunciativo": "1.2.4 Militante",
+      "papel-enunciativo-justificativa": "O sujeito rompe com qualquer imparcialidade estrita para defender seu próprio ponto de vista e conduta, assumindo um tom engajado e defensivo diante de acusações.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Encaixa-se em Ethos e fiador (2.1) pelo tom pessoal, informal e defensivo que projeta sua persona/autenticidade no Twitter, e em Polifonia (2.3) por contrapor-se e responder a um discurso alheio explícito e implícito ('comentários que me acusam', 'pessoas que tentam me cancelar').",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-17",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciado adota um tom direto de comentário e convocação no contexto político-social, sem se apoiar em dados técnicos, acompanhamento jornalístico factual ou presença no local dos fatos."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza um ethos/fiador inflamado/engajado para convencer o leitor, faz uso de interlocução direta/cenografia de apelo e emprega polifonia ao ecoar discursos políticos do cenário nacional."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto convoca diretamente o interlocutor ('Defenda o povo', 'não aceite') a tomar uma atitude engajada contra uma pauta específica."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O enunciador fala a partir de seu próprio juízo de valor e avaliação política, sem declarar apuração prévia, atuação presencial/testemunhal ou saber técnico-especializado.",
+      "papel-enunciativo": "1.2.5 Mobilizador",
+      "papel-enunciativo-justificativa": "A finalidade principal do enunciado é incitar a ação do leitor/interlocutor por meio de verbos no imperativo ('Defenda', 'não aceite') direcionados à defesa de uma causa.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia",
+        "2.4 Cenografia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Usa tom passional/indignado para criar autoridade moral (2.1 Ethos e fiador); ecoa posições e narrativas do debate político sobre cortes sociais e 'mostrar a verdade' sem citação direta (2.3 Polifonia); e constrói uma cena de apelo/alerta comunitário de urgência (2.4 Cenografia).",
+      "papel-do-leitor": "3.6 Público a ser mobilizado"
+    }
+  },
+  {
+    "id": "kp-18",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciado apresenta uma avaliação/relato informal sobre a origem de uma descoberta e sobre a dinâmica da usuária em outra rede social, funcionando sem alegação de presença sensorial/testemunhal no fato, apuração formal ou conhecimento técnico especializado."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza o discurso relatado ao atribuir a autoria do achado a uma fonte nomeada (@ErikaMdaVeiga), além de recorrer à polifonia para fazer ecoar a situação de bloqueio da rede social e ao ethos informal de redes digitais."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "A linguagem coloquial, o uso de arroba (@), a gíria/abreviação \"tá\" e a menção ao Telegram em detrimento do banimento do Twitter constroem uma relação de conivência e proximidade com um leitor que compartilha do mesmo universo cultural/digital."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "Encaixa-se como comentarista (padrão residual), pois o sujeito apenas atribui uma autoria e comenta o contexto de uso das redes sem marcas de presença sensorial em fato histórico, apuração jornalística com fontes formais ou credencial técnica especializada.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "Atua como observador-intérprete em um nível micro/digital ao identificar e atribuir a autoria de uma informação/achado e situar o contexto da enunciação para a sua rede.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Mobiliza o discurso relatado ao atribuir explicitamente o achado à @ErikaMdaVeiga; utiliza a polifonia ao evocar o discurso de fundo sobre o banimento do Twitter sem precisar explicitar todo o debate jurídico/midiático; e constrói um ethos/fiador informal, hiperconectado e transparente quanto ao crédito da informação.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-19",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto apresenta pronunciamento/opinião direta sobre cenário político e eleitoral sem fundamentação técnica, relatos de apuração jornalística, presença no local dos fatos ou atuação direta nos acontecimentos."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto emprega enquadramento apelativo/provocativo (cenografia), irônico/pressuposto (polifonia) e um tom agressivo e panfletário de engajamento (ethos) para construir credibilidade perante seu público alvo."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O enunciado interpela o leitor/eleitor convocando-o a dar uma resposta nas urnas ('em outubro, o brasileiro vai poder dar uma resposta...'), estabelecendo uma função conativa e de engajamento direto."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O enunciador faz um juízo de valor e especulação sobre a política e a mídia sem apresentar credenciais de especialista, relatos de testemunha, apuração com fontes ou ter participado diretamente de um fato narrado.",
+      "papel-enunciativo": "1.2.5 Mobilizador",
+      "papel-enunciativo-justificativa": "O autor convoca e estimula o leitor ('o brasileiro') a tomar uma posição e agir eleitoralmente ('dar uma resposta') no mês das eleições ('em outubro').",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia",
+        "2.4 Cenografia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Constrói um ethos irônico e incisivo (2.1); utiliza polifonia (2.3) ao pressupor a existência prévia de uma 'aliança Lula Globo' e insinuar que a realidade do governo é uma ficção ('Projac'); e recorre a uma cenografia (2.4) de provocação direta e denúncia de conspiração/encenação.",
+      "papel-do-leitor": "3.6 Público a ser mobilizado"
+    }
+  },
+  {
+    "id": "kp-20",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto apresenta um julgamento direto sobre um fato/notícia recente, adotando uma postura avaliativa e crítica."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto recorre ao discurso relatado ao mencionar a publicação do ConJur para embasar o fato, utiliza a polifonia através da pergunta retórica/ironia e constrói um ethos de indignação ao classificar o ocorrido como 'o verdadeiro gabinete do ódio'."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O enunciado assume um tom informal e de conivência com o leitor, tratando-o como alguém que compartilha da mesma indignação ou que possui referências prévias do contexto político."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O enunciador fala como Comentarista, pois expressa essencialmente um juízo de valor e uma avaliação crítica sobre o fato narrado ('Esse é o verdadeiro gabinete do ódio'), sem apresentar marcas de vivência direta, testemunho ou apuração própria detalhada.",
+      "papel-enunciativo": "1.2.3 Crítico-Monitor (ou Cão de Guarda)",
+      "papel-enunciativo-justificativa": "O papel é de Crítico-Monitor (ou Cão de Guarda), uma vez que exerce vigilância, crítica e denúncia adversarial sobre condutas de agentes do poder público.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "2.1 Ethos e fiador: O tom indignado e incisivo da afirmação final constrói uma postura de denúncia moral. 2.2 Discurso relatado: Há menção explícita ao veículo jurídico ('O conjur soltou novos diálogos') para trazer a fonte externa do fato. 2.3 Polifonia: A pergunta 'Moro combinava até hashtag com o Deltan?' usa a negação/ironia implícita sobre a imparcialidade das autoridades envolvidas.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-21",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciador se coloca em primeira pessoa ('me cobrando', 'eu falei'), utilizando um tom de julgamento, ironia e opinião sem apresentar dados técnicos, apuração jornalística aprofundada ou ter participado ativamente do evento político em si."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza o ethos do enunciador através de um tom informal, irônico e incisivo, além de usar de polifonia ao ecoar a cobrança do pré-candidato para desqualificá-la e evocar a figura de outra personalidade política como comparação irônica."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O uso de linguagem informal ('O cara tá se saindo'), ironia e referências explícitas do cenário político estabelece uma relação de conivência e saber compartilhado com o público leitor."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O jornalista expressa um juízo de valor/avaliação crítica pessoal sobre a atitude do pré-candidato, sem recorrer a credenciais de especialista, apuração documental formal ou testemunho direto do fato.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "O enunciador atua atribuindo sentido e interpretando a conduta do político para o público, traçando um paralelo figurativo/analítico com outro personagem da política nacional.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "O Ethos/Fiador é construído pelo tom irônico e informal ('O cara tá se saindo...'), definindo uma postura combativa e direta. A Polifonia está presente na resposta polêmica à cobrança do pré-candidato e na evocação implícita da imagem do senador Randolfe para criticar o adversário.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-22",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciador emite um juízo de valor pessoal e informal ('Eu acho que...') sobre a veracidade do conteúdo, sem apresentar marcas de vivência, apuração ativa, testemunho ou credencial técnica declarada."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza polifonia (ironia e contraposição discursiva a respeito da linha editorial do veículo) e ethos/fiador através do tom informal e satírico."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O enunciador projeta um leitor cúmplice que compartilha do conhecimento prévio sobre o estereótipo do discurso midiático e compreende a ironia."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O jornalista/enunciador expressa sua opinião/juízo com base unicamente em suas próprias percepções e impressões personalíssimas ('Eu acho que...'), caracterizando a posição residual de comentarista.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "Atua como Observador-Intérprete/Analista informal ao selecionar o acontecimento (o print que circula) e atribuir-lhe um sentido a partir do seu enquadramento interpretativo.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Usa do Ethos e fiador (2.1) pelo tom informal e satírico que expressa espontaneidade, e da Polifonia (2.3) ao evocar o discurso irônico e estereotipado atribuído à emissora ('vítima da sociedade', 'suspeito') para desacreditar a veracidade do print.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-23",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O trecho é uma avaliação curta com forte tom de julgamento e interlocução direta, sem apresentar vivência pessoal, presença física no momento de um fato, acompanhamento investigativo longo ou credenciais técnicas explícitas."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O enunciado recorre à polifonia ao evocar de forma implícita e irônica/dialógica um discurso prévio de ou sobre Doria, contrapondo-o com uma pretensa revelação da 'verdadeira' identidade do político."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "Ao utilizar o diminutivo e o vocativo informal 'Deltinha' (dirigido ao interlocutor/público como um aceno de intimidade e conivência irônica), cria-se um laço de cumplicidade baseado em pressupostos e saberes compartilhados."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O jornalista/enunciador expressa um juízo de valor/avaliação sem respaldar sua autoridade em testemunho presencial, apuração documental detalhada ou conhecimento técnico especializado.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "O enunciador atua atribuindo um sentido/interpretação ao comportamento ou à figura pública de João Doria, 'revelando' ao leitor qual seria sua essência real.",
+      "estrategias-de-legitimacao": [
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Há a presença da polifonia por meio do uso da ironia e da contraposição implícita a uma versão/imagem pública prévia, invocando o 'Doria verdadeiro' em oposição a uma imagem contestada.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-24",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto adota um tom estritamente avaliativo, acusatório e de julgamento sobre as ações e identidades de terceiros, sem apresentar marcas de vivência/testemunho, apuração jornalística formal por fontes/documentos ou credenciais de conhecimento técnico especializado. Paralelamente, atua no desmascaramento/vigilância de um agente político."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O enunciado recorre a estratégias para construir a autoridade do que afirma, especialmente pela adoção de um tom de alerta/indignação (Ethos), negação/confrontação implícita com discursos alheios (Polifonia) e o enquadramento do texto como um alerta revelador (Cenografia)."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto interpela diretamente o leitor no título, projetando-o como alguém que foi enganado ou manipulado pela narrativa do sujeito criticado, assumindo uma postura de alerta e correção da percepção do leitor."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "Classifica-se como Comentarista (categoria residual), pois o enunciador constrói sua autoridade essencialmente a partir do seu próprio juízo de valor e denúncia pontual, sem marcas explícitas de ter sido participante, testemunha sensorial, ter realizado apuração jornalística formal ou ter expertise técnica declarada.",
+      "papel-enunciativo": "1.2.3 Crítico-Monitor (ou Cão de Guarda)",
+      "papel-enunciativo-justificativa": "Classifica-se como Crítico-Monitor (ou Cão de Guarda), pois desempenha a função de expor, fiscalizar e desmascarar a conduta e a identidade de um pré-candidato político/figura pública.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia",
+        "2.4 Cenografia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "2.1 Ethos e fiador: Constrói uma persona de guardião indignado da verdade por meio da caixa alta e tom incisivo. 2.3 Polifonia: Reage e contesta implicitamente a narrativa do candidato ('fala mal do conservadorismo', 'nem é o nome verdadeiro'). 2.4 Cenografia: Abertura com 'TE ENGANARAM DE NOVO' estabelece a cena de um alerta urgente/revelação ao leitor.",
+      "papel-do-leitor": "3.5 Vítima da desinformação"
+    }
+  },
+  {
+    "id": "kp-25",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto (título de vídeo/conteúdo) se constrói a partir de uma avaliação e análise interpretativa sobre um acontecimento político, assumindo a função de interpretar as intenções e os impactos das ações de um agente político."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O enunciado faz uso de termos fortes e expressivos (\"Dossiê\", \"MUNDO EM CHOQUE\", \"VERDADEIRO Objetivo\") para criar uma aura de gravidade, revelação e profundidade analítica."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto busca atrair o leitor/espectador ao prometer desvendar a verdade oculta e ensinar/explicar o que realmente está por trás do fato narrado."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O enunciador fala a partir da posição de Comentarista, pois o enunciado expressa um juízo de valor e um enquadramento interpretativo (\"CRIA CRISE\", \"VERDADEIRO Objetivo\") sem apresentar, no título, marcas formais de apuração própria, testemunho presencial ou credencial técnica especializada.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "Apresenta o papel de Observador-Intérprete (ou Analista), pois se propõe a organizar o fato e atribuir-lhe sentido, prometendo analisar o \"verdadeiro objetivo\" por trás dos acontecimentos.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.4 Cenografia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "A estratégia de Ethos e fiador manifesta-se no tom sensacionalista, urgente e revelador (uso de caixa alta e palavras impactantes como \"Dossiê\" e \"CHOQUE\"), construindo uma postura de denunciador/desvendador. A Cenografia emoldura o discurso como um \"Dossiê\"/revelação urgente, criando um enquadramento de denúncia e bastidores.",
+      "papel-do-leitor": "3.2 Aprendiz"
+    }
+  },
+  {
+    "id": "kp-26",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciado apresenta um juízo de valor opinativo e depreciativo direto sobre figuras políticas, sem recorrer a informações técnicas, presença no local dos fatos, relatos de testemunhas ou dados de apuração apurados diretamente."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto faz uso de marcas de tom e polifonia (ecoando e refutando discursos/metáforas do debate político) para sustentar seu posicionamento crítica e indignadamente."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "A fala interpela o interlocutor buscando um laço de conivência e cumplicidade por meio do uso da metáfora informal 'poste' e de um tom de indignação compartilhada."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O enunciador fala a partir do seu próprio juízo de valor e avaliação subjetiva/crítica ('Isso daqui é muita humilhação', 'o verdadeiro poste é Lula'), sem sustentação em expertise técnica, apuração formal ou testemunho factual.",
+      "papel-enunciativo": "1.2.4 Militante",
+      "papel-enunciativo-justificativa": "O enunciador abandona a neutralidade para assumir um engajamento crítico e político explícito, atacando uma figura pública e adotando uma postura militante/panfletária.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "A estratégia 2.1 (Ethos e fiador) manifesta-se através do tom indignado e informal ('Isso daqui é muita humilhação'). A estratégia 2.3 (Polifonia) está presente ao resgatar o discurso alheio recorrente na política brasileira de que 'Haddad era o poste' para rebater essa premissa e redirecioná-la ('mas o verdadeiro poste é Lula').",
+      "papel-do-leitor": "3.4 Cúmplice",
+      "papel-do-leitor-justificativa": "O leitor é interpelado como cúmplice, inserido em uma cena de linguagem informal e provocativa que pressupõe o conhecimento prévio de termos e debates políticos ('poste', 'vassalo'), estabelecendo uma conivência de crítica política."
+    }
+  },
+  {
+    "id": "kp-28",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciado apresenta um julgamento direto de valor e caráter sobre o jornalista Diogo Mainardi a partir de alianças políticas/editoriais atribuídas a ele, emitindo opinião sem apresentar apuração jornalística própria, dados técnicos ou vivência pessoal."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza estratégias para convencer o leitor sobre a veracidade de sua crítica ao caráter de Mainardi, valendo-se do tom moral e da menção implícita a discursos contrários."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O enunciador constrói um vínculo com o público leitor ao estabelecer uma relação de cumplicidade baseada em visões e pressupostos compartilhados sobre os atores citados."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "Encaixa-se como Comentarista por se tratar essencialmente de uma avaliação/juízo de valor do enunciador sobre o comportamento e caráter do jornalista, sem respaldo em apuração própria, testemunho ou autoridade técnica.",
+      "papel-enunciativo": "1.2.4 Militante",
+      "papel-enunciativo-justificativa": "Efetua o papel de Militante pois rompe com a neutralidade ao emitir um ataque/julgamento moral explícito ('caráter do Mainardi vindo a tona') e político contra os agentes e veículos mencionados.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Usa Ethos e fiador ao adotar um tom acusatório e de 'revelação' indignada para construir uma autoridade moral de denúncia; e Polifonia ao evocar indiretamente as posições e críticas anteriores atribuídas a Mainardi em relação à Folha, Estadão e blogs, utilizando essa contradição/ironia implícita para desqualificá-lo.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-29",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciado faz uma avaliação e denúncia direta sobre a conduta de um agente político e de uma jornalista, sem apresentar apuração detalhada, presença sensorial, vivência pessoal ou conhecimento técnico-disciplinar."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto constrói sua legitimidade por meio do tom incisivo e indignado (ethos) e pelo uso do enquadramento polêmico (polifonia) ao qualificar o acontecimento como 'o verdadeiro uso do aparato estatal'."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O enunciador atua como comentarista (padrão residual), pois emite um juízo categórico de valor sem apresentar marcas de apuração jornalística, testemunho presencial ou saber técnico-especializado.",
+      "papel-enunciativo": "1.2.3 Crítico-Monitor (ou Cão de Guarda)",
+      "papel-enunciativo-justificativa": "Encaixa-se como Crítico-Monitor, pois adota uma postura de vigilância, denúncia e fiscalização contra o suposto uso do aparato público para fins políticos.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "A estratégia 2.1 (Ethos e fiador) evidencia-se pelo tom grave e conclusivo que constrói uma postura de denunciante; a 2.3 (Polifonia) manifesta-se na expressão 'O verdadeiro uso...', que dialoga implicitamente e rebate outros discursos sobre o tema.",
+      "papel-do-leitor": null
+    }
+  },
+  {
+    "id": "kp-30",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciado adota um tom nitidamente opinativo e de juízo de valor pessoal sobre a relação entre o ministro Fernando Haddad, o mercado financeiro e os lucros bancários, sem recorrer a apuração factual direta, presenciação de fatos ou credenciais técnicas explícitas."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza ironia, negação e contraposição de vozes/conceitos (o 'verdadeiro mercado' em oposição à ideia genérica de 'mercado'), além de construir uma persona/tom informal e de confronto direto com o sistema financeiro."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O enunciador utiliza a ironia e a linguagem informal de confronto ('No dia que eu ver... chorando') para criar uma relação de conivência e cumplicidade com leitores que compartilham da mesma visão crítica em relação ao sistema financeiro."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O jornalista/enunciador fala a partir de seu próprio juízo de valor e avaliação subjetiva da conjuntura política e econômica, sem apresentar marcas de vivência, testemunho sensorial, apuração documental/jornalística de bastidor ou credencial técnica declarada.",
+      "papel-enunciativo": "1.2.4 Militante",
+      "papel-enunciativo-justificativa": "O enunciador rompe com a neutralidade ao adotar um tom abertamente crítico e politicamente engajado contra figuras e instituições representativas do capital financeiro (bancos, Febraban, grandes empresários), defendendo uma postura de enfrentamento social/político.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "A estratégia 2.1 Ethos e fiador evidencia-se pelo tom provocativo, informal e de firmeza moral ('No dia que eu ver... eu levo a sério'). A estratégia 2.3 Polifonia manifesta-se no uso da ironia e na negação/redefinição do conceito de 'mercado', rebatendo implicitamente o discurso hegemônico sobre a insatisfação do mercado financeiro.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-31",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto é construído sobre uma intensa carga irônica e sarcástica, valendo-se da figura do 'Kit 8 milhões' e associando figuras públicas a qualidades e virtudes das quais são publicamente acusadas de não possuir. Essa ironia e a negação implícita configuram estratégias de polifonia e ethos discursivo para legitimar a crítica."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "Ao utilizar o formato de lista, ironia sarcástica e referências ao cenário político/midiático brasileiro sem explicações pedagógicas prévias, o texto pressupõe que o leitor já compreende os subtextos e críticas, estabelecendo uma relação de conivência e cumplicidade."
+        }
+      ],
+      "posicao-sujeito": null,
+      "posicao-sujeito-justificativa": null,
+      "papel-enunciativo": null,
+      "papel-enunciativo-justificativa": null,
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Encaixa-se em '2.1 Ethos e fiador' pela construção de um tom abertamente sarcástico e debochado que sustenta a persona do enunciador. Encaixa-se em '2.3 Polifonia' pelo uso da ironia, que faz ecoar e simultaneamente desconstruir o discurso de virtude associado a cada uma das figuras citadas.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-32",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciador abre o texto marcando sua observação direta do cenário político nacional ('De norte a sul do Brasil, vejo candidatos...'), exercendo um papel de acompanhamento analítico e diagnóstico das estratégias eleitorais."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto interpela diretamente o leitor como um integrante da esfera pública e do processo eleitoral, apontando falhas nas estratégias de candidatos que buscam seu voto."
+        }
+      ],
+      "posicao-sujeito": "1.1.3 - Observador",
+      "posicao-sujeito-justificativa": "O enunciador fala a partir da posição de Observador, utilizando a marca de observação do cenário ('vejo candidatos...') para diagnosticar um padrão de comportamento de atores políticos de forma distanciada e panorâmica.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "Atua como Observador-Intérprete (Analista), pois seleciona um fato/comportamento da cena política ('brigando para ver quem é mais de direita') e atribui sentido a ele, classificando-o como um 'erro'.",
+      "estrategias-de-legitimacao": null,
+      "estrategias-de-legitimacao-justificativa": null,
+      "papel-do-leitor": "3.3 Cidadão"
+    }
+  },
+  {
+    "id": "kp-33",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciado expressa um juízo de valor categórico e direto sobre a figura pública ('Doria é um verdadeiro ditador'), sem apresentar apuração, testemunho direto ou embasamento técnico especializado."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto utiliza recursos linguístico-discursivos para enfatizar e certificar a verdade da sua afirmação sobre o sujeito."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "A enunciação estabelece uma relação de conivência e cumplicidade com o público através de um juízo opinativo veemente que pressupõe um saber/visão de mundo compartilhada."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O enunciador fala a partir do seu próprio juízo de valor, sem fornecer marcas de apuração, vivência, testemunho ou credencial técnica.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "Atua emitindo um julgamento/interpretação direta sobre a conduta e postura de uma figura pública.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Constrói um ethos de contundência e certeza categórica através da escolha do tom e da inclusão do certificador 'verdadeiro', que reforça o enunciado sem recorrer a fontes externas.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-34",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciador adota um tom avaliativo, especulativo e sem respaldo direto em apuração jornalística de dados ou fatos presenciados, emitindo juízos de valor e acusações diretas sobre bastidores políticos."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza discursivamente premissas não ditas de um campo adversário e constrói uma cena/tom de afronta ou denúncia em rede social para sustentar suas perguntas e insinuações."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "Trata-se do padrão residual de Comentarista, pois a fala consiste em insinuações, especulações e julgamentos diretos do enunciador, sem marcas de testemunho presencial, participação ativa nos atos narrados, apuração explícita ou autoridade de especialista.",
+      "papel-enunciativo": "1.2.3 Crítico-Monitor (ou Cão de Guarda)",
+      "papel-enunciativo-justificativa": "O autor atua como Crítico-Monitor ao assumir postura fiscalizadora, inquisitiva e adversarial sobre negociações e alianças de figuras e partidos políticos com o governo.",
+      "estrategias-de-legitimacao": [
+        "2.3 Polifonia",
+        "2.4 Cenografia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Há uso de Polifonia (2.3), pois as perguntas irônicas e provocativas pressupõem e ecoam discursos prévios e intenções ocultas atribuídas aos sujeitos citados (como a 'rasteira' ou a alcunha de 'puxadinho do Lula'). Há também uma Cenografia (2.4) marcada pelo estilo de postagem direta e provocativa de rede social, simulando uma interpelação pública imediata.",
+      "papel-do-leitor": null
+    }
+  },
+  {
+    "id": "kp-35",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciado apresenta avaliação pessoal do enunciador sobre uma pauta política/administrativa, expressando opinião e juízo de valor com marcas explícitas de subjetividade ('Sei que', 'pode ser um começo...'), sem apresentar dados técnicos, apuração distanciada ou relato de testemunho/participação direta."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto faz uso de ironia/sarcasmo e negação implícita para criticar privilégios estatais ('reduzir a quantidade de lagostas', 'VERDADEIRO equilíbrio entre poderes'), além de utilizar tom informal e irônico que constrói um ethos de proximidade e indignação compartilhada com o leitor."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto estabelece uma relação de proximidade e conivência com o leitor por meio da ironia e do subentendido sobre os privilégios do poder público ('lagostas', 'VERDADEIRO equilíbrio'), tratando-o como um iniciado que entende a crítica implícita."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O jornalista emite um juízo de valor e avaliação própria sem recorrer explicitamente a dados técnicos, vivência pessoal, presença física no momento do fato ou apuração de fontes.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "O enunciador atua selecionando e interpretando um fato político (a reforma administrativa), atribuindo a ele sentido crítico e satírico para o leitor.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "2.1 Ethos e fiador: Constroem-se um tom irônico, informal e cético, projetando uma persona indignada com o sistema. 2.3 Polifonia: Utiliza a ironia ao mencionar 'lagostas' e colocar 'VERDADEIRO' em caixa alta, ecoando e ironizando o discurso oficial do poder público.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-36",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciador adota uma postura abertamente opinativa e crítica sobre o comportamento e a postura da imprensa, julgando a conduta dos jornalistas do Estadão."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza uma postura e tom indignados (ethos) e faz uso de negações e refutações polêmicas (polifonia) ao rebater o discurso dominante da imprensa sobre o 'gabinete do ódio'."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O discurso interpela o leitor propondo uma união de visões contra a suposta parcialidade do jornalismo, estabelecendo um laço de conivência ideológica e alinhamento de percepções."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O enunciador fala como Comentarista, pois expressa juízos de valor e avaliações diretas ('É incrível como...', 'O verdadeiro ódio é...'), sem apresentar marcas de vivência do fato, testemunho direto, apuração jornalística ou credencial técnica.",
+      "papel-enunciativo": "1.2.4 Militante",
+      "papel-enunciativo-justificativa": "Atua como Militante ao assumir um engajamento político e moral explícito na defesa da 'direita' contra o que qualifica como ódio e distorção praticados pelo jornal.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "O texto utiliza Ethos e fiador ao adotar um tom de indignação e denúncia moral ('É incrível...', 'ódio que cega'), construindo a imagem de alguém que enxerga a verdade dos fatos; e Polifonia ao confrontar e desconstruir indiretamente a narrativa jornalística sobre o 'gabinete do ódio' para inverter a acusação.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-37",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciado adota uma posição de avaliação sem respaldo de apuração, presença factual ou expertise técnica, emitindo um julgamento e agradecimento direto."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto constrói sua legitimação através do tom de deferência/gratidão (ethos) e pela convocação do status/título da autoridade citada (Dom Bertrand)."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "A enunciação utiliza a primeira pessoa do plural ('nós') para inserir o leitor em um círculo de iniciados que compartilham o mesmo valor e sentimento em relação ao interlocutor."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O enunciador fala a partir do seu próprio juízo e sentimento de gratidão, sem apresentar marcas de vivência, testemunho presencial, apuração ativa ou credencial técnica.",
+      "papel-enunciativo": "1.2.4 Militante",
+      "papel-enunciativo-justificativa": "O texto rompe com a neutralidade ao demonstrar engajamento moral e ideológico explícito, ratificando a perspectiva trazida pela figura pública ('verdadeiro Brasil').",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.5 Autoridade institucional"
+      ],
+      "estrategias-de-legitimacao-justificativa": "A estratégia 2.1 Ethos e fiador manifesta-se pelo tom respeitoso e confessional de gratidão. A estratégia 2.5 Autoridade institucional apoia-se na figura e título de Dom Bertrand como fiador da visão de 'verdadeiro Brasil'.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-38",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciado apresenta posicionamento e papel enunciativo identificáveis no discurso, atuando na arena pública de produção de informação ao expor dados e tecer juízos sobre agentes políticos e mediáticos."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza estratégias para sustentar a veracidade do que afirma, recorrendo a comprovações visuais, links externos e denúncia de vínculos financeiros."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O enunciador fala a partir do lugar de comentarista, emitindo juízo de valor e expor/criticar a atuação política de terceiros sem apresentar credencial técnica de especialista, apuração jornalística formal (observador) ou ter sido agente/testemunha direta do fato.",
+      "papel-enunciativo": "1.2.3 Crítico-Monitor (ou Cão de Guarda)",
+      "papel-enunciativo-justificativa": "Assume um papel de Crítico-Monitor ao fiscalizar, expor gastos de campanha e denunciar suposta incoerência/vínculo entre atores políticos e comentaristas.",
+      "estrategias-de-legitimacao": [
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Utiliza polifonia ao trazer elementos implícitos e registros externos ('foto abaixo', vídeo do YouTube) para confrontar e desconstruir o discurso dito pelo sujeito no programa Pânico.",
+      "papel-do-leitor": null
+    }
+  },
+  {
+    "id": "kp-39",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciador define explicitamente seu lugar de fala e sua relação com o fato e com a apuração, ressaltando que não realizou a investigação e atua na divulgação das informações obtidas por terceiros."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza o discurso relatado ao atribuir explicitamente a autoria das informações e os méritos da apuração a uma fonte externa nominalmente identificada."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O enunciador não atuou no fato (participante), não o presenciou (testemunha), não realizou a apuração/checagem diretamente (observador) nem utiliza credencial técnica (especialista). Ele atua no nível da mediação/comentário sobre a apuração de terceiros, limitando-se a repassar e introduzir as informações divulgadas por outro perfil.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "O enunciador atua na seleção, organização e retransmissão de fatos e conteúdos já apurados, atribuindo sentido e direcionando a atenção do público para a revelação feita pela fonte (função de curadoria/gatekeeper).",
+      "estrategias-de-legitimacao": [
+        "2.2 Discurso relatado"
+      ],
+      "estrategias-de-legitimacao-justificativa": "O enunciador utiliza a atribuição explícita de fonte ('méritos da investigação são do perfil Além das Sombras'), delegando e ancorando a autoridade do que é dito na apuração realizada por esse perfil externo.",
+      "papel-do-leitor": null
+    }
+  },
+  {
+    "id": "kp-40",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciado adota uma postura fortemente avaliativa sobre a figura e a obra do filósofo citado, sem apoio em dados técnicos, vivência/presença sensorial no acontecimento ou apuração factual jornalística tradicional, constituindo uma valoração opinativa e um engajamento moral explícito."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza o discurso relatado/paráfrase do pensamento de uma autoridade de referência ('Olavo já dizia...', 'ensinou...') para validar a premissa existencial defendida, além de construir um tom de veemência e certeza absoluta ('NUNCA') para respaldar sua fala."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto se constrói em torno de um tom convocatório e de um saber comum, buscando engajar o público na defesa irrestrita e na adesão à figura em questão."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O enunciador fala a partir da posição de Comentarista, emitindo juízos de valor constitutivos ('é o verdadeiro filósofo') e projeções convictas sem fundamentação em apuração jornalística, testemunho presencial ou conhecimento especialista neutro.",
+      "papel-enunciativo": "1.2.4 Militante",
+      "papel-enunciativo-justificativa": "Assume o papel de Militante, uma vez que rompe com qualquer premissa de neutralidade para tomar partido de forma entusiasmada e combativa em defesa de uma figura e ideário ('Não irão conseguir calá-lo NUNCA').",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado"
+      ],
+      "estrategias-de-legitimacao-justificativa": "O texto utiliza o Discurso relatado (2.2) ao atribuir diretamente ensinamentos e preceitos à fala/filosofia de Olavo para legitimar a tese enunciada. Além disso, recorre ao Ethos e fiador (2.1), empregando tom enfático e convicto (uso de caixa alta em 'NUNCA' e tom laudatório) para projetar uma postura de fidelidade e ousadia moral.",
+      "papel-do-leitor": "3.6 Público a ser mobilizado"
+    }
+  },
+  {
+    "id": "kp-41",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza recursos discursivos para validar a afirmação sobre a conta falsa e criar uma cena de cumplicidade/alerta, utilizando a oposição de discursos (polifonia) e uma emolduração informal (cenografia)."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto interpela o público diretamente para corrigir um engano de percepção sobre a autenticidade do perfil citado."
+        }
+      ],
+      "posicao-sujeito": null,
+      "posicao-sujeito-justificativa": null,
+      "papel-enunciativo": null,
+      "papel-enunciativo-justificativa": null,
+      "estrategias-de-legitimacao": [
+        "2.3 Polifonia",
+        "2.4 Cenografia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "O texto utiliza a 2.3 Polifonia ao resgatar e confrontar a voz/identidade implícita da conta falsa ('esse perfil é um fake') e aludir à censura/silêncio imposto ('A mordaça da CNN é pesada'). Também recorre à 2.4 Cenografia ao instaurar um enquadramento de alerta informal e direto com o público de rede social ('Vocês sabem que... né?').",
+      "papel-do-leitor": "3.5 Vítima da desinformação",
+      "papel-do-leitor-justificativa": "O leitor é projetado como alguém cujas percepções foram ou poderiam ser manipuladas por um perfil falso, assumindo o enunciador uma função de alerta e correção da verdade."
+    }
+  },
+  {
+    "id": "kp-42",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciador adota uma postura opinativa e crítica sobre a ausência do personagem nas redes sociais, emitindo juízos diretos, ironia e avaliações sobre a situação em que ele se encontra."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O discurso busca legitimidade e adesão pela construção de uma cena de conversa informal/confidencial (cenografia), uso de tom de deboche/provocação (ethos e fiador), além de ecoar e resgatar discursos e polêmicas do conhecimento prévio da audiência de forma sarcástica (polifonia)."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto interpela o leitor em um tom de intimidade e conivência com a piada ou fofoca, utilizando marcadores informais e ironia para criar um círculo de 'iniciados'."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O enunciador atua como comentarista, fundamentando seu discurso exclusivamente em avaliações, especulações e juízos próprios com tom humorístico/provocativo, sem comprovação de apuração jornalística, testemunho ou autoridade técnica.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "Atua como um observador-intérprete, pois seleciona um fato do cenário digital (o desaparecimento/silêncio de uma figura pública) e atribui a ele um sentido interpretativo e satírico perante a audiência.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia",
+        "2.4 Cenografia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Apresenta ethos e fiador (2.1) por meio do tom irônico, sarcástico e descontraído que constrói uma persona provocadora; polifonia (2.3) ao ecoar e resgatar implicitamente a polêmica prévia ('caso Traveco/Mário') e provérbios populares ('se ficar o bicho pega...'); e cenografia (2.4) ao emoldurar o enunciado sob uma cena de conversa informal, fofoca ou desabafo humorístico.",
+      "papel-do-leitor": "3.4 Cúmplice",
+      "papel-do-leitor-justificativa": "O leitor é colocado no papel de cúmplice, engajado pela saudação informal ('É amigos...') e pela dependência de saberes prévios e entendimentos subentendidos sobre a polêmica referenciada, criando um laço de conivência e sátira compartilhada."
+    }
+  },
+  {
+    "id": "kp-43",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto apresenta uma enunciação fundamentada em juízo de valor e avaliação direta ('Macron está EXPONDO o VERDADEIRO plano do Lula...'), sem demonstrar apuração com fontes, presença no fato ou dados técnicos, exercendo uma função de convocação e alerta ao público."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto recorre ao relato de fala de autoridade ('O Macron disse...'), contrasta discursos implícitos e diretos (polifonia) e emoldura o enunciado na forma de um comunicado de alerta urgente ('ATENÇÃO BRASILEIROS')."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O interlocutor é chamado diretamente com caixa alta ('ATENÇÃO BRASILEIROS') para tomar consciência de um suposto plano de destruição da indústria, buscando sua adesão e engajamento imediato."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "Trata-se de uma posição essencialmente avaliativa do enunciador, sem trazer marcas de vivência (testemunha/participante), apuração detalhada (observador) ou autoridade técnica disciplinar (especialista).",
+      "papel-enunciativo": "1.2.5 Mobilizador",
+      "papel-enunciativo-justificativa": "O enunciador atua convocando e alertando o público de forma performativa para engajá-lo diante de uma suposta ameaça nacional.",
+      "estrategias-de-legitimacao": [
+        "2.2 Discurso relatado",
+        "2.3 Polifonia",
+        "2.4 Cenografia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "A legitimação é construída ao citar a fala atribuída a Macron (2.2 Discurso relatado), confrontar posições e discursos de dois líderes políticos (2.3 Polifonia) e instaurar um enquadramento de alerta urgente ao leitor (2.4 Cenografia).",
+      "papel-do-leitor": "3.6 Público a ser mobilizado"
+    }
+  },
+  {
+    "id": "kp-44",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciado apresenta predominantemente um juízo de valor/avaliação rápida por meio de deboche e ironia sobre um tema socio-político ('verdadeiro fascismo'), sem marcas de vivência, testemunho presencial, apuração com fontes ou credencial técnica explícita."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto utiliza polifonia por meio de ironia e negação polêmica ('o verdadeiro fascismo'), evocando e ridicularizando tacitamente uma fala ou conceito alheio prévio sobre o que seria fascismo. Além disso, constrói um ethos informal e de deboche ('Hahahhahah', 'A galera tá vendo')."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O uso de risada ('Hahahhahah'), linguagem informal/coloquial ('A galera tá vendo') e o tom irônico criam um laço de conivência e cumplicidade com o leitor que compartilha do mesmo entendimento sem necessidade de explicações profundas."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "Encaixa-se como '1.1.5 - Comentarista' (padrão residual) porque o texto consiste estritamente em um juízo/avaliação do enunciador, desprovido de apuração, testemunho, participação ativa ou expertise técnica.",
+      "papel-enunciativo": "1.2.4 Militante",
+      "papel-enunciativo-justificativa": "Encaixa-se como '1.2.4 Militante' por romper com a neutralidade e assumir um posicionamento/engajamento político-ideológico explícito e opinativo em tom de provocação.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "A estratégia '2.1 Ethos e fiador' atua pelo tom debochado e informal ('Hahahhahah') que estabelece a persona do enunciador; a estratégia '2.3 Polifonia' manifesta-se através da ironia que refuta e faz eco a um discurso alheio implícito sobre a definição de fascismo.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-46",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciado emite um julgamento de valor direto, categórico e avaliativo sobre a atuação política em torno de uma CPI, sem apresentar dados técnicos, apuração própria no texto, testemunho sensorial ou participação direta no fato."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto utiliza estratégias explícitas de legitimação, como a construção de um ethos crítico e indignado, além da negação polêmica/polifonia em relação à narrativa oficial da CPI."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O enunciado projeta uma relação com o leitor com base em saberes políticos compartilhados e posicionamento ideológico alinhado."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O jornalista/enunciador atua como comentarista (posição residual), pois o texto consiste estritamente em uma avaliação e juízo de valor político ('segue sendo protegido', 'verdadeiro chefe da CPI'), sem indicar apuração, testemunho, participação ou expertise técnica.",
+      "papel-enunciativo": "1.2.3 Crítico-Monitor (ou Cão de Guarda)",
+      "papel-enunciativo-justificativa": "O enunciado assume um tom adversarial de denúncia e fiscalização em relação ao poder público e a figuras políticas, adotando a postura de Crítico-Monitor.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Apresenta '2.1 Ethos e fiador' por meio de um tom assertivo, categórico e indignado que constrói uma persona de revelador da 'verdade por trás dos fatos'. Apresenta '2.3 Polifonia' ao confrontar e rebater a versão oficial da CPI, evocando implicitamente o discurso público de que a CPI seria independente e neutralizando-o com a afirmação contundente sobre o 'verdadeiro chefe'.",
+      "papel-do-leitor": "3.4 Cúmplice",
+      "papel-do-leitor-justificativa": "Projeta o leitor como '3.4 Cúmplice', apelando para um saber político prévio compartilhado e inserindo-o num círculo de iniciados que 'já sabem' ou concordam com o que realmente acontece nos bastidores do poder."
+    }
+  },
+  {
+    "id": "kp-47",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciador adota um tom estritamente avaliativo e de julgamento moral/político sobre o fato em questão, além de atuar no engajamento político e moral contra o grupo citado."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza marcas de tom indignado (ethos) e traz a citação externa via link como evidência/discurso relatado para sustentar a acusação."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto é construído com forte apelo emotivo e indignado, visando convocar o leitor a adotar uma postura de repúdio e adesão à denúncia."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O trecho baseia sua autoridade unicamente em um juízo de valor e avaliação subjetiva moral e política ('retrato do caráter', 'debocham do povo'), sem apresentar credencial técnica, testemunho presencial ou apuração jornalística estruturada.",
+      "papel-enunciativo": "1.2.4 Militante",
+      "papel-enunciativo-justificativa": "O enunciador rompe com a neutralidade estrita e assume um engajamento político e ideológico explícito, proferindo ataques diretos ao 'petista' em defesa do 'povo sofrido'.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado"
+      ],
+      "estrategias-de-legitimacao-justificativa": "2.1 Ethos e fiador: A escolha de palavras veementes de indignação ('retrato do caráter', 'debocham') constrói um ethos de acusador e defensor moral do povo. 2.2 Discurso relatado: A inclusão do link de terceiros funciona como prova/citação de uma fonte para emoldurar e validar a acusação feita.",
+      "papel-do-leitor": "3.6 Público a ser mobilizado"
+    }
+  },
+  {
+    "id": "kp-48",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciado apresenta uma valoração e um juízo de valor explícito e irônico sobre uma figura pública ('verdadeiro estadista' versus 'covarde'), sem se fundamentar em vivência direta do fato, testemunho sensorial, apuração de fontes ou conhecimento técnico disciplinar declarado."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto faz uso acentuado de recurso irônico/provocativo e negação polêmica para desconstruir um discurso implícito de exaltação (a ideia de 'estadista'), ecoando uma voz alheia para refutá-la."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "Ao lançar mão de uma pergunta retórica irônica que pressupõe o conhecimento de um episódio/contexto específico ('arrepio do Wanderlei'), o texto estabelece uma relação de conivência e saberes prévios não ditos com quem lê."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "Enquadra-se como Comentarista (categoria residual), pois o enunciado é puramente opinativo e fundamentado no próprio juízo e valoração do enunciador, sem marcas de testemunho, vivência pessoal, apuração jornalística ou expertise técnica.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "Funciona como Observador-Intérprete (Analista), pois pega um acontecimento/figura e atribui-lhe um sentido interpretativo e crítico a partir da seleção de um enquadramento.",
+      "estrategias-de-legitimacao": [
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Mobiliza a Polifonia através de ironia e negação implícita: ao questionar se 'o verdadeiro estadista é o covarde...', o enunciado ecoa um ponto de vista alheio (de que a pessoa seria um estadista) para ridicularizá-lo e refutá-lo sem citação direta.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-49",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciado faz um juízo de valor e um diagnóstico moral sobre o que constitui a identidade nacional ('verdadeiro Brasil'), definindo-a a partir dos valores da família e da fé, sem sustentar essa afirmação em vivência direta, dados de apuração ou autoridade técnica especial."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto adota um tom afirmativo e emotivo para construir um ethos de pertencimento e comunhão de valores, além de operar uma polifonia ao responder e rebater implicitamente outras visões ou narrativas que contrapõem essa ideia de Brasil."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto se dirige ao leitor estabelecendo um laço de cumplicidade baseado no compartilhamento prévio de valores morais, religiosos e familiares ('família', 'pessoas de fé')."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "A enunciação baseia-se num julgamento/avaliação essencialmente subjetivo e valorativo do enunciador sobre o país, sem marcas de testemunho presencial, apuração investigativa ou conhecimento técnico especializado.",
+      "papel-enunciativo": "1.2.4 Militante",
+      "papel-enunciativo-justificativa": "O jornalista/enunciador assume um engajamento político-moral explícito ao defender uma visão conservadora/tradicional de sociedade ('país da família, de pessoas de fé') como a única 'verdadeira'.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "No item 2.1 Ethos e fiador, o tom emotivo constrói um ethos de autoridade moral. No item 2.3 Polifonia, a expressão 'Esse é o verdadeiro Brasil' nega e contrapõe, em tom polêmico, visões opostas implícitas sobre o país sem citá-las diretamente.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-50",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciador adota uma postura abertamente opinativa e crítica sobre o liberalismo, marcando seu juízo sem apresentar vivência pessoal, apuração jornalística ou expertise técnica formal."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto constrói um tom irônico e debochado que projeta uma postura de desdém, ao mesmo tempo em que antecipa e rebate ativamente contra-argumentos da tradição liberal."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O enunciador utiliza gargalhadas e expressões de conivência para engajar o leitor em um círculo de 'iniciados' que compartilham do mesmo deboche sobre o tema."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O enunciador fala a partir do seu próprio juízo de valor e crítica explícita, sem recorrer a credenciais técnicas (1.1.4), apuração de fatos (1.1.3), relato de testemunho (1.1.2) ou participação direta em eventos (1.1.1).",
+      "papel-enunciativo": "1.2.4 Militante",
+      "papel-enunciativo-justificativa": "O enunciador rompe com a neutralidade ao adotar um tom abertamente panfletário e de engajamento crítico-ideológico contra a doutrina liberal.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Pertence a 2.1 Ethos e fiador pela construção de uma persona sarcástica e irônica expressa pelas risadas ('Ahhahhahha') e exclamações; e a 2.3 Polifonia pelo uso de negação polêmica que projeta e invalida antecipadamente a voz do interlocutor liberal ('E nem me venham com o papo que...').",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-53",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciador avalia e faz um juízo direto sobre o acontecimento (a mensagem de um perfil fake de Rodrigo Maia e a reação do público), posicionando-se de forma crítica/humorística frente ao fato."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto utiliza polifonia (ironia, negação e alusão ao discurso do perfil fake) e traz o tom e tomadas de posição para construir o enquadramento discursivo."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O enunciador interage de forma informal, chamando a atenção do leitor para o absurdo da situação de outros usuários acreditarem na conta falsa."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O enunciador atua como comentarista, expressando um juízo/avaliação imediata ('a cereja do bolo é...') sobre o fato observado na rede social, sem marcas de apuração jornalística formal, testemunho direto ou especialidade técnica.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "Desempenha a função de observador-intérprete, identificando a farsa do perfil ('O perfil é fake') e atribuindo sentido ao evento ao destacar o comportamento da audiência que o tomou como verdadeiro.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Emprega o ethos (2.1) por meio de um tom informal, irônico e coloquial ('tacando o pau', 'a cereja do bolo') e a polifonia (2.3) ao articular a ironia de que a mensagem representa 'a cara do Maia', confrontando o discurso do perfil falso com a reação de quem acreditou nele.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-54",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto utiliza recursos linguístico-discursivos, como o tom sarcástico/informal e a ironia, para construir uma imagem de quem desmascara a conduta do sujeito analisado."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto estabelece um vínculo de proximidade e conivência com o leitor através de ironias, risos e o acionamento de saberes prévios não ditos do campo político."
+        }
+      ],
+      "posicao-sujeito": null,
+      "posicao-sujeito-justificativa": null,
+      "papel-enunciativo": null,
+      "papel-enunciativo-justificativa": null,
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "O enunciador constrói um ethos irônico e informal por meio do tom debochado ('kkkkkkkkkkkkkkk', 'cachorrinho adestrado') e mobiliza a polifonia ao ecoar a visão de quem considera o sujeito 'polido e educado' para ridicularizá-la e confrontá-la ('Só rindo de quem insiste em se enganar').",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-55",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto emite um juízo crítico/ironia sobre a construção de narrativas políticas sem se apoiar em vivência pessoal, apuração jornalística de dados/fontes, testemunho direto ou autoridade técnica explícita."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto faz uso expressivo da polifonia (ironia que debocha de uma narrativa alheia) e constrói um ethos informal/sarcástico por meio de risadas ('Kkkkkkkkkkkkk') e analogias cômicas para deslegitimar o discurso do MBL."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "A enunciação utiliza tom informal e cômico, contando com o conhecimento prévio e a conivência do leitor sobre quem são as figuras citadas e o contexto do MBL."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O trecho é essencialmente uma avaliação e juízo de valor com tom sarcástico, sem evidências de apuração, testemunho ou autoridade técnica.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "O enunciador interpreta uma narrativa política existente e atribui a ela um sentido de deboche/caricatura para seu público.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "O texto adota um tom debochado e informal ('Kkkkkkkkkkkkk') para construir um ethos de desdém, enquanto utiliza a polifonia/ironia ao simular a narrativa do MBL como um 'desenho de super heróis' para ridicularizá-la.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-56",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciador constrói um juízo direto de valor, incitando o leitor e atribuindo culpa a um terceiro com base em sua própria avaliação social e moral, sem se apresentar como participante direto de um fato, testemunha presencial, observador de apuração jornalística ou autoridade técnica."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto utiliza o tom indignado e convocatório (ethos/fiador) e estabelece um enquadramento de denúncia/alerta público via redes sociais (cenografia) para validar a sua acusação."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto apela diretamente aos afetos e às necessidades do público ('vendo seus filhos passarem fome'), convocando-o expressamente a agir e se engajar contra o perfil indicado ('Entrem em contato com o playboyzinho')."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "A enunciação baseia-se em um juízo/avaliação moral e política do próprio autor do texto ('Esse é o verdadeiro apoiador de morticínio'), sem respaldo em apuração investigativa, testemunho presencial ou saber especialista declarados.",
+      "papel-enunciativo": "1.2.5 Mobilizador",
+      "papel-enunciativo-justificativa": "O enunciador atua precipuamente convocando e estimulando uma ação direta do público ('Entrem em contato com o playboyzinho'), demonstrando uma forte dimensão performativa e engajadora típica de ambientes digitais.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.4 Cenografia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Usa um tom visceral de indignação moral para construir um ethos de acusador/defensor dos marginalizados (2.1 Ethos e fiador) e emoldura o discurso sob a cenografia de uma convocação/alerta urgente de linchamento virtual (2.4 Cenografia).",
+      "papel-do-leitor": "3.6 Público a ser mobilizado"
+    }
+  },
+  {
+    "id": "kp-58",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciado adota uma posição essencialmente avaliativa e de emissão de juízo de valor contra o interlocutor/objeto, sem apresentar dados de apuração, conhecimento técnico, vivência factual ou acompanhamento continuado."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto utiliza tom acusatório/informal (ethos) para construir a autoridade do argumento e emprega a incorporação de ditados populares e do discurso do outro para confrontar sua coerência."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O discurso interpela o outro a partir de uma postura irônica e de conivência/confronto informal, partilhando subentendidos e ditos populares."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O trecho baseia-se estritamente em um julgamento e avaliação pessoal do enunciador ('Otário foi tu...'), sem apresentar marcas de vivência (testemunha), engajamento num fato narrado (participante), apuração (observador) ou autoridade técnica (especialista). Trata-se da posição residual de Comentarista.",
+      "papel-enunciativo": "1.2.3 Crítico-Monitor (ou Cão de Guarda)",
+      "papel-enunciativo-justificativa": "O enunciador atua de forma acusatória e fiscalizadora sobre a conduta e coerência do interlocutor ('pra quem fala tanto em estratégia... você tá o verdadeiro faça o que eu digo, não faça o que eu faço'), exercendo um papel de crítica/vigilância sobre a atitude alheia.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "A estratégia '2.1 Ethos e fiador' evidencia-se pelo tom informal, de confrontação direta e indignação, construindo uma postura de confrontador moral. A estratégia '2.3 Polifonia' manifesta-se no uso do dito popular 'faça o que eu digo, não faça o que eu faço' e no resgate do discurso do outro ('pra quem fala tanto em estratégia...'), ecoando a postura alheia para apontar contradição.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-59",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciado adota um tom estritamente opinativo e de julgamento sobre o estatuto de verdade de um fato e de um documento, expressando um juízo de valor/avaliação sem apresentar apuração própria, testemunho ou credencial técnica, culminando em uma provocação direta."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza a voz/ponto de vista de um interlocutor implícito para refutá-lo e utiliza o confronto com esse discurso alheio para validar sua própria tese."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "Ao utilizar a expressão irônica \"Lacra mais aí 'professor'\", o autor constrói uma cena de conivência e sarcasmo, tratando o leitor como um iniciado no debate do ambiente digital."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "Trata-se de uma posição residual, na qual o autor emite opiniões e julgamentos categóricos (\"O relatório não é falso\", \"O fato é apenas um\") sem fundamentar sua autoridade em vivência presencial, apuração ativa ou conhecimento especialista formal.",
+      "papel-enunciativo": "1.2.3 Crítico-Monitor (ou Cão de Guarda)",
+      "papel-enunciativo-justificativa": "O autor assume uma postura de vigilância e enfrentamento adversarial em relação à checagem ou aos discursos que circulam sobre o relatório do TCU, tensionando a interpretação dada aos fatos por terceiros.",
+      "estrategias-de-legitimacao": [
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Há presença acentuada de negação polêmica (\"O relatório não é falso, ele é verdadeiro\") e de ironia (\"Lacra mais aí 'professor'\"), que negam e ridicularizam pontos de vista e vozes implícitas no debate sem citá-los diretamente.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-60",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciador adota uma postura abertamente opinativa e julgadora sobre o comportamento de terceiros nas redes/debates (a defesa dogmática do liberalismo), fundamentando sua fala inteiramente em seu próprio juízo crítico, sem alegação de presença factual, apuração ou credencial técnica."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto faz uso expressivo do ethos/fiador (construindo uma postura de deboche, informalidade e desprendimento intelectual via rir e tom de conselho), polifonia (incorporando e ridicularizando a fala e o ponto de vista alheio sem citar alguém em particular: 'ninguém é liberal... Adam Smith ainda não foi implementado') e cenografia (emoldurando a fala como uma conversa informal/provocação direta nas redes sociais com 'Oh cara')."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O enunciador estabelece um laço de conivência e informalidade com o interlocutor ao utilizar risadas ('kkkkkkkkkkkk') e uma abordagem de proximidade ('Oh cara'), tratando o leitor como um igual dentro de um círculo de iniciados que compreendem o ridículo da situação narrada."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "Classifica-se como Comentarista por se tratar de um juízo/avaliação de caráter genérico e opinativo, sem marcas de ter sido testemunha, participante de evento, realizado apuração ou alegado expertise técnica formal sobre o tema.",
+      "papel-enunciativo": "1.2.4 Militante",
+      "papel-enunciativo-justificativa": "Classifica-se como Militante pois rompe expressamente com qualquer neutralidade, assumindo postura de combate e engajamento crítico e moral explícito contra o que considera 'dogma'.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia",
+        "2.4 Cenografia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "O texto usa Ethos e fiador (2.1) pelo tom de deboche e informalidade que constrói uma postura de desapego dogmático; Polifonia (2.3) ao simular e irromper a voz dos liberais ('alguém não é liberal...') para em seguida rebatê-la com riso; e Cenografia (2.4) por instaurar um enquadramento de bate-papo/alerta informal de redes sociais ('Oh cara, abandona o dogma').",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-62",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciado apresenta um julgamento direto de valor sobre o comportamento de um terceiro ('Bonin, que odeia Bolsonaro, deu a nota verdadeira...'), emitindo uma avaliação/juízo sem demonstrar apuração ativa, expertise técnica declarada ou presença no fato."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto utiliza a oposição de afetos/posicionamentos para conferir credibilidade à informação divulgada ('mesmo o Bonin... deu a nota verdadeira'), valendo-se da voz e autoridade atribuída a outro sujeito para respaldar a veracidade da afirmação."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "A fala apoia-se estritamente no juízo e avaliação pessoal do enunciador sobre a atitude do sujeito mencionado, sem respaldo de apuração formal, testemunho direto ou conhecimento técnico especializado.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "O enunciador atua selecionando e interpretando um acontecimento/atitude para atribuir-lhe sentido de validação ('nota verdadeira'), funcionando como um analista pontual do fato.",
+      "estrategias-de-legitimacao": [
+        "2.2 Discurso relatado",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "A estratégia 2.2 (Discurso relatado) manifesta-se pela menção e atribuição da 'nota verdadeira' a um terceiro ('Bonin'). A estratégia 2.3 (Polifonia) está presente na negação/concessão implícita do argumento: ao afirmar 'mesmo quem odeia deu a nota verdadeira', o enunciado evoca e neutraliza a expectativa oposta do leitor/adversário.",
+      "papel-do-leitor": null
+    }
+  },
+  {
+    "id": "kp-63",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciador adota uma postura reflexiva e opinativa sobre a concentração de capital e diversidade de pensamento na economia americana, assumindo uma posição de julgamento sem apresentar dados técnicos nem ter atuado no fato, além de incitar uma ação do público."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza aspas para citar diretamente uma declaração ou fala anterior (discurso relatado) a fim de embasar a reflexão proposta."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O enunciador faz um apelo direto ao público com 'Vale traduzir esse vídeo (quem puder é claro)', engajando os leitores a realizar uma ação colaborativa."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O enunciador expressa juízo de valor e sugestão ao público sem explicitar vivência própria, testemunho presencial ou apuração jornalística aprofundada.",
+      "papel-enunciativo": "1.2.5 Mobilizador",
+      "papel-enunciativo-justificativa": "Ao sugerir expressamente que o público traduza o vídeo ('Vale traduzir esse vídeo...'), o enunciador exerce uma função conativa, engajando e convocando os leitores para uma ação direta.",
+      "estrategias-de-legitimacao": [
+        "2.2 Discurso relatado"
+      ],
+      "estrategias-de-legitimacao-justificativa": "O texto faz uso de aspas para reproduzir um enunciado de terceiros (discurso relatado) como ponto de partida e suporte de autoridade argumentativa.",
+      "papel-do-leitor": "3.6 Público a ser mobilizado"
+    }
+  },
+  {
+    "id": "kp-64",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciador constrói sua autoridade e fala a partir do relato de suas próprias ações na rede (\"Compartilhei\"), da acusação a um veículo tradicional e do juízo de valor/cobrança explícita sobre um acontecimento público."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto utiliza diversas estratégias de legitimação discursiva, como a citação de outro portal de notícias como fonte legítima (discurso relatado/autoridade) e o tom moralizador/corretivo de cobrança por retratação (ethos)."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto mobiliza o leitor construindo uma relação pedagógica e de alerta sobre a suposta desinformação propagada pela imprensa tradicional."
+        }
+      ],
+      "posicao-sujeito": "1.1.1 - Participante",
+      "posicao-sujeito-justificativa": "O autor se coloca no lugar de agente afetado e ativo do próprio ato ao declarar explicitamente: \"Compartilhei uma FAKENEWS\". Ele não é apenas um observador ou testemunha passiva, mas participante direto da cadeia de repercussão do fato.",
+      "papel-enunciativo": "1.2.4 Militante",
+      "papel-enunciativo-justificativa": "O enunciador assume um engajamento explícito e uma postura combativa contra o jornal \"Estadão\", acusando-o de desinformação e exigindo desculpas público-morais (\"Espero que o Estadão se desculpe\").",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.2 Discurso relatado",
+        "2.5 Autoridade institucional"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Usa o tom de denúncia e honestidade pessoal/moral ao admitir o erro e cobrar a retratação do veículo (2.1 Ethos e fiador); apoia seu argumento no relato de informação vinda de outro veículo (2.2 Discurso relatado); e evoca a autoridade e o peso de uma instituição oficial ao citar o ministro do STF e a PGR para validar o fato narrado (2.5 Autoridade institucional).",
+      "papel-do-leitor": "3.5 Vítima da desinformação"
+    }
+  },
+  {
+    "id": "kp-65",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciado apresenta um viés opinativo e avaliativo ostensivo, sem marcas de apuração jornalística técnica, vivência ou testemunho factual, fundamentando a fala unicamente no juízo de valor do próprio enunciador."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto faz uso de marcas de tom, polifonia e enquadramento discursivo para construir credibilidade e chamar a atenção para a revelação de uma 'verdade oculta'."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O enunciado projeta o leitor como alguém que foi enganado por narrativas dominantes e precisa ter a verdade revelada a ele."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "Trata-se do padrão residual em que o enunciador fala como comentarista, embasando seu discurso no próprio juízo de valor e julgamento crítico, sem apresentar credenciais técnicas (especialista), apuração direta (observador) ou vivência (testemunha/participante).",
+      "papel-enunciativo": "1.2.4 Militante",
+      "papel-enunciativo-justificativa": "O enunciador atua como Militante ao romper totalmente com a neutralidade e assumir um engajamento político e moral explícito (com tom de denúncia e o uso de termos depreciativos/provocativos como 'Dilmo' e 'MALDADES').",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia",
+        "2.4 Cenografia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "2.1 Ethos e fiador: O tom apelativo, sensacionalista e o uso de caixa alta ('MADURO', 'VERDADEIRA', 'GLOBO', 'MALDADES') constroem um ethos de revelador destemido da verdade. 2.3 Polifonia: O texto dialoga de forma antagônica e reativa com narrativas alheias implícitas ('que a GLOBO e Dilmo ESCONDERAM'), refutando a versão da grande mídia e do governo para impor a sua. 2.4 Cenografia: Enquadra o discurso sob a cenografia do 'dossiê', uma revelação urgente e bombástica trazida ao público.",
+      "papel-do-leitor": "3.5 Vítima da desinformação"
+    }
+  },
+  {
+    "id": "kp-66",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciador abre o texto atestando ter acompanhado/ouvido diretamente os materiais em questão ('Eu ouvi todos os áudios') para realizar um julgamento crítico e indignado sobre os fatos relatados."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto utiliza o tom indignado e incisivo para construir um ethos de acusação e indignação moral, além de ancorar a autoridade da sua declaração no testemunho direto do material ('Eu ouvi todos os áudios')."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O enunciador interpela o leitor buscando gerar indignação coletiva e adesão moral à sua denúncia contra os agentes citados."
+        }
+      ],
+      "posicao-sujeito": "1.1.2 - Testemunha",
+      "posicao-sujeito-justificativa": "O enunciador utiliza a marca em primeira pessoa 'Eu ouvi todos os áudios' para atestar ter tido acesso direto e sensorial ao material (os áudios do fato), fundamentando sua fala nessa constatação pontual do ocorrido.",
+      "papel-enunciativo": "1.2.4 Militante",
+      "papel-enunciativo-justificativa": "O enunciador assume um claro engajamento e posicionamento político-moral, classificando atos como 'repugnantes' e acusando um grupo político de expor sua 'verdadeira face' em relação a minorias e grupos vulneráveis.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador"
+      ],
+      "estrategias-de-legitimacao-justificativa": "O tom indignado, incisivo e a escolha vocabular ('repugnantes', 'verdadeira face') constroem uma postura de julgamento moral direto que busca validar e dar autoridade à denúncia efetuada.",
+      "papel-do-leitor": "3.6 Público a ser mobilizado"
+    }
+  },
+  {
+    "id": "kp-68",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciador adota um posicionamento opinativo e avaliativo sobre uma votação/acontecimento político iminente, sem se apoiar em credenciais técnicas, vivência pessoal ou apuração factual sistemática, atuando como um comentarista político com forte carga de engajamento social e político."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O discurso busca legitimidade ao evocar dados quantitativos das redes sociais ('101k menções e 24h no ar'), utilizar um tom incisivo e provocativo (ethos) e criar oposições discursivas e polêmicas marcadas por termos pejorativos/ironias ('LULISTAS', 'lacaios do DIRCEU', 'Urnas de Veludo')."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto busca convocar e engajar diretamente o leitor, estimulando sua adesão ativa e tomada de posição ao enquadrar a situação como uma batalha existencial entre a 'Vontade do Povo' e as estruturas políticas."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O enunciador emite juízos de valor, expectativas e avaliações inflamadas sem apresentar provas de apuração, presença no local ou conhecimento especializado, caracterizando a posição residual de comentarista.",
+      "papel-enunciativo": "1.2.4 Militante",
+      "papel-enunciativo-justificativa": "A enunciação rompe completamente com a neutralidade, utilizando termos carregados ideologicamente ('lacaios', 'batalha') para defender uma causa e lado político explícitos.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Para a 2.1 Ethos e fiador, o autor mobiliza um tom de alerta, indignação e combate político para projetar autoridade moral. Para a 2.3 Polifonia, o texto contrapõe e ironiza discursos adversários implícitos ao nomear pejorativamente os atores políticos e opor a 'Vontade do Povo' às 'Urnas de Veludo'.",
+      "papel-do-leitor": "3.6 Público a ser mobilizado"
+    }
+  },
+  {
+    "id": "kp-69",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciador adota um posicionamento de intervenção política/militante, emitindo juízos de valor sem se respaldar em técnica jornalística ou apuração formal, enquanto adota uma função ostensiva de convocação do público."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O discurso mobiliza estratégias para orientar a conduta do leitor e legitimar sua autoridade moral por meio de imperativos, vocabulário informal e um tom de exortação/alerta."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto busca diretamente engajar o leitor para que este mude de postura e redirecione seu foco de ação militante/política."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O enunciador fala a partir do próprio juízo de valor e avaliação do cenário factual, sem invocar vivência pontual (testemunha), ter atuado diretamente no evento (participante), trazer checagem/apuração estruturada (observador) ou deter credencial técnica declarada (especialista).",
+      "papel-enunciativo": "1.2.5 Mobilizador",
+      "papel-enunciativo-justificativa": "O texto tem forte dimensão performativa e conativa, incitando o público a parar de atacar aliados ('CANCELAR e chamar de traidor') e mudar de atitude/alvo ('Mirem no alvo correto').",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.4 Cenografia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Mobiliza o ethos/fiador por meio de um tom de indignação, alerta pragmático e tom de exortação moral; e constrói uma cenografia de recado direto/alerta urgente à própria base militante ('até +', 'Olhem o caminho q alguns estão tomando').",
+      "papel-do-leitor": "3.6 Público a ser mobilizado"
+    }
+  },
+  {
+    "id": "kp-70",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto organiza o acontecimento sob a forma de um julgamento e enquadramento direto da cena política, sem apresentar apuração ativa, documentos, dados técnicos ou marcas de presença física."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto utiliza o enquadramento de oposição frontal entre dois blocos ideológicos para fazer ecoar discursos, vozes e posições políticas alheias sem citá-los diretamente."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "Ao simplificar a cena política em polos antagônicos por meio de alusões diretas, o texto pressupõe um conhecimento prévio e implícito do leitor sobre o cenário político, estabelecendo uma relação de conivência."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "Classifica-se como Comentarista por ser uma posição residual baseada no julgamento e enquadramento do autor sobre a disputa política, sem marcas de vivência, testemunho, apuração ou credencial técnica.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "Atua como Observador-Intérprete (ou Analista), pois seleciona, sintetiza e organiza os atores políticos em dois blocos antagônicos, atribuindo sentido interpretativo ao evento.",
+      "estrategias-de-legitimacao": [
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Apresenta Polifonia, visto que faz ressoar e confronta as vozes e posições de dois lados políticos ('defendendo o policial morto, a verdadeira vítima' versus o bloco oposto) sem utilizar marcas formais de citação ou discurso relatado.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-71",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciador avalia e caracteriza um fato recente ('protesto de ontem') emitindo um juízo de valor forte ao associar os atos de violência à 'verdadeira esquerda LULISTA', sem apresentar credenciais técnicas, vivência pessoal declarada ou apuração jornalística formal."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto utiliza tom indignado/moral e negação/pressuposição polêmica ao redefinir a 'verdadeira esquerda LULISTA' por meio da enumeração de atos de depredação e violência."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O leitor é convocado a compartilhar do mesmo diagnóstico e julgamento de valor prévio sobre os atos violentos do protesto e o grupo político citado."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "Trata-se da posição residual de comentarista. O enunciado expressa opinião e juízo de valor ('A quanto tempo não se via...', 'A verdadeira esquerda LULISTA voltou') sem relatar vivência pessoal (testemunha/participante), apuração com fontes (observador) ou domínio técnico explicitado (especialista).",
+      "papel-enunciativo": "1.2.3 Crítico-Monitor (ou Cão de Guarda)",
+      "papel-enunciativo-justificativa": "Atua com foco crítico-fiscalizador/adversarial ao denunciar e adjetivar as ações de determinado grupo político/manifestantes como violentas e depradações.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "2.1 Ethos e fiador: A legitimação se dá pelo tom de denúncia, gravidade e indignação diante das pichações e depredações. 2.3 Polifonia: O texto faz ecoar implicitamente o discurso de defesa dos protestos da esquerda para contrapô-lo, redefinindo o que seria 'a verdadeira esquerda' por meio da enumeração de atos violentos.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-72",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciador adota um posicionamento de avaliação e emissão de juízo crítico sobre as estratégias da 'esquerda' após atos de vandalismo em manifestações, assumindo uma função de vigília e crítica política direcionada a um grupo/instituição."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto constrói um tom de acusação e revelação com o intuito de denunciar o que chama de 'estratégias negacionistas', utilizando a ironia e a negação de discursos alheios para validar sua própria tese."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto estabelece uma relação de conivência com o leitor ao mobilizar expressões e julgamentos prévios sobre 'a verdadeira esquerda', visando à adesão ideológica e ao enquadramento do leitor como parte de um grupo iniciado ou cidadão indignado."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O enunciador atua como comentarista (posição residual), pois emite um juízo de valor e um diagnóstico de natureza política sem apresentar vivência pessoal, apuração jornalística com fontes/documentos ou credenciais técnicas explícitas.",
+      "papel-enunciativo": "1.2.3 Crítico-Monitor (ou Cão de Guarda)",
+      "papel-enunciativo-justificativa": "Classifica-se como Crítico-Monitor, pois exerce um papel de denúncia/patrulhamento adversarial direcionado a um campo político (a esquerda), acusando-o de lançar mão de 'estratégias negacionistas'.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Emprega Ethos e fiador (2.1) por meio de um tom categórico e contundente de desmascaramento, e Polifonia (2.3) ao enunciar e rebatê-las, em tom provocativo/irônico, as narrativas alheias (como a tese dos 'infiltrados' ou de que 'não foram manifestações do Lula') sem citar fontes diretas.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-74",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciado estabelece uma definição normativa e avaliativa sobre o que constitui a 'verdadeira independência' de um jornalista, valendo-se do próprio juízo de valor do enunciador para julgar a conduta profissional da categoria."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza um tom incisivo, prescritivo e categórico para construir uma persona de denúncia e contraponto crítico, além de recorrer à polifonia/negação polêmica ao confrontar o senso comum sobre a independência jornalística."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O enunciado interpela o leitor convidando-o a adotar um olhar crítico e desconfiado em relação ao ecossistema de mídia (especialmente a Globo), inserindo o público em um círculo de 'iniciados' que percebem quem é ou não 'independente de verdade'."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O enunciador opera como Comentarista, emitindo um juízo de valor e uma tese sobre a conduta jornalística, sem basear sua fala em vivência pessoal (participante/testemunha), apuração factual (observador) ou credencial técnica/acadêmica (especialista).",
+      "papel-enunciativo": "1.2.4 Militante",
+      "papel-enunciativo-justificativa": "Atua de forma Militante ao romper com a neutralidade e prescrever um dever-ser ético e político, conclamando o engajamento na denúncia contra o poder de um grupo de mídia ('botar o dedo na cara e denunciar tudo que a Globo está fazendo').",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Emprega Ethos e fiador por meio de um tom contundente e sem concessões ('botar o dedo na cara', 'Se protege... não é independente'), construindo um ethos de coragem e retidão moral. Utiliza Polifonia ao negar o discurso corrente de que a independência se mede apenas pela crítica ao governo ('não reside nas críticas que ele faz ao Lula...'), contrapondo-se a essa perspectiva implícita.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-76",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciado apresenta uma avaliação e interpretação concisa sobre a postura de um terceiro ('Sam') em relação à preocupação do PT, sem trazer marcas de vivência direta, testemunho sensorial, apuração documental/fontes explicitadas ou credenciais técnicas."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O jornalista assume a posição de Comentarista pois a autoridade do enunciado repousa sobre seu próprio juízo de valor e avaliação acerca do fato, sem respaldar-se em vivência pessoal, testemunho no local, apuração detalhada ou expertise técnica comprovada.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "Atua como Observador-Intérprete pois organiza e interpreta o sentido da realidade política narrada, atribuindo significado ao que seria a 'verdadeira preocupação' do partido.",
+      "estrategias-de-legitimacao": null,
+      "estrategias-de-legitimacao-justificativa": null,
+      "papel-do-leitor": null
+    }
+  },
+  {
+    "id": "kp-77",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciador adota uma postura interrogativa e avaliativa diante de uma denúncia de terceiro divulgada nas redes sociais, sem apresentar apuração própria, testemunho ou autoridade técnica."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O discurso faz uso de polifonia ao ecoar a fala do usuário do post linkado para problematizá-la e questioná-la, além de recorrer ao tom/estilo (ethos) do questionamento cético."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O sujeito atua como comentarista, emitindo um juízo rápido e levantando uma dúvida/provocação sobre a veracidade do fato narrado sem demonstrar apuração ativa (observador), ter vivenciado o fato (testemunha) ou ostentar credencial especialista.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "O sujeito atua como observador-intérprete, analisando a denúncia trazida pelo link e ponderando sobre a relevância/probabilidade dos fatos (atribuindo sentido e cobrando provas da alegação).",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Usa polifonia (2.3 Polifonia) ao trazer a fala/post de outro usuário para contestar/questionar implicitamente a falta de evidências, e constrói um ethos (2.1 Ethos e fiador) de sobriedade e ceticismo através de um tom provocativo e direto ('Acusação grave, caso seja verdadeira. Mas pq não colocou logo...?').",
+      "papel-do-leitor": null
+    }
+  },
+  {
+    "id": "kp-78",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O trecho emite um juízo de valor e uma avaliação crítica direta sobre a função do 'antagonista' e a conduta dos 'lavajatistas', sem apresentar marcas de vivência pessoal, presença sensorial, apuração de fontes/documentos ou credencial técnica declarada."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza escolhas de tom assertivo para construir autoridade moral (ethos) e faz ecoar/rebater implicitamente discursos e estratégias alheias sobre a imagem dos atores citados (polifonia)."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "Trata-se do padrão residual no qual a autoridade do enunciador repousa sobre seu próprio juízo e avaliação crítica, sem marcas de vivência, testemunho, apuração ou conhecimento técnico especializado.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "O jornalista atua interpretando os acontecimentos e atitudes políticas, atribuindo-lhes um sentido específico e buscando revelar a 'verdadeira natureza' dos envolvidos.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Para a estratégia 2.1 (Ethos e fiador), o tom incisivo e contundente constrói um ethos de revelador da verdade. Para a estratégia 2.3 (Polifonia), o texto pressupõe uma narrativa prévia sobre os 'lavajatistas' e a contrapõe à 'verdadeira natureza', trazendo de forma implícita o ponto de vista alheio para desconstruí-lo.",
+      "papel-do-leitor": null
+    }
+  },
+  {
+    "id": "kp-79",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O trecho expressa uma avaliação crítica e julgamento direto de cunho opinativo e sarcástico em um tom de confronto direto e vigilância/crítica às alianças políticas e midiáticas."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza estratégias estilísticas e polifônicas (ironia, confronto com discursos implícitos e deboche) para validar o argumento de que uma verdade oculta finalmente veio à tona."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O enunciador interpela o interlocutor estabelecendo uma dinâmica interpessoal direta, provocativa e irônica em tom de conivência e sarcasmo."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O enunciador emite um juízo de valor provocativo e satírico sem apresentar dados técnicos, apuração jornalística própria, acompanhamento distanciado ou ter vivenciado diretamente o fato factual como agente/testemunha.",
+      "papel-enunciativo": "1.2.3 Crítico-Monitor (ou Cão de Guarda)",
+      "papel-enunciativo-justificativa": "Atua de forma fiscalizadora e adversarial, criticando duramente as movimentações e alianças de atores políticos e veículos de imprensa.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Constrói um ethos irônico e informal por meio do tom sarcástico/provocativo ('Finalmente se assumiu né?') e faz uso de polifonia através da ironia para atacar posições e alianças do adversário sem citá-las formalmente.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-80",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciado é emitido de forma direta e pessoal ('Só posso falar', 'Bjaooo Renatinha'), onde o enunciador atua ativamente como participante de uma interação interpessoal, projetando no ano seguinte a intenção conjunta de 'dobrar a meta'."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza estratégias de construção do ethos através de um tom informal, afetuoso e coloquial ('Bjaooo', 'Renatinha'), além de operar cenograficamente ao simular uma conversa direta e íntima de cumprimento/agradecimento nas redes sociais."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "A linguagem afetiva e próxima constrói uma relação de cumplicidade e parceria interpessoal direta entre a enunciadora e sua interlocutora / leitor."
+        }
+      ],
+      "posicao-sujeito": "1.1.1 - Participante",
+      "posicao-sujeito-justificativa": "A enunciadora se coloca na primeira pessoa ('Só posso falar', 'vamos dobrar') como agente direta do afeto demonstrado e do compromisso/meta compartilhada para 2021, atuando plenamente no fato narrado.",
+      "papel-enunciativo": "1.2.5 Mobilizador",
+      "papel-enunciativo-justificativa": "O enunciado possui um viés engajador e convocatório ao projetar e incitar uma ação futura conjunta ('em 2021 vamos dobrar a meta').",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.4 Cenografia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "O texto legitima a mensagem através do ethos construído pelo tom descontraído e carinhoso ('Bjaooo Renatinha') e da cenografia de uma mensagem pessoal/troca de carinho pública em rede social.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-81",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciador adota um tom estritamente avaliativo e opinativo sobre o papel da Rede Globo e do governo, sem relatar um fato presenciado, apurado mediante fontes ou fundamentado em expertise técnica declarada."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto utiliza de ironia/analogia simplificada para contrapor posições políticas e instaurar uma forma pedagógica/incisiva de fala para sustentar seu argumento."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto interpela explicitamente o leitor pelo vocativo 'Cidadão', direcionando-se a ele enquanto sujeito da esfera pública e política."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O enunciador fala a partir do lugar de Comentarista, emitindo um juízo de valor e avaliação direta sem apresentar marcas de vivência, testemunho, apuração jornalística ou autoridade técnica declarada.",
+      "papel-enunciativo": "1.2.3 Crítico-Monitor (ou Cão de Guarda)",
+      "papel-enunciativo-justificativa": "Encaixa-se como Crítico-Monitor (ou Cão de Guarda), pois adota uma postura adversarial e de denúncia em relação a um grande veículo de imprensa e ao poder público (equiparando a emissora a um órgão de comunicação governamental).",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Apresenta Ethos e fiador (2.1) através de um tom incisivo e didático ao pretender 'explicar com uma regra de 3', e Polifonia (2.3) ao evocar e relacionar indiretamente os discursos e posições associados às figuras de Lula, Moro e Mainardi para construir seu argumento.",
+      "papel-do-leitor": "3.3 Cidadão"
+    }
+  },
+  {
+    "id": "kp-82",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciador reflete e descreve diretamente sua prática profissional de apuração e produção de conteúdo ('faço meu trabalho em cima do consórcio'), definindo seu lugar discursivo e seu papel diante da informação e do público."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto utiliza estratégias explícitas para garantir a credibilidade de suas afirmações, recorrendo a terceiros institucionais para validar seu próprio discurso perante o interlocutor."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O enunciador estabelece uma conversa direta e informal com o público, pressupondo um entendimento compartilhado sobre o funcionamento da imprensa e convocando o leitor a enxergar a estratégia por trás do seu trabalho."
+        }
+      ],
+      "posicao-sujeito": "1.1.1 - Participante",
+      "posicao-sujeito-justificativa": "O enunciador se coloca como Participante ao descrever ativamente sua própria prática de trabalho ('faço meu trabalho em cima do consórcio') para intervir na forma como o debate e as críticas ocorrem.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "O enunciador atua como Observador-Intérprete ao analisar de forma reflexiva o ecossistema de informação ('Fica parecendo q a informação verdadeira tem dono...') e fundamentar estrategicamente sua escolha metodológica com base nessa interpretação da realidade.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.5 Autoridade institucional"
+      ],
+      "estrategias-de-legitimacao-justificativa": "A estratégia 2.1 Ethos e fiador manifesta-se no tom informal, direto e confessional ('Fica parecendo q...', 'Por isso faço meu trabalho...'), construindo uma postura de transparência e pragmatismo. A estratégia 2.5 Autoridade institucional aparece na menção aos veículos consagrados ('Globo, FSP, Estadão'), utilizando o peso institucional dessas marcas como escudo para obrigar os opositores a aceitarem o mérito do fato.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-84",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciado adota uma posição de emissor em rede social/espaço opinativo que avalia e julga o cenário político-cultural e seus atores sem alegação de vivência direta, testemunho sensorial, apuração de fontes jornalísticas ou credencial técnica."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza um ethos provocativo/informal e recursos polifônicos e cenográficos para rotular adversários e validar sua crítica."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto pressupõe um leitor 'iniciado' no ecossistema político-virtual da época, capaz de compreender os códigos, neologismos e referências sem necessidade de explicações prévias."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O autor emite um juízo de valor e uma avaliação analítico-sarcástica sobre o cenário político e os críticos de Olavo de Carvalho sem apresentar apuração, testemunho presencial ou conhecimento técnico especializado.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "O enunciador atua mapeando e organizando os lados do debate ('Quem acha Olavo a pior coisa...', 'Novos adeptos...'), atribuindo sentido ao comportamento dos atores políticos ao diagnosticar o fenômeno ('a NandoMourizaçao tá completa').",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia",
+        "2.4 Cenografia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "A estratégia de ethos e fiador (2.1 Ethos e fiador) manifesta-se pelo tom irônico, ágil e informal típico de redes sociais; a polifonia (2.3 Polifonia) aparece ao encenar e ridicularizar a fala implícita do adversário ('chamando ele de traidor'); e a cenografia (2.4 Cenografia) emoldura o texto como um post/comentário rápido de arena virtual, legitimando a linguagem sintética e sarcástica.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-85",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciador constrói seu discurso através da emissão direta de juízos de valor e avaliações depreciativas sobre grupos políticos ('radicais histéricos', 'Picanheiros'), sem apresentar fatos, dados técnicos, testemunho ou apuração reportagística, adotando uma postura engajada e combativa na arena pública."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto faz uso acentuado do ethos (tom agressivo, irônico e indignado para sustentar uma persona de combate ao 'sistema') e da polifonia (uso de aspas irônicas em 'moderados' e 'verdadeira oposição', e negação/rebatimento implícito da narrativa hegemônica que pinta o brasileiro comum como extremista)."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto projeta o leitor como um aliado dentro de uma mesma bolha de referências e valores políticos, valendo-se do uso de termos pejorativos e irônicos de conhecimento prévio do público ('Picanheiros', 'consórcio') para firmar um laço de intimidade ideológica."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "Trata-se do padrão residual de Comentarista: o discurso baseia-se estritamente na opinião e avaliação do enunciador, sem indicar presença no fato, apuração investigativa ou autoridade técnica disciplinar.",
+      "papel-enunciativo": "1.2.4 Militante",
+      "papel-enunciativo-justificativa": "Atua como Militante, pois abandona a neutralidade para assumir um combate político e ideológico aberto, atacando adversários com adjetivações fortes e defendendo abertamente o 'brasileiro comum'.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Encaixa-se em 2.1 Ethos e fiador pelo tom combativo, informal e indignado que constrói uma postura de franqueza anti-estabelecimento; e em 2.3 Polifonia pelo uso de ironias e aspas ('moderados', 'verdadeira oposição') que ecoam e ridicularizam a voz dos opositores sem citá-los diretamente.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-86",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto apresenta um enunciador avaliando criticamente acontecimentos políticos e midiáticos, atribuindo juízo de valor aos fatos narrados e adotando um papel de vigilância e fiscalização das relações entre o poder público/judiciário e a imprensa."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O enunciado mobiliza o ethos discursivo (tom indignado e grave ao afirmar 'Isso é sério') e o recurso da polifonia via ironia e acusação implícita ('caixa preta', '#MamataConnection') para deslegitimar a relação entre os atores citados."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto interpela o leitor buscando engajamento direto e adesão ativa contra o cenário denunciado, especialmente marcados pelo uso de tom de alerta e de hashtag de protesto/mobilização."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O enunciador atua como comentarista, fundamentando o enunciado na emissão de seu próprio juízo de valor e avaliação crítica ('Isso é sério', 'casos absurdos', 'caixa preta'), sem apresentar apuração direta, credenciais de especialista, testemunho presencial ou participação factual.",
+      "papel-enunciativo": "1.2.3 Crítico-Monitor (ou Cão de Guarda)",
+      "papel-enunciativo-justificativa": "Predomina o papel de Crítico-Monitor (ou Cão de Guarda), uma vez que o enunciado exerce vigilância sobre figuras públicas, atuações judiciais e veículos/agentes de mídia ('relação Moro-Mainardi', vazamentos da Lava-Jato, variação da Bolsa).",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Usa Ethos e fiador através da abertura grave e indignada 'Isso é sério', construindo uma persona de alerta moral; e Polifonia mediante o uso de insinuação e tom sarcástico nas expressões 'caixa preta' e '#MamataConnection', fazendo ecoar discursos críticos alheios sem citação direta.",
+      "papel-do-leitor": "3.6 Público a ser mobilizado",
+      "papel-do-leitor-justificativa": "O leitor é projetado como Público a ser mobilizado, interpelado pelo tom de alerta de abertura ('Isso é sério') e incitado a engajar e aderir ativamente à tomada de posição por meio da hashtag '#MamataConnection'."
+    }
+  },
+  {
+    "id": "kp-87",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciador reflete diretamente sobre o seu próprio fazer e método de trabalho no jornalismo ('faço meu trabalho em cima do consórcio'), inscrevendo-se na situação discursiva e adotando um papel ativo diante do público e de outros veículos."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O enunciador mobiliza recursos específicos de tom e uso estratégico do discurso de grandes veículos de imprensa para blindar e dar autoridade à sua própria fala, forçando o leitor a entrar no mérito factual."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "Há uma interpelação direta ao leitor/interlocutor ('pq assim vcs perdem esse argumento'), projetando um público específico no debate e buscando uma relação de conivência e disputa argumentativa."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O jornalista/autor fala a partir do seu próprio juízo de valor e avaliação crítica sobre como a 'informação verdadeira' é tratada, usando sua escolha metodológica como uma posição reflexiva e opinativa (padrão residual de avaliação do próprio método/ambiente discursivo).",
+      "papel-enunciativo": "1.2.3 Crítico-Monitor (ou Cão de Guarda)",
+      "papel-enunciativo-justificativa": "Ao explicitar uma estratégia para desarmar narrativas e obrigar a discussão do mérito factual com base em grandes veículos, o enunciador atua com tom crítico, combativo e de fiscalização sobre o próprio ecossistema de informação e seus interlocutores.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia",
+        "2.5 Autoridade institucional"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Ethos e fiador (2.1) pela postura provocativa e convicta ('faço meu trabalho...'); Polifonia (2.3) ao antecipar e neutralizar o argumento alheio ('vcs perdem esse argumento'); e Autoridade institucional (2.5) ao utilizar estrategicamente a credibilidade de grandes veículos de imprensa ('Globo, FSP, Estadão, Veja') para validar a informação trazida.",
+      "papel-do-leitor": "3.4 Cúmplice",
+      "papel-do-leitor-justificativa": "O interlocutor ('vcs') é interpelado dentro de uma dinâmica de debate com subentendidos e provocação ('perdem esse argumento e são forçados a entrar no mérito'), criando um ambiente de cumplicidade/confronto direto entre aqueles que conhecem o jogo do ecossistema de mídia."
+    }
+  },
+  {
+    "id": "kp-88",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciador adota uma postura opinativa e avaliativa sem recorrer à apuração sistemática própria ou credenciais formais de especialista, opinando diretamente a partir da sua própria perspectiva e experiência pessoal citada."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto utiliza um tom informal, incisivo e provocativo (ethos) para construir credibilidade, além de fazer uma concessão/negação polêmica (polifonia) sobre a relação entre ideologia da fonte e veracidade da informação."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O enunciador interpela diretamente o leitor na segunda pessoa ('se você está...'), confrontando suas atitudes de consumo de informação e advertindo sobre as consequências de sua postura."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O sujeito enunciador fundamenta seu posicionamento em um juízo de valor pessoal e em um relato anedótico/pessoal ('descobri', 'achei'), sem demonstrar apuração ativa com fontes institucionais, vivência como testemunha do fato nem saber técnico/acadêmico.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "O enunciador atua interpretando o comportamento do público leitor diante das fontes de informação e prescrevendo como se deve avaliar a veracidade das notícias, assumindo uma função de reflexão/análise sobre a mediação da informação.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "2.1 Ethos e fiador: O estilo informal (uso de 'vc', tom direto, descontraído porém assertivo) constrói uma imagem de pragmatismo e discernimento prático. 2.3 Polifonia: O texto responde e rebate implicitamente o discurso comum de rejeição a fontes por seu viés político ('jornais de esquerda'), desconstruindo essa premissa através da ironia/concessão.",
+      "papel-do-leitor": "3.2 Aprendiz"
+    }
+  },
+  {
+    "id": "kp-5",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciado expressa um juízo de perplexidade e questionamento imediato sobre a veracidade de um fato, sem trazer dados de apuração, vivência presencial ou conhecimento técnico especializado."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza marcas estilísticas e tonais para provocar o leitor e ressoa ou rebate implicitamente um discurso ou acontecimento externo que provocou a dúvida."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "A interrogação direta e a perplexidade geram uma aproximação e cumplicidade imediata com o leitor diante do absurdo do evento questionado."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O enunciador fala exclusivamente a partir do seu próprio juízo e reação subjetiva/avaliativa diante de um acontecimento, sem apresentar marcas de presença física (testemunha), atuação (participante), apuração distanciada (observador) ou autoridade técnica (especialista).",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "O jornalista atua selecionando um fato e questionando sua plausibilidade e sentido, introduzindo uma postura de interpretação e atribuição de sentido sobre a realidade.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "O tom indignado/estupefato cria uma persona de espanto (2.1 Ethos e fiador), enquanto a pergunta 'Isso aqui é verdade?' e a negação 'Não é possível' dialogam de forma não atribuída diretamente com um enunciado/acontecimento exterior trazido para o texto (2.3 Polifonia).",
+      "papel-do-leitor": "3.4 Cúmplice",
+      "papel-do-leitor-justificativa": "O texto estabelece um laço de conivência e espanto compartilhado com o leitor, assumindo um conhecimento prévio não dito do fato absurdo e convidando-o a partilhar da mesma dúvida e incredulidade."
+    }
+  },
+  {
+    "id": "kp-27",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto (título/chamada de vídeo) opera a partir de um enquadramento analítico e opinativo sobre acontecimentos políticos e econômicos, com uso de ironia e sensacionalismo ('Dilmo', 'JAIR na MIRA?'), posicionando o enunciador como um avaliador de fatos públicos."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O enunciado mobiliza ironia, negação implícita e apelo de indignação/urgência para engajar e convencer o público sobre a gravidade dos fatos narrados."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto estabelece uma relação direta com o leitor/espectador ao atuar com uso de apelidos pejorativos ('Dilmo') e linguagem chamativa ('CAOS', 'na MIRA?'), buscando cumplicidade e engajamento imediato."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O enunciador fala a partir de juízos de valor, interrogações chamativas e termos irônicos, sem demonstrar apuração própria no local ou conhecimento técnico/especializado declamado.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "Sua função no texto é reunir e selecionar fatos da cena política e econômica ('LIGA pra Biden', 'Apagão', 'Confusão Lira-Haddad') para oferecer uma leitura dramatizada do cenário ao leitor.",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.3 Polifonia",
+        "2.4 Cenografia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "O tom indignado/provocativo constrói um ethos de combate e revelação da verdade (2.1); a ironia no uso do termo 'Dilmo' e a pergunta 'JAIR na MIRA?' fazem ecoar e criticar discursos alheios (2.3); e a estrutura da chamada em caixa alta gera uma cenografia de alerta/furo urgente (2.4).",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-45",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto apresenta um juízo direto e explicativo, sem recorrer a testemunho, apuração externa ou autoridade técnica."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto utiliza uma cenografia de conversa informal, marcada pelo uso da abreviação 'Pq', para estabelecer a proximidade."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O tom coloquial estabelece uma relação de horizontalidade e entendimento compartilhado com o interlocutor."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "A posição é de comentarista, pois a autoridade do enunciador repousa sobre seu próprio juízo ao explicar o fato, sem marcas explícitas de apuração, vivência factual ou expertise técnica declarada.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "O jornalista atua como observador-intérprete ao fornecer uma explicação que atribui sentido e organiza a informação para o leitor de maneira direta.",
+      "estrategias-de-legitimacao": [
+        "2.4 Cenografia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "A cenografia de um diálogo informal é instaurada pelo uso da abreviação 'Pq', simulando uma conversa entre pares, o que legitima o tom direto e descontraído da resposta.",
+      "papel-do-leitor": "3.1 Parceiro"
+    }
+  },
+  {
+    "id": "kp-52",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "Embora o texto não seja de natureza jornalística, ele se utiliza da cenografia de uma conversa informal para contextualizar e validar a inserção de sua dúvida na troca comunicativa."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O enunciado estabelece uma mediação discursiva direta com o seu interlocutor, interpelando-o de forma cooperativa para preencher uma lacuna de conhecimento."
+        }
+      ],
+      "posicao-sujeito": null,
+      "posicao-sujeito-justificativa": null,
+      "papel-enunciativo": null,
+      "papel-enunciativo-justificativa": null,
+      "estrategias-de-legitimacao": [
+        "2.4 Cenografia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "A abreviação 'vc' e a estruturação em formato de perguntas diretas instauram uma cenografia de conversa coloquial e horizontal, enquadrando o discurso no gênero de um diálogo/fórum informal.",
+      "papel-do-leitor": "3.1 Parceiro"
+    }
+  },
+  {
+    "id": "kp-57",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "Apesar de não ser um texto jornalístico tradicional, o autor se posiciona discursivamente como um avaliador de um acontecimento/produto cultural, emitindo juízos de valor a partir de sua interpretação pessoal."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O enunciador legitima sua opinião por meio da adoção de uma postura e de um tom específicos (ethos de fã) e de uma encenação típica de fóruns e redes sociais."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto estabelece uma relação direta de intimidade com o público-alvo, utilizando uma linguagem que requer conhecimentos prévios compartilhados."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "Encaixa-se como Comentarista, uma vez que o trecho é puramente uma avaliação e um juízo de gosto ('baita cara', 'um dos melhores', '10/10'), sem reivindicar autoridade técnica, testemunhal ou apurativa.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "Atua como Observador-Intérprete ao selecionar recortes específicos do episódio (a entrada no dojo, a explicação do estilo de luta, a ação com a espada) e organizá-los para justificar e atribuir sentido à sua nota máxima (10/10).",
+      "estrategias-de-legitimacao": [
+        "2.1 Ethos e fiador",
+        "2.4 Cenografia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "A estratégia predominante é o Ethos (2.1), construído por um tom passional, gírias ('desce o cacete', 'baita cara') e jargões da cultura pop ('main character'). Há também uma Cenografia (2.4) que emoldura o texto como uma conversa informal típica de fóruns de anime ou redes sociais, o que legitima a superficialidade e a emoção do discurso.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  },
+  {
+    "id": "kp-61",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciado apresenta um comentário informal e opinativo sobre a percepção de um terceiro em relação a personagens de uma série, acompanhado da indicação de um vídeo de apoio, sem marcas de apuração jornalística, vivência direta ou conhecimento especializado."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto busca conferir autoridade à sua afirmação ao mencionar e disponibilizar o link de uma fonte externa (um vídeo no YouTube que 'explica passo a passo')."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O texto pressupõe um leitor familiarizado com os personagens e a trama da série Cobra Kai, estabelecendo um diálogo informal sustentado no repertório cultural compartilhado."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O enunciador emite um juízo/observação genérica sobre a percepção de um sujeito a respeito de uma obra de ficção, sem recorrer a vivência (participante/testemunha), apuração jornalística (observador) ou credencial técnica/teórica declarada (especialista).",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "O enunciador atua selecionando e organizando um fato/conteúdo (o vídeo e a percepção de Flávio) para atribuir sentido ao comportamento das personagens da série frente ao público.",
+      "estrategias-de-legitimacao": [
+        "2.2 Discurso relatado"
+      ],
+      "estrategias-de-legitimacao-justificativa": "O texto recorre ao discurso/conteúdo de terceiros (o vídeo do YouTube que 'explica passo a passo') como recurso externo para sustentar a tese de que a personagem Samantha é a responsável pelo caos na série.",
+      "papel-do-leitor": "3.4 Cúmplice",
+      "papel-do-leitor-justificativa": "Constrói-se uma relação de conivência e cumplicidade com o leitor a partir do compartilhamento de referências e saberes prévios não ditos sobre o universo ficcional da série ('Cobra Kai', 'Samantha')."
+    }
+  },
+  {
+    "id": "kp-67",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O texto apresenta um posicionamento opinativo e interpretativo sobre um embate político e militar, com marcas de juízo de valor e especulação discursiva sem apresentar apuração técnica própria ou testemunho direto."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto utiliza termos de forte apelo ('Dossiê', 'A Verdadeira MOTIVAÇÃO', 'na Mira?') para construir uma cenografia de revelação exclusiva e segredo desvendado."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "O enunciado interpela o leitor/espectador estimulando engajamento e tomada de posição diante de um cenário de tensão e embate político."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O sujeito enunciador atua como comentarista, emitindo juízos e avaliações sobre o cenário político ('Verdadeira MOTIVAÇÃO', 'na Mira?'), sem comprovar ou declarar vivência, testemunho direto, apuração jornalística de fontes ou conhecimento técnico disciplinar específico.",
+      "papel-enunciativo": "1.2.1 Observador-Intérprete (ou Analista)",
+      "papel-enunciativo-justificativa": "Funciona como Observador-Intérprete (Analista), pois busca atribuir um sentido 'verdadeiro' ou oculto aos acontecimentos, selecionando elementos do cenário político e militar para oferecer uma chave explicativa ao público.",
+      "estrategias-de-legitimacao": [
+        "2.4 Cenografia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "Emprega a cenografia ao emoldurar o enunciado sob o formato de 'Dossiê' e 'revelação de bastidores' ('A Verdadeira MOTIVAÇÃO'), criando um enquadramento de denúncia e urgência para conferir autoridade ao que é dito.",
+      "papel-do-leitor": "3.6 Público a ser mobilizado"
+    }
+  },
+  {
+    "id": "kp-75",
+    "resposta_json": {
+      "categorias": [
+        {
+          "categoria": "CATEGORIA 1 - Posicionamento do sujeito jornalista",
+          "justificativa": "O enunciado adota uma postura puramente opinativa e satírica, emitindo juízo de valor provocativo sem apresentar marcas de vivência (testemunho), engajamento direto nos fatos narrados (participante), apuração jornalística (observador) ou credencial técnica (especialista). Atua como militante ao manifestar posicionamento político e ideológico explícito, direcionando uma crítica sarcástica e irônica a determinado grupo político e a seus eleitores."
+        },
+        {
+          "categoria": "CATEGORIA 2 - Estratégias de legitimação",
+          "justificativa": "O texto mobiliza intensamente a polifonia através da ironia, da negação e de slogans associados ao discurso do adversário político (como 'o amor venceu' e 'faz o L'). Ao antecipar e simular imperativos sarcásticos ('engole o choro', 'vai no médico'), o enunciador faz ecoar o discurso alheio para ridicularizá-lo e refutá-lo moralmente."
+        },
+        {
+          "categoria": "CATEGORIA 3 - Mediação discursiva e relação com o público",
+          "justificativa": "A enunciação estabelece um laço de conivência e cumplicidade com o público que compartilha do mesmo espectro ideológico, recorrendo ao sarcasmo, a termos pejorativos informais ('Picanheiros') e referências implícitas da cultura política/meme que exigem conhecimentos prévios do 'círculo de iniciados' para fazerem sentido."
+        }
+      ],
+      "posicao-sujeito": "1.1.5 - Comentarista",
+      "posicao-sujeito-justificativa": "O enunciador fala exclusivamente a partir do seu próprio juízo de valor e avaliação opinativa, sem reivindicar presença nos fatos, apuração jornalística ou expertise técnica.",
+      "papel-enunciativo": "1.2.4 Militante",
+      "papel-enunciativo-justificativa": "O discurso abandona a pretensão de neutralidade e assume engajamento político e ideológico explícito de oposição, utilizando o texto para atacar um campo político rival.",
+      "estrategias-de-legitimacao": [
+        "2.3 Polifonia"
+      ],
+      "estrategias-de-legitimacao-justificativa": "A validação do argumento repousa na ironia e no eco sarcástico de enunciados do discurso adverso (como 'faz o L' e 'o amor venceu'), caracterizando o uso do recurso polifônico.",
+      "papel-do-leitor": "3.4 Cúmplice"
+    }
+  }
+]

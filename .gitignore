@@ -1,0 +1,5 @@
+node_modules
+chrome-profile
+.venv
+planilhas-colunista/.venv
+planilhas-colunista/node_modules

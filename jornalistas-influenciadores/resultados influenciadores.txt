@@ -1,0 +1,905 @@
+--- Distribuição da Posição-sujeito na Categoria: 'CATEGORIA 1 — VERDADE COMO FUNDAMENTO IDENTITÁRIO, NORMATIVO E EPISTÊMICO DA PROFISSÃO' ---
+Total de textos únicos analisados: 30
+
+index,Index,Posição-sujeito / Autor,Quantidade,Porcentagem (%)
+0,0,1.1.5 - Comentarista,25,83.33
+1,0_a1,Rose D Barros,8,26.67
+2,0_a2,Reinaldo Azevedo,6,20.0
+3,0_a3,Kim Paim,5,16.67
+4,0_a4,Guga Noblat,3,10.0
+5,0_a5,Thiago dos Reis,3,10.0
+6,1,1.1.1 - Participante,2,6.67
+7,1_a1,Kim Paim,1,3.33
+8,1_a2,Reinaldo Azevedo,1,3.33
+9,2,1.1.3 - Observador,3,10.0
+10,2_a1,Rose D Barros,3,10.0
+
+
+--- Distribuição do Papel Enunciativo na Categoria: 'CATEGORIA 1 — VERDADE COMO FUNDAMENTO IDENTITÁRIO, NORMATIVO E EPISTÊMICO DA PROFISSÃO' ---
+Total de textos únicos analisados: 30
+
+index,Index,Papel Enunciativo / Autor,Quantidade,Porcentagem (%)
+0,0,1.2.1 Observador-Intérprete (ou Analista),21,70.0
+1,0_a1,Rose D Barros,10,33.33
+2,0_a2,Guga Noblat,3,10.0
+3,0_a3,Kim Paim,3,10.0
+4,0_a4,Thiago dos Reis,3,10.0
+5,0_a5,Reinaldo Azevedo,2,6.67
+6,1,1.2.4 Militante,3,10.0
+7,1_a1,Kim Paim,2,6.67
+8,1_a2,Rose D Barros,1,3.33
+9,2,1.2.5 Mobilizador,1,3.33
+10,2_a1,Kim Paim,1,3.33
+11,3,1.2.3 Crítico-Monitor (ou Cão de Guarda),5,16.67
+12,3_a1,Reinaldo Azevedo,5,16.67
+
+
+
+--- Distribuição das Estratégias na Categoria: 'CATEGORIA 1 — VERDADE COMO FUNDAMENTO IDENTITÁRIO, NORMATIVO E EPISTÊMICO DA PROFISSÃO' ---
+Total de textos únicos analisados: 32
+(Nota: A soma das porcentagens pode ultrapassar 100% pois um texto pode conter múltiplas estratégias)
+
+index,Index,Estratégia / Autor,Quantidade,Porcentagem (%)
+0,0,2.3 Polifonia,13,40.62
+1,0_a1,Reinaldo Azevedo,6,18.75
+2,0_a2,Rose D Barros,3,9.38
+3,0_a3,Guga Noblat,2,6.25
+4,0_a4,Kim Paim,1,3.12
+5,0_a5,Thiago dos Reis,1,3.12
+6,1,2.1 Ethos e fiador,17,53.12
+7,1_a1,Reinaldo Azevedo,7,21.88
+8,1_a2,Rose D Barros,4,12.5
+9,1_a3,Kim Paim,4,12.5
+10,1_a4,Guga Noblat,1,3.12
+11,1_a5,Thiago dos Reis,1,3.12
+12,2,2.4 Cenografia,5,15.62
+13,2_a1,Kim Paim,3,9.38
+14,2_a2,Reinaldo Azevedo,1,3.12
+15,2_a3,Rose D Barros,1,3.12
+16,3,2.2 Discurso relatado,2,6.25
+17,3_a1,Kim Paim,2,6.25
+18,4,2.5 Autoridade institucional,2,6.25
+19,4_a1,Kim Paim,1,3.12
+20,4_a2,Reinaldo Azevedo,1,3.12
+
+
+
+
+--- Distribuição do Papel do Leitor na Categoria: 'CATEGORIA 1 — VERDADE COMO FUNDAMENTO IDENTITÁRIO, NORMATIVO E EPISTÊMICO DA PROFISSÃO' ---
+Total de textos únicos analisados: 21
+
+index,Index,Papel do Leitor / Autor,Quantidade,Porcentagem (%)
+0,0,3.2 Aprendiz,3,14.29
+1,0_a1,Rose D Barros,2,9.52
+2,0_a2,Kim Paim,1,4.76
+3,1,3.6 Público a ser mobilizado,3,14.29
+4,1_a1,Kim Paim,2,9.52
+5,1_a2,Rose D Barros,1,4.76
+6,2,3.1 Parceiro,7,33.33
+7,2_a1,Rose D Barros,3,14.29
+8,2_a2,Kim Paim,2,9.52
+9,2_a3,Reinaldo Azevedo,1,4.76
+10,2_a4,Thiago dos Reis,1,4.76
+11,3,3.4 Cúmplice,5,23.81
+12,3_a1,Reinaldo Azevedo,3,14.29
+13,3_a2,Kim Paim,2,9.52
+14,4,3.3 Cidadão,3,14.29
+15,4_a1,Reinaldo Azevedo,2,9.52
+16,4_a2,Thiago dos Reis,1,4.76
+
+
+
+
+
+--- Distribuição da Posição-sujeito na Subcategoria: '1.1 Verdade como missão profissional' ---
+Total de textos únicos analisados: 2
+
+index,Index,Posição-sujeito / Autor,Quantidade,Porcentagem (%)
+0,0,1.1.5 - Comentarista,2,100.0
+1,0_a1,Rose D Barros,1,50.0
+2,0_a2,Thiago dos Reis,1,50.0
+
+
+
+
+--- Distribuição do Papel Enunciativo na Subcategoria: '1.1 Verdade como missão profissional' ---
+Total de textos únicos analisados: 2
+
+index,Index,Papel Enunciativo / Autor,Quantidade,Porcentagem (%)
+0,0,1.2.1 Observador-Intérprete (ou Analista),2,100.0
+1,0_a1,Rose D Barros,1,50.0
+2,0_a2,Thiago dos Reis,1,50.0
+
+
+
+
+Nenhum dado encontrado para '1.1 Verdade como missão profissional' na coluna 'estrategias-de-legitimacao'.
+
+
+
+--- Distribuição do Papel do Leitor na Subcategoria: '1.1 Verdade como missão profissional' ---
+Total de textos únicos analisados: 1
+
+index,Index,Papel do Leitor / Autor,Quantidade,Porcentagem (%)
+0,0,3.1 Parceiro,1,100.0
+1,0_a1,Thiago dos Reis,1,100.0
+
+
+
+
+--- Distribuição da Posição-sujeito na Subcategoria: '1.2 Verdade como problema epistemológico' ---
+Total de textos únicos analisados: 23
+
+index,Index,Posição-sujeito / Autor,Quantidade,Porcentagem (%)
+0,0,1.1.5 - Comentarista,18,78.26
+1,0_a1,Rose D Barros,7,30.43
+2,0_a2,Reinaldo Azevedo,4,17.39
+3,0_a3,Kim Paim,3,13.04
+4,0_a4,Guga Noblat,2,8.7
+5,0_a5,Thiago dos Reis,2,8.7
+6,1,1.1.1 - Participante,2,8.7
+7,1_a1,Kim Paim,1,4.35
+8,1_a2,Reinaldo Azevedo,1,4.35
+9,2,1.1.3 - Observador,3,13.04
+10,2_a1,Rose D Barros,3,13.04
+
+
+
+
+--- Distribuição do Papel Enunciativo na Subcategoria: '1.2 Verdade como problema epistemológico' ---
+Total de textos únicos analisados: 23
+
+index,Index,Papel Enunciativo / Autor,Quantidade,Porcentagem (%)
+0,0,1.2.1 Observador-Intérprete (ou Analista),17,73.91
+1,0_a1,Rose D Barros,9,39.13
+2,0_a2,Kim Paim,3,13.04
+3,0_a3,Guga Noblat,2,8.7
+4,0_a4,Thiago dos Reis,2,8.7
+5,0_a5,Reinaldo Azevedo,1,4.35
+6,1,1.2.4 Militante,2,8.7
+7,1_a1,Kim Paim,1,4.35
+8,1_a2,Rose D Barros,1,4.35
+9,2,1.2.3 Crítico-Monitor (ou Cão de Guarda),4,17.39
+10,2_a1,Reinaldo Azevedo,4,17.39
+
+
+
+
+--- Distribuição das Estratégias na Subcategoria: '1.2 Verdade como problema epistemológico' ---
+Total de textos únicos analisados: 25
+(Nota: A soma das porcentagens pode ultrapassar 100% pois um texto pode conter múltiplas estratégias)
+
+index,Index,Estratégia / Autor,Quantidade,Porcentagem (%)
+0,0,2.3 Polifonia,10,40.0
+1,0_a1,Reinaldo Azevedo,4,16.0
+2,0_a2,Rose D Barros,3,12.0
+3,0_a3,Guga Noblat,2,8.0
+4,0_a4,Thiago dos Reis,1,4.0
+5,1,2.1 Ethos e fiador,14,56.0
+6,1_a1,Reinaldo Azevedo,5,20.0
+7,1_a2,Rose D Barros,4,16.0
+8,1_a3,Kim Paim,3,12.0
+9,1_a4,Guga Noblat,1,4.0
+10,1_a5,Thiago dos Reis,1,4.0
+11,2,2.4 Cenografia,4,16.0
+12,2_a1,Kim Paim,3,12.0
+13,2_a2,Rose D Barros,1,4.0
+14,3,2.2 Discurso relatado,1,4.0
+15,3_a1,Kim Paim,1,4.0
+16,4,2.5 Autoridade institucional,2,8.0
+17,4_a1,Kim Paim,1,4.0
+18,4_a2,Reinaldo Azevedo,1,4.0
+
+
+
+
+
+--- Distribuição do Papel do Leitor na Subcategoria: '1.2 Verdade como problema epistemológico' ---
+Total de textos únicos analisados: 17
+
+index,Index,Papel do Leitor / Autor,Quantidade,Porcentagem (%)
+0,0,3.2 Aprendiz,3,17.65
+1,0_a1,Rose D Barros,2,11.76
+2,0_a2,Kim Paim,1,5.88
+3,1,3.6 Público a ser mobilizado,2,11.76
+4,1_a1,Kim Paim,1,5.88
+5,1_a2,Rose D Barros,1,5.88
+6,2,3.1 Parceiro,6,35.29
+7,2_a1,Rose D Barros,3,17.65
+8,2_a2,Kim Paim,2,11.76
+9,2_a3,Reinaldo Azevedo,1,5.88
+10,3,3.4 Cúmplice,3,17.65
+11,3_a1,Reinaldo Azevedo,2,11.76
+12,3_a2,Kim Paim,1,5.88
+13,4,3.3 Cidadão,3,17.65
+14,4_a1,Reinaldo Azevedo,2,11.76
+15,4_a2,Thiago dos Reis,1,5.88
+
+
+
+
+--- Distribuição da Posição-sujeito na Subcategoria: '1.3 Verdade, valores profissionais e fronteiras do campo' ---
+Total de textos únicos analisados: 5
+
+index,Index,Posição-sujeito / Autor,Quantidade,Porcentagem (%)
+0,0,1.1.5 - Comentarista,5,100.0
+1,0_a1,Kim Paim,2,40.0
+2,0_a2,Reinaldo Azevedo,2,40.0
+3,0_a3,Guga Noblat,1,20.0
+
+
+
+
+--- Distribuição do Papel Enunciativo na Subcategoria: '1.3 Verdade, valores profissionais e fronteiras do campo' ---
+Total de textos únicos analisados: 5
+
+index,Index,Papel Enunciativo / Autor,Quantidade,Porcentagem (%)
+0,0,1.2.1 Observador-Intérprete (ou Analista),2,40.0
+1,0_a1,Guga Noblat,1,20.0
+2,0_a2,Reinaldo Azevedo,1,20.0
+3,1,1.2.5 Mobilizador,1,20.0
+4,1_a1,Kim Paim,1,20.0
+5,2,1.2.4 Militante,1,20.0
+6,2_a1,Kim Paim,1,20.0
+7,3,1.2.3 Crítico-Monitor (ou Cão de Guarda),1,20.0
+8,3_a1,Reinaldo Azevedo,1,20.0
+
+
+
+
+--- Distribuição das Estratégias na Subcategoria: '1.3 Verdade, valores profissionais e fronteiras do campo' ---
+Total de textos únicos analisados: 5
+(Nota: A soma das porcentagens pode ultrapassar 100% pois um texto pode conter múltiplas estratégias)
+
+index,Index,Estratégia / Autor,Quantidade,Porcentagem (%)
+0,0,2.2 Discurso relatado,1,20.0
+1,0_a1,Kim Paim,1,20.0
+2,1,2.1 Ethos e fiador,3,60.0
+3,1_a1,Reinaldo Azevedo,2,40.0
+4,1_a2,Kim Paim,1,20.0
+5,2,2.3 Polifonia,3,60.0
+6,2_a1,Reinaldo Azevedo,2,40.0
+7,2_a2,Kim Paim,1,20.0
+8,3,2.4 Cenografia,1,20.0
+9,3_a1,Reinaldo Azevedo,1,20.0
+
+
+
+
+--- Distribuição do Papel do Leitor na Subcategoria: '1.3 Verdade, valores profissionais e fronteiras do campo' ---
+Total de textos únicos analisados: 3
+
+index,Index,Papel do Leitor / Autor,Quantidade,Porcentagem (%)
+0,0,3.6 Público a ser mobilizado,1,33.33
+1,0_a1,Kim Paim,1,33.33
+2,1,3.4 Cúmplice,2,66.67
+3,1_a1,Kim Paim,1,33.33
+4,1_a2,Reinaldo Azevedo,1,33.33
+
+
+
+
+--- Distribuição da Posição-sujeito na Categoria: 'CATEGORIA 2 — VERDADE, SOCIEDADE E DEMOCRACIA' ---
+Total de textos únicos analisados: 6
+
+index,Index,Posição-sujeito / Autor,Quantidade,Porcentagem (%)
+0,0,1.1.5 - Comentarista,5,83.33
+1,0_a1,Guga Noblat,4,66.67
+2,0_a2,Rose D Barros,1,16.67
+3,1,1.1.3 - Observador,1,16.67
+4,1_a1,Rose D Barros,1,16.67
+
+
+
+
+--- Distribuição do Papel Enunciativo na Categoria: 'CATEGORIA 2 — VERDADE, SOCIEDADE E DEMOCRACIA' ---
+Total de textos únicos analisados: 6
+
+index,Index,Papel Enunciativo / Autor,Quantidade,Porcentagem (%)
+0,0,1.2.4 Militante,3,50.0
+1,0_a1,Guga Noblat,3,50.0
+2,1,1.2.3 Crítico-Monitor (ou Cão de Guarda),1,16.67
+3,1_a1,Guga Noblat,1,16.67
+4,2,1.2.1 Observador-Intérprete (ou Analista),2,33.33
+5,2_a1,Rose D Barros,2,33.33
+
+
+
+
+--- Distribuição das Estratégias na Categoria: 'CATEGORIA 2 — VERDADE, SOCIEDADE E DEMOCRACIA' ---
+Total de textos únicos analisados: 6
+(Nota: A soma das porcentagens pode ultrapassar 100% pois um texto pode conter múltiplas estratégias)
+
+index,Index,Estratégia / Autor,Quantidade,Porcentagem (%)
+0,0,2.1 Ethos e fiador,4,66.67
+1,0_a1,Guga Noblat,4,66.67
+2,1,2.3 Polifonia,4,66.67
+3,1_a1,Guga Noblat,4,66.67
+4,2,2.4 Cenografia,1,16.67
+5,2_a1,Guga Noblat,1,16.67
+6,3,2.2 Discurso relatado,1,16.67
+7,3_a1,Rose D Barros,1,16.67
+
+
+
+
+--- Distribuição do Papel do Leitor na Categoria: 'CATEGORIA 2 — VERDADE, SOCIEDADE E DEMOCRACIA' ---
+Total de textos únicos analisados: 5
+
+index,Index,Papel do Leitor / Autor,Quantidade,Porcentagem (%)
+0,0,3.6 Público a ser mobilizado,2,40.0
+1,0_a1,Guga Noblat,2,40.0
+2,1,3.3 Cidadão,2,40.0
+3,1_a1,Guga Noblat,1,20.0
+4,1_a2,Rose D Barros,1,20.0
+5,2,3.4 Cúmplice,1,20.0
+6,2_a1,Guga Noblat,1,20.0
+
+
+
+
+--- Distribuição da Posição-sujeito na Categoria: 'CATEGORIA 3 — VERDADE E MÉTODOS DE APURAÇÃO' ---
+Total de textos únicos analisados: 15
+
+index,Index,Posição-sujeito / Autor,Quantidade,Porcentagem (%)
+0,0,1.1.5 - Comentarista,5,33.33
+1,0_a1,Reinaldo Azevedo,2,13.33
+2,0_a2,Kim Paim,1,6.67
+3,0_a3,Rose D Barros,1,6.67
+4,0_a4,Thiago dos Reis,1,6.67
+5,1,1.1.3 - Observador,10,66.67
+6,1_a1,Rose D Barros,10,66.67
+
+
+
+
+--- Distribuição do Papel Enunciativo na Categoria: 'CATEGORIA 3 — VERDADE E MÉTODOS DE APURAÇÃO' ---
+Total de textos únicos analisados: 15
+
+index,Index,Papel Enunciativo / Autor,Quantidade,Porcentagem (%)
+0,0,1.2.1 Observador-Intérprete (ou Analista),14,93.33
+1,0_a1,Rose D Barros,10,66.67
+2,0_a2,Reinaldo Azevedo,2,13.33
+3,0_a3,Kim Paim,1,6.67
+4,0_a4,Thiago dos Reis,1,6.67
+5,1,1.2.5 Mobilizador,1,6.67
+6,1_a1,Rose D Barros,1,6.67
+
+
+
+
+--- Distribuição das Estratégias na Categoria: 'CATEGORIA 3 — VERDADE E MÉTODOS DE APURAÇÃO' ---
+Total de textos únicos analisados: 15
+(Nota: A soma das porcentagens pode ultrapassar 100% pois um texto pode conter múltiplas estratégias)
+
+index,Index,Estratégia / Autor,Quantidade,Porcentagem (%)
+0,0,2.1 Ethos e fiador,7,46.67
+1,0_a1,Rose D Barros,4,26.67
+2,0_a2,Kim Paim,1,6.67
+3,0_a3,Reinaldo Azevedo,1,6.67
+4,0_a4,Thiago dos Reis,1,6.67
+5,1,2.3 Polifonia,5,33.33
+6,1_a1,Rose D Barros,3,20.0
+7,1_a2,Kim Paim,1,6.67
+8,1_a3,Reinaldo Azevedo,1,6.67
+9,2,2.2 Discurso relatado,5,33.33
+10,2_a1,Rose D Barros,5,33.33
+11,3,2.5 Autoridade institucional,2,13.33
+12,3_a1,Rose D Barros,1,6.67
+13,3_a2,Thiago dos Reis,1,6.67
+
+
+
+
+--- Distribuição do Papel do Leitor na Categoria: 'CATEGORIA 3 — VERDADE E MÉTODOS DE APURAÇÃO' ---
+Total de textos únicos analisados: 8
+
+index,Index,Papel do Leitor / Autor,Quantidade,Porcentagem (%)
+0,0,3.2 Aprendiz,2,25.0
+1,0_a1,Kim Paim,1,12.5
+2,0_a2,Rose D Barros,1,12.5
+3,1,3.3 Cidadão,2,25.0
+4,1_a1,Reinaldo Azevedo,1,12.5
+5,1_a2,Rose D Barros,1,12.5
+6,2,3.5 Vítima da desinformação,2,25.0
+7,2_a1,Rose D Barros,2,25.0
+8,3,3.6 Público a ser mobilizado,2,25.0
+9,3_a1,Rose D Barros,1,12.5
+10,3_a2,Thiago dos Reis,1,12.5
+
+
+
+
+--- Tabela: Posição-sujeito na Categoria 4 do Conteúdo ---
+Total de textos únicos analisados: 526
+
+index,Index,Posição-sujeito,Quantidade,Porcentagem (%)
+0,0,1.1.5 - Comentarista,445,84.6
+1,0_a1,Thiago dos Reis,125,23.76
+2,0_a2,Guga Noblat,97,18.44
+3,0_a3,Reinaldo Azevedo,93,17.68
+4,0_a4,Kim Paim,68,12.93
+5,0_a5,Rose D Barros,62,11.79
+6,1,1.1.1 - Participante,19,3.61
+7,1_a1,Guga Noblat,5,0.95
+8,1_a2,Kim Paim,4,0.76
+9,1_a3,Reinaldo Azevedo,4,0.76
+10,1_a4,Rose D Barros,3,0.57
+11,1_a5,Thiago dos Reis,3,0.57
+12,2,1.1.3 - Observador,59,11.22
+13,2_a1,Rose D Barros,45,8.56
+14,2_a2,Guga Noblat,8,1.52
+15,2_a3,Reinaldo Azevedo,3,0.57
+16,2_a4,Thiago dos Reis,2,0.38
+17,2_a5,Kim Paim,1,0.19
+18,3,1.1.2 - Testemunha,3,0.57
+19,3_a1,Thiago dos Reis,2,0.38
+20,3_a2,Kim Paim,1,0.19
+
+
+
+
+--- Distribuição do Papel Enunciativo na Categoria de Conteúdo: 'CATEGORIA 4' ---
+Total de textos únicos analisados: 526
+
+index,Index,Papel Enunciativo / Autor,Quantidade,Porcentagem (%)
+0,0,1.2.1 Observador-Intérprete (ou Analista),198,37.64
+1,0_a1,Rose D Barros,65,12.36
+2,0_a2,Guga Noblat,52,9.89
+3,0_a3,Reinaldo Azevedo,38,7.22
+4,0_a4,Kim Paim,28,5.32
+5,0_a5,Thiago dos Reis,15,2.85
+6,1,1.2.3 Crítico-Monitor (ou Cão de Guarda),119,22.62
+7,1_a1,Reinaldo Azevedo,41,7.79
+8,1_a2,Guga Noblat,30,5.7
+9,1_a3,Kim Paim,17,3.23
+10,1_a4,Rose D Barros,16,3.04
+11,1_a5,Thiago dos Reis,15,2.85
+12,2,1.2.4 Militante,158,30.04
+13,2_a1,Thiago dos Reis,70,13.31
+14,2_a2,Guga Noblat,24,4.56
+15,2_a3,Rose D Barros,22,4.18
+16,2_a4,Reinaldo Azevedo,21,3.99
+17,2_a5,Kim Paim,21,3.99
+18,3,1.2.5 Mobilizador,47,8.94
+19,3_a1,Thiago dos Reis,30,5.7
+20,3_a2,Kim Paim,8,1.52
+21,3_a3,Rose D Barros,7,1.33
+22,3_a4,Guga Noblat,2,0.38
+23,4,1.2.2 Narrador-Testemunha,4,0.76
+24,4_a1,Guga Noblat,2,0.38
+25,4_a2,Thiago dos Reis,2,0.38
+
+
+
+
+--- Distribuição de Estratégias de Legitimação na Categoria de Conteúdo: 'CATEGORIA 4' ---
+Total de textos únicos analisados: 505
+(Nota: Como um mesmo texto pode usar mais de uma estratégia, a soma geral das porcentagens pode ultrapassar 100%)
+
+index,Index,Estratégia / Autor,Quantidade,Porcentagem (%)
+0,0,2.1 Ethos e fiador,413,81.78
+1,0_a1,Thiago dos Reis,120,23.76
+2,0_a2,Guga Noblat,89,17.62
+3,0_a3,Reinaldo Azevedo,87,17.23
+4,0_a4,Kim Paim,60,11.88
+5,0_a5,Rose D Barros,57,11.29
+6,1,2.3 Polifonia,373,73.86
+7,1_a1,Thiago dos Reis,92,18.22
+8,1_a2,Guga Noblat,91,18.02
+9,1_a3,Reinaldo Azevedo,88,17.43
+10,1_a4,Kim Paim,60,11.88
+11,1_a5,Rose D Barros,42,8.32
+12,2,2.2 Discurso relatado,96,19.01
+13,2_a1,Rose D Barros,46,9.11
+14,2_a2,Guga Noblat,19,3.76
+15,2_a3,Reinaldo Azevedo,14,2.77
+16,2_a4,Thiago dos Reis,9,1.78
+17,2_a5,Kim Paim,8,1.58
+18,3,2.4 Cenografia,94,18.61
+19,3_a1,Thiago dos Reis,30,5.94
+20,3_a2,Kim Paim,22,4.36
+21,3_a3,Guga Noblat,18,3.56
+22,3_a4,Rose D Barros,13,2.57
+23,3_a5,Reinaldo Azevedo,11,2.18
+24,4,2.5 Autoridade institucional,27,5.35
+25,4_a1,Reinaldo Azevedo,12,2.38
+26,4_a2,Thiago dos Reis,7,1.39
+27,4_a3,Rose D Barros,4,0.79
+28,4_a4,Kim Paim,3,0.59
+29,4_a5,Guga Noblat,1,0.2
+
+
+
+
+--- Distribuição do Papel do Leitor na Categoria de Conteúdo: 'CATEGORIA 4' ---
+Total de textos únicos analisados: 471
+
+index,Index,Papel do Leitor / Autor,Quantidade,Porcentagem (%)
+0,0,3.4 Cúmplice,219,46.5
+1,0_a1,Guga Noblat,63,13.38
+2,0_a2,Reinaldo Azevedo,56,11.89
+3,0_a3,Kim Paim,48,10.19
+4,0_a4,Thiago dos Reis,34,7.22
+5,0_a5,Rose D Barros,18,3.82
+6,1,3.6 Público a ser mobilizado,133,28.24
+7,1_a1,Thiago dos Reis,80,16.99
+8,1_a2,Rose D Barros,23,4.88
+9,1_a3,Kim Paim,14,2.97
+10,1_a4,Guga Noblat,8,1.7
+11,1_a5,Reinaldo Azevedo,8,1.7
+12,2,3.3 Cidadão,62,13.16
+13,2_a1,Reinaldo Azevedo,24,5.1
+14,2_a2,Rose D Barros,23,4.88
+15,2_a3,Guga Noblat,8,1.7
+16,2_a4,Thiago dos Reis,5,1.06
+17,2_a5,Kim Paim,2,0.42
+18,3,3.5 Vítima da desinformação,26,5.52
+19,3_a1,Guga Noblat,9,1.91
+20,3_a2,Rose D Barros,5,1.06
+21,3_a3,Kim Paim,4,0.85
+22,3_a4,Reinaldo Azevedo,4,0.85
+23,3_a5,Thiago dos Reis,4,0.85
+24,4,3.2 Aprendiz,12,2.55
+25,4_a1,Guga Noblat,5,1.06
+26,4_a2,Rose D Barros,4,0.85
+27,4_a3,Kim Paim,1,0.21
+28,4_a4,Reinaldo Azevedo,1,0.21
+29,4_a5,Thiago dos Reis,1,0.21
+30,5,3.1 Parceiro,19,4.03
+31,5_a1,Guga Noblat,6,1.27
+32,5_a2,Reinaldo Azevedo,5,1.06
+33,5_a3,Rose D Barros,4,0.85
+34,5_a4,Thiago dos Reis,4,0.85
+
+
+
+
+--- Distribuição da Posição-sujeito na Subcategoria: '4.1 Verdade contra mentira e desinformação' ---
+Total de textos únicos analisados: 281
+
+index,Index,Posição-sujeito / Autor,Quantidade,Porcentagem (%)
+0,0,1.1.5 - Comentarista,245,87.19
+1,0_a1,Thiago dos Reis,86,30.6
+2,0_a2,Reinaldo Azevedo,47,16.73
+3,0_a3,Kim Paim,43,15.3
+4,0_a4,Guga Noblat,42,14.95
+5,0_a5,Rose D Barros,27,9.61
+6,1,1.1.3 - Observador,26,9.25
+7,1_a1,Rose D Barros,22,7.83
+8,1_a2,Guga Noblat,1,0.36
+9,1_a3,Kim Paim,1,0.36
+10,1_a4,Reinaldo Azevedo,1,0.36
+11,1_a5,Thiago dos Reis,1,0.36
+12,2,1.1.1 - Participante,8,2.85
+13,2_a1,Reinaldo Azevedo,4,1.42
+14,2_a2,Thiago dos Reis,2,0.71
+15,2_a3,Kim Paim,1,0.36
+16,2_a4,Rose D Barros,1,0.36
+17,3,1.1.2 - Testemunha,2,0.71
+18,3_a1,Kim Paim,1,0.36
+19,3_a2,Thiago dos Reis,1,0.36
+
+
+
+--- Distribuição do Papel Enunciativo na Subcategoria: '4.1 Verdade contra mentira e desinformação' ---
+Total de textos únicos analisados: 281
+
+index,Index,Papel Enunciativo / Autor,Quantidade,Porcentagem (%)
+0,0,1.2.4 Militante,105,37.37
+1,0_a1,Thiago dos Reis,58,20.64
+2,0_a2,Kim Paim,14,4.98
+3,0_a3,Guga Noblat,12,4.27
+4,0_a4,Reinaldo Azevedo,12,4.27
+5,0_a5,Rose D Barros,9,3.2
+6,1,1.2.5 Mobilizador,23,8.19
+7,1_a1,Thiago dos Reis,13,4.63
+8,1_a2,Kim Paim,6,2.14
+9,1_a3,Rose D Barros,3,1.07
+10,1_a4,Guga Noblat,1,0.36
+11,2,1.2.3 Crítico-Monitor (ou Cão de Guarda),79,28.11
+12,2_a1,Reinaldo Azevedo,29,10.32
+13,2_a2,Guga Noblat,16,5.69
+14,2_a3,Thiago dos Reis,13,4.63
+15,2_a4,Kim Paim,11,3.91
+16,2_a5,Rose D Barros,10,3.56
+17,3,1.2.1 Observador-Intérprete (ou Analista),73,25.98
+18,3_a1,Rose D Barros,28,9.96
+19,3_a2,Kim Paim,15,5.34
+20,3_a3,Guga Noblat,14,4.98
+21,3_a4,Reinaldo Azevedo,11,3.91
+22,3_a5,Thiago dos Reis,5,1.78
+23,4,1.2.2 Narrador-Testemunha,1,0.36
+24,4_a1,Thiago dos Reis,1,0.36
+
+
+
+
+--- Distribuição das Estratégias na Subcategoria: '4.1 Verdade contra mentira e desinformação' ---
+Total de textos únicos analisados: 285
+
+index,Index,Estratégia / Autor,Quantidade,Porcentagem (%)
+0,0,2.1 Ethos e fiador,235,82.46
+1,0_a1,Thiago dos Reis,85,29.82
+2,0_a2,Reinaldo Azevedo,47,16.49
+3,0_a3,Guga Noblat,41,14.39
+4,0_a4,Kim Paim,39,13.68
+5,0_a5,Rose D Barros,23,8.07
+6,1,2.3 Polifonia,218,76.49
+7,1_a1,Thiago dos Reis,65,22.81
+8,1_a2,Reinaldo Azevedo,48,16.84
+9,1_a3,Kim Paim,40,14.04
+10,1_a4,Guga Noblat,39,13.68
+11,1_a5,Rose D Barros,26,9.12
+12,2,2.4 Cenografia,47,16.49
+13,2_a1,Thiago dos Reis,17,5.96
+14,2_a2,Kim Paim,12,4.21
+15,2_a3,Guga Noblat,6,2.11
+16,2_a4,Reinaldo Azevedo,6,2.11
+17,2_a5,Rose D Barros,6,2.11
+18,3,2.2 Discurso relatado,48,16.84
+19,3_a1,Rose D Barros,21,7.37
+20,3_a2,Guga Noblat,8,2.81
+21,3_a3,Thiago dos Reis,8,2.81
+22,3_a4,Reinaldo Azevedo,6,2.11
+23,3_a5,Kim Paim,5,1.75
+24,4,2.5 Autoridade institucional,17,5.96
+25,4_a1,Reinaldo Azevedo,7,2.46
+26,4_a2,Thiago dos Reis,5,1.75
+27,4_a3,Rose D Barros,3,1.05
+28,4_a4,Guga Noblat,1,0.35
+29,4_a5,Kim Paim,1,0.35
+
+
+
+
+--- Distribuição do Papel do Leitor na Subcategoria: '4.1 Verdade contra mentira e desinformação' ---
+Total de textos únicos analisados: 257
+
+index,Index,Papel do Leitor / Autor,Quantidade,Porcentagem (%)
+0,0,3.6 Público a ser mobilizado,83,32.3
+1,0_a1,Thiago dos Reis,55,21.4
+2,0_a2,Rose D Barros,9,3.5
+3,0_a3,Kim Paim,9,3.5
+4,0_a4,Reinaldo Azevedo,6,2.33
+5,0_a5,Guga Noblat,4,1.56
+6,1,3.4 Cúmplice,121,47.08
+7,1_a1,Guga Noblat,29,11.28
+8,1_a2,Kim Paim,29,11.28
+9,1_a3,Reinaldo Azevedo,29,11.28
+10,1_a4,Thiago dos Reis,24,9.34
+11,1_a5,Rose D Barros,10,3.89
+12,2,3.3 Cidadão,29,11.28
+13,2_a1,Reinaldo Azevedo,11,4.28
+14,2_a2,Rose D Barros,11,4.28
+15,2_a3,Thiago dos Reis,3,1.17
+16,2_a4,Guga Noblat,2,0.78
+17,2_a5,Kim Paim,2,0.78
+18,3,3.5 Vítima da desinformação,18,7.0
+19,3_a1,Guga Noblat,4,1.56
+20,3_a2,Kim Paim,4,1.56
+21,3_a3,Reinaldo Azevedo,4,1.56
+22,3_a4,Rose D Barros,4,1.56
+23,3_a5,Thiago dos Reis,2,0.78
+24,4,3.2 Aprendiz,1,0.39
+25,4_a1,Guga Noblat,1,0.39
+26,5,3.1 Parceiro,5,1.95
+27,5_a1,Guga Noblat,2,0.78
+28,5_a2,Reinaldo Azevedo,2,0.78
+29,5_a3,Thiago dos Reis,1,0.39
+
+
+
+
+--- Distribuição da Posição-sujeito na Subcategoria: '4.1 Verdade contra mentira e desinformação' ---
+Total de textos únicos analisados: 245
+
+index,Index,Posição-sujeito / Autor,Quantidade,Porcentagem (%)
+0,0,1.1.5 - Comentarista,200,81.63
+1,0_a1,Guga Noblat,55,22.45
+2,0_a2,Reinaldo Azevedo,46,18.78
+3,0_a3,Thiago dos Reis,39,15.92
+4,0_a4,Rose D Barros,35,14.29
+5,0_a5,Kim Paim,25,10.2
+6,1,1.1.1 - Participante,11,4.49
+7,1_a1,Guga Noblat,5,2.04
+8,1_a2,Kim Paim,3,1.22
+9,1_a3,Rose D Barros,2,0.82
+10,1_a4,Thiago dos Reis,1,0.41
+11,2,1.1.3 - Observador,33,13.47
+12,2_a1,Rose D Barros,23,9.39
+13,2_a2,Guga Noblat,7,2.86
+14,2_a3,Reinaldo Azevedo,2,0.82
+15,2_a4,Thiago dos Reis,1,0.41
+16,3,1.1.2 - Testemunha,1,0.41
+17,3_a1,Thiago dos Reis,1,0.41
+
+
+
+
+--- Distribuição do Papel Enunciativo na Subcategoria: '4.2 Verdade como clausura do debate e mobilização do público' ---
+Total de textos únicos analisados: 245
+
+index,Index,Papel Enunciativo / Autor,Quantidade,Porcentagem (%)
+0,0,1.2.1 Observador-Intérprete (ou Analista),125,51.02
+1,0_a1,Guga Noblat,38,15.51
+2,0_a2,Rose D Barros,37,15.1
+3,0_a3,Reinaldo Azevedo,27,11.02
+4,0_a4,Kim Paim,13,5.31
+5,0_a5,Thiago dos Reis,10,4.08
+6,1,1.2.3 Crítico-Monitor (ou Cão de Guarda),40,16.33
+7,1_a1,Guga Noblat,14,5.71
+8,1_a2,Reinaldo Azevedo,12,4.9
+9,1_a3,Kim Paim,6,2.45
+10,1_a4,Rose D Barros,6,2.45
+11,1_a5,Thiago dos Reis,2,0.82
+12,2,1.2.4 Militante,53,21.63
+13,2_a1,Rose D Barros,13,5.31
+14,2_a2,Guga Noblat,12,4.9
+15,2_a3,Thiago dos Reis,12,4.9
+16,2_a4,Reinaldo Azevedo,9,3.67
+17,2_a5,Kim Paim,7,2.86
+18,3,1.2.5 Mobilizador,24,9.8
+19,3_a1,Thiago dos Reis,17,6.94
+20,3_a2,Rose D Barros,4,1.63
+21,3_a3,Kim Paim,2,0.82
+22,3_a4,Guga Noblat,1,0.41
+23,4,1.2.2 Narrador-Testemunha,3,1.22
+24,4_a1,Guga Noblat,2,0.82
+25,4_a2,Thiago dos Reis,1,0.41
+
+
+
+
+--- Distribuição das Estratégias na Subcategoria: '4.2 Verdade como clausura do debate e mobilização do público' ---
+Total de textos únicos analisados: 253
+(Nota: A soma das porcentagens pode ultrapassar 100% pois um texto pode conter múltiplas estratégias)
+
+index,Index,Estratégia / Autor,Quantidade,Porcentagem (%)
+0,0,2.1 Ethos e fiador,178,70.36
+1,0_a1,Guga Noblat,48,18.97
+2,0_a2,Reinaldo Azevedo,40,15.81
+3,0_a3,Thiago dos Reis,35,13.83
+4,0_a4,Rose D Barros,34,13.44
+5,0_a5,Kim Paim,21,8.3
+6,1,2.3 Polifonia,155,61.26
+7,1_a1,Guga Noblat,52,20.55
+8,1_a2,Reinaldo Azevedo,40,15.81
+9,1_a3,Thiago dos Reis,27,10.67
+10,1_a4,Kim Paim,20,7.91
+11,1_a5,Rose D Barros,16,6.32
+12,2,2.2 Discurso relatado,48,18.97
+13,2_a1,Rose D Barros,25,9.88
+14,2_a2,Guga Noblat,11,4.35
+15,2_a3,Reinaldo Azevedo,8,3.16
+16,2_a4,Kim Paim,3,1.19
+17,2_a5,Thiago dos Reis,1,0.4
+18,3,2.4 Cenografia,47,18.58
+19,3_a1,Thiago dos Reis,13,5.14
+20,3_a2,Guga Noblat,12,4.74
+21,3_a3,Kim Paim,10,3.95
+22,3_a4,Rose D Barros,7,2.77
+23,3_a5,Reinaldo Azevedo,5,1.98
+24,4,2.5 Autoridade institucional,10,3.95
+25,4_a1,Reinaldo Azevedo,5,1.98
+26,4_a2,Kim Paim,2,0.79
+27,4_a3,Thiago dos Reis,2,0.79
+28,4_a4,Rose D Barros,1,0.4
+
+
+
+
+--- Distribuição do Papel do Leitor na Subcategoria: '4.2 Verdade como clausura do debate e mobilização do público' ---
+Total de textos únicos analisados: 214
+
+index,Index,Papel do Leitor / Autor,Quantidade,Porcentagem (%)
+0,0,3.4 Cúmplice,98,45.79
+1,0_a1,Guga Noblat,34,15.89
+2,0_a2,Reinaldo Azevedo,27,12.62
+3,0_a3,Kim Paim,19,8.88
+4,0_a4,Thiago dos Reis,10,4.67
+5,0_a5,Rose D Barros,8,3.74
+6,1,3.3 Cidadão,33,15.42
+7,1_a1,Reinaldo Azevedo,13,6.07
+8,1_a2,Rose D Barros,12,5.61
+9,1_a3,Guga Noblat,6,2.8
+10,1_a4,Thiago dos Reis,2,0.93
+11,2,3.6 Público a ser mobilizado,50,23.36
+12,2_a1,Thiago dos Reis,25,11.68
+13,2_a2,Rose D Barros,14,6.54
+14,2_a3,Kim Paim,5,2.34
+15,2_a4,Guga Noblat,4,1.87
+16,2_a5,Reinaldo Azevedo,2,0.93
+17,3,3.5 Vítima da desinformação,8,3.74
+18,3_a1,Guga Noblat,5,2.34
+19,3_a2,Thiago dos Reis,2,0.93
+20,3_a3,Rose D Barros,1,0.47
+21,4,3.2 Aprendiz,11,5.14
+22,4_a1,Guga Noblat,4,1.87
+23,4_a2,Rose D Barros,4,1.87
+24,4_a3,Kim Paim,1,0.47
+25,4_a4,Reinaldo Azevedo,1,0.47
+26,4_a5,Thiago dos Reis,1,0.47
+27,5,3.1 Parceiro,14,6.54
+28,5_a1,Guga Noblat,4,1.87
+29,5_a2,Rose D Barros,4,1.87
+30,5_a3,Reinaldo Azevedo,3,1.4
+31,5_a4,Thiago dos Reis,3,1.4
+
+
+
+
+Nenhum dado encontrado para 'CATEGORIA 5' ou a coluna 'posicao-sujeito' está vazia.
+
+
+
+
+
+Categoria Principal: "CATEGORIA 1 — VERDADE COMO FUNDAMENTO IDENTITÁRIO, NORMATIVO E EPISTÊMICO DA PROFISSÃO"
+Total de textos geral nesta categoria: 32
+
+index,Subcategoria,Autor / Nível,Quantidade de Textos
+0,1.1 Verdade como missão profissional,[TOTAL DA SUBCATEGORIA],2
+1,1.1 Verdade como missão profissional,Rose D Barros,1
+2,1.1 Verdade como missão profissional,Thiago dos Reis,1
+3,1.2 Verdade como problema epistemológico,[TOTAL DA SUBCATEGORIA],25
+4,1.2 Verdade como problema epistemológico,Rose D Barros,10
+5,1.2 Verdade como problema epistemológico,Reinaldo Azevedo,5
+6,1.2 Verdade como problema epistemológico,Kim Paim,5
+7,1.2 Verdade como problema epistemológico,Guga Noblat,3
+8,1.2 Verdade como problema epistemológico,Thiago dos Reis,2
+9,"1.3 Verdade, valores profissionais e fronteiras do campo",[TOTAL DA SUBCATEGORIA],5
+10,"1.3 Verdade, valores profissionais e fronteiras do campo",Kim Paim,2
+11,"1.3 Verdade, valores profissionais e fronteiras do campo",Reinaldo Azevedo,2
+12,"1.3 Verdade, valores profissionais e fronteiras do campo",Guga Noblat,1
+
+
+
+
+Categoria Principal: "CATEGORIA 2 — VERDADE, SOCIEDADE E DEMOCRACIA"
+
+index,Categoria,Autor / Nível,Quantidade de Textos
+0,"CATEGORIA 2 — VERDADE, SOCIEDADE E DEMOCRACIA",[TOTAL DA CATEGORIA],6
+1,"CATEGORIA 2 — VERDADE, SOCIEDADE E DEMOCRACIA",Guga Noblat,4
+2,"CATEGORIA 2 — VERDADE, SOCIEDADE E DEMOCRACIA",Rose D Barros,2
+
+
+
+
+Categoria Principal: "CATEGORIA 3 — VERDADE E MÉTODOS DE APURAÇÃO"
+
+index,Categoria,Autor / Nível,Quantidade de Textos
+0,CATEGORIA 3 — VERDADE E MÉTODOS DE APURAÇÃO,[TOTAL DA CATEGORIA],15
+1,CATEGORIA 3 — VERDADE E MÉTODOS DE APURAÇÃO,Rose D Barros,11
+2,CATEGORIA 3 — VERDADE E MÉTODOS DE APURAÇÃO,Reinaldo Azevedo,2
+3,CATEGORIA 3 — VERDADE E MÉTODOS DE APURAÇÃO,Kim Paim,1
+4,CATEGORIA 3 — VERDADE E MÉTODOS DE APURAÇÃO,Thiago dos Reis,1
+
+
+
+
+
+Categoria Principal: "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO"
+Total de textos geral nesta categoria: 538
+
+index,Subcategoria,Autor / Nível,Quantidade de Textos
+0,4.1 Verdade contra mentira e desinformação,[TOTAL DA SUBCATEGORIA],285
+1,4.1 Verdade contra mentira e desinformação,Thiago dos Reis,90
+2,4.1 Verdade contra mentira e desinformação,Reinaldo Azevedo,52
+3,4.1 Verdade contra mentira e desinformação,Rose D Barros,51
+4,4.1 Verdade contra mentira e desinformação,Kim Paim,49
+5,4.1 Verdade contra mentira e desinformação,Guga Noblat,43
+6,4.2 Verdade como clausura do debate e mobilização do público,[TOTAL DA SUBCATEGORIA],253
+7,4.2 Verdade como clausura do debate e mobilização do público,Guga Noblat,68
+8,4.2 Verdade como clausura do debate e mobilização do público,Rose D Barros,64
+9,4.2 Verdade como clausura do debate e mobilização do público,Reinaldo Azevedo,48
+10,4.2 Verdade como clausura do debate e mobilização do público,Thiago dos Reis,45
+11,4.2 Verdade como clausura do debate e mobilização do público,Kim Paim,28
+
+
+
+
+Categoria Principal: "CATEGORIA 5 — VERDADE E MEDIAÇÃO PEDAGÓGICA COM O PÚBLICO"
+
+index,Categoria,Autor / Nível,Quantidade de Textos
+0,CATEGORIA 5 — VERDADE E MEDIAÇÃO PEDAGÓGICA COM O PÚBLICO,[TOTAL DA CATEGORIA],0

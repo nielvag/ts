@@ -1,0 +1,68 @@
+quero que você leia o texto ou pdf que vou te enviar na próxima mensagem, procure todas as ocorrências das palavras-chave: verdade, verdadeiro(a) e veracidade, depois analise o contexto onde elas aparecem e classifique cada uma em uma das 3 categorias e subcategorias abaixo.
+cada palavra encontrada no texto deve ser associada a somente uma das categorias e/ou subcategorias.
+
+
+gere uma saída json nesse formato e utilizando bloco de código:
+
+[{
+palavra: palavra-chave encontrada - verdade, verdadeiro(a), veracidade ou null caso não haja nenhuma dessas palavras-chave,
+categoria: nome da categoria que foi classificada. null se não tiver nenhuma palavra-chave,
+justificativa: por que você categorizou nessa categoria,
+subcategoria: nome da subcategoria,
+subcategoria_justificativa: por que você categorizou nessa subcategoria,
+valor: {
+  nome: esse campo só deve ser preenchido caso você categorize na categoria 1 e subcategoria 1.3 (Verdade, valores profissionais e fronteiras do campo). Nesse caso você deve preencher este campo com um dos seguintes valores jornalísticos: apartidarismo, clareza, credibilidade, equilíbrio, exatidão, imparcialidade, independência, interesse público, isenção, liberdade, neutralidade, objetividade, pluralidade, precisão e rigor. Como pode ser mais de um valor esse campo é um array de strings,
+  relacao: uma das relações descritas em 1.3.1 à 1.3.6,
+  valor_justificativa: registre uma frase-síntese objetiva explicando porque você categorizou neste valor — por exemplo, “no corpus, a relação predominante entre verdade e credibilidade é de causalidade (a verdade sustenta a credibilidade)”,
+}
+}]
+
+Caso o campo "valor" não seja aplicável você deve preenche-lo com o valor null.
+
+Sua resposta deve conter somente o objeto json em um bloco de código (markdown) e nada mais. Ao gerar o markdown coloque o nome completo das categorias, subcategorias, valor e relação exatamente como está escrito na descrição das categorias.
+
+cuidado para não considerar as palavras "verdadeiro(a)" como "verdade", já que ela contém parte da palavra "verdade".
+
+
+as categorias e subcategorias estão descritas entre as tags <categorias-início> e <categorias-fim> abaixo:
+
+
+<categorias-início>
+CATEGORIA 1 — VERDADE COMO FUNDAMENTO INSTITUCIONAL, NORMATIVO E EPISTÊMICO
+Ideia central: reúne trechos sobre a autoimagem da organização jornalística — como formula sua missão em relação à verdade, como reflete sobre a natureza do que persegue, e como usa a verdade para demarcar as fronteiras do campo profissional frente a outras práticas discursivas (propaganda, opinião, desinformação).
+Nota de amarração: as três subcategorias tratam do mesmo movimento de legitimação institucional em três registros distintos — 1.1 é o compromisso declarado; 1.2 é o estatuto filosófico da verdade que a organização assume; 1.3 é a rede de valores e fronteiras com que a verdade se articula.
+
+1.1 Verdade como missão institucional
+- Descrição: trechos em que a verdade é apresentada como compromisso fundador, princípio editorial ou dever constitutivo da organização — não de um profissional individual, mas do grupo jornalístico como pessoa institucional.
+- Indicadores analíticos: linguagem de missão/compromisso/princípio; primeira pessoa institucional ("o Grupo", "nós"); verbos de obrigação.
+- Critérios de exclusão: se o trecho descrever como a verdade é alcançada (método, tecnologia) -> Categoria 2; se for uso apenas exemplificativo/lexical -> 1.3.
+- Exemplo: "a permanente busca da verdade" (Código de Conduta e Ética, Estadão); "compromisso do jornalismo com a verdade e a crítica" (Manual de Redação, Folha).
+
+
+1.2 Verdade como problema epistemológico
+- Descrição: trechos que discutem o estatuto da verdade — sua natureza, seus limites, sua relação com o conhecimento e com os fatos — em vez de apenas declará-la como valor.
+- Indicadores analíticos: vocabulário filosófico (inesgotável, inalcançável, provisório); distinção entre verdade e conhecimento; modalizações epistêmicas.
+- Critérios de exclusão: se o trecho apenas declarar a verdade como compromisso, sem discutir sua natureza -> 1.1.
+- Exemplo: O Globo — "a verdade pode ser inesgotável, inalcançável em sua plenitude, mas existe"; a distinção entre "verdade" e "conhecimento" no mesmo documento.
+
+1.3 Verdade, valores profissionais e fronteiras do campo
+- Descrição: reúne trechos em que a verdade aparece coordenada a outros valores jornalísticos (apartidarismo, clareza, credibilidade, equilíbrio, exatidão, imparcialidade, independência, interesse público, isenção, liberdade, neutralidade, objetividade, pluralidade, precisão e rigor.) e/ou usada para diferenciar o jornalismo de outras práticas discursivas (propaganda, opinião). Absorve também ocorrências puramente lexicais/de glossário, tratadas como evidência subsidiária, não como ocorrência autônoma.
+- Indicadores analíticos: coordenação sintática com outros valores; contraste explícito jornalismo (versus) propaganda/opinião; presença em glossário/lista de verbetes.
+- Critérios de exclusão: se a articulação com outro valor estiver a serviço da missão declarada -> 1.1; se estiver a serviço da explicação de um método -> Categoria 2.
+- Exemplo: a distinção entre jornalismo e propaganda no princípio editorial do Grupo Globo; o verbete "jurar" no Manual de Redação do Estadão.
+
+
+
+CATEGORIA 2 — VERDADE E PROCEDIMENTO: APURAÇÃO, TECNOLOGIA E COMBATE À DESINFORMAÇÃO
+Ideia central: reúne trechos em que a verdade é tratada como resultado de um método (apuração, checagem, tecnologia) e/ou trechos em que a organização se posiciona contra a desinformação e os boatos, sem nomear um adversário político.
+- Indicadores analíticos: menção a etapas de apuração/checagem/correção; tecnologias (bot, IA, etiquetas de classificação); vocabulário de combate à desinformação sem alvo nomeado.
+- Critérios de exclusão: se a ênfase estiver na missão ou na natureza da verdade, sem descrição de método -> Categoria 1; se, em revisões futuras do corpus, aparecer um adversário político nomeado, abrir subcategoria própria em vez de forçar entrada aqui.
+- Exemplo: o bot do Estadão Verifica; as etiquetas da Agência Lupa; "não compartilhe boatos e rumores como se fossem fatos" (Folha).
+
+CATEGORIA 3 — AUSÊNCIA E NEGAÇÃO DA VERDADE
+Ideia central: documentos ou trechos nos quais a verdade é negada, questionada ou simplesmente ausente — tratada como achado central do estrato Organizações, não como resultado nulo. Ao codificar, registrar também se a ausência é sistemática por tipo de organização ou pontual, e o que ocupa esse espaço semântico em seu lugar.
+- Subcategorias: (a) não menção; (b) menção negativa ou de dúvida.
+- Indicadores analíticos: ausência lexical de "verdade/verdadeiro/verdadeira/veracidade" cotejada com a presença de outros valores no mesmo documento; negação explícita ("não é verdade", "inverídica").
+- Critérios de exclusão: trechos em que a verdade aparece, ainda que timidamente -> Categoria 1 ou 2.
+- Exemplo: os documentos do Nexo, The Intercept Brasil e Agência Pública, nos quais a verdade não aparece nenhuma vez; a expressão "inverídica" na Folha de S. Paulo.
+<categorias-fim>

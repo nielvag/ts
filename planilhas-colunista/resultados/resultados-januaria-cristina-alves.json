@@ -1,0 +1,205 @@
+[
+  {
+    "id": "jca-1",
+    "resposta_json": [
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO IDENTITÁRIO, NORMATIVO E EPISTÊMICO DA PROFISSÃO",
+        "justificativa": "O termo aparece inserido na discussão trazida pela neurocientista Maryanne Wolf sobre o discernimento e os processos cognitivos do cérebro ao realizar leituras profundas, abordando a dimensão do conhecimento e da reflexão.",
+        "subcategoria": "1.2 Verdade como problema epistemológico",
+        "subcategoria_justificativa": "Trata do discernimento da verdade como um processo de reflexão e análise crítica da complexidade do pensamento, situando a verdade no plano do conhecimento e da capacidade cognitiva de apreensão do real.",
+        "valor": null
+      },
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é usada como um recurso discursivo para enfatizar a correção e dar autoridade à fala do garoto, servindo para reforçar e validar um sentido de realidade sem justificativa metodológica.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Funciona como marcador discursivo de correção enfática e constatação de autoridade ('contém uma verdade importante') para validar a observação citada e encerrar/reforçar o argumento apresentado.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "jca-2",
+    "resposta_json": [
+      {
+        "palavra": "verdadeiro",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é empregado na citação de Audrey Azoulay para descrever a oposição e a perda de clareza entre discursos opostos (o verdadeiro e o falso) provocadas pela propagação de rumores e distorção de fatos no ambiente digital.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "A palavra se insere em uma estrutura discursiva de oposição direta e polarizada entre o verdadeiro e o falso (desinformação/mentira), em um tom de alerta e denúncia diante dos riscos trazidos pela distorção da realidade.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "jca-3",
+    "resposta_json": [
+      {
+        "palavra": "verdadeiramente",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada como um advérbio de intensidade/correção para enfatizar o impacto de uma ação no contexto do debate e engajamento comunitário, sem alvo específico.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Atua como marcador de reforço e correção enfática sobre o que efetivamente 'transforma o estado das coisas' através da participação ativa.",
+        "valor": null
+      },
+      {
+        "palavra": "verdadeiramente",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "É empregada para enfatizar uma condição necessária na interação com crianças e jovens, atuando como um recurso de reforço discursivo para legitimar o processo de escuta.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O termo é usado como marcador de correção/ênfase para argumentar como a escuta autêntica deve ocorrer no processo formativo.",
+        "valor": null
+      },
+      {
+        "palavra": "verdadeiramente",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é usada como um advérbio de intensificação para destacar e validar as 'saídas possíveis' construídas autonomamente pelos sujeitos.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Funciona como reforço enfático da afirmação sobre a autenticidade das soluções que emergem dos próprios atores envolvidos.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "jca-4",
+    "resposta_json": [
+      {
+        "palavra": "Na verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A expressão é utilizada como um marcador discursivo para corrigir enfaticamente um sentido em circulação, sem focar em um adversário específico.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Utilização do marcador de correção 'na verdade' para reorientar a percepção sobre a origem e a natureza dos clubes de leitura.",
+        "valor": null
+      },
+      {
+        "palavra": "verdadeiras",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra é utilizada para reforçar a autenticidade e a autoridade do espaço dos clubes de leitura em oposição ao ambiente virtual das mídias sociais.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Trata do estabelecimento de vínculos e trocas autênticas, alinhando-se aos indicativos de valorização da presença e engajamento em contraposição à ilusão digital.",
+        "valor": null
+      },
+      {
+        "palavra": "verdadeiramente",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é usado como reforço enfático para convocar a uma reflexão e engajar a busca por experiências autênticas em contraposição ao vício em telas.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "Funciona como um apelo e convocação do público para que se conecte com o que realmente importa para o amadurecimento e a convivência social.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "jca-5",
+    "resposta_json": [
+      {
+        "palavra": "verdadeira",
+        "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO IDENTITÁRIO, NORMATIVO E EPISTÊMICO DA PROFISSÃO",
+        "justificativa": "A palavra aparece no trecho 'uma hipocrisia social que impede a discussão direta e verdadeira (dos temas abordados no livro) com os adolescentes', articulando a busca por uma discussão franca e sem rodeios aos valores normativos do campo.",
+        "subcategoria": "1.3 Verdade, valores profissionais e fronteiras do campo",
+        "subcategoria_justificativa": "O termo articula a verdade ao valor da clareza e transparência no debate público, opondo a discussão aberta à atitude hipócrita de censura.",
+        "valor": {
+          "nome": [
+            "clareza"
+          ],
+          "relacao": "1.3.1 Relação de instrumentalidade (meio e fim)",
+          "valor_justificativa": "No texto, a clareza e a discussão direta funcionam como meio instrumental indispensável para alcançar o entendimento verdadeiro sobre os fatos abordados."
+        }
+      },
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO IDENTITÁRIO, NORMATIVO E EPISTÊMICO DA PROFISSÃO",
+        "justificativa": "A palavra é utilizada na citação de Clarice Lispector ('Tudo o que não sei é que constitui a minha verdade') para refletir filosoficamente sobre os limites do conhecimento, a incerteza e a apreensão da realidade.",
+        "subcategoria": "1.1 Verdade como problema epistemológico",
+        "subcategoria_justificativa": "O trecho problematiza o próprio estatuto da verdade, associando-a à incompletude do saber, ao não-saber e aos limites e gradações do conhecimento do sujeito sobre o mundo.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "jca-6",
+    "resposta_json": [
+      {
+        "palavra": "pós-verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A expressão 'pós-verdade' é utilizada no contexto para caracterizar o ambiente de desinformação, perda de referenciais de realidade e impossibilidade de controle digital, dentro de um quadro analítico/diagnóstico sobre a disputa pela informação.",
+        "subcategoria": "4.1 Verdade contra mentira e desinformação",
+        "subcategoria_justificativa": "A palavra insere-se na discussão sobre a emergência e o combate às 'fake news', manipulabilidade da informação e desinformação no ambiente digital.",
+        "valor": null
+      },
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo 'verdade única' é citado para descrever a imposição autoritária de sentidos por estratégias de poder que se busca combater por meio do pensamento crítico.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "A expressão 'verdade única' refere-se ao fechamento/autoritarismo discursivo e à imposição de uma única narrativa de forma dogmática, visando travar o debate multifacetado.",
+        "valor": null
+      },
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO IDENTITÁRIO, NORMATIVO E EPISTÊMICO DA PROFISSÃO",
+        "justificativa": "O trecho discute a natureza da verdade artística/literária e sua relação com a representação do real, o contraditório e as percepções humanas.",
+        "subcategoria": "1.2 Verdade como problema epistemológico",
+        "subcategoria_justificativa": "Aborda o estatuto e a natureza da verdade no plano da literatura e da ficção, mostrando que a experiência estética confronta o indivíduo com o real sem necessariamente se reduzir a uma verdade factual rígida.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "jca-7",
+    "resposta_json": [
+      {
+        "palavra": "verdadeiras",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "A palavra aparece em um contexto que ressalta a qualidade das relações humanas necessárias para sustentar o ambiente digital seguro, agindo como elemento de coesão e confiança.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "No trecho 'estabelecimento de relações verdadeiras e confiáveis', o termo funciona como um marcador de autenticidade para fortalecer o vínculo interpessoal e promover a convivência harmônica, sem apontar ou combater um adversário direto.",
+        "valor": null
+      },
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 4 — VERDADE EM DISPUTA: CORREÇÃO, AUTORIDADE E MOBILIZAÇÃO",
+        "justificativa": "O termo é empregado na frase de encerramento do texto para enfatizar que os laços reais de confiança e afeição são o elemento consolidador na formação das crianças e jovens.",
+        "subcategoria": "4.2 Verdade como clausura do debate e mobilização do público",
+        "subcategoria_justificativa": "O trecho 'o que sedimenta são os vínculos de verdade' atua como uma afirmação conclusiva para mobilizar e conscientizar os leitores/pais sobre a relevância dos laços afetivos reais em relação à mera transmissão de dados, sem acusação ou oposição a um rival.",
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "jca-8",
+    "resposta_json": [
+      {
+        "palavra": "pós-verdade",
+        "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO IDENTITÁRIO, NORMATIVO E EPISTÊMICO DA PROFISSÃO",
+        "justificativa": "O termo aparece em um contexto de citação de título editorial que reflete sobre o estatuto da realidade, o significado e as incertezas epistêmicas na era digital, sem se referir diretamente à missão moral do jornalista ou a disputas políticas diretas.",
+        "subcategoria": "1.2 Verdade como problema epistemológico",
+        "subcategoria_justificativa": "Trata da discussão sobre a natureza, limites e a construção do significado e da realidade no ambiente informacional contemporâneo.",
+        "valor": null
+      },
+      {
+        "palavra": "verdade",
+        "categoria": "CATEGORIA 2 — VERDADE, SOCIEDADE E DEMOCRACIA",
+        "justificativa": "A palavra aparece mobilizada no contexto de análise das relações entre informação, poder, sabedoria e sistemas políticos, ressaltando o impacto da informação na sociedade e na vida pública.",
+        "subcategoria": null,
+        "subcategoria_justificativa": null,
+        "valor": null
+      }
+    ]
+  },
+  {
+    "id": "jca-9",
+    "resposta_json": [
+      {
+        "palavra": "verdadeiro(a)",
+        "categoria": "CATEGORIA 2 — VERDADE, SOCIEDADE E DEMOCRACIA",
+        "justificativa": "O trecho trata do risco de governos e instituições estatais controlarem os conteúdos informativos e determinarem o que é verdadeiro ou não, afetando diretamente a democracia e os direitos coletivos.",
+        "subcategoria": null,
+        "subcategoria_justificativa": null,
+        "valor": null
+      }
+    ]
+  }
+]

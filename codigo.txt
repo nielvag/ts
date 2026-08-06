@@ -1,0 +1,936 @@
+{
+	"config": {`
+		"componentPosition": 8,
+		"cutRange": 1,
+		"disableDateTime": false,
+		"feedType": "EDITORIAL",
+		"forePosts": 3,
+		"photoOverVideo": false,
+		"recommendation": {
+			"active": false,
+			"contentId": "FEED",
+			"start": 1
+		},
+		"strategies": [
+			"channels"
+		]
+	},
+	"id": "03f0b6a6-f808-4c06-a7fa-fee8e1172605",
+	"items": [
+		{
+			"id": "d9b2497b2b1f66ac5a3a5411b542ba2b",
+			"feedId": "295e3508-c0cd-486a-a500-adeaa91e7c74",
+			"type": "materia",
+			"lastPublication": "2023-05-09T17:07:09.308Z",
+			"publication": "2023-05-09T15:23:10.925Z",
+			"content": {
+				"category": "c544b41f-af18-4611-abff-f0db1c209709",
+				"chapeu": {
+					"label": "Míriam Leitão",
+					"image": {}
+				},
+				"image": {
+					"url": "https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/L/T/VQC7B8QxWxPxkpAFTSXQ/102504104-ri-rio-de-janeiro-24-03-2023-saara-vai-transformar-ruas-de-pedestres-em-calcadao-na.jpg",
+					"cropOptions": {},
+					"sizes": {
+						"L": {
+							"width": 1080,
+							"height": 608,
+							"url": "https://s2-oglobo.glbimg.com/pdctsQqHYjiuDI7WSFCc3LC6WOs=/1080x608/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/L/T/VQC7B8QxWxPxkpAFTSXQ/102504104-ri-rio-de-janeiro-24-03-2023-saara-vai-transformar-ruas-de-pedestres-em-calcadao-na.jpg"
+						},
+						"M": {
+							"width": 810,
+							"height": 456,
+							"url": "https://s2-oglobo.glbimg.com/WHuLCAvQlX8TwR-zrrzSZ_w6_BM=/810x456/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/L/T/VQC7B8QxWxPxkpAFTSXQ/102504104-ri-rio-de-janeiro-24-03-2023-saara-vai-transformar-ruas-de-pedestres-em-calcadao-na.jpg"
+						},
+						"Q": {
+							"width": 94,
+							"height": 94,
+							"url": "https://s2-oglobo.glbimg.com/4zOyNKOcDxaMWB7yuKt5_kISBoQ=/94x94/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/L/T/VQC7B8QxWxPxkpAFTSXQ/102504104-ri-rio-de-janeiro-24-03-2023-saara-vai-transformar-ruas-de-pedestres-em-calcadao-na.jpg"
+						},
+						"S": {
+							"width": 540,
+							"height": 304,
+							"url": "https://s2-oglobo.glbimg.com/eR1G5oAcj5OTsp_hdH7mXcq1h2g=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/L/T/VQC7B8QxWxPxkpAFTSXQ/102504104-ri-rio-de-janeiro-24-03-2023-saara-vai-transformar-ruas-de-pedestres-em-calcadao-na.jpg"
+						},
+						"V": {
+							"width": 570,
+							"height": 620,
+							"url": "https://s2-oglobo.glbimg.com/ng3jsiJmjseN6eTtlljbvVc0dqQ=/570x620/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/L/T/VQC7B8QxWxPxkpAFTSXQ/102504104-ri-rio-de-janeiro-24-03-2023-saara-vai-transformar-ruas-de-pedestres-em-calcadao-na.jpg"
+						},
+						"VL": {
+							"width": 608,
+							"height": 1080,
+							"url": "https://s2-oglobo.glbimg.com/LInCengx6qKkFPE5EzgU3GNQjho=/608x1080/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/L/T/VQC7B8QxWxPxkpAFTSXQ/102504104-ri-rio-de-janeiro-24-03-2023-saara-vai-transformar-ruas-de-pedestres-em-calcadao-na.jpg"
+						},
+						"VM": {
+							"width": 456,
+							"height": 810,
+							"url": "https://s2-oglobo.glbimg.com/3OqybofLsgURGzyCGwh0HJ49EmU=/456x810/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/L/T/VQC7B8QxWxPxkpAFTSXQ/102504104-ri-rio-de-janeiro-24-03-2023-saara-vai-transformar-ruas-de-pedestres-em-calcadao-na.jpg"
+						},
+						"VS": {
+							"width": 304,
+							"height": 540,
+							"url": "https://s2-oglobo.glbimg.com/B4nMl3mUTITPzgOTjoueEHC9c6Y=/304x540/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/L/T/VQC7B8QxWxPxkpAFTSXQ/102504104-ri-rio-de-janeiro-24-03-2023-saara-vai-transformar-ruas-de-pedestres-em-calcadao-na.jpg"
+						},
+						"VXL": {
+							"width": 1080,
+							"height": 1920,
+							"url": "https://s2-oglobo.glbimg.com/gPv8pjNutS8ps99iBQdZF8dLc6k=/1080x1920/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/L/T/VQC7B8QxWxPxkpAFTSXQ/102504104-ri-rio-de-janeiro-24-03-2023-saara-vai-transformar-ruas-de-pedestres-em-calcadao-na.jpg"
+						},
+						"VXS": {
+							"width": 106,
+							"height": 108,
+							"url": "https://s2-oglobo.glbimg.com/pvOm4C5HCyQAwFmHtNWpc38WMJk=/106x108/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/L/T/VQC7B8QxWxPxkpAFTSXQ/102504104-ri-rio-de-janeiro-24-03-2023-saara-vai-transformar-ruas-de-pedestres-em-calcadao-na.jpg"
+						},
+						"XS": {
+							"width": 188,
+							"height": 106,
+							"url": "https://s2-oglobo.glbimg.com/r7fF_qPMgRDxZS-8E7MvUap7UrI=/188x106/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/L/T/VQC7B8QxWxPxkpAFTSXQ/102504104-ri-rio-de-janeiro-24-03-2023-saara-vai-transformar-ruas-de-pedestres-em-calcadao-na.jpg"
+						}
+					}
+				},
+				"recommendationSummary": "Estudo do Sebrae mostra que 67% da população brasileira adulta tem negócio próprio ou quer ter nos próximos três anos",
+				"recommendationTitle": "Brasil tem 42 milhões de empreendedores ",
+				"section": "Míriam Leitão",
+				"summary": "Estudo do Sebrae mostra que 67% da população brasileira adulta tem negócio próprio ou quer ter nos próximos três anos",
+				"title": "Brasil tem 42 milhões de empreendedores ",
+				"url": "https://oglobo.globo.com/blogs/miriam-leitao/post/2023/05/brasil-tem-42-milhoes-de-empreendedores.ghtml",
+				"video": null
+			},
+			"draft": false,
+			"area": "",
+			"parentId": null,
+			"children": null,
+			"isPublishing": false,
+			"created": "2023-05-09T15:23:10.925Z",
+			"modified": "2023-05-09T17:07:09.308Z",
+			"tenantId": "oglobo",
+			"age": 62636637
+		},
+		{
+			"id": "d0cd50691471126d4f4bdf135f9c9469",
+			"feedId": "295e3508-c0cd-486a-a500-adeaa91e7c74",
+			"type": "materia",
+			"lastPublication": "2023-05-09T15:20:27.495Z",
+			"publication": "2023-05-09T15:16:03.876Z",
+			"content": {
+				"category": "c544b41f-af18-4611-abff-f0db1c209709",
+				"chapeu": {
+					"label": "Míriam Leitão",
+					"image": {}
+				},
+				"image": {
+					"url": "https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/G/V/ixPCt3QYaqIoY11LLRqg/102969340-handout-picture-taken-on-july-18-2012-released-by-globo-tv-on-may-9-2023-showing-brazilian.jpg",
+					"cropOptions": {},
+					"sizes": {
+						"L": {
+							"width": 1080,
+							"height": 608,
+							"url": "https://s2-oglobo.glbimg.com/Amy5v0ktXzxrG0tr2EN6lb5nuLY=/1080x608/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/G/V/ixPCt3QYaqIoY11LLRqg/102969340-handout-picture-taken-on-july-18-2012-released-by-globo-tv-on-may-9-2023-showing-brazilian.jpg"
+						},
+						"M": {
+							"width": 810,
+							"height": 456,
+							"url": "https://s2-oglobo.glbimg.com/FhZBdSb4CT6HoBXHmQ8kXJifavY=/810x456/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/G/V/ixPCt3QYaqIoY11LLRqg/102969340-handout-picture-taken-on-july-18-2012-released-by-globo-tv-on-may-9-2023-showing-brazilian.jpg"
+						},
+						"Q": {
+							"width": 94,
+							"height": 94,
+							"url": "https://s2-oglobo.glbimg.com/6FRpCGfIb26faZVCs3wR46SvjW0=/94x94/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/G/V/ixPCt3QYaqIoY11LLRqg/102969340-handout-picture-taken-on-july-18-2012-released-by-globo-tv-on-may-9-2023-showing-brazilian.jpg"
+						},
+						"S": {
+							"width": 540,
+							"height": 304,
+							"url": "https://s2-oglobo.glbimg.com/JQHNO2oscf5w08SaD-_yJiGrTw8=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/G/V/ixPCt3QYaqIoY11LLRqg/102969340-handout-picture-taken-on-july-18-2012-released-by-globo-tv-on-may-9-2023-showing-brazilian.jpg"
+						},
+						"V": {
+							"width": 570,
+							"height": 620,
+							"url": "https://s2-oglobo.glbimg.com/lLMijd1517X0PmtR60AEwDfnAok=/570x620/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/G/V/ixPCt3QYaqIoY11LLRqg/102969340-handout-picture-taken-on-july-18-2012-released-by-globo-tv-on-may-9-2023-showing-brazilian.jpg"
+						},
+						"VL": {
+							"width": 608,
+							"height": 1080,
+							"url": "https://s2-oglobo.glbimg.com/PrQek_YhuuvII1Rhud2IhSDoAis=/608x1080/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/G/V/ixPCt3QYaqIoY11LLRqg/102969340-handout-picture-taken-on-july-18-2012-released-by-globo-tv-on-may-9-2023-showing-brazilian.jpg"
+						},
+						"VM": {
+							"width": 456,
+							"height": 810,
+							"url": "https://s2-oglobo.glbimg.com/5VtB7EeKQUKPtu8tm7E0Xa1CTlE=/456x810/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/G/V/ixPCt3QYaqIoY11LLRqg/102969340-handout-picture-taken-on-july-18-2012-released-by-globo-tv-on-may-9-2023-showing-brazilian.jpg"
+						},
+						"VS": {
+							"width": 304,
+							"height": 540,
+							"url": "https://s2-oglobo.glbimg.com/Cy9dYJlg6-IUprkQ9JNLfNSf7cU=/304x540/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/G/V/ixPCt3QYaqIoY11LLRqg/102969340-handout-picture-taken-on-july-18-2012-released-by-globo-tv-on-may-9-2023-showing-brazilian.jpg"
+						},
+						"VXL": {
+							"width": 1080,
+							"height": 1920,
+							"url": "https://s2-oglobo.glbimg.com/pZsT6NFjXr9E-COC2HBbErnLHBM=/1080x1920/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/G/V/ixPCt3QYaqIoY11LLRqg/102969340-handout-picture-taken-on-july-18-2012-released-by-globo-tv-on-may-9-2023-showing-brazilian.jpg"
+						},
+						"VXS": {
+							"width": 106,
+							"height": 108,
+							"url": "https://s2-oglobo.glbimg.com/oauPBp-WM3Q2pOV9MZAzOoknyiA=/106x108/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/G/V/ixPCt3QYaqIoY11LLRqg/102969340-handout-picture-taken-on-july-18-2012-released-by-globo-tv-on-may-9-2023-showing-brazilian.jpg"
+						},
+						"XS": {
+							"width": 188,
+							"height": 106,
+							"url": "https://s2-oglobo.glbimg.com/G7iMmjhaHXuJ1JK5mGII6bAX_YE=/188x106/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/G/V/ixPCt3QYaqIoY11LLRqg/102969340-handout-picture-taken-on-july-18-2012-released-by-globo-tv-on-may-9-2023-showing-brazilian.jpg"
+						}
+					}
+				},
+				"recommendationSummary": "Não se pode escrever a história do Brasil nas últimas décadas sem passar por ela",
+				"recommendationTitle": "Rita Lee, a mutante, que nos liderou no caminho da liberdade na música e na vida",
+				"section": "Míriam Leitão",
+				"summary": "Não se pode escrever a história do Brasil nas últimas décadas sem passar por ela",
+				"title": "Rita Lee, a mutante, que nos liderou no caminho da liberdade na música e na vida",
+				"url": "https://oglobo.globo.com/blogs/miriam-leitao/post/2023/05/rita-lee-a-mutante-que-nos-liderou-no-caminho-da-liberdade-na-musica-e-na-vida.ghtml",
+				"video": null
+			},
+			"draft": false,
+			"area": "",
+			"parentId": null,
+			"children": null,
+			"isPublishing": false,
+			"created": "2023-05-09T15:16:03.876Z",
+			"modified": "2023-05-09T15:20:27.495Z",
+			"tenantId": "oglobo",
+			"age": 62637064
+		},
+		{
+			"id": "dfa9803908c4f2237f9d72b89e237a23",
+			"feedId": "295e3508-c0cd-486a-a500-adeaa91e7c74",
+			"type": "materia",
+			"lastPublication": "2023-05-09T11:39:14.097Z",
+			"publication": "2023-05-09T11:39:13.624Z",
+			"content": {
+				"category": "c544b41f-af18-4611-abff-f0db1c209709",
+				"chapeu": {
+					"label": "Míriam Leitão",
+					"image": {}
+				},
+				"image": {
+					"url": "https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/f/L/PniAirSHe611U2LzOt4w/3.glbimg.com-v1-auth-0ae9f161c1ff459593599b7ffa1a1292-images-escenic-2021-5-11-18-1652318984382.jpg",
+					"cropOptions": {},
+					"sizes": {
+						"L": {
+							"width": 1080,
+							"height": 608,
+							"url": "https://s2-oglobo.glbimg.com/IUrq7Wiso2_m0ykuRIV2bRqtkJc=/1080x608/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/f/L/PniAirSHe611U2LzOt4w/3.glbimg.com-v1-auth-0ae9f161c1ff459593599b7ffa1a1292-images-escenic-2021-5-11-18-1652318984382.jpg"
+						},
+						"M": {
+							"width": 810,
+							"height": 456,
+							"url": "https://s2-oglobo.glbimg.com/863Q_1Bn0YzT0vpKKPaPq0yXopE=/810x456/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/f/L/PniAirSHe611U2LzOt4w/3.glbimg.com-v1-auth-0ae9f161c1ff459593599b7ffa1a1292-images-escenic-2021-5-11-18-1652318984382.jpg"
+						},
+						"Q": {
+							"width": 94,
+							"height": 94,
+							"url": "https://s2-oglobo.glbimg.com/bz6z1F07QV6mhbcBgwdK9fYAF64=/94x94/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/f/L/PniAirSHe611U2LzOt4w/3.glbimg.com-v1-auth-0ae9f161c1ff459593599b7ffa1a1292-images-escenic-2021-5-11-18-1652318984382.jpg"
+						},
+						"S": {
+							"width": 540,
+							"height": 304,
+							"url": "https://s2-oglobo.glbimg.com/flqkF64eOEgwTNSBxwiBqz7V2nw=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/f/L/PniAirSHe611U2LzOt4w/3.glbimg.com-v1-auth-0ae9f161c1ff459593599b7ffa1a1292-images-escenic-2021-5-11-18-1652318984382.jpg"
+						},
+						"V": {
+							"width": 570,
+							"height": 620,
+							"url": "https://s2-oglobo.glbimg.com/IBaff78GMK2JmHm3qei7cyqifRw=/570x620/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/f/L/PniAirSHe611U2LzOt4w/3.glbimg.com-v1-auth-0ae9f161c1ff459593599b7ffa1a1292-images-escenic-2021-5-11-18-1652318984382.jpg"
+						},
+						"VL": {
+							"width": 608,
+							"height": 1080,
+							"url": "https://s2-oglobo.glbimg.com/_wr_3qmxnM1EHD3oxbqf2MOtqv0=/608x1080/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/f/L/PniAirSHe611U2LzOt4w/3.glbimg.com-v1-auth-0ae9f161c1ff459593599b7ffa1a1292-images-escenic-2021-5-11-18-1652318984382.jpg"
+						},
+						"VM": {
+							"width": 456,
+							"height": 810,
+							"url": "https://s2-oglobo.glbimg.com/XRawu-wzVcoBNFGZPpNuSsU_qOg=/456x810/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/f/L/PniAirSHe611U2LzOt4w/3.glbimg.com-v1-auth-0ae9f161c1ff459593599b7ffa1a1292-images-escenic-2021-5-11-18-1652318984382.jpg"
+						},
+						"VS": {
+							"width": 304,
+							"height": 540,
+							"url": "https://s2-oglobo.glbimg.com/uR-1nawh7dJlq6HTazSJQo2NzwI=/304x540/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/f/L/PniAirSHe611U2LzOt4w/3.glbimg.com-v1-auth-0ae9f161c1ff459593599b7ffa1a1292-images-escenic-2021-5-11-18-1652318984382.jpg"
+						},
+						"VXL": {
+							"width": 1080,
+							"height": 1920,
+							"url": "https://s2-oglobo.glbimg.com/HLafb6yOhjout8DheJT1YqgPUNc=/1080x1920/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/f/L/PniAirSHe611U2LzOt4w/3.glbimg.com-v1-auth-0ae9f161c1ff459593599b7ffa1a1292-images-escenic-2021-5-11-18-1652318984382.jpg"
+						},
+						"VXS": {
+							"width": 106,
+							"height": 108,
+							"url": "https://s2-oglobo.glbimg.com/d_rNH1eXm8kW-TAjnhRPxUAPveU=/106x108/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/f/L/PniAirSHe611U2LzOt4w/3.glbimg.com-v1-auth-0ae9f161c1ff459593599b7ffa1a1292-images-escenic-2021-5-11-18-1652318984382.jpg"
+						},
+						"XS": {
+							"width": 188,
+							"height": 106,
+							"url": "https://s2-oglobo.glbimg.com/2HNxvRmLPndsjSol9CFlErLSrJQ=/188x106/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/f/L/PniAirSHe611U2LzOt4w/3.glbimg.com-v1-auth-0ae9f161c1ff459593599b7ffa1a1292-images-escenic-2021-5-11-18-1652318984382.jpg"
+						}
+					}
+				},
+				"recommendationSummary": "Jabutis pendurados pelo Congresso no governo Bolsonaro determinam construção de termelétricas a gás que exigirão construção de gasodutos",
+				"recommendationTitle": "Governo quer rever pontos positivos e ignora defeitos da privatização da Eletrobras﻿",
+				"section": "Míriam Leitão",
+				"summary": "Jabutis pendurados pelo Congresso no governo Bolsonaro determinam construção de termelétricas a gás que exigirão construção de gasodutos",
+				"title": "Governo quer rever pontos positivos e ignora defeitos da privatização da Eletrobras﻿",
+				"url": "https://oglobo.globo.com/blogs/miriam-leitao/post/2023/05/governo-quer-rever-pontos-positivos-e-ignora-defeitos-da-privatizacao-da-eletrobras.ghtml",
+				"video": null
+			},
+			"draft": false,
+			"area": "",
+			"parentId": null,
+			"children": null,
+			"isPublishing": false,
+			"created": "2023-05-09T11:39:13.624Z",
+			"modified": "2023-05-09T11:39:14.097Z",
+			"tenantId": "oglobo",
+			"age": 62650074
+		},
+		{
+			"id": "c17ea217fb3006f9b1f65743998a7f4b",
+			"feedId": "295e3508-c0cd-486a-a500-adeaa91e7c74",
+			"type": "materia",
+			"lastPublication": "2023-05-09T07:30:36.423Z",
+			"publication": "2023-05-09T07:30:36.111Z",
+			"content": {
+				"category": "c544b41f-af18-4611-abff-f0db1c209709",
+				"chapeu": {
+					"label": "Míriam Leitão",
+					"image": {}
+				},
+				"image": {
+					"url": "https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/X/1/TYgBcRRBWKX84ym3biBg/whatsapp-image-2023-04-18-at-18.17.38.jpeg",
+					"cropOptions": {},
+					"sizes": {
+						"L": {
+							"width": 1080,
+							"height": 608,
+							"url": "https://s2-oglobo.glbimg.com/SjOUSTJ5rJoUl21RRMGFB2DZiTU=/1080x608/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/X/1/TYgBcRRBWKX84ym3biBg/whatsapp-image-2023-04-18-at-18.17.38.jpeg"
+						},
+						"M": {
+							"width": 810,
+							"height": 456,
+							"url": "https://s2-oglobo.glbimg.com/6mj0zikJi9msDIoDw-eqBef9Ap0=/810x456/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/X/1/TYgBcRRBWKX84ym3biBg/whatsapp-image-2023-04-18-at-18.17.38.jpeg"
+						},
+						"Q": {
+							"width": 94,
+							"height": 94,
+							"url": "https://s2-oglobo.glbimg.com/vmpvxe5RcQ_MVMWwZchHl1W-Cdk=/94x94/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/X/1/TYgBcRRBWKX84ym3biBg/whatsapp-image-2023-04-18-at-18.17.38.jpeg"
+						},
+						"S": {
+							"width": 540,
+							"height": 304,
+							"url": "https://s2-oglobo.glbimg.com/2vovjkpXEFg7Z5i9hrrPWb_Knb4=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/X/1/TYgBcRRBWKX84ym3biBg/whatsapp-image-2023-04-18-at-18.17.38.jpeg"
+						},
+						"V": {
+							"width": 570,
+							"height": 620,
+							"url": "https://s2-oglobo.glbimg.com/yPhAvonYlC9SEe1Nl4_7_WyaMbs=/570x620/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/X/1/TYgBcRRBWKX84ym3biBg/whatsapp-image-2023-04-18-at-18.17.38.jpeg"
+						},
+						"VL": {
+							"width": 608,
+							"height": 1080,
+							"url": "https://s2-oglobo.glbimg.com/U9iMb3bHKkiTLZK66xs0KnnVN-4=/608x1080/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/X/1/TYgBcRRBWKX84ym3biBg/whatsapp-image-2023-04-18-at-18.17.38.jpeg"
+						},
+						"VM": {
+							"width": 456,
+							"height": 810,
+							"url": "https://s2-oglobo.glbimg.com/pAtC_jY51zwlevAGSV3hKfuX1QE=/456x810/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/X/1/TYgBcRRBWKX84ym3biBg/whatsapp-image-2023-04-18-at-18.17.38.jpeg"
+						},
+						"VS": {
+							"width": 304,
+							"height": 540,
+							"url": "https://s2-oglobo.glbimg.com/8A7qEiHftRoQtw3F_9_GuQ1i6wI=/304x540/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/X/1/TYgBcRRBWKX84ym3biBg/whatsapp-image-2023-04-18-at-18.17.38.jpeg"
+						},
+						"VXL": {
+							"width": 1080,
+							"height": 1920,
+							"url": "https://s2-oglobo.glbimg.com/VFDoWr8KaxC25cHS5UjE8hjlhoM=/1080x1920/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/X/1/TYgBcRRBWKX84ym3biBg/whatsapp-image-2023-04-18-at-18.17.38.jpeg"
+						},
+						"VXS": {
+							"width": 106,
+							"height": 108,
+							"url": "https://s2-oglobo.glbimg.com/w-y1uL5KHyV9KIxIxXXi95LjDk0=/106x108/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/X/1/TYgBcRRBWKX84ym3biBg/whatsapp-image-2023-04-18-at-18.17.38.jpeg"
+						},
+						"XS": {
+							"width": 188,
+							"height": 106,
+							"url": "https://s2-oglobo.glbimg.com/0rYhJZa9hVfgQSIVlnPulpnOZlo=/188x106/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/X/1/TYgBcRRBWKX84ym3biBg/whatsapp-image-2023-04-18-at-18.17.38.jpeg"
+						}
+					}
+				},
+				"recommendationSummary": "Congresso já tem lista de medidas para fortalecer o arcabouço, como a inclusão do aumento de capital de todas as estatais dentro do limite\n",
+				"recommendationTitle": "As mudanças do marco fiscal",
+				"section": "Míriam Leitão",
+				"summary": "Congresso já tem lista de medidas para fortalecer o arcabouço, como a inclusão do aumento de capital de todas as estatais dentro do limite\n",
+				"title": "As mudanças do marco fiscal",
+				"url": "https://oglobo.globo.com/blogs/miriam-leitao/post/2023/05/as-mudancas-do-marco-fiscal.ghtml",
+				"video": null
+			},
+			"draft": false,
+			"area": "",
+			"parentId": null,
+			"children": null,
+			"isPublishing": false,
+			"created": "2023-05-09T07:30:36.111Z",
+			"modified": "2023-05-09T07:30:36.423Z",
+			"tenantId": "oglobo",
+			"age": 62664991
+		},
+		{
+			"id": "495b617299426bab462f36794a08a806",
+			"feedId": "295e3508-c0cd-486a-a500-adeaa91e7c74",
+			"type": "materia",
+			"lastPublication": "2023-05-08T16:33:02.228Z",
+			"publication": "2023-05-08T16:28:04.024Z",
+			"content": {
+				"category": "c544b41f-af18-4611-abff-f0db1c209709",
+				"chapeu": {
+					"label": "Míriam Leitão",
+					"image": {}
+				},
+				"image": {
+					"url": "https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/x/a/uFFiyWQz6Y7OBOJRMcCQ/52602800474-fc8b2b1257-o.jpg",
+					"cropOptions": {},
+					"sizes": {
+						"L": {
+							"width": 1080,
+							"height": 608,
+							"url": "https://s2-oglobo.glbimg.com/tJZdxsFT5e7h4P7dJW-dEWWyZ50=/1080x608/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/x/a/uFFiyWQz6Y7OBOJRMcCQ/52602800474-fc8b2b1257-o.jpg"
+						},
+						"M": {
+							"width": 810,
+							"height": 456,
+							"url": "https://s2-oglobo.glbimg.com/nYQn1DmwFzv97NrO0AQuxN1Nj-E=/810x456/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/x/a/uFFiyWQz6Y7OBOJRMcCQ/52602800474-fc8b2b1257-o.jpg"
+						},
+						"Q": {
+							"width": 94,
+							"height": 94,
+							"url": "https://s2-oglobo.glbimg.com/cpG7AjYQDRBz81ikQa6giqywrPE=/94x94/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/x/a/uFFiyWQz6Y7OBOJRMcCQ/52602800474-fc8b2b1257-o.jpg"
+						},
+						"S": {
+							"width": 540,
+							"height": 304,
+							"url": "https://s2-oglobo.glbimg.com/xqRceCPFF2XWxNozMV6GApc2c6M=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/x/a/uFFiyWQz6Y7OBOJRMcCQ/52602800474-fc8b2b1257-o.jpg"
+						},
+						"V": {
+							"width": 570,
+							"height": 620,
+							"url": "https://s2-oglobo.glbimg.com/KyKjtPkxrepiPn1OQ22EkEH8-jw=/570x620/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/x/a/uFFiyWQz6Y7OBOJRMcCQ/52602800474-fc8b2b1257-o.jpg"
+						},
+						"VL": {
+							"width": 608,
+							"height": 1080,
+							"url": "https://s2-oglobo.glbimg.com/BHXsY6JWrPqJR4g0AAvtTrCpSiM=/608x1080/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/x/a/uFFiyWQz6Y7OBOJRMcCQ/52602800474-fc8b2b1257-o.jpg"
+						},
+						"VM": {
+							"width": 456,
+							"height": 810,
+							"url": "https://s2-oglobo.glbimg.com/03G1PAPM69UQ5dUKDc18TymzgCo=/456x810/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/x/a/uFFiyWQz6Y7OBOJRMcCQ/52602800474-fc8b2b1257-o.jpg"
+						},
+						"VS": {
+							"width": 304,
+							"height": 540,
+							"url": "https://s2-oglobo.glbimg.com/M2DNkgYzNM1u_lfTEdYaNO3dYMg=/304x540/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/x/a/uFFiyWQz6Y7OBOJRMcCQ/52602800474-fc8b2b1257-o.jpg"
+						},
+						"VXL": {
+							"width": 1080,
+							"height": 1920,
+							"url": "https://s2-oglobo.glbimg.com/nY9Y0FdmZ0qtOckbVht5zYeDpVQ=/1080x1920/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/x/a/uFFiyWQz6Y7OBOJRMcCQ/52602800474-fc8b2b1257-o.jpg"
+						},
+						"VXS": {
+							"width": 106,
+							"height": 108,
+							"url": "https://s2-oglobo.glbimg.com/NLoATIgtUnxTPnQI75WwC49-xDo=/106x108/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/x/a/uFFiyWQz6Y7OBOJRMcCQ/52602800474-fc8b2b1257-o.jpg"
+						},
+						"XS": {
+							"width": 188,
+							"height": 106,
+							"url": "https://s2-oglobo.glbimg.com/sdk1dGg8T7sWOpTN3DdFyzZFQTk=/188x106/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/x/a/uFFiyWQz6Y7OBOJRMcCQ/52602800474-fc8b2b1257-o.jpg"
+						}
+					}
+				},
+				"recommendationSummary": "Secretário executivo de Haddad foi indicado nesta segunda para a diretoria de política monetária do BC",
+				"recommendationTitle": "Galípolo será bom para o debate interno no Banco Central, mas fará falta na Fazenda",
+				"section": "Míriam Leitão",
+				"summary": "Secretário executivo de Haddad foi indicado nesta segunda para a diretoria de política monetária do BC",
+				"title": "Galípolo será bom para o debate interno no Banco Central, mas fará falta na Fazenda",
+				"url": "https://oglobo.globo.com/blogs/miriam-leitao/post/2023/05/galipolo-sera-bom-para-o-debate-interno-no-banco-central-mas-fara-falta-na-fazenda.ghtml",
+				"video": null
+			},
+			"draft": false,
+			"area": "",
+			"parentId": null,
+			"children": null,
+			"isPublishing": false,
+			"created": "2023-05-08T16:28:04.024Z",
+			"modified": "2023-05-08T16:33:02.228Z",
+			"tenantId": "oglobo",
+			"age": 62719143
+		},
+		{
+			"id": "c7ea6ebffb29bb37d3045d20a467e060",
+			"feedId": "295e3508-c0cd-486a-a500-adeaa91e7c74",
+			"type": "materia",
+			"lastPublication": "2023-05-08T14:45:31.468Z",
+			"publication": "2023-05-08T14:42:01.763Z",
+			"content": {
+				"category": "c544b41f-af18-4611-abff-f0db1c209709",
+				"chapeu": {
+					"label": "Míriam Leitão",
+					"image": {}
+				},
+				"image": {
+					"url": "https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/T/A/2kUYKTTnyZyOkhDo6dGQ/farmarias-aumento-remedios.jpg",
+					"cropOptions": {},
+					"sizes": {
+						"L": {
+							"width": 1080,
+							"height": 608,
+							"url": "https://s2-oglobo.glbimg.com/JkBJPGmPBLlAsSsX-4VTDv2PObY=/1080x608/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/T/A/2kUYKTTnyZyOkhDo6dGQ/farmarias-aumento-remedios.jpg"
+						},
+						"M": {
+							"width": 810,
+							"height": 456,
+							"url": "https://s2-oglobo.glbimg.com/B8dSq_dW0E0wIKnIg6J_2vRFBLI=/810x456/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/T/A/2kUYKTTnyZyOkhDo6dGQ/farmarias-aumento-remedios.jpg"
+						},
+						"Q": {
+							"width": 94,
+							"height": 94,
+							"url": "https://s2-oglobo.glbimg.com/DcUqMtp9ZtZ176CXmfw6ZHwxGmQ=/94x94/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/T/A/2kUYKTTnyZyOkhDo6dGQ/farmarias-aumento-remedios.jpg"
+						},
+						"S": {
+							"width": 540,
+							"height": 304,
+							"url": "https://s2-oglobo.glbimg.com/aW8cE-FeZiPDaqDSZh3-sgq3maQ=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/T/A/2kUYKTTnyZyOkhDo6dGQ/farmarias-aumento-remedios.jpg"
+						},
+						"V": {
+							"width": 570,
+							"height": 620,
+							"url": "https://s2-oglobo.glbimg.com/ilZ2ZflYk2efFTyQNcvuDgdjV0A=/570x620/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/T/A/2kUYKTTnyZyOkhDo6dGQ/farmarias-aumento-remedios.jpg"
+						},
+						"VL": {
+							"width": 608,
+							"height": 1080,
+							"url": "https://s2-oglobo.glbimg.com/Nwtc1fq9TUiSDGL9mJd4gSXUXgA=/608x1080/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/T/A/2kUYKTTnyZyOkhDo6dGQ/farmarias-aumento-remedios.jpg"
+						},
+						"VM": {
+							"width": 456,
+							"height": 810,
+							"url": "https://s2-oglobo.glbimg.com/0TSE_GxzkCDxSOMh5eVwGyYf_og=/456x810/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/T/A/2kUYKTTnyZyOkhDo6dGQ/farmarias-aumento-remedios.jpg"
+						},
+						"VS": {
+							"width": 304,
+							"height": 540,
+							"url": "https://s2-oglobo.glbimg.com/0ye2tddJws53ucoTWffx51RORBc=/304x540/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/T/A/2kUYKTTnyZyOkhDo6dGQ/farmarias-aumento-remedios.jpg"
+						},
+						"VXL": {
+							"width": 1080,
+							"height": 1920,
+							"url": "https://s2-oglobo.glbimg.com/Sw43SJGACem8STe9iM71joNAlAA=/1080x1920/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/T/A/2kUYKTTnyZyOkhDo6dGQ/farmarias-aumento-remedios.jpg"
+						},
+						"VXS": {
+							"width": 106,
+							"height": 108,
+							"url": "https://s2-oglobo.glbimg.com/T0CApy5B7sMZ_hxa_QNz9G2LUpo=/106x108/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/T/A/2kUYKTTnyZyOkhDo6dGQ/farmarias-aumento-remedios.jpg"
+						},
+						"XS": {
+							"width": 188,
+							"height": 106,
+							"url": "https://s2-oglobo.glbimg.com/I2a16p6RcF0eAVM2hnhj2pb5YsA=/188x106/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/T/A/2kUYKTTnyZyOkhDo6dGQ/farmarias-aumento-remedios.jpg"
+						}
+					}
+				},
+				"recommendationSummary": "Índice oficial de preços do mês passado será divulgado na próxima quarta ",
+				"recommendationTitle": "IPCA cairá e acumulado em 12 meses vai encostar em 4% em abril. Entenda",
+				"section": "Míriam Leitão",
+				"summary": "Índice oficial de preços do mês passado será divulgado na próxima quarta ",
+				"title": "IPCA cairá e acumulado em 12 meses vai encostar em 4% em abril. Entenda",
+				"url": "https://oglobo.globo.com/blogs/miriam-leitao/post/2023/05/ipca-caira-e-acumulado-em-12-meses-vai-encostar-em-4percent-em-abril-entenda.ghtml",
+				"video": null
+			},
+			"draft": false,
+			"area": "",
+			"parentId": null,
+			"children": null,
+			"isPublishing": false,
+			"created": "2023-05-08T14:42:01.763Z",
+			"modified": "2023-05-08T14:45:31.468Z",
+			"tenantId": "oglobo",
+			"age": 62725506
+		},
+		{
+			"id": "04dcc967d03af120d82cdf94e5484525",
+			"feedId": "295e3508-c0cd-486a-a500-adeaa91e7c74",
+			"type": "materia",
+			"lastPublication": "2023-05-08T13:59:10.8Z",
+			"publication": "2023-05-08T13:59:10.515Z",
+			"content": {
+				"category": "c544b41f-af18-4611-abff-f0db1c209709",
+				"chapeu": {
+					"label": "Míriam Leitão",
+					"image": {}
+				},
+				"image": {
+					"url": "https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/3/4/6IZ2foT4mxnUpAWw3FbA/account-g478f73f4a-640.jpg",
+					"cropOptions": {},
+					"sizes": {
+						"L": {
+							"width": 1080,
+							"height": 608,
+							"url": "https://s2-oglobo.glbimg.com/1PjbfWu0rXSh3y4FFzvpwkGPGKs=/1080x608/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/3/4/6IZ2foT4mxnUpAWw3FbA/account-g478f73f4a-640.jpg"
+						},
+						"M": {
+							"width": 810,
+							"height": 456,
+							"url": "https://s2-oglobo.glbimg.com/ddec29AqxjW9QnS86U8I7csP1VE=/810x456/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/3/4/6IZ2foT4mxnUpAWw3FbA/account-g478f73f4a-640.jpg"
+						},
+						"Q": {
+							"width": 94,
+							"height": 94,
+							"url": "https://s2-oglobo.glbimg.com/rDgjSct2Z0aX0ljkmW_arLTk2dw=/94x94/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/3/4/6IZ2foT4mxnUpAWw3FbA/account-g478f73f4a-640.jpg"
+						},
+						"S": {
+							"width": 540,
+							"height": 304,
+							"url": "https://s2-oglobo.glbimg.com/Zz_N-Z4aIgaOzsFLYgUwNwTzfkg=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/3/4/6IZ2foT4mxnUpAWw3FbA/account-g478f73f4a-640.jpg"
+						},
+						"V": {
+							"width": 570,
+							"height": 620,
+							"url": "https://s2-oglobo.glbimg.com/6Ij-nw-Vw9Le_rnOgFV09_DA0EQ=/570x620/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/3/4/6IZ2foT4mxnUpAWw3FbA/account-g478f73f4a-640.jpg"
+						},
+						"VL": {
+							"width": 608,
+							"height": 1080,
+							"url": "https://s2-oglobo.glbimg.com/QB8wvpG5rC5DcoIR81zoq0h6Bis=/608x1080/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/3/4/6IZ2foT4mxnUpAWw3FbA/account-g478f73f4a-640.jpg"
+						},
+						"VM": {
+							"width": 456,
+							"height": 810,
+							"url": "https://s2-oglobo.glbimg.com/IgstS2LPj2pgTWyYB8Miio-O1sU=/456x810/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/3/4/6IZ2foT4mxnUpAWw3FbA/account-g478f73f4a-640.jpg"
+						},
+						"VS": {
+							"width": 304,
+							"height": 540,
+							"url": "https://s2-oglobo.glbimg.com/HSmam39JYzpJapxb9oZairDCAaY=/304x540/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/3/4/6IZ2foT4mxnUpAWw3FbA/account-g478f73f4a-640.jpg"
+						},
+						"VXL": {
+							"width": 1080,
+							"height": 1920,
+							"url": "https://s2-oglobo.glbimg.com/0HEWyz5YCKo-1qDu41nsE5hf6wA=/1080x1920/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/3/4/6IZ2foT4mxnUpAWw3FbA/account-g478f73f4a-640.jpg"
+						},
+						"VXS": {
+							"width": 106,
+							"height": 108,
+							"url": "https://s2-oglobo.glbimg.com/YP_6HmPdmBdOgKLUl2CD28a80I4=/106x108/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/3/4/6IZ2foT4mxnUpAWw3FbA/account-g478f73f4a-640.jpg"
+						},
+						"XS": {
+							"width": 188,
+							"height": 106,
+							"url": "https://s2-oglobo.glbimg.com/2fxP_qPFsVof2LfPSYwzdX0IwvA=/188x106/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/3/4/6IZ2foT4mxnUpAWw3FbA/account-g478f73f4a-640.jpg"
+						}
+					}
+				},
+				"recommendationSummary": "Dados dos balanços de Itaú Unibanco e Bradesco apontam salto na emissão de cartões de crédito e débito e maquininhas",
+				"recommendationTitle": "Bancões perdem receita com tarifas de conta corrente, mas ganham em serviços de cartão",
+				"section": "Míriam Leitão",
+				"summary": "Dados dos balanços de Itaú Unibanco e Bradesco apontam salto na emissão de cartões de crédito e débito e maquininhas",
+				"title": "Bancões perdem receita com tarifas de conta corrente, mas ganham em serviços de cartão",
+				"url": "https://oglobo.globo.com/blogs/miriam-leitao/post/2023/05/bancoes-perdem-receita-com-tarifas-de-conta-corrente-mas-ganham-em-servicos-de-cartao.ghtml",
+				"video": null
+			},
+			"draft": false,
+			"area": "",
+			"parentId": null,
+			"children": null,
+			"isPublishing": false,
+			"created": "2023-05-08T13:59:10.515Z",
+			"modified": "2023-05-08T13:59:10.800Z",
+			"tenantId": "oglobo",
+			"age": 62728077
+		},
+		{
+			"id": "8ffdc940a0a423f7f50386513d19ed33",
+			"feedId": "295e3508-c0cd-486a-a500-adeaa91e7c74",
+			"type": "materia",
+			"lastPublication": "2023-05-08T11:24:41.025Z",
+			"publication": "2023-05-08T11:22:38.61Z",
+			"content": {
+				"category": "c544b41f-af18-4611-abff-f0db1c209709",
+				"chapeu": {
+					"label": "Míriam Leitão",
+					"image": {}
+				},
+				"image": {
+					"url": "https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/B/T/HrhlCdS1AbIHAEoDJ7OQ/101657637-mariz-pa-brasilia-03-01-2023-luiz-marinho-ministro-do-trabalho-entrevista-com-o-novo-min.jpg",
+					"cropOptions": {},
+					"sizes": {
+						"L": {
+							"width": 1080,
+							"height": 608,
+							"url": "https://s2-oglobo.glbimg.com/a9LmlnUMjmCHs6A4xTvgU-OIiJY=/1080x608/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/B/T/HrhlCdS1AbIHAEoDJ7OQ/101657637-mariz-pa-brasilia-03-01-2023-luiz-marinho-ministro-do-trabalho-entrevista-com-o-novo-min.jpg"
+						},
+						"M": {
+							"width": 810,
+							"height": 456,
+							"url": "https://s2-oglobo.glbimg.com/E5sWrQDv285lVwMiCE2yilS63jo=/810x456/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/B/T/HrhlCdS1AbIHAEoDJ7OQ/101657637-mariz-pa-brasilia-03-01-2023-luiz-marinho-ministro-do-trabalho-entrevista-com-o-novo-min.jpg"
+						},
+						"Q": {
+							"width": 94,
+							"height": 94,
+							"url": "https://s2-oglobo.glbimg.com/Mz80Y_v8e-kYXfbsyBQ-x9V7BCk=/94x94/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/B/T/HrhlCdS1AbIHAEoDJ7OQ/101657637-mariz-pa-brasilia-03-01-2023-luiz-marinho-ministro-do-trabalho-entrevista-com-o-novo-min.jpg"
+						},
+						"S": {
+							"width": 540,
+							"height": 304,
+							"url": "https://s2-oglobo.glbimg.com/SwJq_QLRyC-qwrd1YivYUCMa5Mc=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/B/T/HrhlCdS1AbIHAEoDJ7OQ/101657637-mariz-pa-brasilia-03-01-2023-luiz-marinho-ministro-do-trabalho-entrevista-com-o-novo-min.jpg"
+						},
+						"V": {
+							"width": 570,
+							"height": 620,
+							"url": "https://s2-oglobo.glbimg.com/7c_VfxwMEK6sSNZZuj0rVDLCzA4=/570x620/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/B/T/HrhlCdS1AbIHAEoDJ7OQ/101657637-mariz-pa-brasilia-03-01-2023-luiz-marinho-ministro-do-trabalho-entrevista-com-o-novo-min.jpg"
+						},
+						"VL": {
+							"width": 608,
+							"height": 1080,
+							"url": "https://s2-oglobo.glbimg.com/op6xbpcQDp4EF7cIZoMS57JvE3I=/608x1080/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/B/T/HrhlCdS1AbIHAEoDJ7OQ/101657637-mariz-pa-brasilia-03-01-2023-luiz-marinho-ministro-do-trabalho-entrevista-com-o-novo-min.jpg"
+						},
+						"VM": {
+							"width": 456,
+							"height": 810,
+							"url": "https://s2-oglobo.glbimg.com/BrTHrWc02gIqK8R4gpEcHnA6oPk=/456x810/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/B/T/HrhlCdS1AbIHAEoDJ7OQ/101657637-mariz-pa-brasilia-03-01-2023-luiz-marinho-ministro-do-trabalho-entrevista-com-o-novo-min.jpg"
+						},
+						"VS": {
+							"width": 304,
+							"height": 540,
+							"url": "https://s2-oglobo.glbimg.com/_vCKH2u-gLym24vaDO--DSBomsQ=/304x540/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/B/T/HrhlCdS1AbIHAEoDJ7OQ/101657637-mariz-pa-brasilia-03-01-2023-luiz-marinho-ministro-do-trabalho-entrevista-com-o-novo-min.jpg"
+						},
+						"VXL": {
+							"width": 1080,
+							"height": 1920,
+							"url": "https://s2-oglobo.glbimg.com/S1mGJ7DNgAVg-XWFQVrAFbA2mos=/1080x1920/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/B/T/HrhlCdS1AbIHAEoDJ7OQ/101657637-mariz-pa-brasilia-03-01-2023-luiz-marinho-ministro-do-trabalho-entrevista-com-o-novo-min.jpg"
+						},
+						"VXS": {
+							"width": 106,
+							"height": 108,
+							"url": "https://s2-oglobo.glbimg.com/_yUagCM1uC3AyIZjSpx6UU6d0Bs=/106x108/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/B/T/HrhlCdS1AbIHAEoDJ7OQ/101657637-mariz-pa-brasilia-03-01-2023-luiz-marinho-ministro-do-trabalho-entrevista-com-o-novo-min.jpg"
+						},
+						"XS": {
+							"width": 188,
+							"height": 106,
+							"url": "https://s2-oglobo.glbimg.com/arArl5ep_K5ET2DVHBg43dmeB1M=/188x106/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/B/T/HrhlCdS1AbIHAEoDJ7OQ/101657637-mariz-pa-brasilia-03-01-2023-luiz-marinho-ministro-do-trabalho-entrevista-com-o-novo-min.jpg"
+						}
+					}
+				},
+				"recommendationSummary": "Marinho deveria extinguir a punição ao trabalhador que saca o Fundo em seu aniversário e pensar em novas formas de acesso a essa poupança",
+				"recommendationTitle": "Ministro do Trabalho deveria abrir caminhos para o acesso ao FGTS, e não fechá-los ",
+				"section": "Míriam Leitão",
+				"summary": "Marinho deveria extinguir a punição ao trabalhador que saca o Fundo em seu aniversário e pensar em novas formas de acesso a essa poupança",
+				"title": "Ministro do Trabalho deveria abrir caminhos para o acesso ao FGTS, e não fechá-los ",
+				"url": "https://oglobo.globo.com/blogs/miriam-leitao/post/2023/05/ministro-do-trabalho-deveria-abrir-caminhos-para-o-acesso-ao-fgts-e-nao-fecha-los.ghtml",
+				"video": null
+			},
+			"draft": false,
+			"area": "",
+			"parentId": null,
+			"children": null,
+			"isPublishing": false,
+			"created": "2023-05-08T11:22:38.610Z",
+			"modified": "2023-05-08T11:24:41.025Z",
+			"tenantId": "oglobo",
+			"age": 62737469
+		},
+		{
+			"id": "f881dc3f6548258294c84349548fde62",
+			"feedId": "295e3508-c0cd-486a-a500-adeaa91e7c74",
+			"type": "materia",
+			"lastPublication": "2023-05-07T07:30:58.812Z",
+			"publication": "2023-05-07T07:30:58.522Z",
+			"content": {
+				"category": "c544b41f-af18-4611-abff-f0db1c209709",
+				"chapeu": {
+					"label": "Míriam Leitão",
+					"image": {}
+				},
+				"image": {
+					"url": "https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/5/F/vNzyrAQRi9xqYap1H3eA/102896554-mariz-pa-brasilia-03-05-2023-jair-bolsonaro-policia-federal-operacao-venire-casa-condomini.jpg",
+					"cropOptions": {},
+					"sizes": {
+						"L": {
+							"width": 1080,
+							"height": 608,
+							"url": "https://s2-oglobo.glbimg.com/tTEw_hv7WlL79NyJ8wb8bhHHEJI=/1080x608/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/5/F/vNzyrAQRi9xqYap1H3eA/102896554-mariz-pa-brasilia-03-05-2023-jair-bolsonaro-policia-federal-operacao-venire-casa-condomini.jpg"
+						},
+						"M": {
+							"width": 810,
+							"height": 456,
+							"url": "https://s2-oglobo.glbimg.com/Ys9CN2L3MyKANv8Ek1gozFDh5ww=/810x456/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/5/F/vNzyrAQRi9xqYap1H3eA/102896554-mariz-pa-brasilia-03-05-2023-jair-bolsonaro-policia-federal-operacao-venire-casa-condomini.jpg"
+						},
+						"Q": {
+							"width": 94,
+							"height": 94,
+							"url": "https://s2-oglobo.glbimg.com/R4z2JT_gRvm6Q-NQdtXIiLCU3g4=/94x94/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/5/F/vNzyrAQRi9xqYap1H3eA/102896554-mariz-pa-brasilia-03-05-2023-jair-bolsonaro-policia-federal-operacao-venire-casa-condomini.jpg"
+						},
+						"S": {
+							"width": 540,
+							"height": 304,
+							"url": "https://s2-oglobo.glbimg.com/7v1LbppRpDe8mmcuN-y4FAxbNSY=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/5/F/vNzyrAQRi9xqYap1H3eA/102896554-mariz-pa-brasilia-03-05-2023-jair-bolsonaro-policia-federal-operacao-venire-casa-condomini.jpg"
+						},
+						"V": {
+							"width": 570,
+							"height": 620,
+							"url": "https://s2-oglobo.glbimg.com/LJWSOW0bNCMSgMqJIz83S-R-twQ=/570x620/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/5/F/vNzyrAQRi9xqYap1H3eA/102896554-mariz-pa-brasilia-03-05-2023-jair-bolsonaro-policia-federal-operacao-venire-casa-condomini.jpg"
+						},
+						"VL": {
+							"width": 608,
+							"height": 1080,
+							"url": "https://s2-oglobo.glbimg.com/s_IDR706wnXFcqWWHYkWGJy4O_w=/608x1080/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/5/F/vNzyrAQRi9xqYap1H3eA/102896554-mariz-pa-brasilia-03-05-2023-jair-bolsonaro-policia-federal-operacao-venire-casa-condomini.jpg"
+						},
+						"VM": {
+							"width": 456,
+							"height": 810,
+							"url": "https://s2-oglobo.glbimg.com/ikfJfwBG_Oa-OIYrO6J8F1G_auU=/456x810/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/5/F/vNzyrAQRi9xqYap1H3eA/102896554-mariz-pa-brasilia-03-05-2023-jair-bolsonaro-policia-federal-operacao-venire-casa-condomini.jpg"
+						},
+						"VS": {
+							"width": 304,
+							"height": 540,
+							"url": "https://s2-oglobo.glbimg.com/SP8Hhx03ZU1IM6eV6jJ9gkUbUy4=/304x540/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/5/F/vNzyrAQRi9xqYap1H3eA/102896554-mariz-pa-brasilia-03-05-2023-jair-bolsonaro-policia-federal-operacao-venire-casa-condomini.jpg"
+						},
+						"VXL": {
+							"width": 1080,
+							"height": 1920,
+							"url": "https://s2-oglobo.glbimg.com/k_EjWWpobU9B709ckRkPcMYPR14=/1080x1920/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/5/F/vNzyrAQRi9xqYap1H3eA/102896554-mariz-pa-brasilia-03-05-2023-jair-bolsonaro-policia-federal-operacao-venire-casa-condomini.jpg"
+						},
+						"VXS": {
+							"width": 106,
+							"height": 108,
+							"url": "https://s2-oglobo.glbimg.com/4nG-1Mc_5nQpWCnlQNQqAtNZukw=/106x108/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/5/F/vNzyrAQRi9xqYap1H3eA/102896554-mariz-pa-brasilia-03-05-2023-jair-bolsonaro-policia-federal-operacao-venire-casa-condomini.jpg"
+						},
+						"XS": {
+							"width": 188,
+							"height": 106,
+							"url": "https://s2-oglobo.glbimg.com/_w-8tzOnIwXNUh7MMvUPXNAff30=/188x106/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/5/F/vNzyrAQRi9xqYap1H3eA/102896554-mariz-pa-brasilia-03-05-2023-jair-bolsonaro-policia-federal-operacao-venire-casa-condomini.jpg"
+						}
+					}
+				},
+				"recommendationSummary": "Na esteira da investigação sobre a vacinação, surgiu uma trilha de crimes: fraudes, golpismo, até do assassinato de Marielle se falou \n",
+				"recommendationTitle": "Os fios que tecem a rede de crimes",
+				"section": "Míriam Leitão",
+				"summary": "Na esteira da investigação sobre a vacinação, surgiu uma trilha de crimes: fraudes, golpismo, até do assassinato de Marielle se falou \n",
+				"title": "Os fios que tecem a rede de crimes",
+				"url": "https://oglobo.globo.com/blogs/miriam-leitao/post/2023/05/os-fios-que-tecem-a-rede-de-crimes.ghtml",
+				"video": null
+			},
+			"draft": false,
+			"area": "",
+			"parentId": null,
+			"children": null,
+			"isPublishing": false,
+			"created": "2023-05-07T07:30:58.522Z",
+			"modified": "2023-05-07T07:30:58.812Z",
+			"tenantId": "oglobo",
+			"age": 62837769
+		},
+		{
+			"id": "47a132449631bee321b7b315d98e7e95",
+			"feedId": "295e3508-c0cd-486a-a500-adeaa91e7c74",
+			"type": "materia",
+			"lastPublication": "2023-05-05T21:48:19.882Z",
+			"publication": "2023-05-05T20:31:40.585Z",
+			"content": {
+				"category": "c544b41f-af18-4611-abff-f0db1c209709",
+				"chapeu": {
+					"label": "Míriam Leitão",
+					"image": {}
+				},
+				"image": {
+					"url": "https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/B/D/BNKsh6RqmdicXaa9bOuQ/101665260-brazilian-new-environment-minister-marina-silva-gestures-during-her-swearing-in-ceremony-a.jpg",
+					"cropOptions": {},
+					"sizes": {
+						"L": {
+							"width": 1080,
+							"height": 608,
+							"url": "https://s2-oglobo.glbimg.com/qEvAKOzlRiAXd-ONLUHOmcdBtZM=/1080x608/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/B/D/BNKsh6RqmdicXaa9bOuQ/101665260-brazilian-new-environment-minister-marina-silva-gestures-during-her-swearing-in-ceremony-a.jpg"
+						},
+						"M": {
+							"width": 810,
+							"height": 456,
+							"url": "https://s2-oglobo.glbimg.com/thzoA2JKhC3JHOscgbEy1zqlIRU=/810x456/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/B/D/BNKsh6RqmdicXaa9bOuQ/101665260-brazilian-new-environment-minister-marina-silva-gestures-during-her-swearing-in-ceremony-a.jpg"
+						},
+						"Q": {
+							"width": 94,
+							"height": 94,
+							"url": "https://s2-oglobo.glbimg.com/JAX4whXgAShDpSQogTCv8WCNWnA=/94x94/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/B/D/BNKsh6RqmdicXaa9bOuQ/101665260-brazilian-new-environment-minister-marina-silva-gestures-during-her-swearing-in-ceremony-a.jpg"
+						},
+						"S": {
+							"width": 540,
+							"height": 304,
+							"url": "https://s2-oglobo.glbimg.com/ctL2kCHEImTn30BavodA3FF2r0A=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/B/D/BNKsh6RqmdicXaa9bOuQ/101665260-brazilian-new-environment-minister-marina-silva-gestures-during-her-swearing-in-ceremony-a.jpg"
+						},
+						"V": {
+							"width": 570,
+							"height": 620,
+							"url": "https://s2-oglobo.glbimg.com/5ZzBF7sOhiYiRKy7kNYJ4_M1JCo=/570x620/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/B/D/BNKsh6RqmdicXaa9bOuQ/101665260-brazilian-new-environment-minister-marina-silva-gestures-during-her-swearing-in-ceremony-a.jpg"
+						},
+						"VL": {
+							"width": 608,
+							"height": 1080,
+							"url": "https://s2-oglobo.glbimg.com/awsqkiFaoH2s03v9Vk_eBsT1Fkg=/608x1080/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/B/D/BNKsh6RqmdicXaa9bOuQ/101665260-brazilian-new-environment-minister-marina-silva-gestures-during-her-swearing-in-ceremony-a.jpg"
+						},
+						"VM": {
+							"width": 456,
+							"height": 810,
+							"url": "https://s2-oglobo.glbimg.com/vXcoFp9Q0bpelD2CraUJQv04ZWs=/456x810/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/B/D/BNKsh6RqmdicXaa9bOuQ/101665260-brazilian-new-environment-minister-marina-silva-gestures-during-her-swearing-in-ceremony-a.jpg"
+						},
+						"VS": {
+							"width": 304,
+							"height": 540,
+							"url": "https://s2-oglobo.glbimg.com/zDJFXZToxDm0Ynb4uWAqpq64zs4=/304x540/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/B/D/BNKsh6RqmdicXaa9bOuQ/101665260-brazilian-new-environment-minister-marina-silva-gestures-during-her-swearing-in-ceremony-a.jpg"
+						},
+						"VXL": {
+							"width": 1080,
+							"height": 1920,
+							"url": "https://s2-oglobo.glbimg.com/i61ogqN7VUHri1OM5QbOyenYyQc=/1080x1920/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/B/D/BNKsh6RqmdicXaa9bOuQ/101665260-brazilian-new-environment-minister-marina-silva-gestures-during-her-swearing-in-ceremony-a.jpg"
+						},
+						"VXS": {
+							"width": 106,
+							"height": 108,
+							"url": "https://s2-oglobo.glbimg.com/jOWpfEgUtWGU_l4cZssMCvLRMIU=/106x108/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/B/D/BNKsh6RqmdicXaa9bOuQ/101665260-brazilian-new-environment-minister-marina-silva-gestures-during-her-swearing-in-ceremony-a.jpg"
+						},
+						"XS": {
+							"width": 188,
+							"height": 106,
+							"url": "https://s2-oglobo.glbimg.com/wgU_YUbZgCEdpU001JwhBuRjwRc=/188x106/top/smart/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/B/D/BNKsh6RqmdicXaa9bOuQ/101665260-brazilian-new-environment-minister-marina-silva-gestures-during-her-swearing-in-ceremony-a.jpg"
+						}
+					}
+				},
+				"recommendationSummary": "Ministra retomou o processo de indicação dos candidatos através de um comitê de busca",
+				"recommendationTitle": "Marina Silva anuncia nome do novo presidente do ICMBio, escolhido por lista tríplice ",
+				"section": "Míriam Leitão",
+				"summary": "Ministra retomou o processo de indicação dos candidatos através de um comitê de busca",
+				"title": "Marina Silva anuncia nome do novo presidente do ICMBio, escolhido por lista tríplice ",
+				"url": "https://oglobo.globo.com/blogs/miriam-leitao/post/2023/05/marina-silva-anuncia-nome-do-novo-presidente-do-icmbio-escolhido-por-lista-triplice.ghtml",
+				"video": null
+			},
+			"draft": false,
+			"area": "",
+			"parentId": null,
+			"children": null,
+			"isPublishing": false,
+			"created": "2023-05-05T20:31:40.585Z",
+			"modified": "2023-05-05T21:48:19.882Z",
+			"tenantId": "oglobo",
+			"age": 62963727
+		}
+	],
+	"itemCount": 0,
+	"limit": 10,
+	"perPage": 0,
+	"nextPage": 292,
+	"source": "falkor"
+}

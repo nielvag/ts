@@ -1,0 +1,18 @@
+{
+  "name": "planilhas-colunista",
+  "version": "1.0.0",
+  "main": "processar-prompt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "openai": "^6.15.0",
+    "playwright": "^1.57.0",
+    "playwright-extra": "^4.3.6",
+    "playwright-extra-plugin-stealth": "^0.0.1",
+    "xlsx": "^0.18.5"
+  }
+}
