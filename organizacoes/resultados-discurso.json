@@ -223,5 +223,252 @@
   "relacao-discursiva": "Discurso 3.1 Relação com o público",
   "relacao-discursiva-justificativa": "O texto constitui uma seção de perguntas frequentes (FAQ) do The Intercept Brasil dirigida explicitamente ao leitor e à audiência, caracterizada pela interpelação direta e por um tom didático que explica o modelo de financiamento, doações, ausência de paywall e políticas de privacidade, construindo um vínculo direto de proximidade e transparência com o público."
 },
-
+{
+  "id": "ap-1",
+  "posicionamento-institucional": "Discurso 1.3 Garantidora da verdade",
+  "posicionamento-institucional-justificativa": "A organização legitima sua relação com a verdade (enunciada sob os termos 'rigorosa apuração dos fatos' e 'apuração isenta e criteriosa') ancorando-se na memória e continuidade de sua própria história institucional, o que é evidenciado por marcadores temporais e de fundação ('Fundada em 2011', 'Ao longo de nossa história').",
+  "estrategias-de-legitimacao": [
+    "Discurso 2.1 Ethos e fiador externo",
+    "Discurso 2.3 Heterogeneidade enunciativa e cenografia"
+  ],
+  "estrategias-de-legitimacao-justificativa": "A organização constrói seu ethos de credibilidade transferindo para si a autoridade de fiadores externos por meio da citação de normas e ideais universais ('direitos humanos'), da chancela de veículos internacionais (The Guardian, DW Brazil) e de premiações consagradas. Além disso, mobiliza uma cenografia institucional-promocional própria do gênero 'Quem Somos', com tom celebratório de suas conquistas.",
+  "relacao-discursiva": "Discurso 3.1 Relação com o público",
+  "relacao-discursiva-justificativa": "O documento constrói uma relação de forte vínculo com a audiência por meio de ações performativas de engajamento e interpelação direta ao leitor para que financie a organização ('Nosso trabalho só é possível graças ao apoio de mais de 2.000 aliados', 'Participe disso e torne-se aliado da Pública'), além de convites imperativos para acompanhamento em redes sociais ('Veja', 'Siga', 'Inscreva-se')."
+},
+{
+  "id": "ap-2",
+  "posicionamento-institucional": null,
+  "posicionamento-institucional-justificativa": null,
+  "estrategias-de-legitimacao": [
+    "Discurso 2.3 Heterogeneidade enunciativa e cenografia"
+  ],
+  "estrategias-de-legitimacao-justificativa": "O documento legitima seu discurso ao instaurar uma cenografia mista: inicia com um tom normativo e descritivo sobre prestação de contas e independência editorial, para em seguida adotar um registro institucional-promocional de campanha ('Programa de Aliados', 'Participe!').",
+  "relacao-discursiva": "Discurso 3.1 Relação com o público",
+  "relacao-discursiva-justificativa": "O texto constrói vínculo e proximidade com o leitor por meio de interpelações diretas ('você ajuda a Pública') e ações performativas de engajamento com uso de imperativos ('Consulte', 'Participe!'), colocando o público na posição de financiador e parceiro da agência."
+},
+{
+  "id": "ap-3",
+  "posicionamento-institucional": null,
+  "posicionamento-institucional-justificativa": null,
+  "estrategias-de-legitimacao": null,
+  "estrategias-de-legitimacao-justificativa": null,
+  "relacao-discursiva": "Discurso 3.1 Relação com o público",
+  "relacao-discursiva-justificativa": "O texto estabelece uma relação direta de transparência e prestação de contas com a audiência ao convidar os leitores a apontarem erros, enviarem críticas ou sugestões. Adota um tom didático para explicar os procedimentos operacionais da organização diante de falhas, engajando o leitor no processo de verificação e controle do conteúdo publicado."
+},
+{
+  "id": "ap-4",
+  "posicionamento-institucional": null,
+  "posicionamento-institucional-justificativa": null,
+  "estrategias-de-legitimacao": null,
+  "estrategias-de-legitimacao-justificativa": null,
+  "relacao-discursiva": null,
+  "relacao-discursiva-justificativa": null
+},
+{
+  "id": "ap-5",
+  "posicionamento-institucional": "Discurso 1.3 Garantidora da verdade",
+  "posicionamento-institucional-justificativa": "A organização enuncia a partir do lugar de fiadora da apuração, ancorando a produção jornalística e a busca pela verdade em seus próprios preceitos fundacionais ('organização que se dedica a fazer jornalismo investigativo'). A agência evoca a si mesma e o crivo humano de sua equipe como garantidores finais da veracidade da informação, rejeitando delegar essa função à inteligência artificial ('Nenhum robô pode ser responsabilizado por erros... a responsabilidade sempre será da equipe').",
+  "estrategias-de-legitimacao": [
+    "Discurso 2.1 Ethos e fiador externo",
+    "Discurso 2.2 Paráfrase institucional e efeito de evidência"
+  ],
+  "estrategias-de-legitimacao-justificativa": "A subcategoria 2.1 aplica-se pela invocação explícita à 'defesa intransigente dos direitos humanos', utilizando esse princípio universal externo como fiador ético para legitimar suas práticas de apuração, além da validação por espelhamento ao campo ('Como em outras organizações jornalísticas'). A subcategoria 2.2 justifica-se pelo emprego da fórmula estabilizada 'rigorosa apuração dos fatos', que é acionada como uma matriz de sentido autoevidente e não problematizada para atestar o valor de verdade do que publicam.",
+  "relacao-discursiva": "Discurso 3.2 Relação com os jornalistas",
+  "relacao-discursiva-justificativa": "Embora apresente um tom de prestação de contas à sociedade ('Prezando pela transparência'), o cerne discursivo do texto é uma forte injunção normativa e deontológica voltada à conduta dos próprios profissionais da redação. Isso se evidencia pelas regras limitadoras e imperativas (ex: 'uso... é proibido', 'não é permitido', 'Jamais usaremos', 'passarão necessariamente por revisão') e pela determinação de que eventuais erros de conteúdo recaem sob a responsabilidade restrita da equipe de jornalistas."
+},
+{
+  "id": "al-1",
+  "posicionamento-institucional": "Discurso 1.5 Promotora da verdade",
+  "posicionamento-institucional-justificativa": "O texto pertence a uma seção institucional ('Sobre a Lupa') e adota um tom ativo, celebratório e de compromisso social, apresentando a organização como um polo que 'protege você no ambiente digital' e se dedica a 'qualificar o debate público' e combater a desinformação.",
+  "estrategias-de-legitimacao": [
+    "Discurso 2.1 Ethos e fiador externo",
+    "Discurso 2.3 Heterogeneidade enunciativa e cenografia"
+  ],
+  "estrategias-de-legitimacao-justificativa": "A organização constrói sua autoridade legitimadora respaldando-se em fiadores externos consolidados (como a auditoria da IFCN, além de LatamChequea, Ajor e Projor). Paralelamente, estabelece uma cenografia institucional-promocional marcada por marcas performáticas de convocação do público ('protege você', 'Quer ser parceiro da Lupa? Fale com a gente!').",
+  "relacao-discursiva": "Discurso 3.1 Relação com o público",
+  "relacao-discursiva-justificativa": "O documento é construído com foco ostensivo na audiência, interpelando o leitor diretamente em segunda pessoa ('você') e demonstrando didaticamente a transparência da organização no uso de IA, financiamento e princípios institucionais para garantir a confiança do público."
+},
+{
+  "id": "al-2",
+  "posicionamento-institucional": "Discurso 1.2 Árbitro da verdade — assumido",
+  "posicionamento-institucional-justificativa": "O documento nunca emprega literalmente o termo 'verdade', substituindo-o sistematicamente por 'fatos', 'desinformação' e 'informação (correta/errada)' — por exemplo, na Política de Correção de Erros: 'a informação errada não é simplesmente apagada, mas sim indicada como errada'. Ainda assim, a Lupa se enuncia a partir do lugar típico das agências de fact-checking certificadas pela IFCN, cujo produto é justamente o veredito técnico sobre o que é correto ou incorreto ('checagem de fatos', 'verificação de informações'). Há apagamento do sujeito julgador em favor do método, como no valor 'A checagem de fatos é nosso ponto de partida', e na afirmação de que a empresa 'se posiciona em favor dos fatos e do debate público honesto' (Prática do Apartidarismo). O funcionamento discursivo é predominantemente autoritário (polissemia contida), típico de código de conduta/manual, reforçando a assunção implícita do papel de árbitro, ainda que mediado pela linguagem técnico-neutra do fact-checking institucionalizado.",
+  "estrategias-de-legitimacao": ["Discurso 2.1 Ethos e fiador externo", "Discurso 2.3 Heterogeneidade enunciativa e cenografia"],
+  "estrategias-de-legitimacao-justificativa": "Discurso 2.1: a legitimidade do dizer da Lupa é construída por remissão explícita a uma instância externa — a International Fact-Checking Network (IFCN). O documento afirma que a Lupa é 'membro certificado da International Fact-Checking Network (IFCN) desde 2016', que passa por 'processo de auditoria independente' e que é 'signatária do Código de Ética e Princípios da IFCN', condicionando inclusive a manutenção do selo à demonstração documentada de conformidade — um fiador externo clássico (Maingueneau), distinto da memória institucional da própria empresa. Discurso 2.3: há contraste de cenografia entre a 'Carta aos Colaboradores', de tom pessoal, subjetivo e de agradecimento ('Obrigada por acreditar no que fazemos e por ser parte da história da Lupa', assinada por Natália Leal), e o restante do documento, de registro normativo-imperativo típico de código de conduta ('não tolera', 'deve se antecipar e evitar', 'recomenda-se'). Esse deslocamento de cena de fala dentro do mesmo documento evidencia articulação polifônica e cenográfica.",
+  "relacao-discursiva": "Discurso 3.2 Relação com os jornalistas",
+  "relacao-discursiva-justificativa": "Todo o documento — incluindo o capítulo nominalmente dedicado à audiência ('Do Relacionamento com a Audiência') — é enunciado como orientação interna dirigida aos colaboradores e funcionários da Lupa, prescrevendo condutas em nome dos princípios da instituição, e não como interpelação direta ao público leitor. Exemplos: 'a Lupa recomenda que os colaboradores não divulguem seus telefones pessoais'; 'a Lupa solicita, apenas, que sejam evitadas manifestações partidárias' (uso de redes sociais); 'o colaborador da Lupa deve se antecipar e evitar toda e qualquer situação de conflito de interesses'; e mesmo as políticas de correção e atualização de informações são apresentadas como normas que os profissionais devem seguir, não como fala dirigida à audiência. Não há, no documento, trechos de interpelação direta ao leitor/público (cartas ao público, convocações, linguagem de campanha), o que afasta a classificação em Discurso 3.1 Relação com o público."
+},
+{
+  "id": "al-3",
+  "posicionamento-institucional": "Discurso 1.2 Árbitro da verdade — assumido",
+  "posicionamento-institucional-justificativa": "O texto detalha a metodologia de trabalho da agência de checagem, focando na seleção, verificação e classificação de frases e conteúdos para atestar seu grau de veracidade, o que caracteriza a posição de quem assume a função de decidir e classificar o que é verdadeiro ou falso.",
+  "estrategias-de-legitimacao": [
+    "Discurso 2.1 Ethos e fiador externo"
+  ],
+  "estrategias-de-legitimacao-justificativa": "A organização busca legitimar seu dizer ao associar sua metodologia a redes e plataformas externas de referência internacional no fact-checking, como Chequeado, Politifact e o projeto de verificação do Facebook.",
+  "relacao-discursiva": "Discurso 3.1 Relação com o público",
+  "relacao-discursiva-justificativa": "O texto dirige-se explicitamente ao leitor e à audiência geral para detalhar os critérios e regras de apuração da agência, construindo proximidade e afirmando uma relação de transparência institucional com o público."
+},
+{
+  "id": "al-4",
+  "posicionamento-institucional": "Discurso 1.2 Árbitro da verdade — assumido",
+  "posicionamento-institucional-justificativa": "A organização enuncia a partir de uma posição-sujeito que assume a função de classificar e decidir o que é verdadeiro ou falso através de um sistema de etiquetagem estruturado (Verdadeiro, Falso, Falta contexto, etc.), ancorando-se no método e tratando o processo como uma aferição objetiva do 'grau de veracidade'.",
+  "estrategias-de-legitimacao": null,
+  "estrategias-de-legitimacao-justificativa": null,
+  "relacao-discursiva": "Discurso 3.1 Relação com o público",
+  "relacao-discursiva-justificativa": "O texto interpela o leitor com um tom marcadamente didático voltado à audiência externa ('Entenda as etiquetas da Lupa', 'Saiba agora o que significa cada etiqueta') para explicar seu funcionamento metodológico. Constrói também vínculo ao convidar à participação, ressaltando que a classificação adotada é 'passível de revisão' mediante contato direto da audiência."
+},
+{
+  "id": "al-5",
+  "posicionamento-institucional": "Discurso 1.2 Árbitro da verdade — assumido",
+  "posicionamento-institucional-justificativa": "A organização enuncia a partir do lugar de estipulação e revisão de vereditos e etiquetas de checagem (referindo-se expressamente a marcações como 'falso' ou alteração de 'etiqueta'), assumindo a função técnica de classificar a veracidade dos conteúdos e prevendo ritos formais para reavaliar seus julgamentos.",
+  "estrategias-de-legitimacao": [
+    "Discurso 2.1 Ethos e fiador externo"
+  ],
+  "estrategias-de-legitimacao-justificativa": "A Lupa legitima sua política de transparência e correções invocando explicitamente uma autoridade externa, a Rede Internacional de Fact-Checking (IFCN), apresentando o alinhamento ao seu código de princípios como garantia de credibilidade do que enuncia.",
+  "relacao-discursiva": "Discurso 3.1 Relação com o público",
+  "relacao-discursiva-justificativa": "O texto é prioritariamente construído por meio de uma interlocução direta e didática com a audiência ('cabe a você, leitor, checar esse trabalho'), convidando o público a interagir, contestar e fiscalizar ativamente a precisão das informações publicadas."
+},
+{
+  "id": "al-6",
+  "posicionamento-institucional": "Discurso 1.5 Promotora da verdade",
+  "posicionamento-institucional-justificativa": "O texto enuncia a partir de uma seção institucional 'Sobre' ('O que é a Lupa?'), assumindo o papel de promover publicamente a verdade e combater a desinformação por meio de sua missão, o que se alinha à categoria de promotora da verdade.",
+  "estrategias-de-legitimacao": [
+    "Discurso 2.1 Ethos e fiador externo",
+    "Discurso 2.3 Heterogeneidade enunciativa e cenografia"
+  ],
+  "estrategias-de-legitimacao-justificativa": "A organização legitima seu discurso invocando instâncias externas de credibilidade e auditoria (como a International Fact-Checking Network - IFCN e o The Trust Project) e estruturando uma cenografia institucional de apresentação histórica e cronológica típica de seções 'Quem Somos'.",
+  "relacao-discursiva": "Discurso 3.1 Relação com o público",
+  "relacao-discursiva-justificativa": "O texto é direcionado publicamente aos leitores e à sociedade (em uma seção institucional 'Quem Somos'), explicitando a missão da Lupa, prestando contas de sua atuação, garantindo transparência e convidando o público a consultar os bancos de dados utilizados nas verificações."
+},
+{
+  "id": "al-7",
+  "posicionamento-institucional": null,
+  "posicionamento-institucional-justificativa": null,
+  "estrategias-de-legitimacao": [
+    "Discurso 2.1 Ethos e fiador externo",
+    "Discurso 2.3 Heterogeneidade enunciativa e cenografia"
+  ],
+  "estrategias-de-legitimacao-justificativa": "O texto mobiliza instâncias externas de credibilidade ao citar o Código de Princípios da IFCN e a figura de Brooks Jackson como pioneiro e autoridade no assunto (Discurso 2.1), além de empregar discurso relatado por meio de citação direta de Jackson para estruturar a narrativa legitimadora da prática (Discurso 2.3).",
+  "relacao-discursiva": "Discurso 3.1 Relação com o público",
+  "relacao-discursiva-justificativa": "O texto adota um tom didático e explicativo voltado diretamente ao leitor/público para contextualizar a origem da checagem de dados, culminando na interpelação final que define o papel da organização para a audiência ('A Lupa é isso: seu filtro')."
+},
+{
+  "id": "al-8",
+  "posicionamento-institucional": "Discurso 1.5 Promotora da verdade",
+  "posicionamento-institucional-justificativa": "O texto apresenta um tom institucional e promocional, típico de seções como 'Quem Somos', ao destacar a filiação a redes de promoção da verdade, o engajamento em campanhas globais e a referência ao vídeo 'Nós amamos a verdade', alinhando-se a uma posição ativa e celebratória promotora da verdade.",
+  "estrategias-de-legitimacao": [
+    "Discurso 2.1 Ethos e fiador externo",
+    "Discurso 2.3 Heterogeneidade enunciativa e cenografia"
+  ],
+  "estrategias-de-legitimacao-justificativa": "A legitimação é construída por meio da invocação de um fiador externo (a International Fact-Checking Network - IFCN, seu código de princípios e auditorias independentes) e pela articulação de uma cenografia institucional-promocional voltada à celebração de marcos globais, campanhas e conteúdos audiovisuais como o vídeo 'Nós amamos a verdade'.",
+  "relacao-discursiva": "Discurso 3.1 Relação com o público",
+  "relacao-discursiva-justificativa": "O documento é direcionado abertamente ao público geral e à audiência da agência para explicar suas inspirações, princípios éticos e redes de atuação, convidando os leitores a interagir e assistir a conteúdos multimídia institucionais."
+},
+{
+  "id": "al-9",
+  "posicionamento-institucional": "Discurso 1.5 Promotora da verdade",
+  "posicionamento-institucional-justificativa": "O texto se insere em um contexto institucional/promocional no qual a organização enuncia a partir de uma posição-sujeito ativa, apresentando-se como promotora do combate à desinformação por meio do jornalismo e da educação. Com tom informativo e de prestação de contas, a Lupa destaca suas iniciativas e ações proativas na defesa e promoção da verdade.",
+  "estrategias-de-legitimacao": [
+    "Discurso 2.1 Ethos e fiador externo"
+  ],
+  "estrategias-de-legitimacao-justificativa": "A organização legitima seu discurso e atuação invocando fiadores externos de autoridade internacional e institucional. O texto cita explicitamente a tradição de agências globais de notícias (Associated Press, France Presse, Reuters), redes internacionais de checagem (International Fact-Checking Network), grandes plataformas de tecnologia (Meta, Google, WhatsApp, TikTok) e diversas fundações e institutos internacionais.",
+  "relacao-discursiva": "Discurso 3.1 Relação com o público",
+  "relacao-discursiva-justificativa": "O documento estabelece vínculo e proximidade com o leitor ao explicar de forma didática o funcionamento da empresa e seu orçamento, promovendo a transparência institucional. Além disso, convida a audiência à participação e ao engajamento direto, mencionando o canal de WhatsApp para denúncias e o programa de membros ('Contexto')."
+},
+{
+  "id": "al-10",
+  "posicionamento-institucional": "Discurso 1.2 Árbitro da verdade — assumido",
+  "posicionamento-institucional-justificativa": "O texto assume a posição de uma agência de checagem que avalia, ajusta o grau de veracidade e classifica declarações por meio de etiquetas e veredictos sobre o que é verdadeiro, falso ou impreciso.",
+  "estrategias-de-legitimacao": [
+    "Discurso 2.1 Ethos e fiador externo"
+  ],
+  "estrategias-de-legitimacao-justificativa": "A organização constrói e legitima sua autoridade e apartidarismo ao invocar um fiador externo, a International Fact-checking Network (IFCN), cujos princípios éticos e auditorias independentes garantem a credibilidade de sua atuação.",
+  "relacao-discursiva": "Discurso 3.1 Relação com o público",
+  "relacao-discursiva-justificativa": "O texto dirige-se diretamente à audiência e aos leitores em um formato de esclarecimento de mitos e dúvidas frequentes, promovendo a transparência e o diálogo público sobre o funcionamento da agência."
+},
+{
+  "id": "al-11",
+  "posicionamento-institucional": "Discurso 1.5 Promotora da verdade",
+  "posicionamento-institucional-justificativa": "O texto adota um tom institucional e propositivo ao afirmar que a Lupa pretende 'elevar o custo da mentira e dar destaque às informações verdadeiras', posicionando-se ativamente como promotora da verdade e da qualidade da informação.",
+  "estrategias-de-legitimacao": [
+    "Discurso 2.1 Ethos e fiador externo"
+  ],
+  "estrategias-de-legitimacao-justificativa": "A organização legitima sua atuação ao invocar sua participação no 'Third Party Fact-Checking Project' em parceria com o Facebook, utilizando uma instância externa como fiadora de sua credibilidade.",
+  "relacao-discursiva": "Discurso 3.1 Relação com o público",
+  "relacao-discursiva-justificativa": "O trecho é construído com foco direto no leitor, convidando-o a participar, fornecendo instruções claras sobre como enviar sugestões de checagem e detalhando os canais de atendimento e critérios metodológicos."
+},
+{
+  "id": "af-1",
+  "posicionamento-institucional": "Discurso 1.5 Promotora da verdade",
+  "posicionamento-institucional-justificativa": "A organização enuncia a partir de uma posição-sujeito ativa e voltada para a promoção pública de sua missão e valores institucionais no combate à desinformação e na defesa da democracia.",
+  "estrategias-de-legitimacao": [
+    "Discurso 2.1 Ethos e fiador externo",
+    "Discurso 2.3 Heterogeneidade enunciativa e cenografia"
+  ],
+  "estrategias-de-legitimacao-justificativa": "A organização constrói sua autoridade enunciativa invocando fiadores externos (como a adesão ao código da IFCN e parcerias/licenciamentos com grandes plataformas digitais) e mobilizando uma cenografia institucional-promocional típica de páginas de apresentação corporativa e relatórios de transparência.",
+  "relacao-discursiva": "Discurso 3.1 Relação com o público",
+  "relacao-discursiva-justificativa": "O documento dirige-se explicitamente ao público e à audiência geral da organização, detalhando canais de distribuição, diretrizes de transparência e missões institucionais voltadas à qualificação da opinião pública."
+},
+{
+  "id": "af-2",
+  "posicionamento-institucional": null,
+  "posicionamento-institucional-justificativa": null,
+  "estrategias-de-legitimacao": null,
+  "estrategias-de-legitimacao-justificativa": null,
+  "relacao-discursiva": "Discurso 3.1 Relação com o público",
+  "relacao-discursiva-justificativa": "O documento constitui uma política de uso de inteligência artificial voltada à transparência pública, estabelecendo compromissos claros de prestação de contas, avisos obrigatórios à audiência e explicações didáticas sobre como a tecnologia é empregada pela organização na adaptação e produção de conteúdos."
+},
+{
+  "id": "af-3",
+  "posicionamento-institucional": "Discurso 1.5 Promotora da verdade",
+  "posicionamento-institucional-justificativa": "O trecho possui natureza promocional e de campanha ('Apoie o Aos Fatos', 'Torne-se membro'), configurando uma posição-sujeito ativa que promove publicamente a verdade e o combate à desinformação.",
+  "estrategias-de-legitimacao": [
+    "Discurso 2.3 Heterogeneidade enunciativa e cenografia"
+  ],
+  "estrategias-de-legitimacao-justificativa": "O texto constrói uma cenografia institucional-promocional de campanha, marcada pela convocação performática e pelo apelo direto de engajamento público.",
+  "relacao-discursiva": "Discurso 3.1 Relação com o público",
+  "relacao-discursiva-justificativa": "O trecho dirige-se explicitamente à audiência e aos leitores ('Apoie o Aos Fatos', 'Torne-se membro do Aos Fatos Mais'), estabelecendo um vínculo direto de proximidade e apelo participativo com o público externo."
+},
+{
+  "id": "ev-1",
+  "posicionamento-institucional": "Discurso 1.2 Árbitro da verdade — assumido",
+  "posicionamento-institucional-justificativa": "O texto descreve um sistema institucionalizado de classificação e etiquetagem da veracidade de conteúdos (selos como 'Falso', 'Enganoso', 'Fora de contexto', 'Verdadeiro', 'Exagerado', etc.). A organização assume a posição técnica de atestar e julgar os fatos mediante uma metodologia metodicamente estruturada, determinando a atitude punitiva/restritiva de plataformas parceiras a partir de sua conclusão.",
+  "estrategias-de-legitimacao": [
+    "Discurso 2.1 Ethos e fiador externo"
+  ],
+  "estrategias-de-legitimacao-justificativa": "A organização constrói e legitima sua autoridade enunciativa ancorando-se ostensivamente em fiadores e redes externas. Há citação expressa da adesão à International Fact-Checking Network (IFCN) e seu Código de Princípios, além da filiação a iniciativas como Projeto Comprova e LatamChequea, transferindo a credibilidade dessas entidades para o seu próprio fazer jornalístico.",
+  "relacao-discursiva": "Discurso 3.1 Relação com o público",
+  "relacao-discursiva-justificativa": "O documento é voltado à audiência externa, estabelecendo vínculos diretos por meio de canais de participação (pedidos via WhatsApp, e-mail) e interpelando o leitor ('Você também pode entrar em contato', 'Se você tem razões para acreditar'). Possui tom didático ao explicar as diretrizes adotadas, a transparência sobre fontes e financiamento, e até instruções de literacia midiática ('Como lidar com postagens do tipo')."
+},
+{
+  "id": "ev-2",
+  "posicionamento-institucional": "Discurso 1.3 Garantidora da verdade",
+  "posicionamento-institucional-justificativa": "A organização ancora seu compromisso com a 'permanente busca da verdade' na história, continuidade e tradição da própria instituição, citando explicitamente os 'princípios fundadores do jornal Província de São Paulo' e a 'declaração inaugural de propósitos de 4 de janeiro de 1875'.",
+  "estrategias-de-legitimacao": [
+    "Discurso 2.1 Ethos e fiador externo"
+  ],
+  "estrategias-de-legitimacao-justificativa": "A organização legitima sua missão editorial e constrói sua autoridade enunciativa invocando um fiador externo, ao afirmar que está 'Comprometido com os valores proclamados na Declaração Universal dos Direitos do Homem'.",
+  "relacao-discursiva": "Discurso 3.2 Relação com os jornalistas",
+  "relacao-discursiva-justificativa": "O texto se dirige de forma normativa e direta aos próprios colaboradores e profissionais da organização, prescrevendo condutas em nome da integridade e reputação da empresa. Utiliza imperativos e termos direcionados ao leitor interno, como 'É de sua responsabilidade ler', 'Cumpra as leis' e 'Em nenhuma hipótese adote'."
+},
+{
+  "id": "ev-3",
+  "posicionamento-institucional": null,
+  "posicionamento-institucional-justificativa": null,
+  "estrategias-de-legitimacao": [
+    "Discurso 2.1 Ethos e fiador externo"
+  ],
+  "estrategias-de-legitimacao-justificativa": "A organização constrói sua autoridade enunciativa invocando fiadores externos, citando o Código Penal, a Lei de Improbidade Administrativa e a Lei Anticorrupção, transferindo a força da legislação estatal para validar suas normas de conduta internas.",
+  "relacao-discursiva": "Discurso 3.2 Relação com os jornalistas",
+  "relacao-discursiva-justificativa": "O documento se dirige diretamente aos profissionais da organização, prescrevendo condutas de forma imperativa e interpelando-os em segunda pessoa ('você não pode fazer', 'Você não deve') para regulamentar o relacionamento interno e com fontes."
+},
+{
+  "id": "ev-4",
+  "posicionamento-institucional": null,
+  "posicionamento-institucional-justificativa": null,
+  "estrategias-de-legitimacao": null,
+  "estrategias-de-legitimacao-justificativa": null,
+  "relacao-discursiva": "Discurso 3.1 Relação com o público",
+  "relacao-discursiva-justificativa": "O texto é inteiramente voltado ao público externo e aos leitores, estruturando-se como um guia didático com instruções passo a passo sobre como interagir com o bot de verificação do Estadão no WhatsApp, o que constrói um vínculo de proximidade, utilidade prática e engajamento direto com a audiência."
+}
 ]
