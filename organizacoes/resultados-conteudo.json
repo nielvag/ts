@@ -1,0 +1,982 @@
+[
+    {
+    "id": "4",
+    "palavra": "verdadeiro",
+    "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO INSTITUCIONAL, NORMATIVO E EPISTÊMICO",
+    "justificativa": "A palavra é utilizada no texto de apresentação do manual para qualificar e exaltar a importância da publicação, enquadrando-se nas definições normativas e autoimagem da própria instituição sobre suas diretrizes.",
+    "subcategoria": "1.3 Verdade, valores profissionais e fronteiras do campo",
+    "subcategoria_justificativa": "O termo é empregado em sentido retórico e puramente lexical ('verdadeiro guia'), uso que é absorvido por esta subcategoria como ocorrência subsidiária, uma vez que não reflete a missão declarada (1.1) nem uma reflexão epistemológica (1.2).",
+    "valores": [
+      "clareza",
+      "precisão",
+      "rigor"
+    ],
+    "valores_justificativa": "No corpus, o uso do adjetivo 'verdadeiro' qualifica um manual focado no ensino das regras do idioma e no 'controle de qualidade dos textos', relacionando-se diretamente aos valores de clareza, precisão e rigor gramatical no campo jornalístico."
+  },
+  {
+    "id": "e-2",
+    "palavra": "verdade",
+    "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO INSTITUCIONAL, NORMATIVO E EPISTÊMICO",
+    "justificativa": "A palavra é utilizada no documento para construir a autoimagem da organização jornalística, demarcando um dos propósitos fundadores que norteiam sua atuação no setor de comunicação.",
+    "subcategoria": "1.1 Verdade como missão institucional",
+    "subcategoria_justificativa": "No trecho correspondente à 'Missão Editorial do Grupo Estado', a 'permanente busca da verdade' é listada explicitamente como um compromisso institucional e dever constitutivo do grupo, formulado em terceira pessoa.",
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "e-2",
+    "palavra": "verdadeiro(a)",
+    "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO INSTITUCIONAL, NORMATIVO E EPISTÊMICO",
+    "justificativa": "A ocorrência atua no estabelecimento de normas de conduta, pautando a exatidão e a integridade exigidas para os registros corporativos da organização.",
+    "subcategoria": "1.3 Verdade, valores profissionais e fronteiras do campo",
+    "subcategoria_justificativa": "Trata-se de uma ocorrência puramente lexical em que o termo é utilizado para qualificar registros oficiais, coordenado diretamente a outros valores normativos e de conformidade.",
+    "valores": [
+      "precisão",
+      "rigor",
+      "exatidão"
+    ],
+    "valores_justificativa": "No corpus, a palavra aparece em coordenação sintática direta com o termo 'precisos' ('registros oficiais, que serão precisos, completos e verdadeiros'), estabelecendo uma relação de equivalência onde a verdade atesta a precisão, o rigor e a exatidão dos processos e documentos."
+  },
+  {
+    "id": "e-3",
+    "palavra": null,
+    "categoria": null,
+    "justificativa": null,
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": [
+      "apartidarismo",
+      "imparcialidade",
+      "independência",
+      "liberdade"
+    ],
+    "valores_justificativa": "Na ausência das palavras-chave, o documento fundamenta a sua missão jornalística assumindo compromisso direto com os valores de apartidarismo, imparcialidade, independência e liberdade."
+  },
+  {
+    "id": "e-4",
+    "palavra": "verdadeiras",
+    "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO INSTITUCIONAL, NORMATIVO E EPISTÊMICO",
+    "justificativa": "A palavra é utilizada no documento em sentido puramente lexical, estabelecendo a exigência de que os dados pessoais fornecidos pelo usuário no cadastro sejam reais e corretos.",
+    "subcategoria": "1.3 Verdade, valores profissionais e fronteiras do campo",
+    "subcategoria_justificativa": "Ocorrência classificada nesta subcategoria por se tratar de um uso puramente lexical que aparece coordenado a outros termos associados à precisão da informação.",
+    "valores": [
+      "exatidão"
+    ],
+    "valores_justificativa": "No corpus, a relação entre verdadeira e exatidão é de coordenação sintática direta (informações verdadeiras e exatas)."
+  },
+  {
+    "id": "e-4",
+    "palavra": "verdadeiras",
+    "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO INSTITUCIONAL, NORMATIVO E EPISTÊMICO",
+    "justificativa": "A palavra é empregada em sentido lexical para exigir a manutenção da correção das informações cadastrais do usuário ao longo do tempo.",
+    "subcategoria": "1.3 Verdade, valores profissionais e fronteiras do campo",
+    "subcategoria_justificativa": "Trata-se de uma ocorrência lexical que não traz a formulação da missão institucional do jornalismo nem debate epistemológico.",
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "e-4",
+    "palavra": "verdadeiro",
+    "categoria": "CATEGORIA 3 — AUSÊNCIA E NEGAÇÃO DA VERDADE",
+    "justificativa": "A palavra é empregada acompanhada do advérbio de negação ('não verdadeiro'), configurando a proibição expressa de veiculação de dados falsos ou enganosos.",
+    "subcategoria": "3.1 menção negativa ou de dúvida",
+    "subcategoria_justificativa": "A expressão 'não verdadeiro' constitui uma negação explícita da verdade, enquadrando-se como menção negativa.",
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "e-5",
+    "palavra": null,
+    "categoria": null,
+    "justificativa": null,
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": [
+      "clareza",
+      "liberdade",
+      "objetividade",
+      "precisão",
+      "rigor"
+    ],
+    "valores_justificativa": "O documento não apresenta ocorrências das palavras-chave, configurando uma ausência lexical (não menção). Nesse contexto, o espaço semântico é ocupado por outros valores jornalísticos presentes no texto para legitimar as diretrizes institucionais: a 'precisão' e o 'rigor' são exigidos para garantir a integridade factual; a 'clareza' e a 'objetividade' são determinadas para o uso das ferramentas de IA; e a 'liberdade' é invocada na preservação do espaço de crítica."
+  },
+  {
+    "id": "e-6",
+    "palavra": null,
+    "categoria": null,
+    "justificativa": null,
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": [
+      "apartidarismo",
+      "independência",
+      "liberdade"
+    ],
+    "valores_justificativa": "O documento não apresenta as palavras-chave exigidas[cite: 1]. Contudo, mobiliza os valores de apartidarismo e independência ao proibir contribuições para partidos políticos e favorecimento de agentes públicos[cite: 1], e o valor da liberdade ao resguardar a liberdade de expressão e de imprensa para noticiar atos de gestão pública[cite: 1]."
+  },
+  {
+    "id": "fdsp-1",
+    "palavra": "veracidade",
+    "categoria": "CATEGORIA 2 — VERDADE E PROCEDIMENTO: APURAÇÃO, TECNOLOGIA E COMBATE À DESINFORMAÇÃO",
+    "justificativa": "O trecho aborda a veracidade associada ao procedimento e método de apuração jornalística, especificamente à checagem prévia da notícia antes da sua publicação.",
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "fdsp-2",
+    "palavra": "verdade",
+    "categoria": "CATEGORIA 2 — VERDADE E PROCEDIMENTO: APURAÇÃO, TECNOLOGIA E COMBATE À DESINFORMAÇÃO",
+    "justificativa": "A palavra aparece no plural ('verdades') inserida no contexto de combate a boatos e desinformação disseminados em redes sociais, enfatizando que tais rumores não correspondem a fatos comprovados.",
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "fdsp-2",
+    "palavra": "veracidade",
+    "categoria": "CATEGORIA 2 — VERDADE E PROCEDIMENTO: APURAÇÃO, TECNOLOGIA E COMBATE À DESINFORMAÇÃO",
+    "justificativa": "A palavra é utilizada no âmbito de orientações procedimentais sobre o uso de redes sociais, exigindo cautela e verificação de apuração ao compartilhar conteúdos de terceiros para evitar o endosso de informações incorretas.",
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "fdsp-3",
+    "palavra": "veracidade",
+    "categoria": "CATEGORIA 2 — VERDADE E PROCEDIMENTO: APURAÇÃO, TECNOLOGIA E COMBATE À DESINFORMAÇÃO",
+    "justificativa": "A palavra 'veracidade' aparece associada ao método e à prática jornalística de checagem, em que o profissional 'confirma a veracidade dos fatos' por meio de procedimentos consagrados de apuração.",
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "fdsp-3",
+    "palavra": "verdade",
+    "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO INSTITUCIONAL, NORMATIVO E EPISTÊMICO",
+    "justificativa": "A palavra 'verdade' aparece em um uso discursivo e lexical ('Verdade que sempre houve um recorte...'), funcionando como evidência subsidiária para discutir as limitações da cobertura e desmistificar a capacidade de acompanhar todos os fatos.",
+    "subcategoria": "1.3 Verdade, valores profissionais e fronteiras do campo",
+    "subcategoria_justificativa": "A ocorrência se enquadra nesta subcategoria por consistir em um uso puramente lexical ('Verdade que...'), o qual é expressamente absorvido por esta subcategoria como evidência subsidiária para debater os limites práticos e as fronteiras da atuação jornalística.",
+    "valores": [
+      "exatidão",
+      "objetividade"
+    ],
+    "valores_justificativa": "Nesta ocorrência puramente lexical, a 'verdade' é utilizada retoricamente para demarcar as fronteiras e limites operacionais da objetividade e exatidão jornalísticas, reconhecendo que o recorte da realidade é necessário e inerente à profissão."
+  },
+  {
+    "id": "fdsp-4",
+    "palavra": null,
+    "categoria": null,
+    "justificativa": null,
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": [
+      "apartidarismo",
+      "liberdade",
+      "pluralidade"
+    ],
+    "valores_justificativa": "O texto não apresenta as palavras-chave buscadas (verdade, verdadeiro(a) ou veracidade), mas menciona explicitamente ao longo de seu histórico editorial os valores jornalísticos de pluralidade (1976 e 1981), apartidarismo (referido como 'apartidário' em 1984) e liberdade (referido como 'liberdade de expressão' em 2021)."
+  },
+  {
+    "id": "og-1",
+    "palavra": "verdade",
+    "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO INSTITUCIONAL, NORMATIVO E EPISTÊMICO",
+    "justificativa": "O texto resgata a definição clássica do jornalismo como busca da verdade para iniciar uma reflexão institucional.",
+    "subcategoria": "1.2 Verdade como problema epistemológico",
+    "subcategoria_justificativa": "A menção introduz o debate filosófico sobre os mal-entendidos gerados em torno da possibilidade de se alcançar a verdade na prática jornalística.",
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "og-1",
+    "palavra": "verdade",
+    "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO INSTITUCIONAL, NORMATIVO E EPISTÊMICO",
+    "justificativa": "A ocorrência formula perguntas abertas sobre os fundamentos da atividade.",
+    "subcategoria": "1.2 Verdade como problema epistemológico",
+    "subcategoria_justificativa": "Trata-se de um questionamento puramente epistêmico sobre o estatuto da verdade (sua existência e a viabilidade de alcançá-la).",
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "og-1",
+    "palavra": "verdade",
+    "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO INSTITUCIONAL, NORMATIVO E EPISTÊMICO",
+    "justificativa": "O manual menciona argumentos externos de negação da verdade para embasar seu posicionamento teórico.",
+    "subcategoria": "1.2 Verdade como problema epistemológico",
+    "subcategoria_justificativa": "Aborda a premissa de inexistência da verdade e da objetividade no âmbito dos limites do conhecimento humano.",
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "og-1",
+    "palavra": "verdade",
+    "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO INSTITUCIONAL, NORMATIVO E EPISTÊMICO",
+    "justificativa": "A organização reflete sobre a percepção de que a missão fundamental do jornalismo seria inatingível.",
+    "subcategoria": "1.2 Verdade como problema epistemológico",
+    "subcategoria_justificativa": "Usa a palavra associada a utopia em virtude das dificuldades epistemológicas discutidas pela contemporaneidade.",
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "og-1",
+    "palavra": "verdade",
+    "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO INSTITUCIONAL, NORMATIVO E EPISTÊMICO",
+    "justificativa": "Esta é a definição basilar da organização sobre a natureza daquilo que o jornalismo tenta perseguir.",
+    "subcategoria": "1.2 Verdade como problema epistemológico",
+    "subcategoria_justificativa": "Presença direta de modalizações e vocabulário filosófico denso para atestar a existência e os limites da verdade.",
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "og-1",
+    "palavra": "verdade",
+    "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO INSTITUCIONAL, NORMATIVO E EPISTÊMICO",
+    "justificativa": "O texto institucionaliza a substituição do compromisso abstrato com a verdade pela busca de conhecimento.",
+    "subcategoria": "1.2 Verdade como problema epistemológico",
+    "subcategoria_justificativa": "Explicita o contorno epistemológico ao distinguir os problemas de simplificação em torno do conceito de verdade frente à ideia de produção de conhecimento provisório.",
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "og-1",
+    "palavra": "verdade",
+    "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO INSTITUCIONAL, NORMATIVO E EPISTÊMICO",
+    "justificativa": "A organização reconhece a equivalência prática entre produzir conhecimento e buscar os fatos, reforçando sua autoimagem.",
+    "subcategoria": "1.2 Verdade como problema epistemológico",
+    "subcategoria_justificativa": "Há clara modalização epistêmica ao tratar a velha máxima com mais humildade, dadas as restrições discutidas.",
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "og-1",
+    "palavra": "verdade",
+    "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO INSTITUCIONAL, NORMATIVO E EPISTÊMICO",
+    "justificativa": "A reflexão sobre a verdade apoia a determinação de parâmetros e limites de atuação prática do repórter.",
+    "subcategoria": "1.3 Verdade, valores profissionais e fronteiras do campo",
+    "subcategoria_justificativa": "Há uma articulação conceitual sintática direta: a dificuldade filosófica em torno da verdade é equiparada à problematicidade de um dos principais valores profissionais.",
+    "valores": [
+      "isenção"
+    ],
+    "valores_justificativa": "no corpus, a relação estabelecida é de comparação qualitativa: a verdade é citada como o referencial de máxima complexidade para explicar o valor jornalístico da isenção."
+  },
+  {
+    "id": "og-1",
+    "palavra": "verdade",
+    "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO INSTITUCIONAL, NORMATIVO E EPISTÊMICO",
+    "justificativa": "A organização assenta as balizas práticas de atuação de seu corpo profissional valendo-se das conclusões filosóficas anteriores sobre o real.",
+    "subcategoria": "1.3 Verdade, valores profissionais e fronteiras do campo",
+    "subcategoria_justificativa": "A natureza inesgotável da verdade fundamenta os limites das fronteiras subjetivas e objetivas da própria profissão no campo.",
+    "valores": [
+      "isenção",
+      "objetividade"
+    ],
+    "valores_justificativa": "no corpus, há uma relação causal expressa: assim como a verdade é inexaurível na teoria, a objetividade e a isenção são inatingíveis de forma total na prática."
+  },
+  {
+    "id": "og-1",
+    "palavra": "verdade",
+    "categoria": "CATEGORIA 2 — VERDADE E PROCEDIMENTO: APURAÇÃO, TECNOLOGIA E COMBATE À DESINFORMAÇÃO",
+    "justificativa": "Neste trecho, a verdade é abordada como a matéria-prima mensurável que se atesta via etapas do processo noticioso.",
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "og-1",
+    "palavra": "verdadeira",
+    "categoria": "CATEGORIA 2 — VERDADE E PROCEDIMENTO: APURAÇÃO, TECNOLOGIA E COMBATE À DESINFORMAÇÃO",
+    "justificativa": "A categorização de uma reportagem de terceiros como verdadeira passa a ser estritamente bloqueada sem a devida apuração processual do próprio grupo de imprensa.",
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "og-1",
+    "palavra": "verdade",
+    "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO INSTITUCIONAL, NORMATIVO E EPISTÊMICO",
+    "justificativa": "A reflexão sobre a verdade encadeia o estabelecimento de normas essenciais e de deveres redatoriais que pautam a ação do jornalismo do grupo.",
+    "subcategoria": "1.3 Verdade, valores profissionais e fronteiras do campo",
+    "subcategoria_justificativa": "Ao mencionar o conceito de verdade já debatido, o documento coordena a palavra aos valores práticos de correção sob o escopo das fronteiras da profissão.",
+    "valores": [
+      "exatidão",
+      "precisão"
+    ],
+    "valores_justificativa": "no corpus, a reflexão prévia sobre a verdade sustenta de forma análoga a busca normativa pelas máximas exatidão e precisão descritiva."
+  },
+  {
+    "id": "og-1",
+    "palavra": "veracidade",
+    "categoria": "CATEGORIA 2 — VERDADE E PROCEDIMENTO: APURAÇÃO, TECNOLOGIA E COMBATE À DESINFORMAÇÃO",
+    "justificativa": "O trecho condiciona imperativamente o processamento de imagens e informações de audiência à aplicação de métodos analíticos.",
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "og-1",
+    "palavra": "verdadeiras",
+    "categoria": "CATEGORIA 2 — VERDADE E PROCEDIMENTO: APURAÇÃO, TECNOLOGIA E COMBATE À DESINFORMAÇÃO",
+    "justificativa": "Refere-se a um procedimento-padrão de transparência pública aplicável quando o veículo não possui mecanismos de concluir as etapas de checagem da informação.",
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "og-1",
+    "palavra": "verdade",
+    "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO INSTITUCIONAL, NORMATIVO E EPISTÊMICO",
+    "justificativa": "Uso estritamente lexical da palavra no interior da narrativa argumentativa do trecho, esvaziado do peso epistêmico adotado no preâmbulo.",
+    "subcategoria": "1.3 Verdade, valores profissionais e fronteiras do campo",
+    "subcategoria_justificativa": "Atende ao critério de abrigar ocorrências puramente lexicais e figurações de uso retórico, figurando como evidência subsidiária.",
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "og-1",
+    "palavra": "veracidade",
+    "categoria": "CATEGORIA 2 — VERDADE E PROCEDIMENTO: APURAÇÃO, TECNOLOGIA E COMBATE À DESINFORMAÇÃO",
+    "justificativa": "O termo é posto no cerne da política tecnológica do grupo, figurando como critério de procedimentalização no monitoramento por meio de inteligência artificial.",
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "og-2",
+    "palavra": "verdade",
+    "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO INSTITUCIONAL, NORMATIVO E EPISTÊMICO",
+    "justificativa": "O trecho aborda a noção de verdade no contexto da responsabilidade social e das premissas de atuação do grupo jornalístico.",
+    "subcategoria": "1.2 Verdade como problema epistemológico",
+    "subcategoria_justificativa": "O texto discute os limites, a complexidade e a natureza do julgamento e da certeza do jornalista quanto à qualificação das informações.",
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "og-3",
+    "palavra": null,
+    "categoria": null,
+    "justificativa": null,
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": [
+      "apartidarismo",
+      "clareza",
+      "credibilidade",
+      "equilíbrio",
+      "exatidão",
+      "imparcialidade",
+      "independência",
+      "interesse público",
+      "isenção",
+      "liberdade",
+      "neutralidade",
+      "objetividade",
+      "pluralidade",
+      "precisão",
+      "rigor"
+    ],
+    "valores_justificativa": "Como o texto não possui nenhuma das palavras-chave, o campo foi preenchido com a lista de valores jornalísticos aplicáveis por ausência de termos no documento institucional."
+  },
+  {
+    "id": "nj-1",
+    "palavra": null,
+    "categoria": null,
+    "justificativa": null,
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": [
+      "clareza",
+      "equilíbrio",
+      "interesse público",
+      "pluralidade",
+      "rigor"
+    ],
+    "valores_justificativa": "no corpus, a verdade está ausente, sendo o documento estruturado e regulado com base em valores como clareza, equilíbrio, interesse público, pluralidade e rigor."
+  },
+  {
+    "id": "nj-2",
+    "palavra": null,
+    "categoria": null,
+    "justificativa": null,
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": [
+      "apartidarismo",
+      "clareza",
+      "credibilidade",
+      "equilíbrio",
+      "exatidão",
+      "imparcialidade",
+      "independência",
+      "interesse público",
+      "isenção",
+      "liberdade",
+      "neutralidade",
+      "objetividade",
+      "pluralidade",
+      "precisão",
+      "rigor"
+    ],
+    "valores_justificativa": "No corpus, devido à ausência de palavras-chave, o campo de valores é preenchido com o rol completo de valores jornalísticos que estruturam a atuação e a fundamentação institucional do veículo."
+  },
+  {
+    "id": "nj-3",
+    "palavra": null,
+    "categoria": null,
+    "justificativa": null,
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": [
+      "clareza",
+      "precisão"
+    ],
+    "valores_justificativa": "O texto não possui as palavras-chave investigadas, mas estrutura sua política com base nos valores de clareza e precisão na apresentação e verificação das informações."
+  },
+  {
+    "id": "nj-4",
+    "palavra": null,
+    "categoria": "CATEGORIA 3 — AUSÊNCIA E NEGAÇÃO DA VERDADE",
+    "justificativa": "O documento avaliado não contém nenhuma ocorrência das palavras-chave verdade, verdadeiro ou veracidade[cite: 1].",
+    "subcategoria": "3.1 não menção",
+    "subcategoria_justificativa": "O texto caracteriza-se pela ausência completa de menção às palavras-chave investigadas, abordando exclusivamente normas de proteção de dados e privacidade[cite: 1].",
+    "valores": [
+      "clareza",
+      "equilíbrio"
+    ],
+    "valores_justificativa": "No corpus, o relatório estabelece a clareza e o equilíbrio como princípios editoriais da organização[cite: 1]."
+  },
+  {
+    "id": "tib-1",
+    "palavra": null,
+    "categoria": null,
+    "justificativa": null,
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": [
+      "apartidarismo",
+      "clareza",
+      "credibilidade",
+      "equilíbrio",
+      "exatidão",
+      "imparcialidade",
+      "independência",
+      "interesse público",
+      "isenção",
+      "liberdade",
+      "neutralidade",
+      "objetividade",
+      "pluralidade",
+      "precisão",
+      "rigor"
+    ],
+    "valores_justificativa": "Como o texto não possui nenhuma das palavras-chave, o campo de valores foi preenchido com a lista de valores jornalísticos padrão estabelecida para textos sem ocorrências."
+  },
+  {
+    "id": "tib-2",
+    "palavra": null,
+    "categoria": null,
+    "justificativa": null,
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": [
+      "apartidarismo",
+      "clareza",
+      "credibilidade",
+      "equilíbrio",
+      "exatidão",
+      "imparcialidade",
+      "independência",
+      "interesse público",
+      "isenção",
+      "liberdade",
+      "neutralidade",
+      "objetividade",
+      "pluralidade",
+      "precisão",
+      "rigor"
+    ],
+    "valores_justificativa": "Como o corpus não possui nenhuma das palavras-chave, o texto reflete institucionalmente os valores jornalísticos fundamentais que sustentam a prática de um jornalismo independente e de interesse público."
+  },
+  {
+    "id": "tib-3",
+    "palavra": null,
+    "categoria": null,
+    "justificativa": null,
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": [
+      "apartidarismo",
+      "clareza",
+      "credibilidade",
+      "equilíbrio",
+      "exatidão",
+      "imparcialidade",
+      "independência",
+      "interesse público",
+      "isenção",
+      "liberdade",
+      "neutralidade",
+      "objetividade",
+      "pluralidade",
+      "precisão",
+      "rigor"
+    ],
+    "valores_justificativa": "No corpus analisado, as palavras-chave estão ausentes, refletindo a ausência lexical da verdade nos documentos institucionais."
+  },
+  {
+    "id": "ap-1",
+    "palavra": null,
+    "categoria": "CATEGORIA 3 — AUSÊNCIA E NEGAÇÃO DA VERDADE",
+    "justificativa": "O texto analisado não contém nenhuma das palavras-chave solicitadas: verdade, verdadeiro(a) ou veracidade.",
+    "subcategoria": "3.1 não menção",
+    "subcategoria_justificativa": "Não há ocorrência dos termos no conteúdo do documento fornecido.",
+    "valores": [
+      "apartidarismo",
+      "clareza",
+      "credibilidade",
+      "equilíbrio",
+      "exatidão",
+      "imparcialidade",
+      "independência",
+      "interesse público",
+      "isenção",
+      "liberdade",
+      "neutralidade",
+      "objetividade",
+      "pluralidade",
+      "precisão",
+      "rigor"
+    ],
+    "valores_justificativa": "No corpus, a ausência de termos explícitos sobre a verdade é suprida pela ênfase em valores institucionais e profissionais que sustentam a credibilidade e a prática do jornalismo investigativo da organização."
+  },
+  {
+    "id": "ap-2",
+    "palavra": null,
+    "categoria": null,
+    "justificativa": null,
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": [
+      "apartidarismo",
+      "clareza",
+      "credibilidade",
+      "equilíbrio",
+      "exatidão",
+      "imparcialidade",
+      "independência",
+      "interesse público",
+      "isenção",
+      "liberdade",
+      "neutralidade",
+      "objetividade",
+      "pluralidade",
+      "precisão",
+      "rigor"
+    ],
+    "valores_justificativa": "No corpus, a ausência de termos explícitos sobre a verdade é suprida pela ênfase em valores institucionais e profissionais que sustentam a credibilidade e a prática do jornalismo investigativo da organização."
+  },
+  {
+    "id": "ap-3",
+    "palavra": null,
+    "categoria": null,
+    "justificativa": null,
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": [
+      "apartidarismo",
+      "clareza",
+      "credibilidade",
+      "equilíbrio",
+      "exatidão",
+      "imparcialidade",
+      "independência",
+      "interesse público",
+      "isenção",
+      "liberdade",
+      "neutralidade",
+      "objetividade",
+      "pluralidade",
+      "precisão",
+      "rigor"
+    ],
+    "valores_justificativa": "no corpus, a ausência de menção à verdade neste texto normativo de correções direciona o foco para procedimentos operacionais de transparência e retificação."
+  },
+  {
+    "id": "ap-4",
+    "palavra": "verdadeiras",
+    "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO INSTITUCIONAL, NORMATIVO E EPISTÊMICO",
+    "justificativa": "A palavra é utilizada em uma cláusula de garantia legal da política de privacidade, na qual o usuário atesta que as informações fornecidas estão corretas. Tratando-se de um uso periférico à missão jornalística estrita, a ocorrência enquadra-se no uso lexical.",
+    "subcategoria": "1.3 Verdade, valores profissionais e fronteiras do campo",
+    "subcategoria_justificativa": "A ocorrência é classificada nesta subcategoria por se tratar de um uso puramente lexical e periférico (evidência subsidiária), não configurando uma declaração de missão nem um problema epistemológico, mas coordenando-se à exigência de exatidão e precisão dos dados.",
+    "valores": [
+      "exatidão",
+      "precisão"
+    ],
+    "valores_justificativa": "No documento, a exigência de informações 'verdadeiras' relaciona-se de forma estrita à necessidade de exatidão e precisão formal dos dados pessoais fornecidos pelo usuário à organização."
+  },
+  {
+    "id": "ap-5",
+    "palavra": null,
+    "categoria": null,
+    "justificativa": null,
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": [
+      "clareza",
+      "interesse público",
+      "rigor"
+    ],
+    "valores_justificativa": "No corpus, a ausência das palavras-chave é ocupada por outros valores jornalísticos, havendo a prevalência da defesa do interesse público, do rigor na apuração dos fatos e da clareza quanto à transparência e sinalização do uso de inteligência artificial."
+  },
+  {
+    "id": "al-1",
+    "palavra": null,
+    "categoria": null,
+    "justificativa": null,
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": [
+      "apartidarismo"
+    ],
+    "valores_justificativa": "O texto não apresenta as palavras-chave buscadas. O espaço semântico da 'verdade' é ocupado pela ênfase no método (checagem, verificação, expor o que é falso), e a legitimação dessa prática se sustenta no valor do apartidarismo, citado expressamente como garantia da atuação da agência."
+  },
+    {
+    "id": "al-2",
+    "palavra": null,
+    "categoria": null,
+    "justificativa": null,
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": ["apartidarismo", "interesse público", "credibilidade", "objetividade", "precisão", "pluralidade"],
+    "valores_justificativa": "O documento não emprega em nenhum momento os termos 'verdade', 'verdadeiro(a)' ou 'veracidade'; a legitimidade institucional da Lupa é ancorada, em seu lugar, em apartidarismo, interesse público, credibilidade, objetividade, precisão e pluralidade, valores explicitados como pilares éticos e metodológicos da organização."
+  },
+  {
+    "id": "al-3",
+    "palavra": "veracidade",
+    "categoria": "CATEGORIA 2 — VERDADE E PROCEDIMENTO: APURAÇÃO, TECNOLOGIA E COMBATE À DESINFORMAÇÃO",
+    "justificativa": "A ocorrência está inserida na descrição do método e do escopo de checagem da Lupa, tratando a veracidade como o objeto analítico a ser verificado por meio de procedimentos técnicos de apuração de dados históricos, estatísticos e fatos.",
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "al-3",
+    "palavra": "veracidade",
+    "categoria": "CATEGORIA 2 — VERDADE E PROCEDIMENTO: APURAÇÃO, TECNOLOGIA E COMBATE À DESINFORMAÇÃO",
+    "justificativa": "A ocorrência aparece na demarcação prática dos procedimentos de verificação da Lupa, especificamente ao estender a checagem metodológica à veracidade de anúncios publicitários, slogans e imagens.",
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "al-4",
+    "palavra": "veracidade",
+    "categoria": "CATEGORIA 2 — VERDADE E PROCEDIMENTO: APURAÇÃO, TECNOLOGIA E COMBATE À DESINFORMAÇÃO",
+    "justificativa": "A palavra aparece vinculada ao sistema de etiquetas de classificação e à metodologia de verificação para identificar o grau das declarações.",
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "al-4",
+    "palavra": "VERDADEIRO",
+    "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO INSTITUCIONAL, NORMATIVO E EPISTÊMICO",
+    "justificativa": "A palavra ocorre como nome de uma das etiquetas oficiais de classificação na lista de definições metodológicas da organização.",
+    "subcategoria": "1.3 Verdade, valores profissionais e fronteiras do campo",
+    "subcategoria_justificativa": "Trata-se de uma ocorrência puramente lexical e de glossário, correspondendo ao nome de uma etiqueta institucional.",
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "al-4",
+    "palavra": "Verdadeiro, mas…",
+    "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO INSTITUCIONAL, NORMATIVO E EPISTÊMICO",
+    "justificativa": "A palavra aparece na menção a uma etiqueta metodológica anterior que deixou de ser utilizada pela organização.",
+    "subcategoria": "1.3 Verdade, valores profissionais e fronteiras do campo",
+    "subcategoria_justificativa": "Trata-se de uma ocorrência lexical e de glossário referente ao histórico de etiquetas institucionais.",
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "al-4",
+    "palavra": "veracidade",
+    "categoria": "CATEGORIA 2 — VERDADE E PROCEDIMENTO: APURAÇÃO, TECNOLOGIA E COMBATE À DESINFORMAÇÃO",
+    "justificativa": "A palavra está inserida no contexto histórico de fundação e início do trabalho de checagem, associada ao procedimento de atribuição de classificações.",
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "al-4",
+    "palavra": "Verdadeiro",
+    "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO INSTITUCIONAL, NORMATIVO E EPISTÊMICO",
+    "justificativa": "A palavra aparece como menção a uma das etiquetas originais do sistema de checagem de fatos da organização.",
+    "subcategoria": "1.3 Verdade, valores profissionais e fronteiras do campo",
+    "subcategoria_justificativa": "Trata-se de ocorrência lexical e de glossário relacionada às etiquetas históricas de classificação.",
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "al-4",
+    "palavra": "Verdadeiro, mas…",
+    "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO INSTITUCIONAL, NORMATIVO E EPISTÊMICO",
+    "justificativa": "A palavra aparece na enumeração das etiquetas iniciais utilizadas pela organização em 2015.",
+    "subcategoria": "1.3 Verdade, valores profissionais e fronteiras do campo",
+    "subcategoria_justificativa": "Trata-se de ocorrência lexical e de glossário pertencente à lista de classificações históricas.",
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "al-5",
+    "palavra": null,
+    "categoria": null,
+    "justificativa": null,
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": [
+      "clareza",
+      "credibilidade",
+      "precisão"
+    ],
+    "valores_justificativa": "O texto destaca a precisão das informações publicadas e a clareza nos procedimentos de retificação como elementos essenciais para assegurar a credibilidade e a transparência do trabalho de checagem da organização."
+  },
+  {
+    "id": "al-6",
+    "palavra": null,
+    "categoria": null,
+    "justificativa": null,
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": [
+      "apartidarismo",
+      "independência",
+      "precisão"
+    ],
+    "valores_justificativa": "na ausência de menções explísitas às palavras-chave, o documento fundamenta sua atuação institucional nos valores jornalísticos de apartidarismo, independência e precisão."
+  },
+  {
+    "id": "al-7",
+    "palavra": "verdade",
+    "categoria": "CATEGORIA 2 — VERDADE E PROCEDIMENTO: APURAÇÃO, TECNOLOGIA E COMBATE À DESINFORMAÇÃO",
+    "justificativa": "A palavra verdade é empregada no contexto da tarefa de checar as declarações de candidatos à presidência, associando diretamente a busca pela verdade ao procedimento prático de apuração e verificação.",
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "al-8",
+    "palavra": "verdade",
+    "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO INSTITUCIONAL, NORMATIVO E EPISTÊMICO",
+    "justificativa": "A palavra aparece integrada ao título de um vídeo comemorativo da rede internacional de checagem, simbolizando o compromisso coletivo com o jornalismo.",
+    "subcategoria": "1.3 Verdade, valores profissionais e fronteiras do campo",
+    "subcategoria_justificativa": "O termo articula-se com os princípios e valores éticos profissionais da rede de checagem de fatos.",
+    "valores": [
+      "apartidarismo"
+    ],
+    "valores_justificativa": "no corpus, a verdade sustenta-se por meio de um código de princípios éticos que exige o apartidarismo na atividade de checagem."
+  },
+  {
+    "id": "al-9",
+    "palavra": "veracidade",
+    "categoria": "CATEGORIA 2 — VERDADE E PROCEDIMENTO: APURAÇÃO, TECNOLOGIA E COMBATE À DESINFORMAÇÃO",
+    "justificativa": "A palavra aparece no contexto da participação da Lupa no programa de verificação de fatos de terceiros da Meta, onde a veracidade é tratada como o objeto de análise obtido por meio de procedimentos técnicos de checagem de publicações potencialmente falsas.",
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "al-10",
+    "palavra": "verdadeira",
+    "categoria": "CATEGORIA 2 — VERDADE E PROCEDIMENTO: APURAÇÃO, TECNOLOGIA E COMBATE À DESINFORMAÇÃO",
+    "justificativa": "A palavra refere-se ao ato prático e metodológico de etiquetar uma frase durante o processo de checagem.",
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "al-10",
+    "palavra": "veracidade",
+    "categoria": "CATEGORIA 2 — VERDADE E PROCEDIMENTO: APURAÇÃO, TECNOLOGIA E COMBATE À DESINFORMAÇÃO",
+    "justificativa": "O termo está associado ao procedimento técnico de apuração e uso de fontes para ajustar o grau de correção de uma afirmação.",
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "al-10",
+    "palavra": "veracidade",
+    "categoria": "CATEGORIA 2 — VERDADE E PROCEDIMENTO: APURAÇÃO, TECNOLOGIA E COMBATE À DESINFORMAÇÃO",
+    "justificativa": "O termo refere-se ao procedimento prático de análise de posts em plataformas digitais para indicar o grau de exatidão de um conteúdo.",
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "al-11",
+    "palavra": "verdadeiras",
+    "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO INSTITUCIONAL, NORMATIVO E EPISTÊMICO",
+    "justificativa": "A palavra aparece integrada à declaração de propósito e à autoimagem da organização jornalística.",
+    "subcategoria": "1.1 Verdade como missão institucional",
+    "subcategoria_justificativa": "O trecho expressa o compromisso e a finalidade institucional da Lupa de dar destaque às informações corretas como parte de sua missão editorial.",
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "af-1",
+    "palavra": "verdade",
+    "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO INSTITUCIONAL, NORMATIVO E EPISTÊMICO",
+    "justificativa": "A palavra aparece vinculada à autoimagem institucional e ao reconhecimento global da organização por sua atuação jornalística.",
+    "subcategoria": "1.1 Verdade como missão institucional",
+    "subcategoria_justificativa": "O trecho apresenta a verdade como um compromisso e dever constitutivo da organização jornalística na fórmula 'jornalismo comprometido com a verdade'.",
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "af-2",
+    "palavra": null,
+    "categoria": null,
+    "justificativa": null,
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": [
+      "apartidarismo",
+      "clareza",
+      "credibilidade",
+      "equilíbrio",
+      "exatidão",
+      "imparcialidade",
+      "independência",
+      "interesse público",
+      "isenção",
+      "liberdade",
+      "neutralidade",
+      "objetividade",
+      "pluralidade",
+      "precisão",
+      "rigor"
+    ],
+    "valores_justificativa": "No corpus analisado, a ausência de ocorrências das palavras-chave decorre do foco do documento em diretrizes técnicas e operacionais para o uso de inteligência artificial, estruturando princípios de governança sem invocar explicitamente os termos normativos da verdade."
+  },
+  {
+    "id": "af-3",
+    "palavra": null,
+    "categoria": null,
+    "justificativa": null,
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": [
+      "independência",
+      "pluralidade",
+      "interesse público"
+    ],
+    "valores_justificativa": "no texto, a defesa da democracia e de um trabalho independente e plural reflete diretamente os valores de interesse público"
+  },
+  {
+    "id": "ev-1",
+    "palavra": "verdadeiras",
+    "categoria": "CATEGORIA 2 — VERDADE E PROCEDIMENTO: APURAÇÃO, TECNOLOGIA E COMBATE À DESINFORMAÇÃO",
+    "justificativa": "A palavra aparece na definição da etiqueta 'Enganoso' para postagens em redes sociais, associando-se diretamente aos procedimentos de apuração e classificação do núcleo.",
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "ev-1",
+    "palavra": "Verdadeiro",
+    "categoria": "CATEGORIA 2 — VERDADE E PROCEDIMENTO: APURAÇÃO, TECNOLOGIA E COMBATE À DESINFORMAÇÃO",
+    "justificativa": "A palavra surge como o nome da etiqueta analítica utilizada para classificar conteúdos de redes sociais baseados em informações factuais.",
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "ev-1",
+    "palavra": "verdades",
+    "categoria": "CATEGORIA 2 — VERDADE E PROCEDIMENTO: APURAÇÃO, TECNOLOGIA E COMBATE À DESINFORMAÇÃO",
+    "justificativa": "A palavra integra a definição da etiqueta 'Enganoso' aplicada a declarações de políticos, no contexto dos procedimentos de checagem e apuração de fatos.",
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "ev-1",
+    "palavra": "Verdadeiro",
+    "categoria": "CATEGORIA 2 — VERDADE E PROCEDIMENTO: APURAÇÃO, TECNOLOGIA E COMBATE À DESINFORMAÇÃO",
+    "justificativa": "A palavra compõe o rótulo de classificação metodológica para falas de políticos sustentadas em informações factuais.",
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "ev-2",
+    "palavra": "verdade",
+    "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO INSTITUCIONAL, NORMATIVO E EPISTÊMICO",
+    "justificativa": "A palavra aparece na missão editorial do grupo, estabelecendo a verdade como um compromisso fundamental e dever constitutivo da organização.",
+    "subcategoria": "1.1 Verdade como missão institucional",
+    "subcategoria_justificativa": "O trecho emprega linguagem de compromisso institucional por meio da expressão 'permanente busca da verdade'.",
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "ev-2",
+    "palavra": "verdadeiro(a)",
+    "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO INSTITUCIONAL, NORMATIVO E EPISTÊMICO",
+    "justificativa": "A palavra é utilizada na norma de conformidade para exigir que os registros oficiais e contábeis sejam precisos, completos e corretos.",
+    "subcategoria": "1.3 Verdade, valores profissionais e fronteiras do campo",
+    "subcategoria_justificativa": "O termo integra diretrizes normativas e profissionais de exatidão e conformidade documental da empresa.",
+    "valores": [
+      "exatidão",
+      "precisão",
+      "rigor"
+    ],
+    "valores_justificativa": "no corpus, a relação entre registros verdadeiros e os valores profissionais é de exigência normativa de exatidão, precisão e rigor nos documentos oficiais."
+  },
+  {
+    "id": "ev-3",
+    "palavra": null,
+    "categoria": null,
+    "justificativa": null,
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": [
+      "liberdade"
+    ],
+    "valores_justificativa": "No corpus, o texto faz menção explícita à liberdade de expressão e de imprensa no contexto da atividade jornalística do Grupo Estado."
+  },
+  {
+    "id": "ev-4",
+    "palavra": null,
+    "categoria": null,
+    "justificativa": null,
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": [
+      "credibilidade",
+      "exatidão",
+      "interesse público",
+      "rigor"
+    ],
+    "valores_justificativa": "o texto descreve o serviço de checagem de fatos do Estadão Verifica, evidenciando o compromisso com a credibilidade, a exatidão, o rigor e o interesse público na verificação de conteúdos suspeitos."
+  }
+]

@@ -1,82 +1,137 @@
+Quero que você leia o texto ou arquivo com texto que vou te enviar na próxima mensagem, depois analise-o e classifique discursivamente usando as 3 categorias e subcategorias abaixo descritas.
+
+Os textos são editoriais de grandes jornais brasileiros e constituem Manuais de redação, Códigos de conduta ética, princípios editoriais, termos de uso, dentre outros textos.
+
+Na próxima resposta, após eu te enviar o texto  a ser analisado, você deve gerar uma saída json nesse formato e utilizando bloco de código:
+
+{
+  id: string vazia,
+  posicionamento-institucional: caso seja categorizado em "Discurso 1 — POSICIONAMENTO INSTITUCIONAL", esse campo deve receber umas das subcategorias, de "Discurso 1.1 Árbitro da verdade — recusado" à "Discurso 1.5 Promotora da verdade". Caso nenhuma seja aplicada, preencha o campo com null,
+  posicionamento-institucional-justificativa: explicação de por que você categorizou na categoria. null se não aplicável,
+  estrategias-de-legitimacao: caso seja categorizado em "Discurso 2 — ESTRATÉGIAS DE LEGITIMAÇÃO DISCURSIVA", esse campo deve ser um array contendo pelo menos uma das subcatgorias, de "Discurso 2.1 Ethos e fiador externo" à "Discurso 2.3 Heterogeneidade enunciativa e cenografia",
+  estrategias-de-legitimacao-justificativa: explicação de por que você categorizou na categoria. null se não aplicável,
+  relacao-discursiva: caso seja categorizado em "Discurso 3 — MEDIAÇÃO DISCURSIVA: RELAÇÃO COM JORNALISTAS E PÚBLICO", esse campo deve receber uma das subcategorias: "Discurso 3.1 Relação com o público" ou "Discurso 3.2 Relação com os jornalistas",
+  relacao-discursiva-justificativa: explicação de por que você categorizou na categoria. null se não aplicável,
+}
+
+Sua resposta deve conter somente o objeto json em um bloco de código (markdown) e nada mais. Ao gerar o markdown coloque o nome completo das categorias e subcategorias exatamente como está escrito na descrição das categorias.
+
+as categorias e subcategorias estão descritas entre as tags <categorias-início> e <categorias-fim> abaixo:
+
+
+<categorias-início>
 Discurso 1 — POSICIONAMENTO INSTITUCIONAL
 Investiga o lugar discursivo de onde a organização enuncia a verdade e a formação discursiva (Orlandi) que sustenta esse lugar. Inclui, como indicador adicional, o modo de funcionamento discursivo do documento — mais autoritário (polissemia contida, típico de manuais e códigos) ou mais lúdico (polissemia aberta, típico de textos institucionais-promocionais) — e a memória discursiva/condições de produção mobilizadas (contexto histórico, tradição filosófica ou jornalística citada), tratadas como parte do posicionamento, não como categoria à parte.
-Nesta rodada, os quatro lugares discursivos identificados no corpus ganham definição própria — solicitação explícita da revisão. Cada organização pode ocupar mais de um lugar, inclusive dentro do mesmo documento.
-Subcategorias da categoria 1 – Discurso:
-D1.1 Árbitro da verdade — recusado
+
+Discurso 1.1 Árbitro da verdade — recusado
 - Descrição: a organização enuncia a partir de uma posição-sujeito que explicitamente recusa o papel de instância última de julgamento sobre o que é verdadeiro, deslocando a verdade para o confronto entre versões ou para o próprio processo crítico.
 - Formação discursiva: vinculada a uma tradição liberal-pluralista do jornalismo, que localiza a verdade no embate de vozes, não na autoridade da organização.
 - Indicadores analíticos: negação explícita de papel de julgamento ("não cabe ao jornal... fazer-se de árbitro da verdade"); verbos de recusa/limite de competência; remissão a outras instâncias (a Justiça, o leitor).
-- Critérios de exclusão: se a organização, ao recusar o papel de árbitro, assumir implicitamente outro lugar (ex.: garantidora) → também codificar em D1.3; recusa sem menção à verdade → fora desta categoria.
+- Critérios de exclusão: se a organização, ao recusar o papel de árbitro, assumir implicitamente outro lugar (ex.: garantidora) -> também codificar em Discurso 1.3; recusa sem menção à verdade -> fora desta categoria.
 - Exemplo: Folha de S. Paulo — "errado é o jornal ou o jornalista fazer-se de árbitro da verdade... a verdade pode emergir da contradição entre diferentes versões" (1984).
-- Síntese IA [D1.1]: Organização recusa discursivamente o papel de árbitro da verdade, deslocando-a para o confronto de versões.
-D1.2 Árbitro da verdade — assumido
+
+Discurso 1.2 Árbitro da verdade — assumido
 - Descrição: a organização enuncia a partir de uma posição-sujeito que assume, ainda que sem nomear-se explicitamente como "árbitro", a função de decidir e classificar o que é verdadeiro ou falso — típica das agências de checagem, cujo próprio produto é o veredito.
 - Formação discursiva: vinculada à tradição do fact-checking institucionalizado (IFCN), que naturaliza a checagem como ato técnico-neutro, não como julgamento.
 - Indicadores analíticos: sistemas de etiquetagem/classificação (verdadeiro, falso, etc.); verbos de veredito (etiquetar, classificar, atestar); apagamento do sujeito julgador em favor do método ("o selo indica que...").
-- Critérios de exclusão: se o trecho descrever apenas a etapa técnica de checagem, sem produzir um veredito classificatório → Categoria 2 (Conteúdo); vocabulário de veredito sem relação com a verdade → fora desta categoria.
+- Critérios de exclusão: Vocabulário de veredito sem relação com a verdade -> fora desta categoria.
 - Exemplo: as sete etiquetas da Agência Lupa (verdadeiro, falso, exagerado etc.); o selo "verdadeiro" do Aos Fatos ("o cerne do tema checado é condizente com os fatos... e não carece de contextualização").
-- Síntese IA [D1.2]: Organização assume, via sistema de etiquetagem/veredito, a função de árbitro da verdade sem nomear-se como tal.
-D1.3 Garantidora da verdade
+
+Discurso 1.3 Garantidora da verdade
 - Descrição: a organização enuncia a partir de uma posição-sujeito que se apresenta como fiadora histórica e institucional da busca pela verdade, ancorando essa garantia na continuidade e na tradição da própria organização, não em um método específico.
 - Formação discursiva: vinculada à memória institucional (interdiscurso) — datas de fundação, princípios inaugurais, documentos históricos retomados como prova de continuidade.
 - Indicadores analíticos: referência à fundação/história da organização; verbos de permanência ("busca permanente", "compromisso inabalável"); marcas de continuidade temporal.
-- Critérios de exclusão: se a garantia vier de uma fonte externa à própria história da organização (ex.: adesão a normas internacionais) → codificar em D2 (fiador externo), não aqui.
+- Critérios de exclusão: se a garantia vier de uma fonte externa à própria história da organização (ex.: adesão a normas internacionais) -> codificar em Discurso 2.1 Ethos e fiador externo, não aqui.
 - Exemplo: Estadão — "a permanente busca da verdade", ancorada na declaração inaugural de 1875.
-- Síntese IA [D1.3]: Organização se apresenta como fiadora histórica da verdade, legitimada pela própria continuidade institucional.
-D1.4 Produtora de conhecimento
+
+Discurso 1.4 Produtora de conhecimento
 - Descrição: a organização enuncia a partir de uma posição-sujeito que desloca a verdade para o campo do conhecimento, redefinindo o jornalismo como atividade que produz um "primeiro conhecimento" em vez de perseguir diretamente a verdade — movimento que ameniza o compromisso ontológico sem abandoná-lo.
 - Formação discursiva: vinculada a um registro epistemológico-filosófico que dialoga com a tradição do conhecimento científico provisório.
 - Indicadores analíticos: substituição lexical de "verdade" por "conhecimento"; qualificadores de humildade epistêmica ("primeiro conhecimento", "com mais humildade"); processo cumulativo/inacabado de conhecimento.
-- Critérios de exclusão: se o trecho discutir a natureza da verdade sem operar essa substituição por "conhecimento" → D1.3 ou Categoria 1.2 (Conteúdo).
+- Critérios de exclusão: se o trecho discutir a natureza da verdade sem operar essa substituição por "conhecimento" -> Discurso 1.3 Garantidora da verdade.
 - Exemplo: O Globo — "dizer que o jornalismo produz conhecimento... é o mesmo que dizer que busca a verdade dos fatos, mas traduz com mais humildade o caráter da atividade".
-- Síntese IA [D1.4]: Organização substitui "verdade" por "conhecimento" para amenizar seu compromisso ontológico com a verdade.
-D1.5 Promotora da verdade
+
+Discurso 1.5 Promotora da verdade
 - Descrição: a organização enuncia a partir de uma posição-sujeito ativa e propagandística, apresentando-se não como quem apenas busca, garante ou julga a verdade, mas como quem a promove publicamente, muitas vezes em tom celebratório ou de campanha.
 - Formação discursiva: vinculada a um registro publicitário-institucional, distinto do registro normativo dos manuais e códigos.
 - Indicadores analíticos: verbos de promoção/divulgação ("promover", "dedicar-se a"); presença em textos de natureza promocional (vídeos, campanhas, seções "Sobre"); tom celebratório.
-- Critérios de exclusão: se o trecho apenas relatar uma ação de checagem, sem tom promocional explícito → D1.2.
+- Critérios de exclusão: se o trecho apenas relatar uma ação de checagem, sem tom promocional explícito -> Discurso 1.2 Árbitro da verdade — assumido.
 - Exemplo: Aos Fatos — "Aos Fatos dedica-se a promover a verdade e a combater a desinformação"; o vídeo "Nós amamos a verdade" (Agência Lupa).
-- Síntese IA [D1.5]: Organização se posiciona como agente ativo de promoção pública da verdade, em registro celebratório/promocional.
+
 
 Discurso 2 — ESTRATÉGIAS DE LEGITIMAÇÃO DISCURSIVA
 Ajuste desta rodada: a categoria deixa de investigar "efeitos de verdade" como objeto autônomo — a produção do efeito de evidência (Orlandi) permanece como fundamentação teórica, mas não como pergunta de pesquisa separada, para evitar sobreposição com D1. O foco exclusivo passa a ser: como o documento legitima discursivamente aquilo que diz sobre a verdade. Dialoga com Orlandi (paráfrase, efeito de evidência, naturalização dos sentidos) e com Maingueneau (ethos, fiador, cenografia, discurso relatado, polifonia).
-Três estratégias de legitimação foram identificadas no estrato Organizações, cada uma definida a seguir.
-Subcategorias:
-D2.1 Ethos e fiador externo
+
+Discurso 2.1 Ethos e fiador externo
 - Descrição: a organização constrói sua autoridade enunciativa (ethos) invocando um fiador — uma instância externa a si mesma cuja credibilidade é transferida ao seu próprio dizer sobre a verdade.
 - Fundamentação: Maingueneau — a noção de fiador como figura que garante, de fora do texto, a legitimidade do que é dito; o ethos como imagem de si construída no e pelo discurso.
 - Indicadores analíticos: citação de normas/redes externas (IFCN); citação de documentos internacionais (Declaração Universal dos Direitos do Homem); citação da tradição filosófica; verbos de adesão/filiação ("signatária de", "sintonizado com").
-- Critérios de exclusão: citações sem função legitimadora clara, meramente ilustrativas; referência à própria história da organização → D1.3, não aqui (fiador deve ser externo).
+- Critérios de exclusão: citações sem função legitimadora clara, meramente ilustrativas; referência à própria história da organização -> Discurso 1.3 Garantidora da verdade, não aqui (fiador deve ser externo).
 - Exemplo: a adesão da Lupa e do Aos Fatos aos princípios da IFCN; a citação da tradição filosófica pelo Grupo Globo; a menção à Declaração Universal dos Direitos do Homem pelo Estadão.
-- Síntese IA [D2.1]: Legitimação por transferência de autoridade de uma instância externa (fiador) ao dizer da organização.
-D2.2 Paráfrase institucional e efeito de evidência
+
+Discurso 2.2 Paráfrase institucional e efeito de evidência
 - Descrição: a organização legitima seu dizer sobre a verdade por meio da repetição de fórmulas estabilizadas entre documentos e entre organizações distintas, produzindo um efeito de evidência que naturaliza o sentido e apaga sua historicidade/ideologia.
 - Fundamentação: Orlandi — paráfrase como matriz do sentido; efeito de evidência como apagamento ideológico que faz o sentido parecer sempre-já-lá.
 - Indicadores analíticos: repetição de fórmulas fixas entre organizações distintas (família parafrástica); ausência de definição/questionamento do termo repetido; uso da expressão como se autoevidente.
-- Critérios de exclusão: repetições lexicais sem efeito de sentido identificável (mera coincidência vocabular); ocorrência isolada, sem repetição entre documentos/organizações → não constitui família parafrástica.
+- Critérios de exclusão: repetições lexicais sem efeito de sentido identificável (mera coincidência vocabular); ocorrência isolada, sem repetição entre documentos/organizações -> não constitui família parafrástica.
 - Exemplo: a fórmula "verdade dos fatos", recorrente entre Folha, Globo e Lupa, sempre sem definição própria — repetida como se seu sentido fosse óbvio.
-- Síntese IA [D2.2]: Legitimação por repetição de fórmula estabilizada entre organizações, produzindo efeito de evidência (Orlandi).
-D2.3 Heterogeneidade enunciativa e cenografia
+
+Discurso 2.3 Heterogeneidade enunciativa e cenografia
 - Descrição: a organização legitima seu dizer articulando múltiplas vozes dentro do próprio documento (discurso relatado, polifonia) e/ou construindo uma cena de enunciação (cenografia) coerente com o gênero do documento — normativa nos manuais/códigos, institucional-promocional nas seções "Quem Somos" e campanhas.
 - Fundamentação: Maingueneau — cenografia como cena de fala que o próprio texto instaura e pela qual se legitima; discurso relatado e polifonia como distribuição da responsabilidade enunciativa entre várias vozes.
 - Indicadores analíticos: presença de discurso citado/relatado dentro do documento; contraste de tom entre gêneros documentais ao tratar do mesmo valor (normativo × promocional); marcas de cena performática (convocação do público, linguagem de campanha).
 - Critérios de exclusão: citações sem articulação polifônica clara (mera transcrição sem efeito de distribuição de vozes); documentos sem contraste identificável de cenografia.
 - Exemplo: o vídeo promocional "Nós amamos a verdade" (cenografia lúdico-celebratória), em contraste direto com o tom normativo do Código de Conduta e Ética.
-- Síntese IA [D2.3]: Legitimação por articulação de múltiplas vozes (polifonia) e/ou por cenografia adequada ao gênero do documento.
+
 
 Discurso 3 — MEDIAÇÃO DISCURSIVA: RELAÇÃO COM JORNALISTAS E PÚBLICO
-Ajuste desta rodada: a categoria, antes voltada apenas à relação com o público, passa a incluir também a relação com os jornalistas — parte considerável dos documentos oficiais (manuais de redação, códigos de conduta) contém orientações diretas para a atuação dos profissionais em nome da verdade. Ambas as subcategorias investigam como a organização constrói vínculo, proximidade ou distância com seu(s) interlocutor(es) ao enunciar a verdade.
-Subcategorias:
-D3.1 Relação com o público
+Investiga como a organização constrói vínculo, proximidade ou distância com seu(s) interlocutor(es) ao enunciar a verdade.
+
+Discurso 3.1 Relação com o público
 - Descrição: trechos em que a organização constrói vínculo, proximidade ou distância com seu leitor/audiência ao enunciar a verdade — o equivalente institucional dos "papéis do leitor", reconhecível em documentos que se dirigem explicitamente ao público (cartas, seções "Quem Somos", campanhas).
 - Indicadores analíticos: interpelação direta ao leitor/público; construções que convidam à verificação ou à participação ("permitindo a este verificar se as práticas são condizentes"); ações performativas de engajamento (campanhas, vídeos participativos); tom didático voltado a explicar o funcionamento da organização.
-- Critérios de exclusão: trechos voltados exclusivamente aos próprios profissionais da organização → D3.2; explicações técnicas de método sem interpelação ao público → Categoria 2 (Conteúdo).
+- Critérios de exclusão: trechos voltados exclusivamente aos próprios profissionais da organização -> Discurso 3.2 Relação com os jornalistas.
 - Exemplo: a carta aos acionistas do Grupo Globo, que explicita a razão de publicar os princípios editoriais para que o público possa "verificar se as práticas são condizentes com as crenças"; o experimento social "Nós amamos a verdade" (Agência Lupa).
-- Síntese IA [D3.1]: Organização constrói vínculo com o público, convocando-o a verificar ou participar da defesa da verdade.
 
-D3.2 Relação com os jornalistas
+Discurso 3.2 Relação com os jornalistas
 - Descrição: trechos em que a organização se dirige diretamente aos seus próprios profissionais, prescrevendo condutas em nome da verdade — regras de apuração, cautelas com hipóteses de trabalho, orientações sobre redes sociais e fontes. Aqui a verdade funciona como fundamento de uma injunção normativa interna, não como promessa pública.
 - Indicadores analíticos: imperativos e verbos de recomendação dirigidos ao profissional ("evite", "não compartilhe", "deve ter hipóteses... elásticas"); segunda pessoa ou vocativo profissional implícito (jornalista, repórter, colunista); vinculação de erro/imprecisão a dano à organização.
-- Critérios de exclusão: trechos voltados ao público externo → D3.1; descrição de método sem prescrição de conduta pessoal do profissional → Categoria 2 (Conteúdo).
+- Critérios de exclusão: trechos voltados ao público externo -> Discurso 3.1 Relação com o público.
 - Exemplo: Folha de S. Paulo — "não compartilhe boatos e rumores como se fossem fatos"; o mesmo manual recomendando hipóteses de trabalho "elásticas" para não incorrer em "inverdade"; Estadão — orientação para evitar impor "uma verdade... passível de discussões".
-- Síntese IA [D3.2]: Organização prescreve condutas aos próprios jornalistas em nome da verdade, como injunção normativa interna.
+
+Aguarde a próxima mensagem que vou enviar. Por enquanto sinalize com um "ok"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ótimo. Agora quero que você revisa sua última resposta verificando e/ou corrigindo os seguintes pontos:
+- Os nomes das categorias e subcategorias deve ser escrito exatamente como está escrito na descrição das categorias.
+- As justificativas devem estar em portugês.
+- Caso algum outro campo não seja aplicável, preencha-o com null.
+- As justificativas devem estar em portugês.
+- A resposta deve estar exatamente no formato abaixo:
+
+{
+  id: mesmo id passado anteriormente,
+  posicionamento-institucional: caso seja categorizado em "Discurso 1 — POSICIONAMENTO INSTITUCIONAL", esse campo deve receber umas das subcategorias, de "Discurso 1.1 Árbitro da verdade — recusado" à "Discurso 1.5 Promotora da verdade". Caso nenhuma seja aplicada, preencha o campo com null,
+  posicionamento-institucional-justificativa: explicação de por que você categorizou na categoria. null se não aplicável,
+  estrategias-de-legitimacao: caso seja categorizado em "Discurso 2 — ESTRATÉGIAS DE LEGITIMAÇÃO DISCURSIVA", esse campo deve ser um array contendo pelo menos uma das subcatgorias, de "Discurso 2.1 Ethos e fiador externo" à "Discurso 2.3 Heterogeneidade enunciativa e cenografia",
+  estrategias-de-legitimacao-justificativa: explicação de por que você categorizou na categoria. null se não aplicável,
+  relacao-discursiva: caso seja categorizado em "Discurso 3 — MEDIAÇÃO DISCURSIVA: RELAÇÃO COM JORNALISTAS E PÚBLICO", esse campo deve receber uma das subcategorias: "Discurso 3.1 Relação com o público" ou "Discurso 3.2 Relação com os jornalistas",
+  relacao-discursiva-justificativa: explicação de por que você categorizou na categoria. null se não aplicável,
+}

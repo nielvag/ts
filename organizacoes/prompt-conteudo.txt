@@ -1,25 +1,27 @@
-quero que você leia o texto ou pdf que vou te enviar na próxima mensagem, procure todas as ocorrências das palavras-chave: verdade, verdadeiro(a) e veracidade, depois analise o contexto onde elas aparecem e classifique cada uma em uma das 3 categorias e subcategorias abaixo.
+Quero que você leia o texto ou pdf que vou te enviar na próxima mensagem, procure todas as ocorrências das palavras-chave: verdade, verdadeiro(a) e veracidade, depois analise o contexto onde elas aparecem e classifique cada uma em uma das 3 categorias e subcategorias abaixo.
 cada palavra encontrada no texto deve ser associada a somente uma das categorias e/ou subcategorias.
 
+Os textos são editoriais de grandes jornais brasileiros e constituem Manuais de redação, Códigos de conduta ética, princípios editoriais, termos de uso, dentre outros textos.
 
-gere uma saída json nesse formato e utilizando bloco de código:
+Na próxima resposta, após eu te enviar o texto  a ser analisado, você deve gerar uma saída json nesse formato e utilizando bloco de código:
 
 [{
-palavra: palavra-chave encontrada - verdade, verdadeiro(a), veracidade ou null caso não haja nenhuma dessas palavras-chave,
-categoria: nome da categoria que foi classificada. null se não tiver nenhuma palavra-chave,
-justificativa: por que você categorizou nessa categoria,
-subcategoria: nome da subcategoria,
-subcategoria_justificativa: por que você categorizou nessa subcategoria,
-valor: {
-  nome: esse campo só deve ser preenchido caso você categorize na categoria 1 e subcategoria 1.3 (Verdade, valores profissionais e fronteiras do campo). Nesse caso você deve preencher este campo com um dos seguintes valores jornalísticos: apartidarismo, clareza, credibilidade, equilíbrio, exatidão, imparcialidade, independência, interesse público, isenção, liberdade, neutralidade, objetividade, pluralidade, precisão e rigor. Como pode ser mais de um valor esse campo é um array de strings,
-  relacao: uma das relações descritas em 1.3.1 à 1.3.6,
-  valor_justificativa: registre uma frase-síntese objetiva explicando porque você categorizou neste valor — por exemplo, “no corpus, a relação predominante entre verdade e credibilidade é de causalidade (a verdade sustenta a credibilidade)”,
-}
+  id: "",
+  palavra: palavra-chave encontrada - verdade, verdadeiro(a), veracidade ou null caso não haja nenhuma dessas palavras-chave,
+  categoria: nome da categoria que foi classificada. null se não tiver nenhuma palavra-chave,
+  justificativa: por que você categorizou nessa categoria. null se não aplicável,
+  subcategoria: nome da subcategoria. null se não aplicável,
+  subcategoria_justificativa: por que você categorizou nessa subcategoria, null se não aplicável,
+  valores: esse campo só deve ser preenchido caso você categorize na categoria 1 e subcategoria 1.3 Verdade, valores profissionais e fronteiras do campo. Caso o texto não possua nenhuma das palavras-chave, você também deve preencher esse campo. Nesse caso você deve preencher este campo usando os seguintes valores jornalísticos: apartidarismo, clareza, credibilidade, equilíbrio, exatidão, imparcialidade, independência, interesse público, isenção, liberdade, neutralidade, objetividade, pluralidade, precisão e rigor. Como pode ser mais de um valor, esse campo é um array de strings,
+  valores_justificativa: registre uma frase-síntese objetiva explicando porque você categorizou neste valor — por exemplo, “no corpus, a relação predominante entre verdade e credibilidade é de causalidade (a verdade sustenta a credibilidade)”,
 }]
 
 Caso o campo "valor" não seja aplicável você deve preenche-lo com o valor null.
 
-Sua resposta deve conter somente o objeto json em um bloco de código (markdown) e nada mais. Ao gerar o markdown coloque o nome completo das categorias, subcategorias, valor e relação exatamente como está escrito na descrição das categorias.
+Lembre-se que os campos categoria, justificativa, subcategoria e subcategoria_justificativa só serão preenchidos se o texto tiver alguma palavra-chave, nesse caso a classificação deve ser feita no contexto de cada palavra-chave. Caso não houver palavra-chave os únicos campos a serem preenchidos são valores e  valores_justificativa.
+
+
+Sua resposta deve conter somente o objeto json em um bloco de código (markdown) e nada mais. Ao gerar o markdown coloque o nome completo das categorias, subcategorias e valor exatamente como está escrito na descrição das categorias.
 
 cuidado para não considerar as palavras "verdadeiro(a)" como "verdade", já que ela contém parte da palavra "verdade".
 
@@ -61,8 +63,44 @@ Ideia central: reúne trechos em que a verdade é tratada como resultado de um m
 
 CATEGORIA 3 — AUSÊNCIA E NEGAÇÃO DA VERDADE
 Ideia central: documentos ou trechos nos quais a verdade é negada, questionada ou simplesmente ausente — tratada como achado central do estrato Organizações, não como resultado nulo. Ao codificar, registrar também se a ausência é sistemática por tipo de organização ou pontual, e o que ocupa esse espaço semântico em seu lugar.
-- Subcategorias: (a) não menção; (b) menção negativa ou de dúvida.
+- Subcategorias: 3.1 não menção; 3.1 menção negativa ou de dúvida.
 - Indicadores analíticos: ausência lexical de "verdade/verdadeiro/verdadeira/veracidade" cotejada com a presença de outros valores no mesmo documento; negação explícita ("não é verdade", "inverídica").
 - Critérios de exclusão: trechos em que a verdade aparece, ainda que timidamente -> Categoria 1 ou 2.
 - Exemplo: os documentos do Nexo, The Intercept Brasil e Agência Pública, nos quais a verdade não aparece nenhuma vez; a expressão "inverídica" na Folha de S. Paulo.
 <categorias-fim>
+
+Aguarde a próxima mensagem que vou enviar. Por enquanto sinalize com um "ok"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ótimo. Agora quero que você revisa sua última resposta verificando e corrigindo os seguintes pontos:
+- Os nomes das categorias, subcategorias e o campo valor deve ser escrito exatamente como está escrito na descrição das categorias.
+- Caso o campo valor não seja aplicável, preencha ele com null. Por exemplo, "valor: null". Jamais colocar "valor: {}" ou algo semelhante.
+- Caso algum outro campo não seja aplicável, preencha-o com null.
+- As justificativas devem estar em portugês.
+- Lembre-se que os campos categoria, justificativa, subcategoria e subcategoria_justificativa só serão preenchidos se o texto tiver alguma palavra-chave.
+- A resposta deve estar exatamente no formato abaixo:
+[{
+  id: mesmo id passado anteriormente,
+  palavra: palavra-chave encontrada - verdade, verdadeiro(a), veracidade ou null caso não haja nenhuma dessas palavras-chave,
+  categoria: nome da categoria que foi classificada. null se não tiver nenhuma palavra-chave,
+  justificativa: por que você categorizou nessa categoria. null se não aplicável,
+  subcategoria: nome da subcategoria. null se não aplicável,
+  subcategoria_justificativa: por que você categorizou nessa subcategoria, null se não aplicável,
+  valores: esse campo só deve ser preenchido caso você categorize na categoria 1 e subcategoria 1.3 Verdade, valores profissionais e fronteiras do campo. Caso o texto não possua nenhuma das palavras-chave, você também deve preencher esse campo. Nesse caso você deve preencher este campo usando os seguintes valores jornalísticos: apartidarismo, clareza, credibilidade, equilíbrio, exatidão, imparcialidade, independência, interesse público, isenção, liberdade, neutralidade, objetividade, pluralidade, precisão e rigor. Como pode ser mais de um valor, esse campo é um array de strings,
+  valores_justificativa: registre uma frase-síntese objetiva explicando porque você categorizou neste valor — por exemplo, “no corpus, a relação predominante entre verdade e credibilidade é de causalidade (a verdade sustenta a credibilidade)”,
+}]
