@@ -443,15 +443,15 @@
   {
     "id": "nj-4",
     "palavra": null,
-    "categoria": "CATEGORIA 3 — AUSÊNCIA E NEGAÇÃO DA VERDADE",
-    "justificativa": "O documento avaliado não contém nenhuma ocorrência das palavras-chave verdade, verdadeiro ou veracidade[cite: 1].",
-    "subcategoria": "3.1 não menção",
-    "subcategoria_justificativa": "O texto caracteriza-se pela ausência completa de menção às palavras-chave investigadas, abordando exclusivamente normas de proteção de dados e privacidade[cite: 1].",
+    "categoria": null,
+    "justificativa": null,
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
     "valores": [
       "clareza",
       "equilíbrio"
     ],
-    "valores_justificativa": "No corpus, o relatório estabelece a clareza e o equilíbrio como princípios editoriais da organização[cite: 1]."
+    "valores_justificativa": null
   },
   {
     "id": "tib-1",
@@ -534,10 +534,10 @@
   {
     "id": "ap-1",
     "palavra": null,
-    "categoria": "CATEGORIA 3 — AUSÊNCIA E NEGAÇÃO DA VERDADE",
-    "justificativa": "O texto analisado não contém nenhuma das palavras-chave solicitadas: verdade, verdadeiro(a) ou veracidade.",
-    "subcategoria": "3.1 não menção",
-    "subcategoria_justificativa": "Não há ocorrência dos termos no conteúdo do documento fornecido.",
+    "categoria": null,
+    "justificativa": null,
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
     "valores": [
       "apartidarismo",
       "clareza",
