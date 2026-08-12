@@ -638,15 +638,23 @@
   },
   {
     "id": "al-1",
-    "palavra": null,
-    "categoria": null,
-    "justificativa": null,
+    "palavra": "veracidade",
+    "categoria": "CATEGORIA 2 — VERDADE E PROCEDIMENTO: APURAÇÃO, TECNOLOGIA E COMBATE À DESINFORMAÇÃO",
+    "justificativa": "A palavra 'veracidade' é utilizada no texto para explicar o funcionamento do sistema de etiquetas da agência. Ela é tratada como um grau a ser medido de forma objetiva por meio de um método (metodologia de classificação), inserindo-se na descrição de um procedimento de checagem de fatos.",
     "subcategoria": null,
     "subcategoria_justificativa": null,
-    "valores": [
-      "apartidarismo"
-    ],
-    "valores_justificativa": "O texto não apresenta as palavras-chave buscadas. O espaço semântico da 'verdade' é ocupado pela ênfase no método (checagem, verificação, expor o que é falso), e a legitimação dessa prática se sustenta no valor do apartidarismo, citado expressamente como garantia da atuação da agência."
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "al-1",
+    "palavra": "veracidade",
+    "categoria": "CATEGORIA 2 — VERDADE E PROCEDIMENTO: APURAÇÃO, TECNOLOGIA E COMBATE À DESINFORMAÇÃO",
+    "justificativa": "O termo 'veracidade' aparece no contexto da política de correção e contestação da agência, associado ao processo rotineiro de 'avaliação' de informações ditas por terceiros, reconhecendo que esse procedimento metodológico está sujeito a erros e eventuais correções.",
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": null,
+    "valores_justificativa": null
   },
     {
     "id": "al-2",
@@ -889,6 +897,86 @@
     "valores_justificativa": "no texto, a defesa da democracia e de um trabalho independente e plural reflete diretamente os valores de interesse público"
   },
   {
+    "id": "af-4",
+    "palavra": "verdade",
+    "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO INSTITUCIONAL, NORMATIVO E EPISTÊMICO",
+    "justificativa": "O termo é utilizado na frase de abertura para definir a autoimagem e a razão de existir da organização jornalística.",
+    "subcategoria": "1.1 Verdade como missão institucional",
+    "subcategoria_justificativa": "O trecho 'Aos Fatos dedica-se a promover a verdade' adota linguagem explícita de missão e compromisso fundador, apresentando a verdade como um dever constitutivo do grupo.",
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "af-4",
+    "palavra": "verdade",
+    "categoria": "CATEGORIA 2 — VERDADE E PROCEDIMENTO: APURAÇÃO, TECNOLOGIA E COMBATE À DESINFORMAÇÃO",
+    "justificativa": "A palavra aparece no título do projeto 'Ora da Verdade', uma série de vídeos que venceu o Prêmio EBC de Combate à Desinformação, o que enquadra o termo como ferramenta metodológica contra boatos.",
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "af-4",
+    "palavra": "verdade",
+    "categoria": "CATEGORIA 2 — VERDADE E PROCEDIMENTO: APURAÇÃO, TECNOLOGIA E COMBATE À DESINFORMAÇÃO",
+    "justificativa": "A palavra nomeia novamente o produto jornalístico 'Ora da Verdade', inserido no contexto da distribuição de checagens nas redes sociais para desmentir desinformação.",
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "af-5",
+    "palavra": "veracidade",
+    "categoria": "CATEGORIA 2 — VERDADE E PROCEDIMENTO: APURAÇÃO, TECNOLOGIA E COMBATE À DESINFORMAÇÃO",
+    "justificativa": "O termo é tratado como o objeto direto de avaliação prática do método de apuração jornalística, onde repórteres e editores avaliam declarações no contexto do combate à desinformação.",
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "af-5",
+    "palavra": "veracidade",
+    "categoria": "CATEGORIA 2 — VERDADE E PROCEDIMENTO: APURAÇÃO, TECNOLOGIA E COMBATE À DESINFORMAÇÃO",
+    "justificativa": "A palavra está associada à finalidade técnica do procedimento de checagem, que atua para certificar a audiência quanto à autenticidade de conteúdos nas redes e combater a desinformação digital.",
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "af-5",
+    "palavra": "verdadeiro",
+    "categoria": "CATEGORIA 2 — VERDADE E PROCEDIMENTO: APURAÇÃO, TECNOLOGIA E COMBATE À DESINFORMAÇÃO",
+    "justificativa": "A palavra aparece explicitamente como uma etiqueta de classificação (selo), configurando-se como resultado final metodológico do processo de checagem de fatos da organização.",
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "af-5",
+    "palavra": "veracidade",
+    "categoria": "CATEGORIA 2 — VERDADE E PROCEDIMENTO: APURAÇÃO, TECNOLOGIA E COMBATE À DESINFORMAÇÃO",
+    "justificativa": "O termo é utilizado como critério objetivo de verificação em uma etapa de escolha de pauta, atrelado à busca por fontes primárias confiáveis que atestem um fato no escopo do combate à desinformação.",
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
+    "id": "af-5",
+    "palavra": "verdadeiro",
+    "categoria": "CATEGORIA 2 — VERDADE E PROCEDIMENTO: APURAÇÃO, TECNOLOGIA E COMBATE À DESINFORMAÇÃO",
+    "justificativa": "A palavra é citada como um selo (etiqueta de classificação) adotado metodologicamente para classificar o conteúdo a partir do processo jornalístico de apuração.",
+    "subcategoria": null,
+    "subcategoria_justificativa": null,
+    "valores": null,
+    "valores_justificativa": null
+  },
+  {
     "id": "ev-1",
     "palavra": "verdadeiras",
     "categoria": "CATEGORIA 2 — VERDADE E PROCEDIMENTO: APURAÇÃO, TECNOLOGIA E COMBATE À DESINFORMAÇÃO",
@@ -930,42 +1018,6 @@
   },
   {
     "id": "ev-2",
-    "palavra": "verdade",
-    "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO INSTITUCIONAL, NORMATIVO E EPISTÊMICO",
-    "justificativa": "A palavra aparece na missão editorial do grupo, estabelecendo a verdade como um compromisso fundamental e dever constitutivo da organização.",
-    "subcategoria": "1.1 Verdade como missão institucional",
-    "subcategoria_justificativa": "O trecho emprega linguagem de compromisso institucional por meio da expressão 'permanente busca da verdade'.",
-    "valores": null,
-    "valores_justificativa": null
-  },
-  {
-    "id": "ev-2",
-    "palavra": "verdadeiro(a)",
-    "categoria": "CATEGORIA 1 — VERDADE COMO FUNDAMENTO INSTITUCIONAL, NORMATIVO E EPISTÊMICO",
-    "justificativa": "A palavra é utilizada na norma de conformidade para exigir que os registros oficiais e contábeis sejam precisos, completos e corretos.",
-    "subcategoria": "1.3 Verdade, valores profissionais e fronteiras do campo",
-    "subcategoria_justificativa": "O termo integra diretrizes normativas e profissionais de exatidão e conformidade documental da empresa.",
-    "valores": [
-      "exatidão",
-      "precisão",
-      "rigor"
-    ],
-    "valores_justificativa": "no corpus, a relação entre registros verdadeiros e os valores profissionais é de exigência normativa de exatidão, precisão e rigor nos documentos oficiais."
-  },
-  {
-    "id": "ev-3",
-    "palavra": null,
-    "categoria": null,
-    "justificativa": null,
-    "subcategoria": null,
-    "subcategoria_justificativa": null,
-    "valores": [
-      "liberdade"
-    ],
-    "valores_justificativa": "No corpus, o texto faz menção explícita à liberdade de expressão e de imprensa no contexto da atividade jornalística do Grupo Estado."
-  },
-  {
-    "id": "ev-4",
     "palavra": null,
     "categoria": null,
     "justificativa": null,

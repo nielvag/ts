@@ -278,15 +278,14 @@
 },
 {
   "id": "al-1",
-  "posicionamento-institucional": "Discurso 1.5 Promotora da verdade",
-  "posicionamento-institucional-justificativa": "O texto pertence a uma seção institucional ('Sobre a Lupa') e adota um tom ativo, celebratório e de compromisso social, apresentando a organização como um polo que 'protege você no ambiente digital' e se dedica a 'qualificar o debate público' e combater a desinformação.",
+  "posicionamento-institucional": null,
+  "posicionamento-institucional-justificativa": null,
   "estrategias-de-legitimacao": [
-    "Discurso 2.1 Ethos e fiador externo",
     "Discurso 2.3 Heterogeneidade enunciativa e cenografia"
   ],
-  "estrategias-de-legitimacao-justificativa": "A organização constrói sua autoridade legitimadora respaldando-se em fiadores externos consolidados (como a auditoria da IFCN, além de LatamChequea, Ajor e Projor). Paralelamente, estabelece uma cenografia institucional-promocional marcada por marcas performáticas de convocação do público ('protege você', 'Quer ser parceiro da Lupa? Fale com a gente!').",
+  "estrategias-de-legitimacao-justificativa": "O texto adota uma cenografia institucional-promocional típica de apresentação de obra, legitimando a autoridade e a qualidade do manual por meio da menção ao seu sucesso de vendas e à trajetória profissional do autor na redação.",
   "relacao-discursiva": "Discurso 3.1 Relação com o público",
-  "relacao-discursiva-justificativa": "O documento é construído com foco ostensivo na audiência, interpelando o leitor diretamente em segunda pessoa ('você') e demonstrando didaticamente a transparência da organização no uso de IA, financiamento e princípios institucionais para garantir a confiança do público."
+  "relacao-discursiva-justificativa": "O trecho dirige-se explicitamente ao grande público e aos leitores, estabelecendo uma relação de proximidade ao apresentar o manual como um guia útil não apenas para jornalistas, mas para qualquer pessoa que escreva."
 },
 {
   "id": "al-2",
@@ -430,6 +429,28 @@
   "relacao-discursiva-justificativa": "O trecho dirige-se explicitamente à audiência e aos leitores ('Apoie o Aos Fatos', 'Torne-se membro do Aos Fatos Mais'), estabelecendo um vínculo direto de proximidade e apelo participativo com o público externo."
 },
 {
+  "id": "af-4",
+  "posicionamento-institucional": "Discurso 1.5 Promotora da verdade",
+  "posicionamento-institucional-justificativa": "O texto se enquadra nesta categoria porque a organização assume uma posição ativa e propagandística, enunciando em um tom celebratório (lista de prêmios, recordes de audiência e marcos históricos). O documento utiliza explicitamente o vocabulário de promoção, como visto no trecho 'Aos Fatos dedica-se a promover a verdade e a combater a desinformação', característico de textos institucionais-promocionais.",
+  "estrategias-de-legitimacao": [
+    "Discurso 2.1 Ethos e fiador externo"
+  ],
+  "estrategias-de-legitimacao-justificativa": "A organização constrói sua legitimidade e autoridade recorrendo repetidamente a instâncias externas que atestam sua credibilidade. Isso é evidenciado pelas menções à adesão e certificação pela IFCN (International Fact-Checking Network), à parceria com o TSE e institutos de pesquisa, bem como pela extensa lista de prêmios internacionais (Rey de España, Gabriel García Márquez) que funcionam como fiadores do seu rigor e excelência na busca pela verdade.",
+  "relacao-discursiva": "Discurso 3.1 Relação com o público",
+  "relacao-discursiva-justificativa": "Trata-se de um texto institucional voltado para o exterior (semelhante a uma seção 'Quem Somos' ou relatório de impacto), que busca construir vínculo, proximidade e transparência com a audiência. Isso se materializa na prestação de contas através de métricas de impacto, na menção direta a campanhas de financiamento coletivo sustentadas por 'apoiadores'/'benfeitores', na citação do 'selo de compromisso com o público' e na divulgação de ferramentas de engajamento direto com os usuários, como o chatbot Fátima."
+},
+{
+  "id": "af-5",
+  "posicionamento-institucional": "Discurso 1.2 Árbitro da verdade — assumido",
+  "posicionamento-institucional-justificativa": "A organização assume a função de julgar e decidir a veracidade das informações a partir de uma metodologia técnica de verificação. Esse posicionamento é evidenciado pela utilização explícita de um sistema de etiquetagem institucional com os selos 'FALSO', 'NÃO É BEM ASSIM' e 'VERDADEIRO', atuando como uma instância que avalia e emite vereditos sobre o discurso público, prática típica do fact-checking.",
+  "estrategias-de-legitimacao": [
+    "Discurso 2.1 Ethos e fiador externo"
+  ],
+  "estrategias-de-legitimacao-justificativa": "A organização constrói e garante sua autoridade enunciativa ancorando-se em um fiador externo: a IFCN (International Fact-Checking Network). Ao dedicar uma seção para listar as diretrizes dessa rede e destacar que é auditada e signatária de seu código de conduta internacional desde 2016, a organização transfere a credibilidade, o rigor metodológico e a certificação externa para legitimar seu próprio fazer jornalístico.",
+  "relacao-discursiva": "Discurso 3.2 Relação com os jornalistas",
+  "relacao-discursiva-justificativa": "O documento adota um tom normativo e prescritivo direcionado aos próprios profissionais da redação, estabelecendo regras de conduta, ética e rotina de apuração. Isso é marcado pela recorrente injunção de deveres à equipe (ex.: 'seus jornalistas devem valorizar a objetividade', 'são expressamente orientados', 'Quem trabalha para o Aos Fatos deve defender'), vinculando a produção da verdade ao cumprimento rigoroso dessas normativas internas."
+},
+{
   "id": "ev-1",
   "posicionamento-institucional": "Discurso 1.2 Árbitro da verdade — assumido",
   "posicionamento-institucional-justificativa": "O texto descreve um sistema institucionalizado de classificação e etiquetagem da veracidade de conteúdos (selos como 'Falso', 'Enganoso', 'Fora de contexto', 'Verdadeiro', 'Exagerado', etc.). A organização assume a posição técnica de atestar e julgar os fatos mediante uma metodologia metodicamente estruturada, determinando a atitude punitiva/restritiva de plataformas parceiras a partir de sua conclusão.",
@@ -442,28 +463,6 @@
 },
 {
   "id": "ev-2",
-  "posicionamento-institucional": "Discurso 1.3 Garantidora da verdade",
-  "posicionamento-institucional-justificativa": "A organização ancora seu compromisso com a 'permanente busca da verdade' na história, continuidade e tradição da própria instituição, citando explicitamente os 'princípios fundadores do jornal Província de São Paulo' e a 'declaração inaugural de propósitos de 4 de janeiro de 1875'.",
-  "estrategias-de-legitimacao": [
-    "Discurso 2.1 Ethos e fiador externo"
-  ],
-  "estrategias-de-legitimacao-justificativa": "A organização legitima sua missão editorial e constrói sua autoridade enunciativa invocando um fiador externo, ao afirmar que está 'Comprometido com os valores proclamados na Declaração Universal dos Direitos do Homem'.",
-  "relacao-discursiva": "Discurso 3.2 Relação com os jornalistas",
-  "relacao-discursiva-justificativa": "O texto se dirige de forma normativa e direta aos próprios colaboradores e profissionais da organização, prescrevendo condutas em nome da integridade e reputação da empresa. Utiliza imperativos e termos direcionados ao leitor interno, como 'É de sua responsabilidade ler', 'Cumpra as leis' e 'Em nenhuma hipótese adote'."
-},
-{
-  "id": "ev-3",
-  "posicionamento-institucional": null,
-  "posicionamento-institucional-justificativa": null,
-  "estrategias-de-legitimacao": [
-    "Discurso 2.1 Ethos e fiador externo"
-  ],
-  "estrategias-de-legitimacao-justificativa": "A organização constrói sua autoridade enunciativa invocando fiadores externos, citando o Código Penal, a Lei de Improbidade Administrativa e a Lei Anticorrupção, transferindo a força da legislação estatal para validar suas normas de conduta internas.",
-  "relacao-discursiva": "Discurso 3.2 Relação com os jornalistas",
-  "relacao-discursiva-justificativa": "O documento se dirige diretamente aos profissionais da organização, prescrevendo condutas de forma imperativa e interpelando-os em segunda pessoa ('você não pode fazer', 'Você não deve') para regulamentar o relacionamento interno e com fontes."
-},
-{
-  "id": "ev-4",
   "posicionamento-institucional": null,
   "posicionamento-institucional-justificativa": null,
   "estrategias-de-legitimacao": null,
