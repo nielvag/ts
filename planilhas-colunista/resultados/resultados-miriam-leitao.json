@@ -3620,18 +3620,6 @@
     ]
   },
   {
-    "id": "ml-306",
-    "resposta_json": []
-  },
-  {
-    "id": "ml-1050",
-    "resposta_json": []
-  },
-  {
-    "id": "ml-1268",
-    "resposta_json": []
-  },
-  {
     "id": "ml-1731",
     "resposta_json": [
       {
@@ -3643,9 +3631,5 @@
         "valor": null
       }
     ]
-  },
-  {
-    "id": "ml-2828",
-    "resposta_json": []
   }
 ]
