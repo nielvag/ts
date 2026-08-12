@@ -221,11 +221,13 @@ Antes de classificar o comentário, você deve obrigatoriamente realizar uma an�
 FORMATO DE RESPOSTA (JSON APENAS)
 --------------------------------------------------
 {
-  "analise-conteudo": { "categoria": "", "justificativa": "" },
-  "posicionamento-do-sujeito": { "categoria": "", "justificativa": "" },
-  "estrategias-de-legitimacao": { "categoria": "", "justificativa": "" },
-  "construção-do-outro": { "categoria": "", "justificativa": "" },
-  "regime-de-veridicção": { "categoria": "", "justificativa": "" }
+  "categoria": umas das categorias da ETAPA 1 — ANÁLISE DE CONTEÚDO,
+  "categoria-justificativa": justificativa,
+  "subcategoria":  umas das subcategorias da ETAPA 1 — ANÁLISE DE CONTEÚDO,
+  "subcategoria-justificativa": justificativa,
+  "posicionamento-do-sujeito": caso se encaixe em um dos posicionamentos preecher com objeto no seguinte formato: { "nome": um dos posicionamentos do sujeito, "justificativa": justificativa }. Se não se encaixar em nenhum dos posicionamentos, preencher campo com null,
+  "estrategias-de-legitimacao": array contendo uma ou mais estratégias de legitimação. Se não houver estratégias, preencher campo com null,
+  "regime-de-veridicção": caso se encaixe em um dos regimes, preencher com objeto no seguinte formato: { "nome": um dos regimes de veridicção, "justificativa": justificativa }. Se não se encaixar em nenhum regime, preencher campo com null
 }
 
 <categorias>
@@ -263,6 +265,7 @@ Exemplo: Comentário que questiona a declaração de uma autoridade citando uma 
 
 "Categoria 3 — Deslegitimação, Ironia e Conflito"
 Ideia central: o comentário ataca a credibilidade da instituição jornalística, do fato noticiado ou dos envolvidos, recorrendo a sarcasmo, deboche ou hostilidade explícita.
+
 Subcategorias:
 "3.1 Deslegitimação institucional" — ataque dirigido ao veículo ou à profissão jornalística.
 "3.2 Deslegitimação por deboche" — uso de ironia, memes ou humor para esvaziar o conteúdo sem argumentar.
@@ -279,7 +282,48 @@ ETAPA 2 — ANÁLISE DISCURSIVA
 
 Após classificar, analise o comentário nas seguintes dimensões:
 
+Dimensão 1 — Posicionamento do Sujeito (formação discursiva e interpelação ideológica)
+Ideia central: todo dizer é atravessado por uma formação discursiva que determina o que pode e deve ser dito a partir de um lugar social; o sujeito comentarista se posiciona sempre a partir de uma posição-sujeito que lhe é anterior.
 
+Posicionamentos do sujeito:
+"Sujeito-eco" — reproduz a formação discursiva institucional/midiática sem deslocamento (reforça o discurso jornalístico).
+"Sujeito-cético" — ocupa uma posição de dúvida metódica, sem se filiar a uma formação discursiva antagônica explícita.
+"Sujeito-militante" — fala nitidamente a partir de uma formação discursiva política adversária, e essa filiação organiza toda a leitura do fato.
+
+Descrição: Categoria voltada a identificar de que lugar social e ideológico o sujeito enuncia, e não apenas se ele “concorda ou discorda”. O foco é a filiação discursiva que subjaz ao enunciado.
+Indicadores analíticos: Marcas de pertencimento a um grupo (“nós”, “nosso lado”); vocabulário típico de uma matriz político-ideológica; pressupostos que só fazem sentido dentro de uma formação discursiva específica (interdiscurso).
+Critérios de exclusão: Comentários sem marcas identificáveis de filiação discursiva (posição neutra ou ambígua).
+Exemplo: Comentário que assume, sem justificar, que “a mídia sempre protege o mesmo lado” — pressuposto que só é inteligível dentro de uma formação discursiva de desconfiança já consolidada.
+
+
+Dimensão 5 — Estratégias de Legitimação (ethos discursivo e cenografia — Maingueneau)
+Ideia central: para validar sua fala, o sujeito constrói um ethos (uma imagem de si que sustenta a credibilidade do que diz) e inscreve seu enunciado numa cenografia (a cena de enunciação que ele mobiliza para parecer legítimo — por exemplo, a cena do “cidadão indignado” ou do “investigador amador”).
+
+Estratégias de Legitimação:
+"Ethos de autoridade experiencial" — legitima-se pela vivência pessoal ou testemunho direto.
+"Ethos de racionalidade" — constrói uma cenografia de análise política/técnica para parecer mais informado que o jornalismo.
+"Ethos de indignação moral" — legitima-se pela intensidade afetiva da reação, não pelo conteúdo do argumento.
+
+Descrição: Diferente da Categoria 2 (que mede se há argumentação), esta categoria examina que imagem de si o sujeito constrói para parecer autorizado a falar sobre a verdade — o mecanismo discursivo da legitimação, não o conteúdo do argumento em si.
+Indicadores analíticos: Marcadores de primeira pessoa fundacionais (“eu vi”, “eu sei”); vocabulário técnico/institucional usado por leigos (cenografia de especialista); intensificadores afetivos como marca de autoridade moral.
+Critérios de exclusão: Comentários puramente reativos, sem qualquer construção de uma imagem de si (por exemplo, uma única interjeição ou emoji), não devem ser forçados nesta categoria.
+Exemplo: Comentário que adota vocabulário de análise institucional (“é notório que os órgãos já sabiam”) para construir uma cenografia de conhecimento privilegiado.
+
+
+Dimensão 6 — Regimes de Veridicção (contrato de verdade e modalização — Maingueneau/Orlandi)
+Ideia central: cada enunciado pressupõe um regime de verdade — um conjunto tácito de critérios que tornam algo aceitável como verdadeiro dentro daquela cena discursiva. Não se trata de saber se o enunciado é verdadeiro, mas qual lógica de validação ele mobiliza.
+
+Regimes de Veridicção:
+"Verdade concreta" — validação por empiria/documentação.
+"Verdade sentida" — validação por experiência subjetiva e crença.
+"Verdade oculta" — validação por suspeição e narrativa de encobrimento.
+"Verdade suspensa" — suspensão do juízo por insuficiência de provas (regime cético).
+"Verdade destrutiva" — validação pela negação/aniquilação do outro, sem sustentação própria.
+
+Descrição: Categoria-síntese que articula as três anteriores: revela a lógica de justificação subjacente ao posicionamento do sujeito, à estratégia de legitimação e à construção do outro.
+Indicadores analíticos: Presença ou ausência de marcas de modalização epistêmica (“é possível que”, “certamente”, “todo mundo sabe”); vocabulário de prova vs. vocabulário de crença; estrutura argumentativa vs. estrutura de negação pura.
+Critérios de exclusão: Comentários cuja lógica de validação não é identificável (por exemplo, uma frase isolada sem contexto argumentativo suficiente) devem ser marcados como “regime indeterminado” em vez de forçados a uma das cinco subcategorias.
+Exemplo: Comentário que invalida uma declaração oficial citando uma suposta comprovação não detalhada, mobilizando o regime de “verdade oculta”.
 
 </categorias>
 
