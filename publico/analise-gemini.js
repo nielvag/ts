@@ -15,8 +15,8 @@ const inputSelector = ".ql-editor[contenteditable='true']";
 const sendButtonSelector = '[aria-label="Enviar mensagem"]';
 const codeSelector = "code[data-test-id='code-content']";
 
-const avatarCompletedSelector =
-  '[data-test-lottie-animation-status="completed"]';
+const stopButtonSelector =
+  'button mat-icon[fonticon="stop"], mat-icon[fonticon="stop"]';
 
 // ====== HELPERS ======
 
@@ -115,45 +115,69 @@ async function pasteAndSend(page, inputHandle, text) {
   await clickSend(page);
 }
 
-async function countCompleted(page) {
-  return await page.locator(avatarCompletedSelector).count();
-}
+async function waitGeminiFinish(page, timeoutMs) {
+  await page.waitForTimeout(1500);
 
-async function waitGeminiFinish(page, before, timeoutMs) {
   const start = Date.now();
   while (Date.now() - start < timeoutMs) {
-    const count = await page.locator(avatarCompletedSelector).count();
-    if (count > before) return;
+    const stopCount = await page.locator(stopButtonSelector).count();
+
+    if (stopCount === 0) {
+      await page.waitForTimeout(1000);
+      return;
+    }
+
     await page.waitForTimeout(1000);
   }
-  throw new Error("Timeout esperando Gemini finalizar");
+  throw new Error("Timeout esperando Gemini finalizar (Botão Stop não sumiu)");
 }
 
 async function readLatestAnswerText(page) {
   const codeHandle = await page
     .waitForSelector(codeSelector, { timeout: 15000 })
     .catch(() => null);
+
   if (codeHandle) {
     const blocks = await page.locator(codeSelector).all();
-    return (await blocks[blocks.length - 1].innerText()).trim();
+    let rawText = await blocks[blocks.length - 1].innerText(); // Pega sempre o último bloco gerado
+
+    rawText = rawText
+      .replace(/```json/gi, "")
+      .replace(/```/g, "")
+      .trim();
+    return rawText;
   }
   throw new Error("Não consegui capturar resposta");
 }
 
-async function processItemWithRetry(page, prompt) {
+// 🟢 AQUI: Função modificada para receber e enviar dois prompts
+async function processItemWithRetry(page, prompt1, prompt2) {
   let lastError = null;
   for (let attempt = 1; attempt <= MAX_ATTEMPTS_PER_ITEM; attempt++) {
     try {
-      const completedBefore = await countCompleted(page);
-      const input = await getInput(page);
-      await pasteAndSend(page, input, prompt);
-      await waitGeminiFinish(page, completedBefore, GENERATION_TIMEOUT_MS);
+      // 1. Envia o primeiro prompt
+      let input = await getInput(page);
+      await pasteAndSend(page, input, prompt1);
+      await waitGeminiFinish(page, GENERATION_TIMEOUT_MS);
+
+      // Pausa rápida por segurança antes de enviar o segundo prompt
+      await page.waitForTimeout(1000);
+
+      // 2. Envia o segundo prompt (revisão) na mesma conversa
+      input = await getInput(page); // Pega o input novamente para evitar erro de elemento desanexado do DOM
+      await pasteAndSend(page, input, prompt2);
+      await waitGeminiFinish(page, GENERATION_TIMEOUT_MS);
+
+      // 3. Captura o resultado (vai pegar o último JSON da tela)
       const raw = await readLatestAnswerText(page);
-      let parsed = JSON.parse(raw);
+      const parsed = JSON.parse(raw);
+
       return { raw, parsed };
     } catch (err) {
       lastError = err;
-      console.log(`🔄 Tentativa ${attempt} falhou, recarregando...`);
+      console.log(
+        `🔄 Tentativa ${attempt} falhou, recarregando... (${err.message})`,
+      );
       await page.reload({ waitUntil: "domcontentloaded" });
       await page.waitForTimeout(2000);
     }
@@ -186,10 +210,12 @@ async function processItemWithRetry(page, prompt) {
   );
 
   const baseCategorias = {
-    "analise-conteudo": null,
+    categoria: null,
+    "categoria-justificativa": null,
+    subcategoria: null,
+    "subcategoria-justificativa": null,
     "posicionamento-do-sujeito": null,
     "estrategias-de-legitimacao": null,
-    "construção-do-outro": null,
     "regime-de-veridicção": null,
   };
 
@@ -207,7 +233,7 @@ async function processItemWithRetry(page, prompt) {
     console.log(`\n===== (${i + 1}/${items.length}) Post: ${post} =====`);
 
     const prompt = `
-    leia o comentário abaixo, de um usuário a um post no X (antigo Twitter). Após ler o texto do post e o comentário do usuário ao post você deve classificar o comentário do usuário em uma das categorias listadas abaixo.
+leia o comentário abaixo, de um usuário a um post no X (antigo Twitter). Após ler o texto do post e o comentário do usuário ao post você deve classificar o comentário do usuário em uma das categorias listadas abaixo.
 O post do X está descrito entre os marcadores <post_texto> e </post_texto>. O nome do perfil no X que fez o post esta entre os marcadores <perfil> e </perfil>
 O assunto do post está descrito entre os marcadores <post_subject> e </post_subject>.
 
@@ -218,7 +244,7 @@ a descrição das categorias está entre os marcadores <categorias> e </categori
 Antes de classificar o comentário, você deve obrigatoriamente realizar uma análise interpretativa do contexto. Identifique sobre quem ou sobre o que o comentário está falando.
 
 --------------------------------------------------
-FORMATO DE RESPOSTA (JSON APENAS)
+FORMATO DE RESPOSTA EM BLOCO DE CÓDIGO (JSON APENAS)
 --------------------------------------------------
 {
   "categoria": umas das categorias da ETAPA 1 — ANÁLISE DE CONTEÚDO,
@@ -246,7 +272,7 @@ Subcategorias:
 
 Descrição: Comentários que chancelam a informação, confirmam a apuração ou expressam concordância com o relato, independentemente da motivação subjacente (cívica ou utilitária).
 Indicadores analíticos: Verbos de confirmação (“é verdade”, “confirmado”, “finalmente”); ausência de contestação da fonte; uso do conteúdo noticioso como premissa aceita para o próprio argumento.
-Critérios de exclusão: Comentários que concordam com o fato mas o fazem para atacar um terceiro (nesse caso, migram para “Construção do Outro” na Análise de Discurso, mantendo dupla codificação nas duas grades, já que os planos são independentes); ironias que citam a notícia apenas para debochar (vão para Categoria 3).
+Critérios de exclusão: Comentários com ironias que citam a notícia apenas para debochar (vão para Categoria 3).
 Exemplo: Comentário que reafirma a veracidade de uma reportagem sobre a crise sanitária em Manaus sem contestar dados ou fonte.
 
 
@@ -273,7 +299,7 @@ Subcategorias:
 
 Descrição: Concentra a hostilidade retórica; a legitimidade da posição do usuário decorre da desqualificação do outro, não da apresentação de evidências próprias.
 Indicadores analíticos: Expressões de riso estilizado (“kkkk”), adjetivos pejorativos, ironia lexicalizada (“é verdade esse bilhete”), acusações de viés ideológico ao veículo.
-Critérios de exclusão: Comentários que discordam com fundamentação argumentativa, mesmo que em tom firme (permanecem na Categoria 2); comentários que atacam terceiros, mas validam o veículo (ficam na Categoria 1 quanto ao conteúdo, e são cruzados com “Construção do Outro” na Análise de Discurso).
+Critérios de exclusão: Comentários que discordam com fundamentação argumentativa, mesmo que em tom firme (ver na Categoria 2); comentários que atacam terceiros, mas validam o veículo (ver na Categoria 1).
 Exemplo: Comentário que classifica uma manchete com adjetivo depreciativo sem engajar com o conteúdo factual.
 
 --------------------------------------------------
@@ -292,7 +318,7 @@ Posicionamentos do sujeito:
 
 Descrição: Categoria voltada a identificar de que lugar social e ideológico o sujeito enuncia, e não apenas se ele “concorda ou discorda”. O foco é a filiação discursiva que subjaz ao enunciado.
 Indicadores analíticos: Marcas de pertencimento a um grupo (“nós”, “nosso lado”); vocabulário típico de uma matriz político-ideológica; pressupostos que só fazem sentido dentro de uma formação discursiva específica (interdiscurso).
-Critérios de exclusão: Comentários sem marcas identificáveis de filiação discursiva (posição neutra ou ambígua).
+Critérios de exclusão: Comentários sem marcas identificáveis de filiação discursiva (posição neutra ou ambígua) devem ser preenchido com valor null em vez de força-los a um dos posicionamentos do sujeito.
 Exemplo: Comentário que assume, sem justificar, que “a mídia sempre protege o mesmo lado” — pressuposto que só é inteligível dentro de uma formação discursiva de desconfiança já consolidada.
 
 
@@ -306,7 +332,7 @@ Estratégias de Legitimação:
 
 Descrição: Diferente da Categoria 2 (que mede se há argumentação), esta categoria examina que imagem de si o sujeito constrói para parecer autorizado a falar sobre a verdade — o mecanismo discursivo da legitimação, não o conteúdo do argumento em si.
 Indicadores analíticos: Marcadores de primeira pessoa fundacionais (“eu vi”, “eu sei”); vocabulário técnico/institucional usado por leigos (cenografia de especialista); intensificadores afetivos como marca de autoridade moral.
-Critérios de exclusão: Comentários puramente reativos, sem qualquer construção de uma imagem de si (por exemplo, uma única interjeição ou emoji), não devem ser forçados nesta categoria.
+Critérios de exclusão: Comentários puramente reativos, sem qualquer construção de uma imagem de si (por exemplo, uma única interjeição ou emoji), devem ser preenchido com valor null em vez de forçados em uma estratégia de legitimação.
 Exemplo: Comentário que adota vocabulário de análise institucional (“é notório que os órgãos já sabiam”) para construir uma cenografia de conhecimento privilegiado.
 
 
@@ -322,11 +348,10 @@ Regimes de Veridicção:
 
 Descrição: Categoria-síntese que articula as três anteriores: revela a lógica de justificação subjacente ao posicionamento do sujeito, à estratégia de legitimação e à construção do outro.
 Indicadores analíticos: Presença ou ausência de marcas de modalização epistêmica (“é possível que”, “certamente”, “todo mundo sabe”); vocabulário de prova vs. vocabulário de crença; estrutura argumentativa vs. estrutura de negação pura.
-Critérios de exclusão: Comentários cuja lógica de validação não é identificável (por exemplo, uma frase isolada sem contexto argumentativo suficiente) devem ser marcados como “regime indeterminado” em vez de forçados a uma das cinco subcategorias.
+Critérios de exclusão: Comentários cuja lógica de validação não é identificável (por exemplo, uma frase isolada sem contexto argumentativo suficiente) devem ser preenchido com valor null em vez de forçados a um dos cinco regimes.
 Exemplo: Comentário que invalida uma declaração oficial citando uma suposta comprovação não detalhada, mobilizando o regime de “verdade oculta”.
 
 </categorias>
-
 
 <perfil>${postInfo.author || ""}</perfil>
 <post_texto>${postInfo.text || ""}</post_texto>
@@ -334,12 +359,35 @@ Exemplo: Comentário que invalida uma declaração oficial citando uma suposta c
 <comentario>${text}</comentario>
 `.trim();
 
+    // 🟢 AQUI: Criada a constante prompt2 para o pedido de revisão.
+    // Você pode alterar o texto conforme a sua necessidade.
+    const prompt2 = `
+Ótimo. Agora revise sua resposta anterior olhando para os pontos abaixo:
+- Os nomes das categorias, subcategorias e demais campos devem ser escritos exatamente como estão escritos na descrição das categorias.
+- Caso algum campo não seja aplicável, preencha ele com null.
+- Os textos das justificativas devem estar em português.
+- A resposta deve estar exatamente no formato abaixo:
+{
+  "categoria": umas das categorias da ETAPA 1 — ANÁLISE DE CONTEÚDO,
+  "categoria-justificativa": justificativa,
+  "subcategoria":  umas das subcategorias da ETAPA 1 — ANÁLISE DE CONTEÚDO,
+  "subcategoria-justificativa": justificativa,
+  "posicionamento-do-sujeito": caso se encaixe em um dos posicionamentos preecher com objeto no seguinte formato: { "nome": um dos posicionamentos do sujeito, "justificativa": justificativa }. Se não se encaixar em nenhum dos posicionamentos, preencher campo com null,
+  "estrategias-de-legitimacao": array contendo uma ou mais estratégias de legitimação. Se não houver estratégias, preencher campo com null,
+  "regime-de-veridicção": caso se encaixe em um dos regimes, preencher com objeto no seguinte formato: { "nome": um dos regimes de veridicção, "justificativa": justificativa }. Se não se encaixar em nenhum regime, preencher campo com null
+}
+
+Corrija qualquer inconsistência encontrada. 
+IMPORTANTE: Retorne APENAS o JSON final da revisão, utilizando estritamente o mesmo formato solicitado no prompt anterior, sem nenhum texto adicional fora do bloco de código JSON.
+    `.trim();
+
     try {
-      const { parsed } = await processItemWithRetry(page, prompt);
+      // 🟢 AQUI: Passando prompt e prompt2 para a função
+      const { parsed } = await processItemWithRetry(page, prompt, prompt2);
 
       results.push({
         post,
-        post_texto: postInfo.text || "", // 🟢 AQUI: Texto original do post
+        post_texto: postInfo.text || "",
         assunto: postInfo.subject || "",
         perfil: postInfo.author || "",
         username,
@@ -349,13 +397,13 @@ Exemplo: Comentário que invalida uma declaração oficial citando uma suposta c
         reposts,
         likes,
         usou_palavra_chave,
-        ...(parsed || baseCategorias),
+        ...parsed,
       });
     } catch (err) {
       console.log(`❌ Erro no item ${post}: ${err.message}`);
       results.push({
         post,
-        post_texto: postInfo.text || "", // 🟢 AQUI: Texto original do post também salvo no caso de erro
+        post_texto: postInfo.text || "",
         assunto: postInfo.subject || "",
         perfil: postInfo.author || "",
         username,
@@ -368,6 +416,8 @@ Exemplo: Comentário que invalida uma declaração oficial citando uma suposta c
 
     processedSet.add(uniqueId);
     saveProgress(results);
+
+    // Recarrega a página para limpar o histórico e garantir que o próximo item comece uma nova conversa
     await page.reload({ waitUntil: "domcontentloaded" });
     await getInput(page);
   }
