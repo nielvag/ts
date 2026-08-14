@@ -312,9 +312,9 @@ Dimensão 1 — Posicionamento do Sujeito (formação discursiva e interpelaçã
 Ideia central: todo dizer é atravessado por uma formação discursiva que determina o que pode e deve ser dito a partir de um lugar social; o sujeito comentarista se posiciona sempre a partir de uma posição-sujeito que lhe é anterior.
 
 Posicionamentos do sujeito:
-"Sujeito-eco" — reproduz a formação discursiva institucional/midiática sem deslocamento (reforça o discurso jornalístico).
-"Sujeito-cético" — ocupa uma posição de dúvida metódica, sem se filiar a uma formação discursiva antagônica explícita.
-"Sujeito-militante" — fala nitidamente a partir de uma formação discursiva política adversária, e essa filiação organiza toda a leitura do fato.
+"1.1 Sujeito-eco" — reproduz a formação discursiva institucional/midiática sem deslocamento (reforça o discurso jornalístico).
+"1.2 Sujeito-cético" — ocupa uma posição de dúvida metódica, sem se filiar a uma formação discursiva antagônica explícita.
+"1.3 Sujeito-militante" — fala nitidamente a partir de uma formação discursiva política adversária, e essa filiação organiza toda a leitura do fato.
 
 Descrição: Categoria voltada a identificar de que lugar social e ideológico o sujeito enuncia, e não apenas se ele “concorda ou discorda”. O foco é a filiação discursiva que subjaz ao enunciado.
 Indicadores analíticos: Marcas de pertencimento a um grupo (“nós”, “nosso lado”); vocabulário típico de uma matriz político-ideológica; pressupostos que só fazem sentido dentro de uma formação discursiva específica (interdiscurso).
@@ -326,9 +326,9 @@ Dimensão 2 — Estratégias de Legitimação (ethos discursivo e cenografia —
 Ideia central: para validar sua fala, o sujeito constrói um ethos (uma imagem de si que sustenta a credibilidade do que diz) e inscreve seu enunciado numa cenografia (a cena de enunciação que ele mobiliza para parecer legítimo — por exemplo, a cena do “cidadão indignado” ou do “investigador amador”).
 
 Estratégias de Legitimação:
-"Ethos de autoridade experiencial" — legitima-se pela vivência pessoal ou testemunho direto.
-"Ethos de racionalidade" — constrói uma cenografia de análise política/técnica para parecer mais informado que o jornalismo.
-"Ethos de indignação moral" — legitima-se pela intensidade afetiva da reação, não pelo conteúdo do argumento.
+"2.1 Ethos de autoridade experiencial" — legitima-se pela vivência pessoal ou testemunho direto.
+"2.2 Ethos de racionalidade" — constrói uma cenografia de análise política/técnica para parecer mais informado que o jornalismo.
+"2.3 Ethos de indignação moral" — legitima-se pela intensidade afetiva da reação, não pelo conteúdo do argumento.
 
 Descrição: Diferente da Categoria 2 (que mede se há argumentação), esta categoria examina que imagem de si o sujeito constrói para parecer autorizado a falar sobre a verdade — o mecanismo discursivo da legitimação, não o conteúdo do argumento em si.
 Indicadores analíticos: Marcadores de primeira pessoa fundacionais (“eu vi”, “eu sei”); vocabulário técnico/institucional usado por leigos (cenografia de especialista); intensificadores afetivos como marca de autoridade moral.
@@ -340,11 +340,11 @@ Dimensão 3 — Regimes de Veridicção (contrato de verdade e modalização —
 Ideia central: cada enunciado pressupõe um regime de verdade — um conjunto tácito de critérios que tornam algo aceitável como verdadeiro dentro daquela cena discursiva. Não se trata de saber se o enunciado é verdadeiro, mas qual lógica de validação ele mobiliza.
 
 Regimes de Veridicção:
-"Verdade concreta" — validação por empiria/documentação.
-"Verdade sentida" — validação por experiência subjetiva e crença.
-"Verdade oculta" — validação por suspeição e narrativa de encobrimento.
-"Verdade suspensa" — suspensão do juízo por insuficiência de provas (regime cético).
-"Verdade destrutiva" — validação pela negação/aniquilação do outro, sem sustentação própria.
+"3.1 Verdade concreta" — validação por empiria/documentação.
+"3.2 Verdade sentida" — validação por experiência subjetiva e crença.
+"3.3 Verdade oculta" — validação por suspeição e narrativa de encobrimento.
+"3.4 Verdade suspensa" — suspensão do juízo por insuficiência de provas (regime cético).
+"3.5 Verdade destrutiva" — validação pela negação/aniquilação do outro, sem sustentação própria.
 
 Descrição: Categoria-síntese que articula as três anteriores: revela a lógica de justificação subjacente ao posicionamento do sujeito, à estratégia de legitimação e à construção do outro.
 Indicadores analíticos: Presença ou ausência de marcas de modalização epistêmica (“é possível que”, “certamente”, “todo mundo sabe”); vocabulário de prova vs. vocabulário de crença; estrutura argumentativa vs. estrutura de negação pura.
