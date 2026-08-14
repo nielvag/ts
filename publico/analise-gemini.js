@@ -322,7 +322,7 @@ Critérios de exclusão: Comentários sem marcas identificáveis de filiação d
 Exemplo: Comentário que assume, sem justificar, que “a mídia sempre protege o mesmo lado” — pressuposto que só é inteligível dentro de uma formação discursiva de desconfiança já consolidada.
 
 
-Dimensão 5 — Estratégias de Legitimação (ethos discursivo e cenografia — Maingueneau)
+Dimensão 2 — Estratégias de Legitimação (ethos discursivo e cenografia — Maingueneau)
 Ideia central: para validar sua fala, o sujeito constrói um ethos (uma imagem de si que sustenta a credibilidade do que diz) e inscreve seu enunciado numa cenografia (a cena de enunciação que ele mobiliza para parecer legítimo — por exemplo, a cena do “cidadão indignado” ou do “investigador amador”).
 
 Estratégias de Legitimação:
@@ -336,7 +336,7 @@ Critérios de exclusão: Comentários puramente reativos, sem qualquer construç
 Exemplo: Comentário que adota vocabulário de análise institucional (“é notório que os órgãos já sabiam”) para construir uma cenografia de conhecimento privilegiado.
 
 
-Dimensão 6 — Regimes de Veridicção (contrato de verdade e modalização — Maingueneau/Orlandi)
+Dimensão 3 — Regimes de Veridicção (contrato de verdade e modalização — Maingueneau/Orlandi)
 Ideia central: cada enunciado pressupõe um regime de verdade — um conjunto tácito de critérios que tornam algo aceitável como verdadeiro dentro daquela cena discursiva. Não se trata de saber se o enunciado é verdadeiro, mas qual lógica de validação ele mobiliza.
 
 Regimes de Veridicção:
